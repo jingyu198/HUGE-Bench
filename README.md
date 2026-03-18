@@ -68,4 +68,3 @@ This project is licensed under the MIT License.
 
 * Inspiration / references
 * Libraries or tools used
-<img width="573" height="116" alt="image" src="https://github.com/user-attachments/assets/2ab795a8-ff56-4b1f-abd9-7c51b8e4d17d" />
