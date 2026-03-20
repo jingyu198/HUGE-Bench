@@ -8,10 +8,20 @@ from argparse import ArgumentParser
 
 from arguments import PipelineParams
 from my_render_traj import (
-    parse_intrinsics_from_txt,
     opk_to_R_world2cam,
     render_single_view_from_cam_info,
 )
+
+
+# Fixed intrinsics taken from the public traj_random.txt header.
+DEFAULT_INTRINSICS = {
+    "width": 5280,
+    "height": 3956,
+    "fx": 3480.185791,
+    "fy": 3600.918701,
+    "cx": 2690.748469,
+    "cy": 1960.206342,
+}
 
 
 def is_obstacle_task(task_id: str) -> bool:
@@ -82,7 +92,6 @@ def serve(
     host,
     port,
     ply_template: str,
-    intrinsics_template: str,
     default_task_id: str,
     omega,
     phi,
@@ -92,16 +101,7 @@ def serve(
     obstacle_fixed_omega,
     obstacle_fixed_kappa,
 ):
-    intr_cache = {}  # intrinsics_txt -> scaled_intrinsics
-
-    def get_scaled_intrinsics(intrinsics_txt: str):
-        if intrinsics_txt not in intr_cache:
-            intr = parse_intrinsics_from_txt(intrinsics_txt)
-            intr_cache[intrinsics_txt] = scale_intrinsics(intr, internal_scale)
-            W = intr_cache[intrinsics_txt]["width"]
-            H = intr_cache[intrinsics_txt]["height"]
-            print(f"[RENDER SERVER] load intrinsics: {intrinsics_txt} -> W={W} H={H}")
-        return intr_cache[intrinsics_txt]
+    intrinsics = scale_intrinsics(DEFAULT_INTRINSICS, internal_scale)
 
     srv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     srv.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
@@ -110,8 +110,13 @@ def serve(
 
     print(f"[RENDER SERVER] listen {host}:{port}")
     print(f"[RENDER SERVER] ply_template         = {ply_template}")
-    print(f"[RENDER SERVER] intrinsics_template  = {intrinsics_template}")
     print(f"[RENDER SERVER] internal_scale       = {internal_scale}")
+    print(
+        "[RENDER SERVER] intrinsics           = "
+        f"W={intrinsics['width']} H={intrinsics['height']} "
+        f"fx={intrinsics['fx']:.3f} fy={intrinsics['fy']:.3f} "
+        f"cx={intrinsics['cx']:.3f} cy={intrinsics['cy']:.3f}"
+    )
     print(f"[RENDER SERVER] normal omega/phi     = ({omega}, {phi})")
     print(f"[RENDER SERVER] obstacle omega/kappa = ({obstacle_fixed_omega}, {obstacle_fixed_kappa})")
 
@@ -148,16 +153,12 @@ def serve(
                 raise ValueError("Missing env_id in request (client must send env_id).")
 
             ply_path = ply_template.format(env_id=env_id, task_id=task_id)
-            intrinsics_txt = intrinsics_template.format(env_id=env_id, task_id=task_id)
 
             if not os.path.exists(ply_path):
                 raise FileNotFoundError(f"ply not found: {ply_path}")
-            if not os.path.exists(intrinsics_txt):
-                raise FileNotFoundError(f"intrinsics not found: {intrinsics_txt}")
 
             os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
 
-            intrinsics = get_scaled_intrinsics(intrinsics_txt)
             cam_info = cam_info_from_state(
                 intrinsics=intrinsics,
                 state_xyz_a_rad=state,
@@ -204,11 +205,6 @@ def main():
         type=str,
         default="/mnt/jingyu/ECCV_data/data_3d/{env_id}/3dgs_ply/point_cloud_utm50.ply",
     )
-    parser.add_argument(
-        "--intrinsics_template",
-        type=str,
-        default="/mnt/jingyu/ECCV_data/data_traj/task_{task_id}/{env_id}/traj_random.txt",
-    )
     parser.add_argument("--default_task_id", type=str, default="obstacle")
 
     # 普通任务使用：state[3] = kappa(rad)
@@ -232,7 +228,6 @@ def main():
         host=args.host,
         port=args.port,
         ply_template=args.ply_template,
-        intrinsics_template=args.intrinsics_template,
         default_task_id=args.default_task_id,
         omega=args.omega,
         phi=args.phi,
