@@ -5,8 +5,6 @@
 ![Project Page](https://img.shields.io/badge/Project-Page-2d7ff9?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)
 
-Official repository for the HUGE-Bench benchmark and the `HUGE_PI` dataset.
-
 </div>
 
 <p align="center">
@@ -15,28 +13,7 @@ Official repository for the HUGE-Bench benchmark and the `HUGE_PI` dataset.
 
 ## Overview
 
-Existing UAV vision-language navigation benchmarks mainly emphasize long, step-wise route descriptions and goal-centric evaluation. HUGE-Bench instead targets high-level UAV vision-language-action tasks, where agents must ground brief, potentially ambiguous commands into safe, multi-stage behaviors.
-
-HUGE-Bench contains 4 real-world digital twin scenes, 8 high-level tasks, and 2.56M meters of trajectories. It is built on an aligned 3DGS-Mesh representation that combines photorealistic rendering with collision-capable geometry, enabling scalable data generation and collision-aware evaluation.
-
-We further introduce process-oriented and collision-aware metrics to measure process fidelity, terminal accuracy, and safety. Experiments with representative state-of-the-art VLA models reveal clear gaps in high-level semantic completion and safe execution, making HUGE-Bench a useful diagnostic benchmark for high-level UAV autonomy.
-
-## Contributions
-
-- We introduce an HL-VLA benchmark setting where UAVs must interpret short commands and execute multi-stage semantic behaviors.
-- We build a real-to-sim benchmark from real-world scenes with an aligned 3DGS-Mesh digital twin for scalable generation and realistic safety-aware evaluation.
-- We propose process-oriented and collision-aware metrics covering process fidelity, terminal accuracy, and safety.
-
-Dataset release: [yu781986168/HUGE_PI](https://huggingface.co/datasets/yu781986168/HUGE_PI)
-
-Note: the dataset upload is currently in progress on Hugging Face.
-
-## What Is Included
-
-- A Hugging Face dataset link for `HUGE_PI`
-- Documentation for training with `pi0` / `openpi`
-- 3DGS helper scripts for rendering and rollout inference
-- A repository layout that mirrors where the helper files should be placed in the upstream codebases
+HUGE-Bench targets high-level UAV vision-language-action tasks, where agents must ground brief, potentially ambiguous commands into safe, multi-stage behaviors. HUGE-Bench contains 4 real-world digital twin scenes, 8 high-level tasks, and 2.56M meters of trajectories. It is built on an aligned 3DGS-Mesh representation that combines photorealistic rendering with collision-capable geometry, enabling scalable data generation and collision-aware evaluation.
 
 ## Dataset
 
@@ -45,6 +22,10 @@ Note: the dataset upload is currently in progress on Hugging Face.
 - Dataset: [yu781986168/HUGE_PI](https://huggingface.co/datasets/yu781986168/HUGE_PI)
 - Format: `LeRobot`
 - Recommended training codebase: [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
+
+- Trajectory Dataset release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_PI)
+
+3DGS Inference Environment release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_3DGS)
 
 ## Training With pi0
 
