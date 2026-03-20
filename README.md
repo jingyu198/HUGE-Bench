@@ -17,17 +17,14 @@ HUGE-Bench targets high-level UAV vision-language-action tasks, where agents mus
 
 ## Dataset
 
-`HUGE_PI` is released in LeRobot format, so it can be used directly with the `pi0` training pipeline.
-
-- Dataset: [yu781986168/HUGE_PI](https://huggingface.co/datasets/yu781986168/HUGE_PI)
-- Format: `LeRobot`
-- Recommended training codebase: [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
+`HUGE_Dataset_v0` is released in LeRobot format, so it can be used directly with the `pi0` training pipeline.
 
 - Trajectory Dataset release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_PI)
+- Format: `LeRobot`
+- Recommended training codebase: [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
+- 3DGS Inference Environment release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_3DGS)
 
-3DGS Inference Environment release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_3DGS)
-
-## Training With pi0
+## Training with PI0
 
 Please set up the training environment by following the official `openpi` repository:
 
@@ -41,7 +38,7 @@ Once the `openpi` environment is ready, users can train directly on `HUGE_PI` be
 
 This repository does not replace the official `openpi` installation instructions. It is meant to provide the dataset release and the helper scripts needed for our workflow.
 
-## Gaussian Splatting Environment
+## 3DGS-Based Environment
 
 For 3DGS-based rendering and inference, please set up the official Gaussian Splatting repository first:
 
@@ -49,40 +46,9 @@ For 3DGS-based rendering and inference, please set up the official Gaussian Spla
 
 Follow the official environment setup from that repository before using the helper scripts included here.
 
-## Helper Script Placement
+Note: 1) `3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting/` project. 2) `action_infer.py` depends on `openpi` and should be used inside the `openpi/scripts/` directory.
 
-The helper scripts in this repository are stored in paths that mirror where they should be placed in the upstream projects:
-
-- `gaussian_splatting/3dgs_renderer.py` -> `<gaussian-splatting-root>/3dgs_renderer.py`
-- `gaussian_splatting/my_render_traj.py` -> `<gaussian-splatting-root>/my_render_traj.py`
-- `openpi/scripts/action_infer.py` -> `<openpi-root>/scripts/action_infer.py`
-
-`3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting` project. `action_infer.py` depends on `openpi` and should be used inside the `openpi/scripts/` directory.
-
-## Minimal Workflow
-
-1. Clone and configure `openpi` by following the official repository.
-2. Clone and configure `gaussian-splatting` by following the official repository.
-3. Copy the helper scripts from this repository into the matching locations in those two codebases.
-4. Train your model with `HUGE_PI`.
-5. After training, run inference on our platform. In this initial open-source release, we provide a 3DGS-based inference path.
-
-## Example Setup
-
-```bash
-git clone https://github.com/Physical-Intelligence/openpi.git
-git clone --recursive https://github.com/graphdeco-inria/gaussian-splatting.git
-```
-
-Then copy the helper files into the corresponding locations:
-
-```text
-<gaussian-splatting-root>/3dgs_renderer.py
-<gaussian-splatting-root>/my_render_traj.py
-<openpi-root>/scripts/action_infer.py
-```
-
-## Example Inference Flow
+## Inference and Evaluation
 
 Start the 3DGS render server in the Gaussian Splatting environment:
 
@@ -103,30 +69,8 @@ python scripts/action_infer.py \
 
 You will likely need to adapt dataset paths, checkpoint paths, and rendering templates to your local setup.
 
-## Repository Layout
-
-```text
-HUGE-Bench/
-|-- overview.png
-|-- README.md
-|-- gaussian_splatting/
-|   |-- 3dgs_renderer.py
-|   `-- my_render_traj.py
-`-- openpi/
-    `-- scripts/
-        `-- action_infer.py
-```
-
-## Inference Availability
-
-After training is completed, users can run inference on our platform. For this first public release, we open-source:
-
-- a 3DGS-based renderer
-- a 3DGS environment integration path
-- an `openpi` inference entry script
 
 ## Acknowledgements
 
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
-- [Hugging Face Datasets](https://huggingface.co/datasets)
