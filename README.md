@@ -67,6 +67,31 @@ CUDA_VISIBLE_DEVICES=1 uv run scripts/action_infer.py \
 
 You will likely need to adapt dataset paths, checkpoint paths, and rendering templates to your local setup.
 
+## Output Structure
+
+The rollout script saves results by task, split, environment, and episode:
+
+```text
+<out_dir>/
+└── task_<task_id>/
+    └── <split>/
+        └── <env_id>/
+            └── episode_<episode_index>/
+                ├── compare_gt_vs_pred_3d.png
+                ├── traj_gt_pred_xyzk.npz
+                ├── instruction.txt
+                ├── pred_video.mp4
+                └── gt_video.mp4
+```
+
+Where:
+
+- `compare_gt_vs_pred_3d.png` visualizes the predicted and ground-truth trajectories in 3D.
+- `traj_gt_pred_xyzk.npz` stores the aligned trajectory arrays, including `gt_xyzk` and `pred_xyzk`.
+- `instruction.txt` records the prompt, split, environment id, checkpoint, and evaluation settings used for that episode.
+- `pred_video.mp4` is the rendered rollout video from the predicted trajectory.
+- `gt_video.mp4` is the rendered rollout video from the ground-truth trajectory.
+
 ## Acknowledgements
 
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
