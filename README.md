@@ -23,20 +23,16 @@ HUGE-Bench targets high-level UAV vision-language-action tasks, where agents mus
 
 ## Dataset
 
-`HUGE_Dataset_v0` is released in LeRobot format, so it can be used directly with the `pi0` training pipeline.
+`HUGE_Dataset_v0` is released in LeRobot format, it can be used directly with the `pi0` training pipeline.
 
 - Trajectory Dataset release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_PI)
-- Format: `LeRobot`
-- Recommended training codebase: [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 - 3DGS Inference Environment release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_3DGS)
 
 ## Training with PI0
 
-Please set up the training environment by following the official `openpi` repository:
+Please set up the training environment by following the official [`openpi` repository](https://github.com/Physical-Intelligence/openpi).
 
-- `openpi`: [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
-
-Once the `openpi` environment is ready, users can train directly on `HUGE_PI` because the dataset already follows the LeRobot format expected by the pipeline.
+Once the `openpi` environment is ready, users can train directly on `HUGE_Dataset_v0` because the dataset already follows the LeRobot format expected by the pipeline.
 
 1. Set up the `openpi` / `pi0` environment from the official repository.
 2. Point the training pipeline to the `HUGE_PI` dataset on Hugging Face.
