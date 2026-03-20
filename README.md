@@ -15,11 +15,11 @@
 
 HUGE-Bench targets high-level UAV vision-language-action tasks, where agents must ground brief, potentially ambiguous commands into safe, multi-stage behaviors. HUGE-Bench contains 4 real-world digital twin scenes, 8 high-level tasks, and 2.56M meters of trajectories. It is built on an aligned 3DGS-Mesh representation that combines photorealistic rendering with collision-capable geometry, enabling scalable data generation and collision-aware evaluation.
 
-## Open-Source Roadmap
+## ToDo
 
-1. Release `v0`, adapted for `pi0` training, including the trajectory dataset and a 3DGS inference environment.
-2. Release `v1` with depth, subtask labels, and a 3DGS-Mesh digital twin environment.
-3. Release model weights and trajectory collection scripts.
+- [x] Release `HUGE_Dataset_v0`, adapted for `pi0` training, including the trajectory dataset and a 3DGS inference environment.
+- [ ] Release `HUGE_Dataset_v1` with depth, subtask labels, and a 3DGS-Mesh digital twin environment.
+- [ ] Release model weights and trajectory collection scripts.
 
 ## Dataset
 
