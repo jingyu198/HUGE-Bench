@@ -22,6 +22,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 - [x] Release `HUGE_Dataset_v0`, adapted for `pi0` training, including the trajectory dataset and a 3DGS inference environment.
 - [ ] Release `HUGE_Dataset_v1` with depth, subtask labels, and a 3DGS-Mesh digital twin environment.
 - [ ] Release model weights and trajectory collection scripts.
+- [ ] ...
 
 ## Dataset
 
@@ -50,13 +51,13 @@ Note:
 Start the 3DGS render server in the Gaussian Splatting environment:
 
 ```bash
-python 3dgs_renderer.py --host 127.0.0.1 --port 5550
+CUDA_VISIBLE_DEVICES=0 python 3dgs_renderer.py --host 127.0.0.1 --port 5550
 ```
 
 Then run rollout inference in the OpenPI environment:
 
 ```bash
-python scripts/action_infer.py \
+CUDA_VISIBLE_DEVICES=1 uv run scripts/action_infer.py \
   --task_id obstacle \
   --config_name pi0_obstacle \
   --checkpoint_dir /path/to/checkpoint \
