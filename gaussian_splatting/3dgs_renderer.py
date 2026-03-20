@@ -29,7 +29,7 @@ def is_obstacle_task(task_id: str) -> bool:
 
 
 def scale_intrinsics(intri: dict, s: float) -> dict:
-    """渲染前缩小分辨率，避免 OOM + 提速。"""
+    """Downscale intrinsics before rendering to reduce memory usage and speed up inference."""
     if s <= 0 or s > 1:
         raise ValueError("internal_scale must be in (0,1].")
     out = dict(intri)
@@ -56,12 +56,12 @@ def cam_info_from_state(
     """
     state = [x, y, z, a]
 
-    - 普通任务:
+    - Normal tasks:
         a = kappa(rad)
         omega = normal_omega_deg
         phi   = normal_phi_deg
 
-    - obstacle 任务:
+    - Obstacle tasks:
         a = phi(rad)
         omega = obstacle_fixed_omega_deg
         kappa = obstacle_fixed_kappa_deg
@@ -206,18 +206,15 @@ def main():
         default="/mnt/jingyu/ECCV_data/data_3d/{env_id}/3dgs_ply/point_cloud_utm50.ply",
     )
     parser.add_argument("--default_task_id", type=str, default="obstacle")
-
-    # 普通任务使用：state[3] = kappa(rad)
+    # For normal tasks, state[3] is interpreted as kappa(rad).
     parser.add_argument("--omega", type=float, default=-180.0)
     parser.add_argument("--phi", type=float, default=0.0)
-
-    # obstacle 任务使用：state[3] = phi(rad)
+    # For obstacle tasks, state[3] is interpreted as phi(rad).
     parser.add_argument("--obstacle_fixed_omega", type=float, default=-90.0)
     parser.add_argument("--obstacle_fixed_kappa", type=float, default=0.0)
 
     parser.add_argument("--white_bg", action="store_true")
-
-    # 渲染前缩小分辨率，避免 OOM
+    # Downscale the render resolution before rasterization to avoid OOM.
     parser.add_argument("--internal_scale", type=float, default=0.065)
 
     pipeline_params = PipelineParams(parser)
@@ -241,3 +238,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

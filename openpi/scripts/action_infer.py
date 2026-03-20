@@ -54,9 +54,9 @@ def step_state(state_xyza: np.ndarray, action_dxyza: np.ndarray):
     """
     Simple add in SAME frame (GLOBAL frame in this script).
 
-    state/action 第4维含义：
-      - 普通任务: kappa/yaw(rad)
-      - obstacle: phi(rad)
+    Meaning of the 4th dimension in state/action:
+      - Normal tasks: kappa/yaw(rad)
+      - Obstacle tasks: phi(rad)
     """
     s = np.asarray(state_xyza, dtype=np.float32).reshape(4)
     a = np.asarray(action_dxyza, dtype=np.float32).reshape(4)
@@ -81,7 +81,7 @@ def save_video_mp4(frames_rgb: List[np.ndarray], out_mp4: str, fps: float = 10.0
     with imageio.get_writer(
         out_mp4,
         fps=max(float(fps), 1.0),
-        macro_block_size=2,   # 关键：至少保证宽高为偶数
+        macro_block_size=2,   # Ensure width and height are at least even numbers.
     ) as writer:
         for fr in frames:
             writer.append_data(fr)
@@ -126,7 +126,7 @@ def maybe_deg_to_rad(yaw_or_phi: float) -> float:
     If the last angle is very likely degrees (large magnitude), convert to rad.
     Otherwise treat as rad.
 
-    普通任务第4维是 yaw/kappa，obstacle 第4维是 phi。
+    For normal tasks, the 4th dimension is yaw/kappa; for obstacle tasks, it is phi.
     """
     y = float(yaw_or_phi)
     if abs(y) > 3.5 * math.pi:
@@ -257,9 +257,9 @@ def _get_env_id_from_sample(sample: dict) -> str:
 def _get_state4_from_sample(sample: dict) -> np.ndarray:
     """
     Robustly read state from dataset sample and return [x,y,z,a] (float32).
-    第4维 a:
-      - 普通任务: yaw/kappa(rad)
-      - obstacle: phi(rad)
+    Meaning of the 4th dimension a:
+      - Normal tasks: yaw/kappa(rad)
+      - Obstacle tasks: phi(rad)
     """
     for k in ["state", "observation/state", "obs/state"]:
         if k in sample:
