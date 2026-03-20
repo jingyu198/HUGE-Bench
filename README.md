@@ -2,8 +2,8 @@
 
 # HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks
 
-[![Project Page](https://img.shields.io/badge/Project-Page-2d7ff9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/jingyu198/HUGE-Bench)
-[![Paper](https://img.shields.io/badge/Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](#)
+![Project Page](https://img.shields.io/badge/Project-Page-2d7ff9?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)
 
 Official repository for the HUGE-Bench benchmark and the `HUGE_PI` dataset.
 
