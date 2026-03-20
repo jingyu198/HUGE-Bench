@@ -15,6 +15,12 @@
 
 HUGE-Bench targets high-level UAV vision-language-action tasks, where agents must ground brief, potentially ambiguous commands into safe, multi-stage behaviors. HUGE-Bench contains 4 real-world digital twin scenes, 8 high-level tasks, and 2.56M meters of trajectories. It is built on an aligned 3DGS-Mesh representation that combines photorealistic rendering with collision-capable geometry, enabling scalable data generation and collision-aware evaluation.
 
+## Open-Source Roadmap
+
+1. Release `v0`, adapted for `pi0` training, including the trajectory dataset and a 3DGS inference environment.
+2. Release `v1` with depth, subtask labels, and a 3DGS-Mesh digital twin environment.
+3. Release model weights and trajectory collection scripts.
+
 ## Dataset
 
 `HUGE_Dataset_v0` is released in LeRobot format, so it can be used directly with the `pi0` training pipeline.
@@ -46,7 +52,9 @@ For 3DGS-based rendering and inference, please set up the official Gaussian Spla
 
 Follow the official environment setup from that repository before using the helper scripts included here.
 
-Note: 1) `3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting/` project. 2) `action_infer.py` depends on `openpi` and should be used inside the `openpi/scripts/` directory.
+Note:
+1. `3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting/` project.
+2. `action_infer.py` depends on `openpi` and should be used inside the `openpi/scripts/` directory.
 
 ## Inference and Evaluation
 
@@ -68,7 +76,6 @@ python scripts/action_infer.py \
 ```
 
 You will likely need to adapt dataset paths, checkpoint paths, and rendering templates to your local setup.
-
 
 ## Acknowledgements
 
