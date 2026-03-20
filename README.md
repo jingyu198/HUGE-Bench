@@ -30,9 +30,9 @@ HUGE-Bench targets high-level UAV vision-language-action tasks, where agents mus
 
 ## Training with PI0
 
-Please set up the training environment by following the official [openpi repository](https://github.com/Physical-Intelligence/openpi).
+Please set up the training environment by following the official [OpenPi repository](https://github.com/Physical-Intelligence/openpi).
 
-Once the `openpi` environment is ready, you can train directly on `HUGE_Dataset_v0` because the dataset already follows the LeRobot format expected by the pipeline.
+Once the OpenPi environment is ready, you can train directly on `HUGE_Dataset_v0` because the dataset already follows the LeRobot format expected by the pipeline.
 
 
 ## 3DGS-Based Environment
@@ -41,7 +41,7 @@ For 3DGS-based rendering and inference, please set up the official [Gaussian Spl
 
 Note:
 1. `3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting/` project.
-2. `action_infer.py` depends on `openpi` and should be used inside the `openpi/scripts/` directory.
+2. `action_infer.py` depends on OpenPi and should be used inside the `openpi/scripts/` directory.
 
 ## Inference and Evaluation
 
