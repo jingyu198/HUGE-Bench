@@ -1,6 +1,21 @@
-﻿# HUGE-Bench
+﻿<div align="center">
 
-HUGE-Bench is the public release hub for `HUGE_PI`, a LeRobot-format dataset for training and evaluating `pi0`-based policies. This repository also includes helper scripts for 3D Gaussian Splatting (3DGS) based rendering and rollout inference.
+# HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks
+
+[![Project Page](https://img.shields.io/badge/Project-Page-2d7ff9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/jingyu198/HUGE-Bench)
+[![Paper](https://img.shields.io/badge/Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](#)
+
+Official repository for the HUGE-Bench benchmark and the `HUGE_PI` dataset.
+
+</div>
+
+<p align="center">
+  <img src="overview.png" alt="HUGE-Bench overview" width="100%" />
+</p>
+
+## Overview
+
+HUGE-Bench is a benchmark for high-level UAV vision-language-action tasks. This repository releases the `HUGE_PI` dataset in LeRobot format and provides helper scripts for training with `pi0` and running 3DGS-based inference.
 
 Dataset release: [yu781986168/HUGE_PI](https://huggingface.co/datasets/yu781986168/HUGE_PI)
 
@@ -29,8 +44,6 @@ Please set up the training environment by following the official `openpi` reposi
 
 Once the `openpi` environment is ready, users can train directly on `HUGE_PI` because the dataset already follows the LeRobot format expected by the pipeline.
 
-In other words:
-
 1. Set up the `openpi` / `pi0` environment from the official repository.
 2. Point the training pipeline to the `HUGE_PI` dataset on Hugging Face.
 3. Train or fine-tune your `pi0` checkpoint as usual.
@@ -53,10 +66,7 @@ The helper scripts in this repository are stored in paths that mirror where they
 - `gaussian_splatting/my_render_traj.py` -> `<gaussian-splatting-root>/my_render_traj.py`
 - `openpi/scripts/action_infer.py` -> `<openpi-root>/scripts/action_infer.py`
 
-Why this layout:
-
-- `3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting` project.
-- `action_infer.py` depends on `openpi` and should be used inside the `openpi/scripts/` directory.
+`3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting` project. `action_infer.py` depends on `openpi` and should be used inside the `openpi/scripts/` directory.
 
 ## Minimal Workflow
 
@@ -106,6 +116,7 @@ You will likely need to adapt dataset paths, checkpoint paths, and rendering tem
 
 ```text
 HUGE-Bench/
+|-- overview.png
 |-- README.md
 |-- gaussian_splatting/
 |   |-- 3dgs_renderer.py
