@@ -30,23 +30,14 @@ HUGE-Bench targets high-level UAV vision-language-action tasks, where agents mus
 
 ## Training with PI0
 
-Please set up the training environment by following the official [`openpi` repository](https://github.com/Physical-Intelligence/openpi).
+Please set up the training environment by following the official [openpi repository](https://github.com/Physical-Intelligence/openpi).
 
-Once the `openpi` environment is ready, users can train directly on `HUGE_Dataset_v0` because the dataset already follows the LeRobot format expected by the pipeline.
+Once the `openpi` environment is ready, you can train directly on `HUGE_Dataset_v0` because the dataset already follows the LeRobot format expected by the pipeline.
 
-1. Set up the `openpi` / `pi0` environment from the official repository.
-2. Point the training pipeline to the `HUGE_PI` dataset on Hugging Face.
-3. Train or fine-tune your `pi0` checkpoint as usual.
-
-This repository does not replace the official `openpi` installation instructions. It is meant to provide the dataset release and the helper scripts needed for our workflow.
 
 ## 3DGS-Based Environment
 
-For 3DGS-based rendering and inference, please set up the official Gaussian Splatting repository first:
-
-- `gaussian-splatting`: [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
-
-Follow the official environment setup from that repository before using the helper scripts included here.
+For 3DGS-based rendering and inference, please set up the official [Gaussian Splatting repository](https://github.com/graphdeco-inria/gaussian-splatting) first:
 
 Note:
 1. `3dgs_renderer.py` and `my_render_traj.py` depend on the Gaussian Splatting codebase and should be used inside the `gaussian-splatting/` project.
