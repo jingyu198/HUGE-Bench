@@ -67,26 +67,14 @@ CUDA_VISIBLE_DEVICES=1 uv run scripts/action_infer.py \
 
 You will likely need to adapt dataset paths, checkpoint paths, and rendering templates to your local setup.
 
-If you evaluate saved rollouts with `metric.py`, please set the following arguments according to your local setup:
-
-- `--out_dir`: the root directory that stores rollout outputs in the format `task_<task_id>/<split>/<env_id>/episode_<episode_index>/traj_gt_pred_xyzk.npz`.
-- `--tasks`: the task ids to evaluate, such as `obstacle`, `building`, or a comma-separated task list.
-- `--tcr_thresholds`: TCR thresholds in meters, for example `1,2,5`.
-- `--success_thresh`: the endpoint success threshold in meters.
-- `--mesh_root`: the root directory of the environment meshes used for collision-aware evaluation.
-- `--mesh_rel`: the relative mesh path inside each environment folder, for example `terra_ply/simplified_mesh.obj`.
-- Optional debugging flags include `--per_episode`, `--print_every`, `--dump_vis`, and `--vis_out_dir`.
+If you only evaluate `TCR` and `SR` with `metric.py`, you do not need to load meshes or configure collision-related options.
 
 Example:
 
 ```bash
 python metric.py \
   --out_dir /path/to/rollout_outputs \
-  --tasks obstacle \
-  --tcr_thresholds 1,2,5 \
-  --success_thresh 10 \
-  --mesh_root /path/to/mesh_root \
-  --mesh_rel terra_ply/simplified_mesh.obj
+  --tcr_thresholds 1,2,5
 ```
 
 ## Output Structure
