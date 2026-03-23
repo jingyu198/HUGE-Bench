@@ -67,9 +67,7 @@ CUDA_VISIBLE_DEVICES=1 uv run scripts/action_infer.py \
 
 You will likely need to adapt dataset paths, checkpoint paths, and rendering templates to your local setup.
 
-If you only evaluate `TCR` and `SR` with `metric.py`, you do not need to load meshes or configure collision-related options.
-
-Example:
+For evaluation, you can run:
 
 ```bash
 python metric.py \
