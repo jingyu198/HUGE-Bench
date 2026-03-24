@@ -38,6 +38,12 @@ Please set up the training environment by following the official [OpenPi reposit
 
 Once the OpenPi environment is ready, you can train directly on `HUGE_Dataset_v0` because the dataset already follows the LeRobot format expected by the pipeline.
 
+1. Set up the `pi0` / `OpenPi` environment by following the official OpenPi installation instructions.
+2. Copy `drone_policy.py` from this repository to `openpi/src/openpi/policies/drone_policy.py`.
+   It defines the data mapping from the UAV environment to the model and back, and is used for both training and inference.
+3. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
+   It defines the fine-tuning hyperparameters, data config, and weight loader for UAV training.
+
 
 ## 3DGS-Based Environment
 
@@ -80,6 +86,7 @@ python metric.py \
   --out_dir /path/to/rollout_outputs \
   --tcr_thresholds 1,2,5
 ```
+
 
 ## Output Structure
 
