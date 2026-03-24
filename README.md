@@ -19,9 +19,10 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 
 ## ToDo
 
-- [x] Release `HUGE_Dataset_v0`, adapted for `pi0` training, including the trajectory dataset and a 3DGS inference environment.
+- [x] Release `HUGE_Dataset_v0`, including the trajectory dataset and a 3DGS inference environment.
+- [ ] Release checkpoint
 - [ ] Release `HUGE_Dataset_v1` with depth, subtask labels, and a 3DGS-Mesh digital twin environment.
-- [ ] Release model weights and trajectory collection scripts.
+- [ ] Release trajectory collection scripts.
 - [ ] ...
 
 ## Dataset
