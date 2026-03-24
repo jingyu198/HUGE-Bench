@@ -25,7 +25,7 @@ DEFAULT_INTRINSICS = {
 
 
 def is_obstacle_task(task_id: str) -> bool:
-    return str(task_id).strip().lower() == "obstacle"
+    return str(task_id).strip().lower() in ("obstacle", "task_obstacle")
 
 
 def scale_intrinsics(intri: dict, s: float) -> dict:
@@ -203,7 +203,7 @@ def main():
     parser.add_argument(
         "--ply_template",
         type=str,
-        default="/mnt/jingyu/ECCV_data/data_3d/{env_id}/3dgs_ply/point_cloud_utm50.ply",
+        default="/path/to/3dgs_root/{env_id}/3dgs_ply/point_cloud_utm50.ply",
     )
     parser.add_argument("--default_task_id", type=str, default="obstacle")
     # For normal tasks, state[3] is interpreted as kappa(rad).

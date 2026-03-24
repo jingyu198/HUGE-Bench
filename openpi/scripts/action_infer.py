@@ -19,11 +19,10 @@ from mpl_toolkits.mplot3d import Axes3D  # noqa: F401
 import imageio.v2 as imageio
 
 # ----------------------------
-# Env
+# Environment
 # ----------------------------
-os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
-os.environ.setdefault("HF_HUB_CACHE", "/mnt/hf_cache")
-os.environ["HF_LEROBOT_HOME"] = "/mnt/jingyu/lerobot_small"
+# Configure dataset/cache-related environment variables in your shell when needed,
+# for example HF_ENDPOINT, HF_HUB_CACHE, and HF_LEROBOT_HOME.
 
 from openpi.training import config as train_config
 from openpi.policies import policy_config
@@ -44,6 +43,13 @@ def _as_str(x) -> str:
 
 def is_obstacle_task(task_id: str) -> bool:
     return str(task_id).strip().lower() in ("obstacle", "task_obstacle")
+
+
+def normalize_task_token(task_id: str) -> str:
+    token = str(task_id).strip()
+    if token.startswith("task_"):
+        token = token[len("task_"):]
+    return token
 
 
 def wrap_rad(a: float) -> float:
@@ -85,6 +91,36 @@ def save_video_mp4(frames_rgb: List[np.ndarray], out_mp4: str, fps: float = 10.0
     ) as writer:
         for fr in frames:
             writer.append_data(fr)
+
+
+def _resize_frame_to_hw(frame_hwc_uint8: np.ndarray, height: int, width: int) -> np.ndarray:
+    img = Image.fromarray(np.asarray(frame_hwc_uint8, dtype=np.uint8))
+    img = img.resize((int(width), int(height)), Image.BILINEAR)
+    return np.asarray(img, dtype=np.uint8)
+
+
+def make_side_by_side_frames(
+    left_frames_rgb: List[np.ndarray],
+    right_frames_rgb: List[np.ndarray],
+) -> List[np.ndarray]:
+    if len(left_frames_rgb) != len(right_frames_rgb):
+        raise ValueError(
+            f"Frame count mismatch: left={len(left_frames_rgb)} right={len(right_frames_rgb)}"
+        )
+
+    out: List[np.ndarray] = []
+    for left, right in zip(left_frames_rgb, right_frames_rgb):
+        left = np.asarray(left, dtype=np.uint8)
+        right = np.asarray(right, dtype=np.uint8)
+        target_h = max(int(left.shape[0]), int(right.shape[0]))
+        left_w = int(round(int(left.shape[1]) * float(target_h) / max(int(left.shape[0]), 1)))
+        right_w = int(round(int(right.shape[1]) * float(target_h) / max(int(right.shape[0]), 1)))
+        if left.shape[0] != target_h or left.shape[1] != left_w:
+            left = _resize_frame_to_hw(left, target_h, left_w)
+        if right.shape[0] != target_h or right.shape[1] != right_w:
+            right = _resize_frame_to_hw(right, target_h, right_w)
+        out.append(np.concatenate([left, right], axis=1))
+    return out
 
 
 def render_states_to_frames(
@@ -603,12 +639,7 @@ def resolve_checkpoint_dir(task_id: str, checkpoint_dir_arg: str) -> str:
     If checkpoint_dir_arg points to a directory that contains numeric subfolders,
     use the largest numeric subfolder.
     Otherwise, use checkpoint_dir_arg as-is.
-
-    If checkpoint_dir_arg is empty, use:
-      /mnt/jingyu/openpi/checkpoints/pi0_{task_id}/task_{task_id}/<largest_numeric_subfolder>
     """
-    task_id = str(task_id)
-
     if checkpoint_dir_arg and checkpoint_dir_arg.strip():
         p = Path(checkpoint_dir_arg).expanduser()
         if p.exists() and p.is_dir():
@@ -619,9 +650,10 @@ def resolve_checkpoint_dir(task_id: str, checkpoint_dir_arg: str) -> str:
                 return str(p)
         return str(p)
 
-    base = Path(f"/mnt/jingyu/openpi/checkpoints/pi0_{task_id}/task_{task_id}")
-    best = _find_largest_numeric_subdir(base)
-    return str(best)
+    raise ValueError(
+        "--checkpoint_dir is required. Pass either a concrete checkpoint directory "
+        "or a parent directory that contains numeric checkpoint subfolders."
+    )
 
 
 # ----------------------------
@@ -769,7 +801,7 @@ def main():
     parser.add_argument("--host", type=str, default="127.0.0.1")
     parser.add_argument("--port", type=int, default=5550)
 
-    parser.add_argument("--out_dir", type=str, default="/mnt/jingyu/ECCV_outputs_pi0")
+    parser.add_argument("--out_dir", type=str, default="./outputs")
 
     #  - if <=0: infer from GT trajectory length (per-episode)
     #  - if >0: use this cap (optionally truncate_to_gt)
@@ -795,7 +827,7 @@ def main():
     parser.add_argument(
         "--obstacle_angle_mode",
         type=str,
-        default="phi",
+        default="yaw_legacy",
         choices=("phi", "yaw_legacy"),
         help="For obstacle task, interpret dataset/model angle as phi (new/correct) or yaw_legacy (old converted data).",
     )
@@ -804,8 +836,9 @@ def main():
 
     args = parser.parse_args()
 
+    task_token = normalize_task_token(args.task_id)
     if not args.config_name.strip():
-        args.config_name = f"pi05_{args.task_id}"
+        args.config_name = f"pi0_{task_token}"
 
     splits_to_run = [s.strip() for s in args.splits.split(",") if s.strip()]
     if not splits_to_run:
@@ -834,9 +867,9 @@ def main():
 
     try:
         for split in splits_to_run:
-            repo_id = args.repo_id.strip() if args.repo_id.strip() else f"task_{args.task_id}/{split}"
+            repo_id = args.repo_id.strip() if args.repo_id.strip() else f"task_{task_token}/{split}"
 
-            out_root = os.path.join(args.out_dir, f"task_{args.task_id}", str(split))
+            out_root = os.path.join(args.out_dir, f"task_{task_token}", str(split))
             os.makedirs(out_root, exist_ok=True)
 
             before_state = get_dataset_cache_state(repo_id)
@@ -919,8 +952,7 @@ def main():
                 plot_path = os.path.join(ep_dir, "compare_gt_vs_pred_3d.png")
                 traj_npz_path = os.path.join(ep_dir, "traj_gt_pred_xyzk.npz")
                 instr_path = os.path.join(ep_dir, "instruction.txt")
-                pred_video_path = os.path.join(ep_dir, "pred_video.mp4")
-                gt_video_path = os.path.join(ep_dir, "gt_video.mp4")
+                compare_video_path = os.path.join(ep_dir, "gt_pred_side_by_side.mp4")
 
                 tmp_png_pred = os.path.join(ep_dir, "_tmp_pred.png")
                 tmp_png_gt = os.path.join(ep_dir, "_tmp_gt.png")
@@ -963,6 +995,7 @@ def main():
                     f.write(f"used_default: {used_default}\n")
                     f.write(f"first_image_src: {first_src}\n")
                     f.write(f"task_id: {args.task_id}\n")
+                    f.write(f"task_token: {task_token}\n")
                     f.write(f"angle_mode: {'phi(rad)' if is_obstacle_task(args.task_id) else 'kappa/yaw(rad)'}\n")
                     f.write(f"obstacle_angle_mode: {args.obstacle_angle_mode}\n")
                     f.write(f"split: {split}\n")
@@ -982,7 +1015,7 @@ def main():
                     f.write(f"truncate_to_gt: {args.truncate_to_gt}\n")
                     f.write(f"ndtw_eta: {args.ndtw_eta}\n")
                     f.write(f"ndtw_yaw_weight: {args.ndtw_yaw_weight}\n")
-                    f.write("saved_files: compare_gt_vs_pred_3d.png, traj_gt_pred_xyzk.npz, instruction.txt, pred_video.mp4, gt_video.mp4\n")
+                    f.write("saved_files: compare_gt_vs_pred_3d.png, traj_gt_pred_xyzk.npz, instruction.txt, gt_pred_side_by_side.mp4\n")
 
                 # rollout
                 while t < max_steps_ep - 1:
@@ -1068,8 +1101,8 @@ def main():
                 )
 
                 fps_video = float(getattr(meta, "fps", 10))
-                save_video_mp4(pred_frames_al, pred_video_path, fps=fps_video)
-                save_video_mp4(gt_frames_al, gt_video_path, fps=fps_video)
+                compare_frames_al = make_side_by_side_frames(gt_frames_al, pred_frames_al)
+                save_video_mp4(compare_frames_al, compare_video_path, fps=fps_video)
 
                 # file #1: visualization
                 ndtw = compute_ndtw_xyza(
@@ -1101,3 +1134,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
