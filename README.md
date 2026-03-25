@@ -29,8 +29,21 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 
 `HUGE_Dataset_v0` is released in LeRobot format, it can be used directly with the `pi0` training pipeline.
 
-- Trajectory Dataset release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_PI)
-- 3DGS Inference Environment release: [Download](https://huggingface.co/datasets/yu781986168/HUGE_3DGS)
+- `HUGE_Dataset_v0` download: [Trajectory + 3DGS Inference Env](https://huggingface.co/datasets/yu781986168/HUGE_Dataset_v0)
+- Smaller single-task example: you can also start with the `task0` trajectory data to run through the full pipeline first: [HUGE_Dataset_task0](https://huggingface.co/datasets/yu781986168/HUGE_Dataset_task0)
+
+| Task ID | Task |
+| --- | --- |
+| `0` | Landing |
+| `hl` | Orbit-H |
+| `orbit` | Orbit-R |
+| `building` | Inspection-B |
+| `road` | Inspection-R |
+| `farm` | Mapping |
+| `obstacle` | Traversal |
+| `orbit_multi` | Spiral Down |
+
+Please refer to the paper for the detailed task definitions.
 
 ## Training with PI0
 
