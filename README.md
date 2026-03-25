@@ -57,7 +57,7 @@ Once the OpenPi environment is ready, you can train directly on `HUGE_Dataset_v0
 3. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
    It defines the fine-tuning hyperparameters, data config, and weight loader for UAV training.
 
-Our checkpoint is at [yu781986168/HUGE-PI0](https://huggingface.co/yu781986168/HUGE-PI0).
+Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0).
 
 
 ## 3DGS-Based Environment

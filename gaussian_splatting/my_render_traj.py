@@ -1,4 +1,5 @@
 ﻿# -*- coding: utf-8 -*-
+import gc
 import math
 import os
 
@@ -25,6 +26,38 @@ except Exception:
 GAUSSIANS_CACHE = None
 PLY_PATH_CACHE = None
 DEVICE_CACHE = None
+
+
+def release_cached_gaussians():
+    """Release the cached 3DGS scene before loading a different environment."""
+    global GAUSSIANS_CACHE, PLY_PATH_CACHE, DEVICE_CACHE
+
+    old_ply_path = PLY_PATH_CACHE
+    old_device = DEVICE_CACHE
+
+    GAUSSIANS_CACHE = None
+    PLY_PATH_CACHE = None
+    DEVICE_CACHE = None
+
+    gc.collect()
+    if old_device is not None and old_device.type == "cuda" and torch.cuda.is_available():
+        torch.cuda.empty_cache()
+        if hasattr(torch.cuda, "ipc_collect"):
+            torch.cuda.ipc_collect()
+
+    if old_ply_path is not None:
+        print(f"[INFO] released cached 3DGS PLY: {old_ply_path}")
+
+
+def maybe_trim_cuda_cache(device: torch.device, trim_ratio: float = 1.2):
+    """Trim cached CUDA blocks when reserved memory grows well beyond live allocations."""
+    if device.type != "cuda" or not torch.cuda.is_available():
+        return
+
+    allocated = torch.cuda.memory_allocated(device)
+    reserved = torch.cuda.memory_reserved(device)
+    if reserved > trim_ratio * max(allocated, 1):
+        torch.cuda.empty_cache()
 
 
 def load_dji_ply_into_gaussians(gaussians: GaussianModel, ply_path: str, device: torch.device):
@@ -160,6 +193,10 @@ def render_single_view_from_cam_info(
 ):
     global GAUSSIANS_CACHE, PLY_PATH_CACHE, DEVICE_CACHE
 
+    if GAUSSIANS_CACHE is not None and PLY_PATH_CACHE != ply_path:
+        print(f"[INFO] switching 3DGS scene: {PLY_PATH_CACHE} -> {ply_path}")
+        release_cached_gaussians()
+
     if GAUSSIANS_CACHE is None or PLY_PATH_CACHE != ply_path:
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         print(f"[INFO] using device: {device}")
@@ -179,24 +216,38 @@ def render_single_view_from_cam_info(
 
     os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
 
-    with torch.no_grad():
-        out = render(
-            cam,
-            gaussians,
-            pipeline,
-            background,
-            use_trained_exp=False,
-            separate_sh=SPARSE_ADAM_AVAILABLE,
-        )
-        rendering = out["render"]
-        height, width = rendering.shape[1], rendering.shape[2]
-        rendering_resized = F.interpolate(
-            rendering.unsqueeze(0),
-            size=(max(1, int(height)), max(1, int(width))),
-            mode="bilinear",
-            align_corners=False,
-        )[0]
-        torchvision.utils.save_image(rendering_resized.cpu(), out_path)
+    out = None
+    rendering = None
+    rendering_resized = None
+    try:
+        with torch.no_grad():
+            out = render(
+                cam,
+                gaussians,
+                pipeline,
+                background,
+                use_trained_exp=False,
+                separate_sh=SPARSE_ADAM_AVAILABLE,
+            )
+            rendering = out["render"]
+            height, width = rendering.shape[1], rendering.shape[2]
+            rendering_resized = F.interpolate(
+                rendering.unsqueeze(0),
+                size=(max(1, int(height)), max(1, int(width))),
+                mode="bilinear",
+                align_corners=False,
+            )[0]
+            torchvision.utils.save_image(rendering_resized.cpu(), out_path)
+    finally:
+        del cam
+        del background
+        if rendering_resized is not None:
+            del rendering_resized
+        if rendering is not None:
+            del rendering
+        if out is not None:
+            del out
+        maybe_trim_cuda_cache(device)
 
 
 __all__ = [
