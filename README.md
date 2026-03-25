@@ -20,7 +20,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 ## ToDo
 
 - [x] Release `HUGE_Dataset_v0`, including the trajectory dataset and a 3DGS inference environment.
-- [ ] Release checkpoint
+- [x] Release checkpoint
 - [ ] Release `HUGE_Dataset_v1` with depth, subtask labels, and a 3DGS-Mesh digital twin environment.
 - [ ] Release trajectory collection scripts.
 - [ ] ...
@@ -56,6 +56,8 @@ Once the OpenPi environment is ready, you can train directly on `HUGE_Dataset_v0
    It defines the data mapping from the UAV environment to the model and back, and is used for both training and inference.
 3. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
    It defines the fine-tuning hyperparameters, data config, and weight loader for UAV training.
+
+Our checkpoint is at [yu781986168/HUGE-PI0](https://huggingface.co/yu781986168/HUGE-PI0).
 
 
 ## 3DGS-Based Environment
