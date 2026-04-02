@@ -130,3 +130,7 @@ Where:
 
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
