@@ -65,8 +65,8 @@ Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0).
 For 3DGS-based rendering and inference, please set up the official [Gaussian Splatting repository](https://github.com/graphdeco-inria/gaussian-splatting) first:
 
 Note:
-1. `pi_server.py` is the public render-server entrypoint and should be used inside the `gaussian-splatting/` project.
-2. `3dgs_infer.py` is the public rollout entrypoint and should be used inside the `openpi/scripts/` directory.
+1. `3dgs_renderer.py` should be used inside the `gaussian-splatting/` project as the render-server entrypoint.
+2. `action_infer.py` should be used inside the `openpi/scripts/` directory as the rollout entrypoint.
 3. `metric.py` is provided at the repository root for trajectory evaluation.
 
 ## Inference and Evaluation
@@ -74,7 +74,7 @@ Note:
 Start the 3DGS render server in the Gaussian Splatting environment:
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python pi_server.py \
+CUDA_VISIBLE_DEVICES=0 python 3dgs_renderer.py \
   --host 127.0.0.1 \
   --port 5550 \
   --ply_template /path/to/3dgs_root/{env_id}/3dgs_ply/point_cloud_utm50.ply
@@ -83,7 +83,7 @@ CUDA_VISIBLE_DEVICES=0 python pi_server.py \
 Then run rollout inference in the OpenPI environment:
 
 ```bash
-CUDA_VISIBLE_DEVICES=1 uv run scripts/3dgs_infer.py \
+CUDA_VISIBLE_DEVICES=1 uv run scripts/action_infer.py \
   --task_id obstacle \
   --config_name pi0_obstacle \
   --checkpoint_dir /path/to/checkpoint \
