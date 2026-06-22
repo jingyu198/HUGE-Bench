@@ -2,7 +2,7 @@
 
 # HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks
 
-**[ECCV2026]**
+<h2>[ECCV 2026]</h2>
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2d7ff9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jingyu198.github.io/HUGE_Bench/)
 [![Paper](https://img.shields.io/badge/Paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.19822)
