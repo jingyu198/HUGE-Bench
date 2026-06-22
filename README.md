@@ -101,8 +101,12 @@ Then evaluate the saved trajectories:
 ```bash
 python metric.py \
   --out_dir /path/to/rollout_outputs \
+  --mesh_root /path/to/data_3d \
+  --mesh_rel terra_ply/simplified_mesh.obj \
   --tcr_thresholds 1,2,5
 ```
+
+The evaluation script reports the main HUGE-Bench metrics used in the paper: average TCR, nDTW, NSP, CR, and CSPL. If `--mesh_root` is omitted, the script still reports trajectory metrics but leaves collision-based metrics (`CR` and `CSPL`) as `nan`.
 
 
 ## Output Structure
