@@ -28,8 +28,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 
 ## Dataset
 
-`HUGE_Trajectory` is released in LeRobot format, it can be used directly with `pi0` training pipeline.
-Download: [Trajectory](https://huggingface.co/datasets/yu781986168/HUGE_Dataset_v0)
+[`HUGE_Trajectory`](https://huggingface.co/datasets/yu781986168/HUGE_Dataset_v0) is released in LeRobot format, it can be used directly with `pi0` training pipeline.
 
 `HUGE_Environment` is released including all 3DGS-Mesh environments.
 Download: [3DGS-Mesh Envs](https://huggingface.co/datasets/yu781986168/3DGS_Mesh_Envs)
