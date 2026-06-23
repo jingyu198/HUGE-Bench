@@ -24,8 +24,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 - [x] Release `HUGE_Dataset_v0`, including all trajectory data (train and test) and one 3DGS environment.
 - [x] Release checkpoint
 - [x] Release `HUGE_Dataset_v1`, including all 3DGS-Mesh environments (four environments and three refined smaller environments used for low-altitude forward obstacle-avoidance tasks).
-- [ ] Release trajectory collection scripts.
-- [ ] ...
+- [ ] Release trajectory collection scripts, including RGB, depth, subtask, instruction collection and generation.
 
 ## Dataset
 
@@ -33,6 +32,9 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 
 - `HUGE_Dataset_v0` download: [Trajectory + 3DGS Inference Env](https://huggingface.co/datasets/yu781986168/HUGE_Dataset_v0)
 - Smaller single-task data: you can also start with the `task_0` trajectory data: [HUGE_Dataset_task0](https://huggingface.co/datasets/yu781986168/HUGE_Dataset_task0)
+
+`HUGE_Dataset_v1` is released including all 3DGS-Mesh environments.
+- `HUGE_Dataset_v1` download: [3DGS-Mesh Envs](https://huggingface.co/datasets/yu781986168/3DGS_Mesh_Envs)
 
 | Task ID | Task |
 | --- | --- |
