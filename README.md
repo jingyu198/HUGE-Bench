@@ -23,7 +23,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation learnin
 
 - ✅ Release `HUGE_Trajectory`, including all trajectory data (train and test) and one 3DGS environment (for test).
 - ✅ Release checkpoint.
-- ✅ Release `HUGE_Environment`, including all 3DGS-Mesh environments (four environments and three refined smaller environments used for low-altitude forward obstacle-avoidance tasks).
+- ✅ Release `HUGE_Environment`, including all 3DGS-Mesh environments (four main environments and three refined smaller environments used for low-altitude forward obstacle-avoidance tasks).
 - [ ] Release trajectory collection scripts, including RGB, depth, subtask, and instruction collection and generation.
 
 ## Dataset
