@@ -50,7 +50,7 @@ Please refer to the paper for the detailed task definitions.
 
 Please set up the training environment by following the official [OpenPi repository](https://github.com/Physical-Intelligence/openpi).
 
-Once the OpenPi environment is ready, you can train directly on `HUGE_Dataset_v0` because the dataset already follows the LeRobot format expected by the pipeline.
+Once the OpenPi environment is ready, you can train directly on `HUGE_Trajetory` because the dataset already follows the LeRobot format expected by the pipeline.
 
 1. Set up the `pi0` / `OpenPi` environment by following the official OpenPi installation instructions.
 2. Copy `drone_policy.py` from this repository to `openpi/src/openpi/policies/drone_policy.py`.
