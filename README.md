@@ -25,6 +25,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 - ✅ Release checkpoint.
 - ✅ Release HUGE_Environment, including 4 3DGS-Mesh environments (and 3 more finely reconstructed subregions for low-altitude forward obstacle avoidance).
 - ✅ Release trajectory collection scripts, including RGB, depth, subtask, and instruction generation.
+- [ ] Release the 3DGS-Mesh construction pipeline
 
 ## Dataset
 
