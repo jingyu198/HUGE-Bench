@@ -25,7 +25,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 - ✅ Release checkpoint.
 - ✅ Release HUGE_Environment, including 4 3DGS-Mesh environments (and 3 more finely reconstructed subregions for low-altitude forward obstacle avoidance).
 - ✅ Release trajectory collection scripts, including RGB, depth, subtask, and instruction generation.
-- [ ] Release the 3DGS-Mesh construction pipeline
+- ✅ Release the 3DGS-Mesh construction pipeline
 
 ## Dataset
 
@@ -46,36 +46,6 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 | `orbit_multi` | Spiral Down |
 
 Please refer to the paper for the detailed task definitions.
-
-## Trajectory Generation
-
-The trajectory collection pipeline is released under [`trajectory_generation/`](trajectory_generation/README.md). It includes:
-
-- task-specific trajectory generators for landing, orbiting, inspection, mapping, and traversal tasks;
-- 3DGS-based RGB rendering and optional mesh-depth rendering scripts;
-- helpers for subtask visualization, LeRobot conversion, and train/test split merging.
-
-The generation scripts expect the public 3DGS-Mesh assets plus the small scene metadata and annotation files described in [`trajectory_generation/README.md`](trajectory_generation/README.md). The basic workflow is:
-
-```bash
-export HUGE_DATA_ROOT=/path/to/HUGE_data
-export HUGE_DATA_3D_ROOT=$HUGE_DATA_ROOT/data_3d
-export HUGE_DATA_TRAJ_ROOT=$HUGE_DATA_ROOT/data_traj
-export HUGE_LEROBOT_ROOT=/path/to/lerobot_output
-
-python trajectory_generation/scripts/generate/traj_gen_hl.py --env_id 1_office
-
-CUDA_VISIBLE_DEVICES=0 python trajectory_generation/scripts/render/my_render_traj_overall.py \
-  --data_root "$HUGE_DATA_ROOT" \
-  --env_id 1_office \
-  --task_id hl \
-  --poses_txt_name traj_random.txt
-
-uv run trajectory_generation/scripts/convert/convert_and_merge.py \
-  --data_root "$HUGE_DATA_TRAJ_ROOT" \
-  --task_id hl \
-  --repo_id_prefix task_hl
-```
 
 ## Training with PI0
 
@@ -172,3 +142,73 @@ Where:
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Aligned 3DGS-Mesh Construction
+
+The 3D environment construction pipeline is released under [`aligned_3dgs_mesh/`](aligned_3dgs_mesh/README.md). It documents the recommended fast collection workflow: capture raw aerial images with a DJI drone, reconstruct in DJI Terra, export 3DGS point-cloud blocks and mesh blocks, then align both products into one local metric coordinate frame.
+
+The released utilities include:
+
+- DJI Terra 3DGS PLY block merging;
+- DJI Terra OBJ mesh block merging;
+- ENU-to-projected local coordinate conversion for 3DGS point clouds;
+- mesh simplification for collision and depth queries;
+- optional DJI Terra coordinate annotation conversion;
+- an alignment sanity checker for the final point cloud and mesh.
+
+Basic workflow:
+
+```bash
+export SCENE_ROOT=/path/to/scene_export
+
+python aligned_3dgs_mesh/scripts/merge_3dgs_blocks.py \
+  --input-dir "$SCENE_ROOT/3dgs_ply" \
+  --output "$SCENE_ROOT/3dgs_ply/merged_3dgs.ply"
+
+python aligned_3dgs_mesh/scripts/merge_terra_mesh_blocks.py \
+  --input-dir "$SCENE_ROOT/terra_ply" \
+  --output "$SCENE_ROOT/terra_ply/merged_mesh.obj"
+
+python aligned_3dgs_mesh/scripts/convert_enu_ply_to_utm.py \
+  --input-ply "$SCENE_ROOT/3dgs_ply/merged_3dgs.ply" \
+  --output-ply "$SCENE_ROOT/3dgs_ply/point_cloud_utm50.ply" \
+  --source-metadata "$SCENE_ROOT/3dgs_ply/metadata.xml" \
+  --target-metadata "$SCENE_ROOT/terra_ply/metadata.xml"
+
+python aligned_3dgs_mesh/scripts/simplify_mesh.py \
+  --input "$SCENE_ROOT/terra_ply/merged_mesh.obj" \
+  --output "$SCENE_ROOT/terra_ply/simplified_mesh.obj" \
+  --ratio 0.05
+```
+
+The expected outputs are `3dgs_ply/point_cloud_utm50.ply` for RGB rendering and `terra_ply/simplified_mesh.obj` for collision-aware trajectory generation and evaluation.
+
+## Generate Your Own Trajectory Dataset
+
+The trajectory collection pipeline is released under [`trajectory_generation/`](trajectory_generation/README.md). It includes:
+
+- task-specific trajectory generators for landing, orbiting, inspection, mapping, and traversal tasks;
+- 3DGS-based RGB rendering and optional mesh-depth rendering scripts;
+- helpers for subtask visualization, LeRobot conversion, and train/test split merging.
+
+The generation scripts expect the public 3DGS-Mesh assets plus the small scene metadata and annotation files described in [`trajectory_generation/README.md`](trajectory_generation/README.md). The basic workflow is:
+
+```bash
+export HUGE_DATA_ROOT=/path/to/HUGE_data
+export HUGE_DATA_3D_ROOT=$HUGE_DATA_ROOT/data_3d
+export HUGE_DATA_TRAJ_ROOT=$HUGE_DATA_ROOT/data_traj
+export HUGE_LEROBOT_ROOT=/path/to/lerobot_output
+
+python trajectory_generation/scripts/generate/traj_gen_hl.py --env_id 1_office
+
+CUDA_VISIBLE_DEVICES=0 python trajectory_generation/scripts/render/my_render_traj_overall.py \
+  --data_root "$HUGE_DATA_ROOT" \
+  --env_id 1_office \
+  --task_id hl \
+  --poses_txt_name traj_random.txt
+
+uv run trajectory_generation/scripts/convert/convert_and_merge.py \
+  --data_root "$HUGE_DATA_TRAJ_ROOT" \
+  --task_id hl \
+  --repo_id_prefix task_hl
+```
