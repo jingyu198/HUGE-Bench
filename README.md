@@ -50,7 +50,7 @@ Please refer to the paper for the detailed task definitions.
 
 Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0). You can also train PI0 using your own data: 
 
-Please set up the training environment by following the official [OpenPi repository](https://github.com/Physical-Intelligence/openpi). Once the OpenPi environment is ready, you can train directly on `HUGE_Trajetory` because the dataset already follows the LeRobot format expected by the pipeline:
+Please set up the training environment by following the official [OpenPi repository](https://github.com/Physical-Intelligence/openpi). Then you can train on `HUGE_Trajetory`, and the dataset already follows the LeRobot format expected by the pipeline. 
 
 1. Copy `drone_policy.py` from this repository to `openpi/src/openpi/policies/drone_policy.py`.
    It defines the data mapping from the UAV environment to the model and back, and is used for both training and inference.
@@ -65,7 +65,7 @@ Please set up the training environment by following the official [OpenPi reposit
 
 ## 3DGS-Based Environment
 
-For 3DGS-based rendering and inference, please set up the official [Gaussian Splatting repository](https://github.com/graphdeco-inria/gaussian-splatting) first:
+For 3DGS-based rendering (used for RGB collection and model inference), please set up the official [Gaussian Splatting repository](https://github.com/graphdeco-inria/gaussian-splatting) first:
 
 Note:
 1. `3dgs_renderer.py` should be used inside the `gaussian-splatting/` project as the render-server entrypoint.
