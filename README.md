@@ -15,16 +15,16 @@
 
 ## Overview
 
-HUGE-Bench targets high-level UAV vision-language-action tasks, where agents must ground brief, potentially ambiguous commands into safe, multi-stage behaviors. HUGE-Bench contains 4 real-world digital twin scenes, 8 high-level tasks, and 2.56M meters of trajectories. It is built on an aligned 3DGS-Mesh representation that combines photorealistic rendering with collision-capable geometry, enabling scalable data generation and collision-aware evaluation.
+HUGE-Bench targets high-level UAV vision-language-action tasks, where agents ground brief, potentially ambiguous commands into safe, multi-stage behaviors. HUGE-Bench contains 4 real-world scenes, 8 high-level tasks, and 2.56M meters of trajectories. It is built on aligned 3DGS-Mesh representations that combines photorealistic rendering with collision-capable geometry, enabling scalable data generation and collision-aware evaluation.
 
-We open-source HUGE-Bench to provide the community with a UAV simulation learning platform that is easy to configure, high-fidelity, and collision-aware. We hope researchers can build on this benchmark to train and evaluate UAV VLA tasks in a practical and reproducible setting.
+We open-source HUGE-Bench to provide the community with a UAV simulation platform that is easy to configure, high-fidelity, and collision-aware. We hope researchers can build on this benchmark to train and evaluate UAV VLA tasks in a practical and reproducible setting.
 
 ## ToDo
 
-- ✅ Release `HUGE_Trajectory`, including all trajectory data (train and test) and one 3DGS environment (for test).
+- ✅ Release `HUGE_Trajectory`, including all trajectory data (train and test) and one 3DGS environment (for debug the pipeline).
 - ✅ Release checkpoint.
-- ✅ Release `HUGE_Environment`, including all 3DGS-Mesh environments (four main environments and three refined smaller environments used for low-altitude forward obstacle-avoidance tasks).
-- [ ] Release trajectory collection scripts, including RGB, depth, subtask, and instruction collection and generation.
+- ✅ Release HUGE_Environment, including 4 3DGS-Mesh environments (and 3 more finely reconstructed subregions for low-altitude forward obstacle avoidance).
+- ✅ Release trajectory collection scripts, including RGB, depth, subtask, and instruction generation.
 
 ## Dataset
 
@@ -48,20 +48,19 @@ Please refer to the paper for the detailed task definitions.
 
 ## Training with PI0
 
-Please set up the training environment by following the official [OpenPi repository](https://github.com/Physical-Intelligence/openpi).
+Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0). You can also train PI0 using your own data: 
 
-Once the OpenPi environment is ready, you can train directly on `HUGE_Trajetory` because the dataset already follows the LeRobot format expected by the pipeline.
+Please set up the training environment by following the official [OpenPi repository](https://github.com/Physical-Intelligence/openpi). Once the OpenPi environment is ready, you can train directly on `HUGE_Trajetory` because the dataset already follows the LeRobot format expected by the pipeline:
 
-1. Set up the `pi0` / `OpenPi` environment by following the official OpenPi installation instructions.
-2. Copy `drone_policy.py` from this repository to `openpi/src/openpi/policies/drone_policy.py`.
+1. Copy `drone_policy.py` from this repository to `openpi/src/openpi/policies/drone_policy.py`.
    It defines the data mapping from the UAV environment to the model and back, and is used for both training and inference.
-3. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
+2. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
    It defines the fine-tuning hyperparameters, data config, and weight loader for UAV training.
-4. Do not forget to compute the dataset normalization statistics before training:
+3. Do not forget to compute the dataset normalization statistics before training:
    `uv run scripts/compute_norm_stats.py --config-name pi0_drone`.
    This generates the normalization stats used by the `pi0_drone` training config.
 
-Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0).
+
 
 
 ## 3DGS-Based Environment
