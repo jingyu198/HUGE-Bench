@@ -47,6 +47,36 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 
 Please refer to the paper for the detailed task definitions.
 
+## Trajectory Generation
+
+The trajectory collection pipeline is released under [`trajectory_generation/`](trajectory_generation/README.md). It includes:
+
+- task-specific trajectory generators for landing, orbiting, inspection, mapping, and traversal tasks;
+- 3DGS-based RGB rendering and optional mesh-depth rendering scripts;
+- helpers for subtask visualization, LeRobot conversion, and train/test split merging.
+
+The generation scripts expect the public 3DGS-Mesh assets plus the small scene metadata and annotation files described in [`trajectory_generation/README.md`](trajectory_generation/README.md). The basic workflow is:
+
+```bash
+export HUGE_DATA_ROOT=/path/to/HUGE_data
+export HUGE_DATA_3D_ROOT=$HUGE_DATA_ROOT/data_3d
+export HUGE_DATA_TRAJ_ROOT=$HUGE_DATA_ROOT/data_traj
+export HUGE_LEROBOT_ROOT=/path/to/lerobot_output
+
+python trajectory_generation/scripts/generate/traj_gen_hl.py --env_id 1_office
+
+CUDA_VISIBLE_DEVICES=0 python trajectory_generation/scripts/render/my_render_traj_overall.py \
+  --data_root "$HUGE_DATA_ROOT" \
+  --env_id 1_office \
+  --task_id hl \
+  --poses_txt_name traj_random.txt
+
+uv run trajectory_generation/scripts/convert/convert_and_merge.py \
+  --data_root "$HUGE_DATA_TRAJ_ROOT" \
+  --task_id hl \
+  --repo_id_prefix task_hl
+```
+
 ## Training with PI0
 
 Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0). You can also train PI0 using your own data: 

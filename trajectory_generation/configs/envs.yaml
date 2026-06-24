@@ -1,0 +1,32 @@
+# Reference environment groups for the released generation scripts.
+main_envs:
+  - 1_office
+  - 2_city
+  - 3_road
+  - 4_lake
+
+obstacle_envs:
+  - 2_city
+  - no1_building
+  - no3_door
+  - overhead_bridge
+
+real_envs:
+  - real_road
+
+required_files:
+  common:
+    - BlocksExchangeUndistortAT_WithoutTiePoints.xml
+    - 3dgs_ply/point_cloud_utm50.ply
+    - 3dgs_ply/metadata.xml
+    - terra_ply/metadata.xml
+    - terra_ply/simplified_mesh.obj
+  landmarks:
+    - location_gen/landmark_merged.txt
+    - location_gen/landmark_merged_s.txt
+  building:
+    - building_coords/*.txt
+  farm:
+    - farm_coords/*.txt
+  road:
+    - road_coords/*.txt

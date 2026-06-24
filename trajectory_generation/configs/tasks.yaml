@@ -1,0 +1,25 @@
+tasks:
+  "0":
+    script: scripts/generate/traj_gen_0.py
+    envs: [1_office, 2_city, 3_road, 4_lake]
+  hl:
+    script: scripts/generate/traj_gen_hl.py
+    envs: [1_office, 2_city, 3_road, 4_lake]
+  orbit:
+    script: scripts/generate/traj_gen_orbit.py
+    envs: [1_office, 2_city, 3_road, 4_lake]
+  orbit_multi:
+    script: scripts/generate/traj_gen_orbit_multi.py
+    envs: [1_office, 2_city, 3_road, 4_lake]
+  building:
+    script: scripts/generate/traj_gen_building.py
+    envs: [1_office, 2_city]
+  road:
+    script: scripts/generate/traj_gen_road.py
+    envs: [3_road, real_road]
+  farm:
+    script: scripts/generate/traj_gen_farm.py
+    envs: [3_road, 4_lake]
+  obstacle:
+    script: scripts/generate/traj_gen_obstacle.py
+    envs: [2_city, no1_building, no3_door, overhead_bridge]
