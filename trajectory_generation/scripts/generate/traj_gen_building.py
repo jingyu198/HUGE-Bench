@@ -67,6 +67,21 @@ ENV_CONFIGS = {
 
         # 按标题/名称关键词选择高度配置
         "xlsx_title_overrides": {
+            "highrise": {
+                "start_h_min": 0.0,
+                "start_h_max": 20.0,
+                "end_height": -40.0,
+            },
+            "hotel": {
+                "start_h_min": 0.0,
+                "start_h_max": 20.0,
+                "end_height": -40.0,
+            },
+            "villa": {
+                "start_h_min": -50.0,
+                "start_h_max": -40.0,
+                "end_height": -60.0,
+            },
             "高楼": {
                 "start_h_min": 0.0,
                 "start_h_max": 20.0,
@@ -126,9 +141,12 @@ def resolve_height_config_for_building(
 
     # 优先 title（若未来接入 xlsx），否则退化到 name（txt 文件名）
     title_text = str(building.get("title") or building.get("name") or "")
+    title_text_lower = title_text.lower()
 
     for keyword, hcfg in overrides.items():
-        if keyword and keyword in title_text:
+        keyword_text = str(keyword)
+        keyword_lower = keyword_text.lower()
+        if keyword_text and (keyword_text in title_text or keyword_lower in title_text_lower):
             if "start_h_min" in hcfg:
                 cfg["start_h_min"] = float(hcfg["start_h_min"])
             if "start_h_max" in hcfg:

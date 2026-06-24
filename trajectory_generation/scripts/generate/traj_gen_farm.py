@@ -826,6 +826,15 @@ def infer_subject_from_region_name(name: str):
     优先级：施工 > 湿地 > 田 > 默认区域
     """
     s = str(name or "")
+    s_lower = s.lower()
+    if any(k in s_lower for k in ("construction", "worksite", "site")):
+        return {"zh": "建筑场地", "en": "construction site"}
+    if "wetland" in s_lower:
+        return {"zh": "湿地", "en": "wetland"}
+    if "field" in s_lower:
+        return {"zh": "田地", "en": "field"}
+    if "forest" in s_lower:
+        return {"zh": "树林", "en": "forest"}
     if "施工" in s:
         return {"zh": "建筑场地", "en": "construction site"}
     if "湿地" in s:

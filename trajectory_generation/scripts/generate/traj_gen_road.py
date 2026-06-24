@@ -526,6 +526,15 @@ def infer_road_subject_from_name(name: str) -> str:
     按优先级匹配，避免“小马路”先被“马路”截获。
     """
     name = str(name or "")
+    name_lower = name.lower()
+    if any(k in name_lower for k in ("small_road", "small-road", "small road")):
+        return "小马路"
+    if any(k in name_lower for k in ("lane", "dirt_road", "dirt-road", "dirt road")):
+        return "小路"
+    if any(k in name_lower for k in ("canal", "ditch")):
+        return "水沟"
+    if "road" in name_lower:
+        return "马路"
     keywords = ["小马路", "马路", "小路", "水沟"]
     for kw in keywords:
         if kw in name:

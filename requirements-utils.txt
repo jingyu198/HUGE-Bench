@@ -1,0 +1,20 @@
+# Standalone HUGE-Bench utility dependencies.
+# Install Gaussian Splatting and OpenPI in their own environments first.
+huggingface_hub
+imageio
+matplotlib
+numpy
+open3d
+opencv-python
+openpyxl
+pandas
+pillow
+plyfile
+pyarrow
+pyproj
+rtree
+scipy
+shapely
+tqdm
+trimesh
+tyro

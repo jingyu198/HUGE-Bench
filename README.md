@@ -33,6 +33,10 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 
 [`HUGE_Environment`](https://huggingface.co/datasets/yu781986168/3DGS_Mesh_Envs) includes all 3DGS-Mesh environments.
 
+For a complete local setup, including the expected data layout, external
+Gaussian Splatting/OpenPI checkouts, checkpoint paths, and evaluation commands,
+see the [reproduction guide](docs/reproduction.md).
+
 
 | Task ID | Task |
 | --- | --- |
@@ -49,17 +53,19 @@ Please refer to the paper for the detailed task definitions.
 
 ## Training with PI0
 
-Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0). You can also train PI0 using your own data: 
+Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0). You can also train PI0 using your own data:
 
-Please set up the training environment by following the official [OpenPi repository](https://github.com/Physical-Intelligence/openpi). Then you can train on `HUGE_Trajetory`, and the dataset already follows the LeRobot format expected by the pipeline. 
+Please set up the training environment by following the official [OpenPI repository](https://github.com/Physical-Intelligence/openpi). Then you can train on `HUGE_Trajectory`, and the dataset already follows the LeRobot format expected by the pipeline.
 
 1. Copy `drone_policy.py` from this repository to `openpi/src/openpi/policies/drone_policy.py`.
    It defines the data mapping from the UAV environment to the model and back, and is used for both training and inference.
 2. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
    It defines the fine-tuning hyperparameters, data config, and weight loader for UAV training.
-3. Do not forget to compute the dataset normalization statistics before training:
+3. Update the config paths for your local setup.
+   Set the LeRobot `repo_id` to the dataset you are training on, such as `task_overall/train` or `task_obstacle/train`, and replace `/path/to/pi0_base/params` with the PI0 base checkpoint `params` directory.
+4. Do not forget to compute the dataset normalization statistics before training:
    `uv run scripts/compute_norm_stats.py --config-name pi0_drone`.
-   This generates the normalization stats used by the `pi0_drone` training config.
+   This calculates the normalization statistics for the selected LeRobot dataset and writes the assets consumed by the training config. Replace `pi0_drone` with the exact config name you train if you use `pi0_overall` or a task-specific config.
 
 
 
@@ -69,9 +75,11 @@ Please set up the training environment by following the official [OpenPi reposit
 For 3DGS-based rendering (used for RGB collection and model inference), please set up the official [Gaussian Splatting repository](https://github.com/graphdeco-inria/gaussian-splatting) first:
 
 Note:
-1. `3dgs_renderer.py` should be used inside the `gaussian-splatting/` project as the render-server entrypoint.
-2. `action_infer.py` should be used inside the `openpi/scripts/` directory as the rollout entrypoint.
-3. `metric.py` is provided at the repository root for trajectory evaluation.
+1. Copy `gaussian_splatting/3dgs_renderer.py` into the official `gaussian-splatting/` project as the render-server entrypoint.
+2. Copy `gaussian_splatting/my_render_traj.py` into the official `gaussian-splatting/` project for trajectory rendering.
+3. Merge or replace `gaussian_splatting/utils/graphics_utils.py` with the corresponding file in `gaussian-splatting/utils/`.
+4. Copy `openpi/scripts/action_infer.py` into `openpi/scripts/` as the rollout entrypoint.
+5. `metric.py` is provided at the repository root for trajectory evaluation.
 
 ## Inference and Evaluation
 
@@ -96,7 +104,14 @@ CUDA_VISIBLE_DEVICES=1 uv run scripts/action_infer.py \
   --port 5550
 ```
 
-You will likely need to adapt dataset paths, checkpoint paths, and rendering templates to your local setup.
+For the released overall benchmark dataset, place the downloaded LeRobot split
+folders under `$HF_LEROBOT_HOME/task_overall/` and run with
+`--task_id overall --config_name pi0_overall`; the script then resolves split
+repo ids such as `task_overall/test_seen`. For task-specific datasets generated
+by the released scripts, use the matching task id such as `obstacle`,
+`building`, or `hl`.
+
+You will likely need to adapt dataset paths, checkpoint paths, and rendering templates to your local setup. The checkpoint directory should point to a directory containing `params/`, such as the downloaded [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0) model root.
 
 Then evaluate the saved trajectories:
 
@@ -190,6 +205,7 @@ export HUGE_DATA_3D_ROOT=$HUGE_DATA_ROOT/data_3d
 export HUGE_DATA_TRAJ_ROOT=$HUGE_DATA_ROOT/data_traj
 export HUGE_LEROBOT_ROOT=/path/to/lerobot_output
 
+python -m pip install -r requirements-utils.txt
 cp -r trajectory_generation/scene_annotations/data_3d/* "$HUGE_DATA_3D_ROOT/"
 
 python trajectory_generation/scripts/generate/traj_gen_hl.py --env_id 1_office
