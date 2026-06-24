@@ -57,6 +57,9 @@ Once the OpenPi environment is ready, you can train directly on `HUGE_Trajetory`
    It defines the data mapping from the UAV environment to the model and back, and is used for both training and inference.
 3. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
    It defines the fine-tuning hyperparameters, data config, and weight loader for UAV training.
+4. Do not forget to compute the dataset normalization statistics before training:
+   `uv run scripts/compute_norm_stats.py --config-name pi0_drone`.
+   This generates the normalization stats used by the `pi0_drone` training config.
 
 Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0).
 
