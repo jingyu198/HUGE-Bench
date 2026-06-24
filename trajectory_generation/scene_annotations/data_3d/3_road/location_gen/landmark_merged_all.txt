@@ -1,0 +1,61 @@
+#x	y	z	label
+-140.469	-29.196	-110.310	the multi lane arterial road
+-149.016	-57.532	-110.000	the marked pedestrian crosswalk
+-165.988	-22.826	-103.450	the construction site entrance gate
+-180.363	7.698	-110.780	the temporary construction office tents
+-210.486	-20.874	-109.760	the unpaved construction access road
+-177.940	-44.294	-110.740	the muddy drainage pond
+-188.875	16.128	-110.880	the parked passenger cars
+-42.359	-62.888	-86.480	the industrial warehouse building
+-36.459	-30.564	-100.300	the bus parking area
+-79.952	5.361	-108.520	the road bridge over canal
+-94.006	-36.122	-113.570	the curved canal waterway
+-120.993	19.043	-109.800	the road intersection with crosswalk
+-55.213	63.673	-116.290	the narrow canal waterway
+-81.261	7.729	-107.300	the two-lane road bridge
+-122.279	73.113	-109.490	the multi-lane divided roadway
+-29.750	-1.880	-96.040	the bus storage parking lot
+-137.403	53.228	-109.490	the multilane road with lane markings
+-182.965	131.342	-112.190	the water drainage canal
+-204.048	78.935	-105.950	the construction site with blue tarp covering
+-178.348	0.913	-107.940	the temporary site office trailers
+-105.094	143.633	-109.070	the major road intersection
+-39.508	98.060	-116.880	the canal road bridge
+-33.635	81.222	-111.660	the concrete drainage canal
+-47.763	182.561	-103.650	the industrial warehouse building
+-25.380	204.197	-110.900	the scrap storage yard
+-51.055	78.635	-116.830	the red cargo truck
+33.673	118.962	-108.390	the multi-lane bridge roadway
+33.089	191.803	-116.700	the canal waterway
+76.421	150.134	-108.230	the parking lot with cars
+82.457	156.186	-105.470	the row of portable site buildings
+-4.021	192.231	-110.450	the curved access road
+159.195	118.944	-108.500	the curved roof industrial building
+130.614	79.434	-108.630	the multi-lane road intersection
+129.350	92.484	-108.880	the striped pedestrian crosswalk
+117.577	158.356	-108.350	the yellow construction excavator
+0.456	229.493	-110.860	the curved asphalt road
+5.037	140.876	-108.020	the concrete bridge roadway
+52.062	242.429	-116.770	the river channel
+59.477	228.133	-115.130	the small river island
+81.044	155.595	-105.360	the parking lot
+84.509	162.040	-108.260	the long white-roofed building
+92.910	278.242	-110.960	the water control gate structure
+-191.430	171.460	-109.160	the multi-lane highway
+-136.355	173.107	-109.190	the crosswalk road intersection
+-194.260	257.832	-115.240	the plowed agricultural field
+-215.545	194.460	-109.800	the parked green buses
+-405.359	207.651	-111.070	the divided multi-lane highway
+-430.297	152.994	-106.970	the geotextile covered construction site
+-397.525	273.424	-115.000	the irrigated crop field
+-434.100	273.419	-114.990	the irrigation drainage canal
+-426.550	257.768	-115.050	the small utility shed
+-80.101	293.196	-110.640	the divided multi-lane highway
+-72.826	231.666	-109.910	the zebra crosswalk markings
+-109.440	368.018	-104.450	the circular industrial storage tanks
+-22.466	299.828	-114.850	the small retention pond
+48.233	299.857	-113.000	the narrow river channel
+15.176	286.414	-111.260	the curved asphalt roadway
+96.639	231.442	-115.740	the concrete water control structure
+82.113	350.251	-110.810	the gravel service road
+52.931	309.954	-110.600	the parked utility truck

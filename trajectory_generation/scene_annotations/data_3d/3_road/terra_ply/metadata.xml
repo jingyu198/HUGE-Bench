@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMetadata version="1">
+    <!--Spatial Reference System-->
+    <SRS>EPSG:32650</SRS>
+    <!--Origin in Spatial Reference System-->
+    <SRSOrigin>778925.93902471755,3350316.2592952522,128.73499999874363</SRSOrigin>
+    <Texture>
+        <ColorSource>Visible</ColorSource>
+    </Texture>
+</ModelMetadata>

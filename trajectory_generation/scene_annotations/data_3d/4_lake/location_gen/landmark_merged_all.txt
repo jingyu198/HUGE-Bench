@@ -1,0 +1,57 @@
+#x	y	z	label
+389.002	-56.656	-70.810	the curved dirt access road
+371.526	-47.936	-73.430	the blue plastic greenhouse complex
+349.607	-16.287	-74.470	the blue tarp greenhouse plots
+376.116	-61.150	-72.310	the irrigation canal channel
+347.002	-45.583	-75.270	the white roof farm shed
+271.671	-8.479	-74.330	the curving paved rural road
+261.050	-6.174	-74.400	the square water reservoir
+287.236	-53.556	-75.240	the cluster of plastic greenhouses
+314.150	-93.029	-74.440	the long blue covered greenhouse
+210.186	-70.781	-75.690	the dry pond basin
+220.188	-30.382	-72.600	the green roof shed building
+215.202	-22.523	-75.900	the dirt road junction
+203.557	-4.022	-76.040	the canal waterway
+211.737	-24.042	-74.900	the parked pickup truck
+201.878	-40.155	-73.440	the parallel dirt track
+121.452	-24.362	-77.250	the large lake surface
+126.356	-72.679	-74.280	the unpaved dirt road
+143.593	-93.146	-74.650	the farm field plots
+127.163	-89.441	-74.030	the plastic tunnel greenhouses
+-836.539	-85.565	-68.530	the concrete runway strip
+-828.021	-36.012	-72.000	the curved paved road
+-827.823	-19.543	-74.810	the drainage ditch with water
+-898.095	-93.307	-68.450	the helicopter landing pad
+-910.859	-39.865	-68.490	the concrete runway strip
+-893.527	-4.716	-71.460	the paved access road
+-1072.125	2.916	-56.170	the long industrial warehouse building
+-1083.528	-32.349	-68.920	the multi-lane paved roadway
+-1042.107	48.881	-68.510	the concrete parking lot
+-1099.238	40.581	-68.510	the construction materials stockpile
+-830.068	37.800	-76.960	the flooded marsh pond
+-837.707	12.192	-77.560	the dirt service road
+-847.513	-35.858	-71.340	the paved two-lane road
+-835.078	1.819	-74.210	the drainage canal
+834.645	86.682	-71.290	the curved asphalt road
+841.580	54.563	-69.070	the blue utility shed
+869.378	34.576	-66.900	the industrial building roof
+844.607	65.034	-69.060	the parked white cars
+-1065.524	79.566	-68.530	the wide concrete service road
+-1048.665	112.441	-74.350	the straight drainage canal
+-1067.804	19.502	-68.250	the large industrial building
+-1099.977	101.200	-68.190	the construction site office trailers
+-1148.099	71.662	-56.330	the curved roof industrial warehouse
+-1162.500	29.448	-69.050	the multi-lane asphalt road
+-1147.392	91.917	-68.230	the industrial service yard
+-1119.779	106.251	-68.000	the small utility building cluster
+-1165.389	85.538	-56.640	the large curved roof building
+-1126.196	110.158	-68.520	the temporary construction buildings
+-1140.880	167.802	-70.910	the paved access road
+-1150.276	126.669	-67.030	the parked vehicles cluster
+-1129.229	92.550	-68.430	the asphalt service lane
+-1169.056	91.469	-68.520	the curved concrete walkway
+-1069.058	114.032	-71.120	the two-lane paved road
+-1082.699	87.318	-68.520	the concrete service yard
+-1090.229	85.233	-68.520	the yellow construction loader
+-1102.511	99.630	-65.820	the metal-roof storage building
+-1070.669	87.488	-68.180	the parked white pickup truck

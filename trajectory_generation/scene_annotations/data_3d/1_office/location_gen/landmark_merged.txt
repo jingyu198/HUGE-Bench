@@ -1,0 +1,51 @@
+#x	y	z	label
+64.143	-236.579	-81.740	twin curved office building complex
+17.513	-164.477	-72.970	circular glass building
+-17.096	192.907	-72.920	curved glass atrium building
+-75.478	-72.244	-72.650	glass facade high-rise building
+-89.060	92.659	-58.670	rectangular high-rise building
+-143.598	120.091	-61.920	large warehouse complex
+-82.717	119.639	-67.850	large industrial building roof
+-47.927	230.417	-57.800	long rectangular building
+164.859	-281.458	-83.210	small service building
+-183.046	-13.630	-88.100	mechanical utility building with rooftop fans
+-10.804	133.109	-76.550	rooftop terrace with HVAC equipment
+-84.940	-14.887	-81.140	glass greenhouse structure
+-178.347	-122.637	-77.290	covered pedestrian walkway canopy
+-14.626	-27.758	-72.900	pedestrian bridge walkway
+241.607	-177.469	-82.600	multi-lane arterial road
+215.790	-243.836	-80.110	divided boulevard with landscaped median
+119.424	-74.488	-63.000	campus access road
+-186.414	-214.577	-82.440	curved access road
+-18.139	77.769	-82.140	curved driveway loop
+-158.046	-54.403	-82.220	asphalt road intersection
+247.054	-129.599	-82.400	street intersection crosswalk
+-196.773	205.121	-90.670	two-lane road bridge
+-213.677	114.588	-84.410	narrow drainage canal
+-234.127	-142.205	-78.090	canal waterway
+225.950	-135.346	-74.150	surface parking lot
+-75.841	189.062	-82.360	service vehicle parking lot
+379.959	87.278	-82.050	marked helipad landing circle
+102.882	276.066	-82.300	construction yard with concrete pipe stacks
+-57.146	191.127	-80.450	parked white trucks
+170.434	-165.792	-76.510	outdoor basketball court
+-145.987	51.839	-82.130	artificial turf soccer field
+40.020	-242.118	-81.940	landscaped courtyard garden
+87.930	-156.832	-81.000	pedestrian courtyard with intersecting paths
+-94.531	-105.314	-81.410	paved plaza with tile pattern
+-14.070	-94.270	-82.240	landscaped courtyard plaza
+76.013	-74.478	-82.200	circular fountain pool
+252.468	7.822	-82.420	pond with fountain jets
+264.606	3.905	-82.220	small park pond
+-109.691	235.257	-82.490	rectangular reflecting pond
+222.764	16.769	-81.830	circular ring sculpture
+200.003	-21.979	-82.120	circular stone plaza feature
+316.968	9.595	-81.600	curved park walking paths
+-173.721	-114.712	-77.010	curved roof pavilion building
+-15.480	12.808	-67.460	oval roof building
+-26.858	-145.570	-64.530	rounded roof building with rooftop equipment
+-7.307	-61.995	-72.630	curved roof building wing
+-154.709	-163.374	-58.230	modern curved-roof building
+150.187	-244.029	-82.650	large white roof building
+-17.361	176.448	-59.090	curved roof building
+-140.333	-88.347	-59.140	glass office building

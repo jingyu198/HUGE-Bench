@@ -1,0 +1,51 @@
+#x	y	z	label
+18.187	-180.755	-99.740	highway toll gate structure
+110.983	-149.228	-102.750	multi-lane bridge roadway
+262.109	23.232	-100.110	elevated skybridge walkway
+95.589	-81.693	-99.500	signalized road intersection with zebra crosswalks
+2.683	-124.422	-100.280	tree-lined arterial road
+-2.743	-144.608	-104.100	concrete drainage canal
+359.612	-27.621	-101.680	concrete culvert outlet
+119.221	-209.496	-109.490	river channel
+348.709	-50.291	-105.430	muddy pond shoreline
+119.586	-30.537	-99.080	solar canopy parking structure
+-153.721	-149.038	-100.250	marked parking lot
+232.958	-28.978	-60.180	office building with rooftop solar panels
+205.659	-36.045	-60.770	high-rise office tower
+224.395	-20.672	-80.450	high-rise residential tower
+17.961	-87.709	-98.500	residential apartment block
+292.163	-8.030	-98.190	warehouse building roof
+238.254	220.409	-93.260	tile-roof utility building
+115.949	9.760	-44.470	flat-roof building complex
+131.756	-5.885	-100.240	landscaped courtyard with paved walkways
+114.360	39.914	-100.180	paved courtyard with yellow markings
+-82.450	-51.480	-100.120	curved pedestrian plaza walkway
+122.460	-187.579	-104.970	riverside boardwalk path
+131.772	101.052	-100.330	red pedestrian path
+231.301	6.767	-98.710	colorful playground splash pad
+200.553	44.489	-100.190	garden pavilion shelter
+80.276	157.092	-102.950	community garden plots
+180.549	152.714	-100.240	basketball court
+157.623	-0.558	-98.980	running track curve
+382.990	-18.355	-101.580	construction excavator
+98.818	-150.643	-101.130	bridge construction work zone
+376.788	158.850	-100.360	construction dirt clearing
+-7.244	40.416	-103.200	dirt service road
+290.264	104.119	-99.420	paved road with guardrail
+382.504	133.108	-100.400	curved asphalt road
+-146.205	-71.205	-100.180	access road with marked parking bays
+-32.521	-60.564	-100.200	curved residential road junction
+-119.650	-202.596	-100.860	multi-lane highway
+-129.067	-8.966	-103.260	narrow canal waterway
+192.605	211.610	-104.260	small irrigation pond
+201.743	147.642	-99.070	oval fountain basin
+242.150	78.288	-100.150	square pavilion roof
+135.091	86.723	-56.620	tall rectangular building
+100.660	83.611	-48.370	large concrete building
+231.028	108.388	-61.160	long rooftop building
+373.608	184.857	-100.120	white utility building
+-125.116	-130.825	-100.190	paved courtyard plaza with square garden
+387.025	24.734	-100.600	paved access road
+26.265	-12.170	-93.420	asphalt road intersection
+82.952	97.613	-105.430	narrow canal pond
+153.004	-81.966	-100.610	parking lot area

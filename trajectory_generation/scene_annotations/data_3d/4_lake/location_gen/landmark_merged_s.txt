@@ -1,0 +1,31 @@
+#x	y	z	label
+371.526	-47.936	-73.430	blue plastic greenhouse complex
+376.116	-61.150	-72.310	irrigation canal channel
+261.050	-6.174	-74.400	square water reservoir
+210.186	-70.781	-75.690	dry pond basin
+-830.068	37.800	-76.960	flooded marsh pond
+121.452	-24.362	-77.250	large lake surface
+143.593	-93.146	-74.650	farm field plots
+347.002	-45.583	-75.270	white roof farm shed
+841.580	54.563	-69.070	blue utility shed
+-1102.511	99.630	-65.820	metal-roof storage building
+-1072.125	2.916	-56.170	long industrial warehouse building
+-1165.389	85.538	-56.640	large curved roof building
+-1147.392	91.917	-68.230	industrial service yard
+-1082.699	87.318	-68.520	concrete service yard
+-1099.977	101.200	-68.190	construction site office trailers
+-1099.238	40.581	-68.510	construction materials stockpile
+-836.539	-85.565	-68.530	concrete runway strip
+-898.095	-93.307	-68.450	helicopter landing pad
+-1042.107	48.881	-68.510	concrete parking lot
+-1065.524	79.566	-68.530	wide concrete service road
+-1083.528	-32.349	-68.920	multi-lane paved roadway
+834.645	86.682	-71.290	curved asphalt road
+215.202	-22.523	-75.900	dirt road junction
+126.356	-72.679	-74.280	unpaved dirt road
+201.878	-40.155	-73.440	parallel dirt track
+-827.823	-19.543	-74.810	drainage ditch with water
+-1048.665	112.441	-74.350	straight drainage canal
+211.737	-24.042	-74.900	parked pickup truck
+-1150.276	126.669	-67.030	parked vehicles cluster
+-1090.229	85.233	-68.520	yellow construction loader

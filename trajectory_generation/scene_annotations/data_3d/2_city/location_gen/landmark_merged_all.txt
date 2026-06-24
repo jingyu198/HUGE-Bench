@@ -1,0 +1,88 @@
+#x	y	z	label
+-123.144	-105.577	-69.580	the large building with rooftop solar panels
+-125.116	-130.825	-100.190	the paved courtyard plaza with square garden
+-153.721	-149.038	-100.250	the marked parking lot
+-120.778	-169.007	-100.970	the tree-lined access road
+-119.650	-202.596	-100.860	the multi-lane highway
+18.187	-180.755	-99.740	the highway toll gate structure
+-9.275	-191.797	-100.690	the multi lane highway roadway
+-2.743	-144.608	-104.100	the concrete drainage canal
+-0.443	-120.185	-100.180	the tree lined local road
+17.961	-87.709	-98.500	the residential apartment block
+-13.771	-91.779	-93.650	the residential apartment block
+110.983	-149.228	-102.750	the multi-lane bridge roadway
+119.221	-209.496	-109.490	the river channel
+122.460	-187.579	-104.970	the riverside boardwalk path
+136.012	-103.737	-103.650	the signalized road intersection
+153.004	-81.966	-100.610	the parking lot area
+98.818	-150.643	-101.130	the bridge construction work zone
+232.958	-28.978	-60.180	the office building with rooftop solar panels
+205.659	-36.045	-60.770	the high-rise office tower
+233.084	-106.996	-95.830	the multi-lane divided roadway
+230.076	-51.434	-100.720	the access road with parking bays
+95.589	-81.693	-99.500	the signalized road intersection with zebra crosswalks
+119.678	-129.214	-100.630	the multi lane divided highway
+134.133	-50.730	-61.190	the office building with rooftop solar panels
+119.586	-30.537	-99.080	the solar canopy parking structure
+131.756	-5.885	-100.240	the landscaped courtyard with paved walkways
+157.623	-0.558	-98.980	the running track curve
+2.683	-124.422	-100.280	the tree-lined arterial road
+-32.521	-60.564	-100.200	the curved residential road junction
+6.065	-56.458	-85.860	the rectangular apartment building
+-2.775	-26.221	-98.460	the marked parking lot
+-7.026	-29.497	-97.540	the white parked car
+-128.921	-85.393	-64.330	the solar panel roof industrial building
+-146.205	-71.205	-100.180	the access road with marked parking bays
+-129.067	-8.966	-103.260	the narrow canal waterway
+-82.450	-51.480	-100.120	the curved pedestrian plaza walkway
+-73.574	-94.047	-100.360	the rectangular flat roof office building
+37.575	66.172	-104.960	the narrow canal
+26.265	-12.170	-93.420	the asphalt road intersection
+-2.622	-16.005	-99.540	the rectangular apartment building
+-19.125	-26.870	-100.180	the parking lot
+-7.244	40.416	-103.200	the dirt service road
+115.949	9.760	-44.470	the flat-roof building complex
+108.972	70.479	-79.920	the high-rise tower building
+114.360	39.914	-100.180	the paved courtyard with yellow markings
+70.341	-19.315	-100.270	the road intersection with crosswalk markings
+231.301	6.767	-98.710	the colorful playground splash pad
+262.109	23.232	-100.110	the elevated skybridge walkway
+234.968	-12.554	-90.790	the curved running track path
+224.395	-20.672	-80.450	the high-rise residential tower
+237.128	43.475	-60.710	the high-rise residential tower
+200.553	44.489	-100.190	the garden pavilion shelter
+387.025	24.734	-100.600	the paved access road
+382.990	-18.355	-101.580	the construction excavator
+359.164	32.817	-105.660	the narrow drainage canal
+359.612	-27.621	-101.680	the concrete culvert outlet
+348.709	-50.291	-105.430	the muddy pond shoreline
+292.163	-8.030	-98.190	the warehouse building roof
+290.264	104.119	-99.420	the paved road with guardrail
+353.160	104.027	-105.630	the muddy river channel
+381.176	104.106	-100.330	the curved concrete access road
+376.788	158.850	-100.360	the construction dirt clearing
+180.549	152.714	-100.240	the basketball court
+201.743	147.642	-99.070	the oval fountain basin
+231.028	108.388	-61.160	the long rooftop building
+231.918	55.958	-76.170	the high-rise apartment building
+233.441	164.122	-85.790	the high-rise apartment building
+242.150	78.288	-100.150	the square pavilion roof
+236.665	143.629	-100.340	the square pavilion roof
+100.660	83.611	-48.370	the large concrete building
+135.091	86.723	-56.620	the tall rectangular building
+82.952	97.613	-105.430	the narrow canal pond
+110.792	136.773	-102.810	the unpaved dirt road
+80.276	157.092	-102.950	the community garden plots
+140.284	122.143	-99.160	the paved lot with yellow markings
+131.772	101.052	-100.330	the red pedestrian path
+231.825	167.484	-61.230	the multi-story concrete building
+238.254	220.409	-93.260	the tile-roof utility building
+192.605	211.610	-104.260	the small irrigation pond
+179.649	149.916	-100.240	the outdoor basketball court
+200.880	148.891	-98.970	the paved courtyard plaza
+217.948	190.990	-102.400	the dirt access road
+344.007	184.779	-102.660	the concrete drainage canal
+382.504	133.108	-100.400	the curved asphalt road
+373.608	184.857	-100.120	the white utility building
+300.533	254.065	-101.520	the yellow excavator machine
+312.322	181.892	-99.240	the unpaved access road

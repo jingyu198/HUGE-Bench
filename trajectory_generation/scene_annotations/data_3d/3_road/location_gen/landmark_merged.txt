@@ -1,0 +1,51 @@
+#x	y	z	label
+-165.988	-22.826	-103.450	construction site entrance gate
+-178.348	0.913	-107.940	temporary site office trailers
+-210.486	-20.874	-109.760	unpaved construction access road
+-430.297	152.994	-106.970	geotextile covered construction site
+117.577	158.356	-108.350	yellow construction excavator
+-42.359	-62.888	-86.480	industrial warehouse building
+159.195	118.944	-108.500	curved roof industrial building
+-109.440	368.018	-104.450	circular industrial storage tanks
+-25.380	204.197	-110.900	scrap storage yard
+-29.750	-1.880	-96.040	bus storage parking lot
+-215.545	194.460	-109.800	parked green buses
+-51.055	78.635	-116.830	red cargo truck
+52.931	309.954	-110.600	parked utility truck
+76.421	150.134	-108.230	parking lot with cars
+-191.430	171.460	-109.160	multi-lane highway
+-122.279	73.113	-109.490	multi-lane divided roadway
+-105.094	143.633	-109.070	major road intersection
+129.350	92.484	-108.880	striped pedestrian crosswalk
+-39.508	98.060	-116.880	canal road bridge
+-79.952	5.361	-108.520	road bridge over canal
+5.037	140.876	-108.020	concrete bridge roadway
+15.176	286.414	-111.260	curved asphalt roadway
+82.113	350.251	-110.810	gravel service road
+-182.965	131.342	-112.190	water drainage canal
+-33.635	81.222	-111.660	concrete drainage canal
+-434.100	273.419	-114.990	irrigation drainage canal
+-94.006	-36.122	-113.570	curved canal waterway
+-55.213	63.673	-116.290	narrow canal waterway
+52.062	242.429	-116.770	river channel
+48.233	299.857	-113.000	narrow river channel
+59.477	228.133	-115.130	small river island
+92.910	278.242	-110.960	water control gate structure
+96.639	231.442	-115.740	concrete water control structure
+-177.940	-44.294	-110.740	muddy drainage pond
+-22.466	299.828	-114.850	small retention pond
+-194.260	257.832	-115.240	plowed agricultural field
+-397.525	273.424	-115.000	irrigated crop field
+-426.550	257.768	-115.050	small utility shed
+84.509	162.040	-108.260	long white-roofed building
+-180.363	7.698	-110.780	temporary construction office tents
+-137.403	53.228	-109.490	multilane road with lane markings
+33.673	118.962	-108.390	multi-lane bridge roadway
+-120.993	19.043	-109.800	road intersection with crosswalk
+130.614	79.434	-108.630	multi-lane road intersection
+-149.016	-57.532	-110.000	marked pedestrian crosswalk
+-4.021	192.231	-110.450	curved access road
+0.456	229.493	-110.860	curved asphalt road
+-188.875	16.128	-110.880	parked passenger cars
+-36.459	-30.564	-100.300	bus parking area
+33.089	191.803	-116.700	canal waterway

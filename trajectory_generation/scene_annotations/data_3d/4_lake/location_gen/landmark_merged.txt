@@ -1,0 +1,51 @@
+#x	y	z	label
+371.526	-47.936	-73.430	blue plastic greenhouse complex
+376.116	-61.150	-72.310	irrigation canal channel
+347.002	-45.583	-75.270	white roof farm shed
+271.671	-8.479	-74.330	curving paved rural road
+261.050	-6.174	-74.400	square water reservoir
+287.236	-53.556	-75.240	cluster of plastic greenhouses
+314.150	-93.029	-74.440	long blue covered greenhouse
+210.186	-70.781	-75.690	dry pond basin
+215.202	-22.523	-75.900	dirt road junction
+211.737	-24.042	-74.900	parked pickup truck
+201.878	-40.155	-73.440	parallel dirt track
+121.452	-24.362	-77.250	large lake surface
+143.593	-93.146	-74.650	farm field plots
+127.163	-89.441	-74.030	plastic tunnel greenhouses
+-836.539	-85.565	-68.530	concrete runway strip
+-827.823	-19.543	-74.810	drainage ditch with water
+-898.095	-93.307	-68.450	helicopter landing pad
+-893.527	-4.716	-71.460	paved access road
+-1072.125	2.916	-56.170	long industrial warehouse building
+-1083.528	-32.349	-68.920	multi-lane paved roadway
+-1042.107	48.881	-68.510	concrete parking lot
+-1099.238	40.581	-68.510	construction materials stockpile
+-830.068	37.800	-76.960	flooded marsh pond
+-837.707	12.192	-77.560	dirt service road
+-835.078	1.819	-74.210	drainage canal
+834.645	86.682	-71.290	curved asphalt road
+841.580	54.563	-69.070	blue utility shed
+869.378	34.576	-66.900	industrial building roof
+844.607	65.034	-69.060	parked white cars
+-1065.524	79.566	-68.530	wide concrete service road
+-1048.665	112.441	-74.350	straight drainage canal
+-1067.804	19.502	-68.250	large industrial building
+-1099.977	101.200	-68.190	construction site office trailers
+-1148.099	71.662	-56.330	curved roof industrial warehouse
+-1147.392	91.917	-68.230	industrial service yard
+-1119.779	106.251	-68.000	small utility building cluster
+-1126.196	110.158	-68.520	temporary construction buildings
+-1150.276	126.669	-67.030	parked vehicles cluster
+-1129.229	92.550	-68.430	asphalt service lane
+-1169.056	91.469	-68.520	curved concrete walkway
+-1082.699	87.318	-68.520	concrete service yard
+-1090.229	85.233	-68.520	yellow construction loader
+-1102.511	99.630	-65.820	metal-roof storage building
+389.002	-56.656	-70.810	curved dirt access road
+126.356	-72.679	-74.280	unpaved dirt road
+203.557	-4.022	-76.040	canal waterway
+-1165.389	85.538	-56.640	large curved roof building
+-847.513	-35.858	-71.340	paved two-lane road
+-1069.058	114.032	-71.120	two-lane paved road
+220.188	-30.382	-72.600	green roof shed building

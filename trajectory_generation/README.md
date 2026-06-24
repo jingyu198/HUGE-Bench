@@ -18,35 +18,39 @@ Expected dataset root:
 
 ```text
 <HUGE_DATA_ROOT>/
-├── data_3d/
-│   └── <env_id>/
-│       ├── BlocksExchangeUndistortAT_WithoutTiePoints.xml
-│       ├── 3dgs_ply/
-│       │   ├── point_cloud_utm50.ply
-│       │   └── metadata.xml
-│       ├── terra_ply/
-│       │   ├── simplified_mesh.obj
-│       │   └── metadata.xml
-│       ├── location_gen/landmark_merged*.txt
-│       ├── building_coords/*.txt
-│       ├── farm_coords/*.txt
-│       └── road_coords/*.txt
-└── data_traj/
-    └── task_<task_id>/
-        └── <env_id>/
-            ├── traj_random.txt
-            ├── traj_meta.txt
-            ├── subtask.txt
-            ├── instruction.txt
-            ├── render_img/
-            ├── render_depth/
-            └── wash_res.txt
+|-- data_3d/
+|   `-- <env_id>/
+|       |-- BlocksExchangeUndistortAT_WithoutTiePoints.xml
+|       |-- 3dgs_ply/
+|       |   |-- point_cloud_utm50.ply
+|       |   `-- metadata.xml
+|       |-- terra_ply/
+|       |   |-- simplified_mesh.obj
+|       |   `-- metadata.xml
+|       |-- location_gen/landmark_merged*.txt
+|       |-- building_coords/*.txt
+|       |-- farm_coords/*.txt
+|       `-- road_coords/*.txt
+`-- data_traj/
+    `-- task_<task_id>/
+        `-- <env_id>/
+            |-- traj_random.txt
+            |-- traj_meta.txt
+            |-- subtask.txt
+            |-- instruction.txt
+            |-- render_img/
+            |-- render_depth/
+            `-- wash_res.txt
 ```
 
 The public `HUGE_Environment` release contains the 3DGS point clouds and mesh
-assets. The trajectory-generation scripts also need the small XML / metadata /
-annotation files listed above. If they are distributed separately, place them
-under the same `data_3d/<env_id>/` folders.
+assets. This repository releases the small XML, metadata, landmark, and contour
+annotation files under [`scene_annotations/`](scene_annotations/). Copy them
+into the same `data_3d/<env_id>/` folders before generating trajectories:
+
+```bash
+cp -r trajectory_generation/scene_annotations/data_3d/* "$HUGE_DATA_ROOT/data_3d/"
+```
 
 ## Environment Variables
 

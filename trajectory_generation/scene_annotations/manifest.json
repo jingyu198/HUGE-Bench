@@ -1,0 +1,776 @@
+[
+  {
+    "env_id": "1_office",
+    "kind": "metadata",
+    "source": "1_office/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/1_office/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "metadata",
+    "source": "1_office/3dgs_ply/metadata.xml",
+    "released": "data_3d/1_office/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "metadata",
+    "source": "1_office/terra_ply/metadata.xml",
+    "released": "data_3d/1_office/terra_ply/metadata.xml"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "landmark",
+    "source": "1_office/location_gen/landmark_merged.txt",
+    "released": "data_3d/1_office/location_gen/landmark_merged.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "landmark",
+    "source": "1_office/location_gen/landmark_merged_all.txt",
+    "released": "data_3d/1_office/location_gen/landmark_merged_all.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "landmark",
+    "source": "1_office/location_gen/landmark_merged_s.txt",
+    "released": "data_3d/1_office/location_gen/landmark_merged_s.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/1.txt",
+    "released": "data_3d/1_office/building_coords/1.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/10.txt",
+    "released": "data_3d/1_office/building_coords/10.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/11.txt",
+    "released": "data_3d/1_office/building_coords/11.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/12.txt",
+    "released": "data_3d/1_office/building_coords/12.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/13.txt",
+    "released": "data_3d/1_office/building_coords/13.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/1415.txt",
+    "released": "data_3d/1_office/building_coords/1415.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/16.txt",
+    "released": "data_3d/1_office/building_coords/16.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/3.txt",
+    "released": "data_3d/1_office/building_coords/3.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/31.txt",
+    "released": "data_3d/1_office/building_coords/31.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/4.txt",
+    "released": "data_3d/1_office/building_coords/4.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/5.txt",
+    "released": "data_3d/1_office/building_coords/5.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/6.txt",
+    "released": "data_3d/1_office/building_coords/6.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/7.txt",
+    "released": "data_3d/1_office/building_coords/7.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/8.txt",
+    "released": "data_3d/1_office/building_coords/8.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/9.txt",
+    "released": "data_3d/1_office/building_coords/9.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/dining_1.txt",
+    "released": "data_3d/1_office/building_coords/dining_1.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/dining_2.txt",
+    "released": "data_3d/1_office/building_coords/dining_2.txt"
+  },
+  {
+    "env_id": "1_office",
+    "kind": "coord",
+    "source": "1_office/building_coords/small_1.txt",
+    "released": "data_3d/1_office/building_coords/small_1.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "metadata",
+    "source": "2_city/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/2_city/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "metadata",
+    "source": "2_city/3dgs_ply/metadata.xml",
+    "released": "data_3d/2_city/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "metadata",
+    "source": "2_city/terra_ply/metadata.xml",
+    "released": "data_3d/2_city/terra_ply/metadata.xml"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "landmark",
+    "source": "2_city/location_gen/landmark_merged.txt",
+    "released": "data_3d/2_city/location_gen/landmark_merged.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "landmark",
+    "source": "2_city/location_gen/landmark_merged_all.txt",
+    "released": "data_3d/2_city/location_gen/landmark_merged_all.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "landmark",
+    "source": "2_city/location_gen/landmark_merged_s.txt",
+    "released": "data_3d/2_city/location_gen/landmark_merged_s.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58851.txt",
+    "released": "data_3d/2_city/building_coords/villa_1.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u588510.txt",
+    "released": "data_3d/2_city/building_coords/villa_10.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u588511.txt",
+    "released": "data_3d/2_city/building_coords/villa_11.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u588512.txt",
+    "released": "data_3d/2_city/building_coords/villa_12.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u588513.txt",
+    "released": "data_3d/2_city/building_coords/villa_13.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58852.txt",
+    "released": "data_3d/2_city/building_coords/villa_2.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58853.txt",
+    "released": "data_3d/2_city/building_coords/villa_3.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58854.txt",
+    "released": "data_3d/2_city/building_coords/villa_4.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58855.txt",
+    "released": "data_3d/2_city/building_coords/villa_5.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58856.txt",
+    "released": "data_3d/2_city/building_coords/villa_6.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58857.txt",
+    "released": "data_3d/2_city/building_coords/villa_7.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58858.txt",
+    "released": "data_3d/2_city/building_coords/villa_8.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u522b\u58859.txt",
+    "released": "data_3d/2_city/building_coords/villa_9.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9152\u5e97.txt",
+    "released": "data_3d/2_city/building_coords/hotel.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c1.txt",
+    "released": "data_3d/2_city/building_coords/highrise_1.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c2.txt",
+    "released": "data_3d/2_city/building_coords/highrise_2.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c3.txt",
+    "released": "data_3d/2_city/building_coords/highrise_3.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c4.txt",
+    "released": "data_3d/2_city/building_coords/highrise_4.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c5.txt",
+    "released": "data_3d/2_city/building_coords/highrise_5.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c6.txt",
+    "released": "data_3d/2_city/building_coords/highrise_6.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c7.txt",
+    "released": "data_3d/2_city/building_coords/highrise_7.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c8.txt",
+    "released": "data_3d/2_city/building_coords/highrise_8.txt"
+  },
+  {
+    "env_id": "2_city",
+    "kind": "coord",
+    "source": "2_city/building_coords/\u5c45\u6c11\u533a_\u5750\u6807 \u9ad8\u697c9.txt",
+    "released": "data_3d/2_city/building_coords/highrise_9.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "metadata",
+    "source": "3_road/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/3_road/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "metadata",
+    "source": "3_road/3dgs_ply/metadata.xml",
+    "released": "data_3d/3_road/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "metadata",
+    "source": "3_road/terra_ply/metadata.xml",
+    "released": "data_3d/3_road/terra_ply/metadata.xml"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "landmark",
+    "source": "3_road/location_gen/landmark_merged.txt",
+    "released": "data_3d/3_road/location_gen/landmark_merged.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "landmark",
+    "source": "3_road/location_gen/landmark_merged_all.txt",
+    "released": "data_3d/3_road/location_gen/landmark_merged_all.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "landmark",
+    "source": "3_road/location_gen/landmark_merged_s.txt",
+    "released": "data_3d/3_road/location_gen/landmark_merged_s.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u65bd\u5de51.txt",
+    "released": "data_3d/3_road/farm_coords/construction_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u65bd\u5de52.txt",
+    "released": "data_3d/3_road/farm_coords/construction_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u65bd\u5de53.txt",
+    "released": "data_3d/3_road/farm_coords/construction_3.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u6811\u6797.txt",
+    "released": "data_3d/3_road/farm_coords/forest.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75301.txt",
+    "released": "data_3d/3_road/farm_coords/field_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u753010.txt",
+    "released": "data_3d/3_road/farm_coords/field_10.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u753011.txt",
+    "released": "data_3d/3_road/farm_coords/field_11.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u753012.txt",
+    "released": "data_3d/3_road/farm_coords/field_12.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u753013.txt",
+    "released": "data_3d/3_road/farm_coords/field_13.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u753014.txt",
+    "released": "data_3d/3_road/farm_coords/field_14.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u753015.txt",
+    "released": "data_3d/3_road/farm_coords/field_15.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u753016.txt",
+    "released": "data_3d/3_road/farm_coords/field_16.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75302.txt",
+    "released": "data_3d/3_road/farm_coords/field_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75303.txt",
+    "released": "data_3d/3_road/farm_coords/field_3.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75304.txt",
+    "released": "data_3d/3_road/farm_coords/field_4.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75305.txt",
+    "released": "data_3d/3_road/farm_coords/field_5.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75306.txt",
+    "released": "data_3d/3_road/farm_coords/field_6.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75307.txt",
+    "released": "data_3d/3_road/farm_coords/field_7.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75308.txt",
+    "released": "data_3d/3_road/farm_coords/field_8.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/farm_coords/\u9053\u8def_\u5750\u6807 \u75309.txt",
+    "released": "data_3d/3_road/farm_coords/field_9.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u8def1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/lane_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u8def2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/lane_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def1-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_1_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def1-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_1_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def2-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_2_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def2-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_2_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def3-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_3_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def3-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_3_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def4-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_4_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def4-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_4_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def5-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_5_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def5-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_5_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u5c0f\u9a6c\u8def6 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/small_road_6.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def1-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_1_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def1-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_1_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def2-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_2_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def2-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_2_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def3-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_3_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def3-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_3_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def4-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_4_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def4-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_4_2.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def5-1 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_5_1.txt"
+  },
+  {
+    "env_id": "3_road",
+    "kind": "coord",
+    "source": "3_road/road_coords/\u9053\u8def_\u5750\u6807 \u9a6c\u8def5-2 \u65b0.txt",
+    "released": "data_3d/3_road/road_coords/road_5_2.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "metadata",
+    "source": "4_lake/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/4_lake/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "metadata",
+    "source": "4_lake/3dgs_ply/metadata.xml",
+    "released": "data_3d/4_lake/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "metadata",
+    "source": "4_lake/terra_ply/metadata.xml",
+    "released": "data_3d/4_lake/terra_ply/metadata.xml"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "landmark",
+    "source": "4_lake/location_gen/landmark_merged.txt",
+    "released": "data_3d/4_lake/location_gen/landmark_merged.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "landmark",
+    "source": "4_lake/location_gen/landmark_merged_all.txt",
+    "released": "data_3d/4_lake/location_gen/landmark_merged_all.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "landmark",
+    "source": "4_lake/location_gen/landmark_merged_s.txt",
+    "released": "data_3d/4_lake/location_gen/landmark_merged_s.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u6e7f\u57301.txt",
+    "released": "data_3d/4_lake/farm_coords/wetland_1.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u6e7f\u57302.txt",
+    "released": "data_3d/4_lake/farm_coords/wetland_2.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u6e7f\u57303.txt",
+    "released": "data_3d/4_lake/farm_coords/wetland_3.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u6e7f\u57304.txt",
+    "released": "data_3d/4_lake/farm_coords/wetland_4.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u6e7f\u57305.txt",
+    "released": "data_3d/4_lake/farm_coords/wetland_5.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u6e7f\u57306.txt",
+    "released": "data_3d/4_lake/farm_coords/wetland_6.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u6e7f\u57307.txt",
+    "released": "data_3d/4_lake/farm_coords/wetland_7.txt"
+  },
+  {
+    "env_id": "4_lake",
+    "kind": "coord",
+    "source": "4_lake/farm_coords/\u7530.txt",
+    "released": "data_3d/4_lake/farm_coords/field.txt"
+  },
+  {
+    "env_id": "real_road",
+    "kind": "metadata",
+    "source": "real_road/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/real_road/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "real_road",
+    "kind": "metadata",
+    "source": "real_road/3dgs_ply/metadata.xml",
+    "released": "data_3d/real_road/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "real_road",
+    "kind": "metadata",
+    "source": "real_road/terra_ply/metadata.xml",
+    "released": "data_3d/real_road/terra_ply/metadata.xml"
+  },
+  {
+    "env_id": "real_road",
+    "kind": "coord",
+    "source": "real_road/road_coords/\u5b9e\u9a8c\u9a6c\u8def_\u5750\u68071.txt",
+    "released": "data_3d/real_road/road_coords/real_road_10.txt"
+  },
+  {
+    "env_id": "no1_building",
+    "kind": "metadata",
+    "source": "no1_building/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/no1_building/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "no1_building",
+    "kind": "metadata",
+    "source": "no1_building/3dgs_ply/metadata.xml",
+    "released": "data_3d/no1_building/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "no1_building",
+    "kind": "metadata",
+    "source": "no1_building/terra_ply/metadata.xml",
+    "released": "data_3d/no1_building/terra_ply/metadata.xml"
+  },
+  {
+    "env_id": "no3_door",
+    "kind": "metadata",
+    "source": "no3_door/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/no3_door/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "no3_door",
+    "kind": "metadata",
+    "source": "no3_door/3dgs_ply/metadata.xml",
+    "released": "data_3d/no3_door/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "no3_door",
+    "kind": "metadata",
+    "source": "no3_door/terra_ply/metadata.xml",
+    "released": "data_3d/no3_door/terra_ply/metadata.xml"
+  },
+  {
+    "env_id": "overhead_bridge",
+    "kind": "metadata",
+    "source": "overhead_bridge/BlocksExchangeUndistortAT_WithoutTiePoints.xml",
+    "released": "data_3d/overhead_bridge/BlocksExchangeUndistortAT_WithoutTiePoints.xml"
+  },
+  {
+    "env_id": "overhead_bridge",
+    "kind": "metadata",
+    "source": "overhead_bridge/3dgs_ply/metadata.xml",
+    "released": "data_3d/overhead_bridge/3dgs_ply/metadata.xml"
+  },
+  {
+    "env_id": "overhead_bridge",
+    "kind": "metadata",
+    "source": "overhead_bridge/terra_ply/metadata.xml",
+    "released": "data_3d/overhead_bridge/terra_ply/metadata.xml"
+  }
+]

@@ -134,15 +134,6 @@ Where:
 - `instruction.txt` records the prompt, split, environment id, checkpoint, and evaluation settings used for that episode.
 - `gt_pred_side_by_side.mp4` shows the rendered ground-truth trajectory and predicted trajectory side by side for quick visual comparison.
 
-## Acknowledgements
-
-- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
-- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Aligned 3DGS-Mesh Construction
 
 The 3D environment construction pipeline is released under [`aligned_3dgs_mesh/`](aligned_3dgs_mesh/README.md). It documents the recommended fast collection workflow: capture raw aerial images with a DJI drone, reconstruct in DJI Terra, export 3DGS point-cloud blocks and mesh blocks, then align both products into one local metric coordinate frame.
@@ -191,13 +182,15 @@ The trajectory collection pipeline is released under [`trajectory_generation/`](
 - 3DGS-based RGB rendering and optional mesh-depth rendering scripts;
 - helpers for subtask visualization, LeRobot conversion, and train/test split merging.
 
-The generation scripts expect the public 3DGS-Mesh assets plus the small scene metadata and annotation files described in [`trajectory_generation/README.md`](trajectory_generation/README.md). The basic workflow is:
+The generation scripts expect the public 3DGS-Mesh assets plus the small scene metadata and annotation files released under [`trajectory_generation/scene_annotations/`](trajectory_generation/scene_annotations/). The basic workflow is:
 
 ```bash
 export HUGE_DATA_ROOT=/path/to/HUGE_data
 export HUGE_DATA_3D_ROOT=$HUGE_DATA_ROOT/data_3d
 export HUGE_DATA_TRAJ_ROOT=$HUGE_DATA_ROOT/data_traj
 export HUGE_LEROBOT_ROOT=/path/to/lerobot_output
+
+cp -r trajectory_generation/scene_annotations/data_3d/* "$HUGE_DATA_3D_ROOT/"
 
 python trajectory_generation/scripts/generate/traj_gen_hl.py --env_id 1_office
 
@@ -212,3 +205,12 @@ uv run trajectory_generation/scripts/convert/convert_and_merge.py \
   --task_id hl \
   --repo_id_prefix task_hl
 ```
+
+## Acknowledgements
+
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.

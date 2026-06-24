@@ -1,0 +1,82 @@
+#x	y	z	label
+64.143	-236.579	-81.740	the twin curved office building complex
+91.509	-234.721	-70.490	the rooftop mechanical equipment enclosure
+40.020	-242.118	-81.940	the landscaped courtyard garden
+17.513	-164.477	-72.970	the circular glass building
+62.740	-309.042	-82.460	the multi-lane asphalt road
+170.434	-165.792	-76.510	the outdoor basketball court
+150.187	-244.029	-82.650	the large white roof building
+215.790	-243.836	-80.110	the divided boulevard with landscaped median
+164.859	-281.458	-83.210	the small service building
+193.138	-145.827	-82.130	the outdoor basketball court
+189.575	-102.740	-57.180	the curved roof complex building
+161.737	-145.466	-57.370	the rectangular roof office building
+241.607	-177.469	-82.600	the multi-lane arterial road
+225.950	-135.346	-74.150	the surface parking lot
+207.859	-108.905	-81.780	the oval landscaped courtyard
+76.013	-74.478	-82.200	the circular fountain pool
+82.539	-194.109	-57.130	the long curved roof building
+80.416	-127.782	-57.210	the narrow curved roof building
+87.930	-156.832	-81.000	the pedestrian courtyard with intersecting paths
+119.424	-74.488	-63.000	the campus access road
+-82.728	-142.498	-59.320	the curved roof office building
+-26.858	-145.570	-64.530	the rounded roof building with rooftop equipment
+-75.478	-72.244	-72.650	the glass facade high-rise building
+-45.843	-220.377	-71.910	the glass facade office building
+-94.531	-105.314	-81.410	the paved plaza with tile pattern
+-154.709	-163.374	-58.230	the modern curved-roof building
+-178.347	-122.637	-77.290	the covered pedestrian walkway canopy
+-140.333	-88.347	-59.140	the glass office building
+-170.279	-71.693	-82.220	the surface parking lot
+-234.127	-142.205	-78.090	the canal waterway
+-186.414	-214.577	-82.440	the curved access road
+-183.046	-13.630	-88.100	the mechanical utility building with rooftop fans
+-173.721	-114.712	-77.010	the curved roof pavilion building
+-171.665	-80.478	-78.750	the marked parking lot
+-158.046	-54.403	-82.220	the asphalt road intersection
+-138.247	-1.102	-58.630	the office building block
+-138.773	-91.368	-59.980	the office building block
+-60.646	-56.410	-57.300	the curved roof office building
+-73.077	13.109	-67.040	the curved glass facade building
+-7.307	-61.995	-72.630	the curved roof building wing
+-14.070	-94.270	-82.240	the landscaped courtyard plaza
+-84.940	-14.887	-81.140	the glass greenhouse structure
+-14.626	-27.758	-72.900	the pedestrian bridge walkway
+252.468	7.822	-82.420	the pond with fountain jets
+222.764	16.769	-81.830	the circular ring sculpture
+200.003	-21.979	-82.120	the circular stone plaza feature
+193.975	-93.003	-56.540	the curved roof office building
+165.818	-10.136	-58.450	the rectangular roof office building
+247.054	-129.599	-82.400	the street intersection crosswalk
+264.606	3.905	-82.220	the small park pond
+316.968	9.595	-81.600	the curved park walking paths
+276.578	87.471	-82.520	the asphalt parking lot
+373.387	0.134	-82.380	the signalized road intersection crosswalks
+379.959	87.278	-82.050	the marked helipad landing circle
+315.599	55.873	-82.630	the small utility building
+-66.247	41.752	-58.340	the curved roof office building
+-89.060	92.659	-58.670	the rectangular high-rise building
+-15.480	12.808	-67.460	the oval roof building
+-27.925	80.948	-75.170	the paved courtyard plaza
+-86.633	62.915	-72.710	the curved access road
+-143.598	120.091	-61.920	the large warehouse complex
+-145.987	51.839	-82.130	the artificial turf soccer field
+-196.773	205.121	-90.670	the two-lane road bridge
+-213.677	114.588	-84.410	the narrow drainage canal
+-173.891	103.392	-60.620	the paved parking lot
+-82.717	119.639	-67.850	the large industrial building roof
+-17.096	192.907	-72.920	the curved glass atrium building
+-10.804	133.109	-76.550	the rooftop terrace with HVAC equipment
+-18.139	77.769	-82.140	the curved driveway loop
+-75.841	189.062	-82.360	the service vehicle parking lot
+80.089	235.290	-82.730	the divided multi-lane roadway
+39.373	206.568	-58.650	the curved roof office building
+74.529	169.170	-76.240	the landscaped courtyard with walking paths
+102.882	276.066	-82.300	the construction yard with concrete pipe stacks
+15.456	283.603	-82.530	the marked crosswalk intersection
+-47.927	230.417	-57.800	the long rectangular building
+-17.361	176.448	-59.090	the curved roof building
+-109.691	235.257	-82.490	the rectangular reflecting pond
+-85.391	261.159	-82.180	the marked parking lot
+-15.515	281.690	-82.440	the road intersection with crosswalks
+-57.146	191.127	-80.450	the parked white trucks

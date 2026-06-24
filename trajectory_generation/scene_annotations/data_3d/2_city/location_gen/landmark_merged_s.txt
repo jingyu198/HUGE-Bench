@@ -1,0 +1,31 @@
+#x	y	z	label
+18.187	-180.755	-99.740	highway toll gate structure
+110.983	-149.228	-102.750	multi-lane bridge roadway
+262.109	23.232	-100.110	elevated skybridge walkway
+95.589	-81.693	-99.500	signalized road intersection with zebra crosswalks
+2.683	-124.422	-100.280	tree-lined arterial road
+-2.743	-144.608	-104.100	concrete drainage canal
+359.612	-27.621	-101.680	concrete culvert outlet
+119.221	-209.496	-109.490	river channel
+348.709	-50.291	-105.430	muddy pond shoreline
+119.586	-30.537	-99.080	solar canopy parking structure
+-153.721	-149.038	-100.250	marked parking lot
+232.958	-28.978	-60.180	office building with rooftop solar panels
+205.659	-36.045	-60.770	high-rise office tower
+224.395	-20.672	-80.450	high-rise residential tower
+292.163	-8.030	-98.190	warehouse building roof
+238.254	220.409	-93.260	tile-roof utility building
+131.756	-5.885	-100.240	landscaped courtyard with paved walkways
+-82.450	-51.480	-100.120	curved pedestrian plaza walkway
+122.460	-187.579	-104.970	riverside boardwalk path
+131.772	101.052	-100.330	red pedestrian path
+231.301	6.767	-98.710	colorful playground splash pad
+200.553	44.489	-100.190	garden pavilion shelter
+80.276	157.092	-102.950	community garden plots
+180.549	152.714	-100.240	basketball court
+157.623	-0.558	-98.980	running track curve
+98.818	-150.643	-101.130	bridge construction work zone
+382.990	-18.355	-101.580	construction excavator
+-7.244	40.416	-103.200	dirt service road
+192.605	211.610	-104.260	small irrigation pond
+201.743	147.642	-99.070	oval fountain basin
