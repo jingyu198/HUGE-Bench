@@ -1,0 +1,1621 @@
+# traj_id  subtask_id  pose_id_start  pose_id_end  subtask
+0 0 0 2 Turn to face the construction site entrance gate.
+0 1 3 43 Fly while descending to 30 meters above the construction site entrance gate.
+0 2 44 61 Turn to enter a 30-meter-radius orbit around the construction site entrance gate.
+0 3 62 250 Orbit the construction site entrance gate once with a 30-meter radius.
+0 4 251 267 Turn to face the starting point.
+0 5 268 308 Fly while ascending back to the starting point.
+1 0 309 317 Turn to face the construction site entrance gate.
+1 1 318 379 Fly while descending to 30 meters above the construction site entrance gate.
+1 2 380 397 Turn to enter a 20-meter-radius orbit around the construction site entrance gate.
+1 3 398 523 Orbit the construction site entrance gate once with a 20-meter radius.
+1 4 524 540 Turn to face the starting point.
+1 5 541 602 Fly while ascending back to the starting point.
+2 0 603 622 Turn to face the construction site entrance gate.
+2 1 623 680 Fly while descending to 30 meters above the construction site entrance gate.
+2 2 681 697 Turn to enter a 20-meter-radius orbit around the construction site entrance gate.
+2 3 698 823 Orbit the construction site entrance gate once with a 20-meter radius.
+2 4 824 840 Turn to face the starting point.
+2 5 841 898 Fly while ascending back to the starting point.
+3 0 899 920 Turn to face the construction site entrance gate.
+3 1 921 978 Fly while descending to 30 meters above the construction site entrance gate.
+3 2 979 996 Turn to enter a 30-meter-radius orbit around the construction site entrance gate.
+3 3 997 1185 Orbit the construction site entrance gate once with a 30-meter radius.
+3 4 1186 1202 Turn to face the starting point.
+3 5 1203 1260 Fly while ascending back to the starting point.
+4 0 1261 1278 Turn to face the construction site entrance gate.
+4 1 1279 1321 Fly while descending to 30 meters above the construction site entrance gate.
+4 2 1322 1338 Turn to enter a 10-meter-radius orbit around the construction site entrance gate.
+4 3 1339 1401 Orbit the construction site entrance gate once with a 10-meter radius.
+4 4 1402 1418 Turn to face the starting point.
+4 5 1419 1461 Fly while ascending back to the starting point.
+5 0 1462 1471 Turn to face the construction site entrance gate.
+5 1 1472 1532 Fly while descending to 30 meters above the construction site entrance gate.
+5 2 1533 1550 Turn to enter a 10-meter-radius orbit around the construction site entrance gate.
+5 3 1551 1613 Orbit the construction site entrance gate once with a 10-meter radius.
+5 4 1614 1630 Turn to face the starting point.
+5 5 1631 1691 Fly while ascending back to the starting point.
+6 0 1692 1705 Turn to face the construction site entrance gate.
+6 1 1706 1763 Fly while descending to 30 meters above the construction site entrance gate.
+6 2 1764 1781 Turn to enter a 30-meter-radius orbit around the construction site entrance gate.
+6 3 1782 1970 Orbit the construction site entrance gate once with a 30-meter radius.
+6 4 1971 1987 Turn to face the starting point.
+6 5 1988 2045 Fly while ascending back to the starting point.
+7 0 2046 2068 Turn to face the construction site entrance gate.
+7 1 2069 2124 Fly while descending to 30 meters above the construction site entrance gate.
+7 2 2125 2141 Turn to enter a 30-meter-radius orbit around the construction site entrance gate.
+7 3 2142 2330 Orbit the construction site entrance gate once with a 30-meter radius.
+7 4 2331 2347 Turn to face the starting point.
+7 5 2348 2403 Fly while ascending back to the starting point.
+8 0 2404 2416 Turn to face the construction site entrance gate.
+8 1 2417 2477 Fly while descending to 30 meters above the construction site entrance gate.
+8 2 2478 2494 Turn to enter a 20-meter-radius orbit around the construction site entrance gate.
+8 3 2495 2620 Orbit the construction site entrance gate once with a 20-meter radius.
+8 4 2621 2637 Turn to face the starting point.
+8 5 2638 2698 Fly while ascending back to the starting point.
+9 0 2699 2728 Turn to face the temporary site office trailers.
+9 1 2729 2783 Fly while descending to 30 meters above the temporary site office trailers.
+9 2 2784 2801 Turn to enter a 20-meter-radius orbit around the temporary site office trailers.
+9 3 2802 2927 Orbit the temporary site office trailers once with a 20-meter radius.
+9 4 2928 2944 Turn to face the starting point.
+9 5 2945 2999 Fly while ascending back to the starting point.
+10 0 3000 3006 Turn to face the temporary site office trailers.
+10 1 3007 3063 Fly while descending to 30 meters above the temporary site office trailers.
+10 2 3064 3080 Turn to enter a 10-meter-radius orbit around the temporary site office trailers.
+10 3 3081 3143 Orbit the temporary site office trailers once with a 10-meter radius.
+10 4 3144 3160 Turn to face the starting point.
+10 5 3161 3217 Fly while ascending back to the starting point.
+11 0 3218 3233 Turn to face the temporary site office trailers.
+11 1 3234 3292 Fly while descending to 30 meters above the temporary site office trailers.
+11 2 3293 3310 Turn to enter a 30-meter-radius orbit around the temporary site office trailers.
+11 3 3311 3499 Orbit the temporary site office trailers once with a 30-meter radius.
+11 4 3500 3516 Turn to face the starting point.
+11 5 3517 3575 Fly while ascending back to the starting point.
+12 0 3576 3605 Turn to face the temporary site office trailers.
+12 1 3606 3664 Fly while descending to 30 meters above the temporary site office trailers.
+12 2 3665 3682 Turn to enter a 30-meter-radius orbit around the temporary site office trailers.
+12 3 3683 3871 Orbit the temporary site office trailers once with a 30-meter radius.
+12 4 3872 3888 Turn to face the starting point.
+12 5 3889 3947 Fly while ascending back to the starting point.
+13 0 3948 3980 Turn to face the temporary site office trailers.
+13 1 3981 4029 Fly while descending to 30 meters above the temporary site office trailers.
+13 2 4030 4046 Turn to enter a 20-meter-radius orbit around the temporary site office trailers.
+13 3 4047 4172 Orbit the temporary site office trailers once with a 20-meter radius.
+13 4 4173 4189 Turn to face the starting point.
+13 5 4190 4238 Fly while ascending back to the starting point.
+14 0 4239 4248 Turn to face the temporary site office trailers.
+14 1 4249 4302 Fly while descending to 30 meters above the temporary site office trailers.
+14 2 4303 4320 Turn to enter a 20-meter-radius orbit around the temporary site office trailers.
+14 3 4321 4446 Orbit the temporary site office trailers once with a 20-meter radius.
+14 4 4447 4463 Turn to face the starting point.
+14 5 4464 4517 Fly while ascending back to the starting point.
+15 0 4518 4521 Turn to face the temporary site office trailers.
+15 1 4522 4575 Fly while descending to 30 meters above the temporary site office trailers.
+15 2 4576 4593 Turn to enter a 20-meter-radius orbit around the temporary site office trailers.
+15 3 4594 4719 Orbit the temporary site office trailers once with a 20-meter radius.
+15 4 4720 4736 Turn to face the starting point.
+15 5 4737 4790 Fly while ascending back to the starting point.
+16 0 4791 4801 Turn to face the temporary site office trailers.
+16 1 4802 4856 Fly while descending to 30 meters above the temporary site office trailers.
+16 2 4857 4873 Turn to enter a 20-meter-radius orbit around the temporary site office trailers.
+16 3 4874 4999 Orbit the temporary site office trailers once with a 20-meter radius.
+16 4 5000 5016 Turn to face the starting point.
+16 5 5017 5071 Fly while ascending back to the starting point.
+17 0 5072 5089 Turn to face the temporary site office trailers.
+17 1 5090 5152 Fly while descending to 30 meters above the temporary site office trailers.
+17 2 5153 5170 Turn to enter a 20-meter-radius orbit around the temporary site office trailers.
+17 3 5171 5296 Orbit the temporary site office trailers once with a 20-meter radius.
+17 4 5297 5313 Turn to face the starting point.
+17 5 5314 5376 Fly while ascending back to the starting point.
+18 0 5377 5397 Turn to face the unpaved construction access road.
+18 1 5398 5457 Fly while descending to 30 meters above the unpaved construction access road.
+18 2 5458 5474 Turn to enter a 20-meter-radius orbit around the unpaved construction access road.
+18 3 5475 5600 Orbit the unpaved construction access road once with a 20-meter radius.
+18 4 5601 5617 Turn to face the starting point.
+18 5 5618 5677 Fly while ascending back to the starting point.
+19 0 5678 5711 Turn to face the unpaved construction access road.
+19 1 5712 5768 Fly while descending to 30 meters above the unpaved construction access road.
+19 2 5769 5785 Turn to enter a 20-meter-radius orbit around the unpaved construction access road.
+19 3 5786 5911 Orbit the unpaved construction access road once with a 20-meter radius.
+19 4 5912 5928 Turn to face the starting point.
+19 5 5929 5985 Fly while ascending back to the starting point.
+20 0 5986 6020 Turn to face the unpaved construction access road.
+20 1 6021 6078 Fly while descending to 30 meters above the unpaved construction access road.
+20 2 6079 6095 Turn to enter a 30-meter-radius orbit around the unpaved construction access road.
+20 3 6096 6284 Orbit the unpaved construction access road once with a 30-meter radius.
+20 4 6285 6301 Turn to face the starting point.
+20 5 6302 6359 Fly while ascending back to the starting point.
+21 0 6360 6390 Turn to face the unpaved construction access road.
+21 1 6391 6450 Fly while descending to 30 meters above the unpaved construction access road.
+21 2 6451 6467 Turn to enter a 30-meter-radius orbit around the unpaved construction access road.
+21 3 6468 6656 Orbit the unpaved construction access road once with a 30-meter radius.
+21 4 6657 6673 Turn to face the starting point.
+21 5 6674 6733 Fly while ascending back to the starting point.
+22 0 6734 6737 Turn to face the unpaved construction access road.
+22 1 6738 6795 Fly while descending to 30 meters above the unpaved construction access road.
+22 2 6796 6812 Turn to enter a 20-meter-radius orbit around the unpaved construction access road.
+22 3 6813 6938 Orbit the unpaved construction access road once with a 20-meter radius.
+22 4 6939 6955 Turn to face the starting point.
+22 5 6956 7013 Fly while ascending back to the starting point.
+23 0 7014 7024 Turn to face the unpaved construction access road.
+23 1 7025 7077 Fly while descending to 30 meters above the unpaved construction access road.
+23 2 7078 7094 Turn to enter a 30-meter-radius orbit around the unpaved construction access road.
+23 3 7095 7283 Orbit the unpaved construction access road once with a 30-meter radius.
+23 4 7284 7300 Turn to face the starting point.
+23 5 7301 7353 Fly while ascending back to the starting point.
+24 0 7354 7388 Turn to face the unpaved construction access road.
+24 1 7389 7434 Fly while descending to 30 meters above the unpaved construction access road.
+24 2 7435 7451 Turn to enter a 30-meter-radius orbit around the unpaved construction access road.
+24 3 7452 7640 Orbit the unpaved construction access road once with a 30-meter radius.
+24 4 7641 7657 Turn to face the starting point.
+24 5 7658 7703 Fly while ascending back to the starting point.
+25 0 7704 7732 Turn to face the unpaved construction access road.
+25 1 7733 7798 Fly while descending to 30 meters above the unpaved construction access road.
+25 2 7799 7816 Turn to enter a 10-meter-radius orbit around the unpaved construction access road.
+25 3 7817 7879 Orbit the unpaved construction access road once with a 10-meter radius.
+25 4 7880 7896 Turn to face the starting point.
+25 5 7897 7962 Fly while ascending back to the starting point.
+26 0 7963 7968 Turn to face the unpaved construction access road.
+26 1 7969 8016 Fly while descending to 30 meters above the unpaved construction access road.
+26 2 8017 8033 Turn to enter a 10-meter-radius orbit around the unpaved construction access road.
+26 3 8034 8096 Orbit the unpaved construction access road once with a 10-meter radius.
+26 4 8097 8113 Turn to face the starting point.
+26 5 8114 8161 Fly while ascending back to the starting point.
+27 0 8162 8177 Turn to face the yellow construction excavator.
+27 1 8178 8235 Fly while descending to 30 meters above the yellow construction excavator.
+27 2 8236 8253 Turn to enter a 10-meter-radius orbit around the yellow construction excavator.
+27 3 8254 8316 Orbit the yellow construction excavator once with a 10-meter radius.
+27 4 8317 8333 Turn to face the starting point.
+27 5 8334 8391 Fly while ascending back to the starting point.
+28 0 8392 8401 Turn to face the yellow construction excavator.
+28 1 8402 8449 Fly while descending to 30 meters above the yellow construction excavator.
+28 2 8450 8466 Turn to enter a 10-meter-radius orbit around the yellow construction excavator.
+28 3 8467 8529 Orbit the yellow construction excavator once with a 10-meter radius.
+28 4 8530 8546 Turn to face the starting point.
+28 5 8547 8594 Fly while ascending back to the starting point.
+29 0 8595 8610 Turn to face the yellow construction excavator.
+29 1 8611 8668 Fly while descending to 30 meters above the yellow construction excavator.
+29 2 8669 8685 Turn to enter a 30-meter-radius orbit around the yellow construction excavator.
+29 3 8686 8874 Orbit the yellow construction excavator once with a 30-meter radius.
+29 4 8875 8891 Turn to face the starting point.
+29 5 8892 8949 Fly while ascending back to the starting point.
+30 0 8950 8952 Turn to face the yellow construction excavator.
+30 1 8953 9018 Fly while descending to 30 meters above the yellow construction excavator.
+30 2 9019 9036 Turn to enter a 20-meter-radius orbit around the yellow construction excavator.
+30 3 9037 9162 Orbit the yellow construction excavator once with a 20-meter radius.
+30 4 9163 9179 Turn to face the starting point.
+30 5 9180 9245 Fly while ascending back to the starting point.
+31 0 9246 9251 Turn to face the yellow construction excavator.
+31 1 9252 9315 Fly while descending to 30 meters above the yellow construction excavator.
+31 2 9316 9333 Turn to enter a 20-meter-radius orbit around the yellow construction excavator.
+31 3 9334 9459 Orbit the yellow construction excavator once with a 20-meter radius.
+31 4 9460 9476 Turn to face the starting point.
+31 5 9477 9540 Fly while ascending back to the starting point.
+32 0 9541 9541 Turn to face the yellow construction excavator.
+32 1 9542 9598 Fly while descending to 30 meters above the yellow construction excavator.
+32 2 9599 9615 Turn to enter a 30-meter-radius orbit around the yellow construction excavator.
+32 3 9616 9804 Orbit the yellow construction excavator once with a 30-meter radius.
+32 4 9805 9821 Turn to face the starting point.
+32 5 9822 9878 Fly while ascending back to the starting point.
+33 0 9879 9896 Turn to face the yellow construction excavator.
+33 1 9897 9944 Fly while descending to 30 meters above the yellow construction excavator.
+33 2 9945 9962 Turn to enter a 20-meter-radius orbit around the yellow construction excavator.
+33 3 9963 10088 Orbit the yellow construction excavator once with a 20-meter radius.
+33 4 10089 10105 Turn to face the starting point.
+33 5 10106 10153 Fly while ascending back to the starting point.
+34 0 10154 10178 Turn to face the yellow construction excavator.
+34 1 10179 10250 Fly while descending to 30 meters above the yellow construction excavator.
+34 2 10251 10267 Turn to enter a 10-meter-radius orbit around the yellow construction excavator.
+34 3 10268 10330 Orbit the yellow construction excavator once with a 10-meter radius.
+34 4 10331 10347 Turn to face the starting point.
+34 5 10348 10419 Fly while ascending back to the starting point.
+35 0 10420 10423 Turn to face the yellow construction excavator.
+35 1 10424 10471 Fly while descending to 30 meters above the yellow construction excavator.
+35 2 10472 10488 Turn to enter a 20-meter-radius orbit around the yellow construction excavator.
+35 3 10489 10614 Orbit the yellow construction excavator once with a 20-meter radius.
+35 4 10615 10631 Turn to face the starting point.
+35 5 10632 10679 Fly while ascending back to the starting point.
+36 0 10680 10693 Turn to face the geotextile covered construction site.
+36 1 10694 10757 Fly while descending to 30 meters above the geotextile covered construction site.
+36 2 10758 10775 Turn to enter a 10-meter-radius orbit around the geotextile covered construction site.
+36 3 10776 10838 Orbit the geotextile covered construction site once with a 10-meter radius.
+36 4 10839 10855 Turn to face the starting point.
+36 5 10856 10919 Fly while ascending back to the starting point.
+37 0 10920 10920 Turn to face the geotextile covered construction site.
+37 1 10921 10983 Fly while descending to 30 meters above the geotextile covered construction site.
+37 2 10984 11000 Turn to enter a 20-meter-radius orbit around the geotextile covered construction site.
+37 3 11001 11126 Orbit the geotextile covered construction site once with a 20-meter radius.
+37 4 11127 11143 Turn to face the starting point.
+37 5 11144 11206 Fly while ascending back to the starting point.
+38 0 11207 11207 Turn to face the geotextile covered construction site.
+38 1 11208 11266 Fly while descending to 30 meters above the geotextile covered construction site.
+38 2 11267 11283 Turn to enter a 20-meter-radius orbit around the geotextile covered construction site.
+38 3 11284 11409 Orbit the geotextile covered construction site once with a 20-meter radius.
+38 4 11410 11426 Turn to face the starting point.
+38 5 11427 11485 Fly while ascending back to the starting point.
+39 0 11486 11515 Turn to face the geotextile covered construction site.
+39 1 11516 11581 Fly while descending to 30 meters above the geotextile covered construction site.
+39 2 11582 11598 Turn to enter a 30-meter-radius orbit around the geotextile covered construction site.
+39 3 11599 11787 Orbit the geotextile covered construction site once with a 30-meter radius.
+39 4 11788 11804 Turn to face the starting point.
+39 5 11805 11870 Fly while ascending back to the starting point.
+40 0 11871 11872 Turn to face the geotextile covered construction site.
+40 1 11873 11927 Fly while descending to 30 meters above the geotextile covered construction site.
+40 2 11928 11944 Turn to enter a 20-meter-radius orbit around the geotextile covered construction site.
+40 3 11945 12070 Orbit the geotextile covered construction site once with a 20-meter radius.
+40 4 12071 12087 Turn to face the starting point.
+40 5 12088 12142 Fly while ascending back to the starting point.
+41 0 12143 12149 Turn to face the geotextile covered construction site.
+41 1 12150 12210 Fly while descending to 30 meters above the geotextile covered construction site.
+41 2 12211 12228 Turn to enter a 30-meter-radius orbit around the geotextile covered construction site.
+41 3 12229 12417 Orbit the geotextile covered construction site once with a 30-meter radius.
+41 4 12418 12434 Turn to face the starting point.
+41 5 12435 12495 Fly while ascending back to the starting point.
+42 0 12496 12523 Turn to face the geotextile covered construction site.
+42 1 12524 12577 Fly while descending to 30 meters above the geotextile covered construction site.
+42 2 12578 12595 Turn to enter a 30-meter-radius orbit around the geotextile covered construction site.
+42 3 12596 12784 Orbit the geotextile covered construction site once with a 30-meter radius.
+42 4 12785 12801 Turn to face the starting point.
+42 5 12802 12855 Fly while ascending back to the starting point.
+43 0 12856 12875 Turn to face the geotextile covered construction site.
+43 1 12876 12924 Fly while descending to 30 meters above the geotextile covered construction site.
+43 2 12925 12942 Turn to enter a 20-meter-radius orbit around the geotextile covered construction site.
+43 3 12943 13068 Orbit the geotextile covered construction site once with a 20-meter radius.
+43 4 13069 13085 Turn to face the starting point.
+43 5 13086 13134 Fly while ascending back to the starting point.
+44 0 13135 13164 Turn to face the geotextile covered construction site.
+44 1 13165 13210 Fly while descending to 30 meters above the geotextile covered construction site.
+44 2 13211 13228 Turn to enter a 30-meter-radius orbit around the geotextile covered construction site.
+44 3 13229 13417 Orbit the geotextile covered construction site once with a 30-meter radius.
+44 4 13418 13434 Turn to face the starting point.
+44 5 13435 13480 Fly while ascending back to the starting point.
+45 0 13481 13499 Turn to face the industrial warehouse building.
+45 1 13500 13555 Fly while descending to 30 meters above the industrial warehouse building.
+45 2 13556 13573 Turn to enter a 30-meter-radius orbit around the industrial warehouse building.
+45 3 13574 13762 Orbit the industrial warehouse building once with a 30-meter radius.
+45 4 13763 13779 Turn to face the starting point.
+45 5 13780 13835 Fly while ascending back to the starting point.
+46 0 13836 13862 Turn to face the industrial warehouse building.
+46 1 13863 13923 Fly while descending to 30 meters above the industrial warehouse building.
+46 2 13924 13940 Turn to enter a 10-meter-radius orbit around the industrial warehouse building.
+46 3 13941 14003 Orbit the industrial warehouse building once with a 10-meter radius.
+46 4 14004 14020 Turn to face the starting point.
+46 5 14021 14081 Fly while ascending back to the starting point.
+47 0 14082 14093 Turn to face the industrial warehouse building.
+47 1 14094 14152 Fly while descending to 30 meters above the industrial warehouse building.
+47 2 14153 14170 Turn to enter a 10-meter-radius orbit around the industrial warehouse building.
+47 3 14171 14233 Orbit the industrial warehouse building once with a 10-meter radius.
+47 4 14234 14250 Turn to face the starting point.
+47 5 14251 14309 Fly while ascending back to the starting point.
+48 0 14310 14313 Turn to face the industrial warehouse building.
+48 1 14314 14376 Fly while descending to 30 meters above the industrial warehouse building.
+48 2 14377 14394 Turn to enter a 30-meter-radius orbit around the industrial warehouse building.
+48 3 14395 14583 Orbit the industrial warehouse building once with a 30-meter radius.
+48 4 14584 14600 Turn to face the starting point.
+48 5 14601 14663 Fly while ascending back to the starting point.
+49 0 14664 14680 Turn to face the industrial warehouse building.
+49 1 14681 14722 Fly while descending to 30 meters above the industrial warehouse building.
+49 2 14723 14740 Turn to enter a 30-meter-radius orbit around the industrial warehouse building.
+49 3 14741 14929 Orbit the industrial warehouse building once with a 30-meter radius.
+49 4 14930 14946 Turn to face the starting point.
+49 5 14947 14988 Fly while ascending back to the starting point.
+50 0 14989 15011 Turn to face the industrial warehouse building.
+50 1 15012 15065 Fly while descending to 30 meters above the industrial warehouse building.
+50 2 15066 15083 Turn to enter a 30-meter-radius orbit around the industrial warehouse building.
+50 3 15084 15272 Orbit the industrial warehouse building once with a 30-meter radius.
+50 4 15273 15289 Turn to face the starting point.
+50 5 15290 15343 Fly while ascending back to the starting point.
+51 0 15344 15373 Turn to face the industrial warehouse building.
+51 1 15374 15429 Fly while descending to 30 meters above the industrial warehouse building.
+51 2 15430 15447 Turn to enter a 20-meter-radius orbit around the industrial warehouse building.
+51 3 15448 15573 Orbit the industrial warehouse building once with a 20-meter radius.
+51 4 15574 15590 Turn to face the starting point.
+51 5 15591 15646 Fly while ascending back to the starting point.
+52 0 15647 15675 Turn to face the industrial warehouse building.
+52 1 15676 15735 Fly while descending to 30 meters above the industrial warehouse building.
+52 2 15736 15752 Turn to enter a 10-meter-radius orbit around the industrial warehouse building.
+52 3 15753 15815 Orbit the industrial warehouse building once with a 10-meter radius.
+52 4 15816 15832 Turn to face the starting point.
+52 5 15833 15892 Fly while ascending back to the starting point.
+53 0 15893 15914 Turn to face the industrial warehouse building.
+53 1 15915 15976 Fly while descending to 30 meters above the industrial warehouse building.
+53 2 15977 15993 Turn to enter a 10-meter-radius orbit around the industrial warehouse building.
+53 3 15994 16056 Orbit the industrial warehouse building once with a 10-meter radius.
+53 4 16057 16073 Turn to face the starting point.
+53 5 16074 16135 Fly while ascending back to the starting point.
+54 0 16136 16163 Turn to face the curved roof industrial building.
+54 1 16164 16224 Fly while descending to 30 meters above the curved roof industrial building.
+54 2 16225 16242 Turn to enter a 20-meter-radius orbit around the curved roof industrial building.
+54 3 16243 16368 Orbit the curved roof industrial building once with a 20-meter radius.
+54 4 16369 16385 Turn to face the starting point.
+54 5 16386 16446 Fly while ascending back to the starting point.
+55 0 16447 16463 Turn to face the curved roof industrial building.
+55 1 16464 16523 Fly while descending to 30 meters above the curved roof industrial building.
+55 2 16524 16541 Turn to enter a 20-meter-radius orbit around the curved roof industrial building.
+55 3 16542 16667 Orbit the curved roof industrial building once with a 20-meter radius.
+55 4 16668 16684 Turn to face the starting point.
+55 5 16685 16744 Fly while ascending back to the starting point.
+56 0 16745 16773 Turn to face the curved roof industrial building.
+56 1 16774 16825 Fly while descending to 30 meters above the curved roof industrial building.
+56 2 16826 16842 Turn to enter a 30-meter-radius orbit around the curved roof industrial building.
+56 3 16843 17031 Orbit the curved roof industrial building once with a 30-meter radius.
+56 4 17032 17048 Turn to face the starting point.
+56 5 17049 17100 Fly while ascending back to the starting point.
+57 0 17101 17115 Turn to face the curved roof industrial building.
+57 1 17116 17176 Fly while descending to 30 meters above the curved roof industrial building.
+57 2 17177 17194 Turn to enter a 30-meter-radius orbit around the curved roof industrial building.
+57 3 17195 17383 Orbit the curved roof industrial building once with a 30-meter radius.
+57 4 17384 17400 Turn to face the starting point.
+57 5 17401 17461 Fly while ascending back to the starting point.
+58 0 17462 17469 Turn to face the curved roof industrial building.
+58 1 17470 17518 Fly while descending to 30 meters above the curved roof industrial building.
+58 2 17519 17535 Turn to enter a 30-meter-radius orbit around the curved roof industrial building.
+58 3 17536 17724 Orbit the curved roof industrial building once with a 30-meter radius.
+58 4 17725 17741 Turn to face the starting point.
+58 5 17742 17790 Fly while ascending back to the starting point.
+59 0 17791 17792 Turn to face the curved roof industrial building.
+59 1 17793 17842 Fly while descending to 30 meters above the curved roof industrial building.
+59 2 17843 17859 Turn to enter a 10-meter-radius orbit around the curved roof industrial building.
+59 3 17860 17922 Orbit the curved roof industrial building once with a 10-meter radius.
+59 4 17923 17939 Turn to face the starting point.
+59 5 17940 17989 Fly while ascending back to the starting point.
+60 0 17990 18022 Turn to face the curved roof industrial building.
+60 1 18023 18077 Fly while descending to 30 meters above the curved roof industrial building.
+60 2 18078 18095 Turn to enter a 20-meter-radius orbit around the curved roof industrial building.
+60 3 18096 18221 Orbit the curved roof industrial building once with a 20-meter radius.
+60 4 18222 18238 Turn to face the starting point.
+60 5 18239 18293 Fly while ascending back to the starting point.
+61 0 18294 18328 Turn to face the curved roof industrial building.
+61 1 18329 18384 Fly while descending to 30 meters above the curved roof industrial building.
+61 2 18385 18402 Turn to enter a 30-meter-radius orbit around the curved roof industrial building.
+61 3 18403 18591 Orbit the curved roof industrial building once with a 30-meter radius.
+61 4 18592 18608 Turn to face the starting point.
+61 5 18609 18664 Fly while ascending back to the starting point.
+62 0 18665 18698 Turn to face the curved roof industrial building.
+62 1 18699 18766 Fly while descending to 30 meters above the curved roof industrial building.
+62 2 18767 18784 Turn to enter a 20-meter-radius orbit around the curved roof industrial building.
+62 3 18785 18910 Orbit the curved roof industrial building once with a 20-meter radius.
+62 4 18911 18927 Turn to face the starting point.
+62 5 18928 18995 Fly while ascending back to the starting point.
+63 0 18996 19024 Turn to face the circular industrial storage tanks.
+63 1 19025 19076 Fly while descending to 30 meters above the circular industrial storage tanks.
+63 2 19077 19094 Turn to enter a 30-meter-radius orbit around the circular industrial storage tanks.
+63 3 19095 19283 Orbit the circular industrial storage tanks once with a 30-meter radius.
+63 4 19284 19300 Turn to face the starting point.
+63 5 19301 19352 Fly while ascending back to the starting point.
+64 0 19353 19360 Turn to face the circular industrial storage tanks.
+64 1 19361 19407 Fly while descending to 30 meters above the circular industrial storage tanks.
+64 2 19408 19424 Turn to enter a 20-meter-radius orbit around the circular industrial storage tanks.
+64 3 19425 19550 Orbit the circular industrial storage tanks once with a 20-meter radius.
+64 4 19551 19567 Turn to face the starting point.
+64 5 19568 19614 Fly while ascending back to the starting point.
+65 0 19615 19627 Turn to face the circular industrial storage tanks.
+65 1 19628 19684 Fly while descending to 30 meters above the circular industrial storage tanks.
+65 2 19685 19701 Turn to enter a 20-meter-radius orbit around the circular industrial storage tanks.
+65 3 19702 19827 Orbit the circular industrial storage tanks once with a 20-meter radius.
+65 4 19828 19844 Turn to face the starting point.
+65 5 19845 19901 Fly while ascending back to the starting point.
+66 0 19902 19929 Turn to face the circular industrial storage tanks.
+66 1 19930 20003 Fly while descending to 30 meters above the circular industrial storage tanks.
+66 2 20004 20021 Turn to enter a 10-meter-radius orbit around the circular industrial storage tanks.
+66 3 20022 20084 Orbit the circular industrial storage tanks once with a 10-meter radius.
+66 4 20085 20101 Turn to face the starting point.
+66 5 20102 20175 Fly while ascending back to the starting point.
+67 0 20176 20195 Turn to face the circular industrial storage tanks.
+67 1 20196 20252 Fly while descending to 30 meters above the circular industrial storage tanks.
+67 2 20253 20270 Turn to enter a 30-meter-radius orbit around the circular industrial storage tanks.
+67 3 20271 20459 Orbit the circular industrial storage tanks once with a 30-meter radius.
+67 4 20460 20476 Turn to face the starting point.
+67 5 20477 20533 Fly while ascending back to the starting point.
+68 0 20534 20543 Turn to face the circular industrial storage tanks.
+68 1 20544 20599 Fly while descending to 30 meters above the circular industrial storage tanks.
+68 2 20600 20616 Turn to enter a 30-meter-radius orbit around the circular industrial storage tanks.
+68 3 20617 20805 Orbit the circular industrial storage tanks once with a 30-meter radius.
+68 4 20806 20822 Turn to face the starting point.
+68 5 20823 20878 Fly while ascending back to the starting point.
+69 0 20879 20899 Turn to face the circular industrial storage tanks.
+69 1 20900 20958 Fly while descending to 30 meters above the circular industrial storage tanks.
+69 2 20959 20976 Turn to enter a 20-meter-radius orbit around the circular industrial storage tanks.
+69 3 20977 21102 Orbit the circular industrial storage tanks once with a 20-meter radius.
+69 4 21103 21119 Turn to face the starting point.
+69 5 21120 21178 Fly while ascending back to the starting point.
+70 0 21179 21204 Turn to face the circular industrial storage tanks.
+70 1 21205 21250 Fly while descending to 30 meters above the circular industrial storage tanks.
+70 2 21251 21268 Turn to enter a 30-meter-radius orbit around the circular industrial storage tanks.
+70 3 21269 21457 Orbit the circular industrial storage tanks once with a 30-meter radius.
+70 4 21458 21474 Turn to face the starting point.
+70 5 21475 21520 Fly while ascending back to the starting point.
+71 0 21521 21521 Turn to face the circular industrial storage tanks.
+71 1 21522 21588 Fly while descending to 30 meters above the circular industrial storage tanks.
+71 2 21589 21605 Turn to enter a 10-meter-radius orbit around the circular industrial storage tanks.
+71 3 21606 21668 Orbit the circular industrial storage tanks once with a 10-meter radius.
+71 4 21669 21685 Turn to face the starting point.
+71 5 21686 21752 Fly while ascending back to the starting point.
+72 0 21753 21785 Turn to face the scrap storage yard.
+72 1 21786 21842 Fly while descending to 30 meters above the scrap storage yard.
+72 2 21843 21859 Turn to enter a 10-meter-radius orbit around the scrap storage yard.
+72 3 21860 21922 Orbit the scrap storage yard once with a 10-meter radius.
+72 4 21923 21939 Turn to face the starting point.
+72 5 21940 21996 Fly while ascending back to the starting point.
+73 0 21997 22018 Turn to face the scrap storage yard.
+73 1 22019 22071 Fly while descending to 30 meters above the scrap storage yard.
+73 2 22072 22088 Turn to enter a 30-meter-radius orbit around the scrap storage yard.
+73 3 22089 22277 Orbit the scrap storage yard once with a 30-meter radius.
+73 4 22278 22294 Turn to face the starting point.
+73 5 22295 22347 Fly while ascending back to the starting point.
+74 0 22348 22354 Turn to face the scrap storage yard.
+74 1 22355 22421 Fly while descending to 30 meters above the scrap storage yard.
+74 2 22422 22438 Turn to enter a 20-meter-radius orbit around the scrap storage yard.
+74 3 22439 22564 Orbit the scrap storage yard once with a 20-meter radius.
+74 4 22565 22581 Turn to face the starting point.
+74 5 22582 22648 Fly while ascending back to the starting point.
+75 0 22649 22649 Turn to face the scrap storage yard.
+75 1 22650 22703 Fly while descending to 30 meters above the scrap storage yard.
+75 2 22704 22720 Turn to enter a 10-meter-radius orbit around the scrap storage yard.
+75 3 22721 22783 Orbit the scrap storage yard once with a 10-meter radius.
+75 4 22784 22800 Turn to face the starting point.
+75 5 22801 22854 Fly while ascending back to the starting point.
+76 0 22855 22861 Turn to face the scrap storage yard.
+76 1 22862 22912 Fly while descending to 30 meters above the scrap storage yard.
+76 2 22913 22929 Turn to enter a 20-meter-radius orbit around the scrap storage yard.
+76 3 22930 23055 Orbit the scrap storage yard once with a 20-meter radius.
+76 4 23056 23072 Turn to face the starting point.
+76 5 23073 23123 Fly while ascending back to the starting point.
+77 0 23124 23133 Turn to face the scrap storage yard.
+77 1 23134 23195 Fly while descending to 30 meters above the scrap storage yard.
+77 2 23196 23212 Turn to enter a 30-meter-radius orbit around the scrap storage yard.
+77 3 23213 23401 Orbit the scrap storage yard once with a 30-meter radius.
+77 4 23402 23418 Turn to face the starting point.
+77 5 23419 23480 Fly while ascending back to the starting point.
+78 0 23481 23496 Turn to face the scrap storage yard.
+78 1 23497 23555 Fly while descending to 30 meters above the scrap storage yard.
+78 2 23556 23572 Turn to enter a 10-meter-radius orbit around the scrap storage yard.
+78 3 23573 23635 Orbit the scrap storage yard once with a 10-meter radius.
+78 4 23636 23652 Turn to face the starting point.
+78 5 23653 23711 Fly while ascending back to the starting point.
+79 0 23712 23712 Turn to face the scrap storage yard.
+79 1 23713 23779 Fly while descending to 30 meters above the scrap storage yard.
+79 2 23780 23797 Turn to enter a 10-meter-radius orbit around the scrap storage yard.
+79 3 23798 23860 Orbit the scrap storage yard once with a 10-meter radius.
+79 4 23861 23877 Turn to face the starting point.
+79 5 23878 23944 Fly while ascending back to the starting point.
+80 0 23945 23945 Turn to face the scrap storage yard.
+80 1 23946 23994 Fly while descending to 30 meters above the scrap storage yard.
+80 2 23995 24012 Turn to enter a 30-meter-radius orbit around the scrap storage yard.
+80 3 24013 24201 Orbit the scrap storage yard once with a 30-meter radius.
+80 4 24202 24218 Turn to face the starting point.
+80 5 24219 24267 Fly while ascending back to the starting point.
+81 0 24268 24299 Turn to face the bus storage parking lot.
+81 1 24300 24348 Fly while descending to 30 meters above the bus storage parking lot.
+81 2 24349 24366 Turn to enter a 30-meter-radius orbit around the bus storage parking lot.
+81 3 24367 24555 Orbit the bus storage parking lot once with a 30-meter radius.
+81 4 24556 24572 Turn to face the starting point.
+81 5 24573 24621 Fly while ascending back to the starting point.
+82 0 24622 24635 Turn to face the bus storage parking lot.
+82 1 24636 24683 Fly while descending to 30 meters above the bus storage parking lot.
+82 2 24684 24700 Turn to enter a 30-meter-radius orbit around the bus storage parking lot.
+82 3 24701 24889 Orbit the bus storage parking lot once with a 30-meter radius.
+82 4 24890 24906 Turn to face the starting point.
+82 5 24907 24954 Fly while ascending back to the starting point.
+83 0 24955 24969 Turn to face the bus storage parking lot.
+83 1 24970 25028 Fly while descending to 30 meters above the bus storage parking lot.
+83 2 25029 25045 Turn to enter a 10-meter-radius orbit around the bus storage parking lot.
+83 3 25046 25108 Orbit the bus storage parking lot once with a 10-meter radius.
+83 4 25109 25125 Turn to face the starting point.
+83 5 25126 25184 Fly while ascending back to the starting point.
+84 0 25185 25185 Turn to face the bus storage parking lot.
+84 1 25186 25230 Fly while descending to 30 meters above the bus storage parking lot.
+84 2 25231 25247 Turn to enter a 20-meter-radius orbit around the bus storage parking lot.
+84 3 25248 25373 Orbit the bus storage parking lot once with a 20-meter radius.
+84 4 25374 25390 Turn to face the starting point.
+84 5 25391 25435 Fly while ascending back to the starting point.
+85 0 25436 25454 Turn to face the bus storage parking lot.
+85 1 25455 25521 Fly while descending to 30 meters above the bus storage parking lot.
+85 2 25522 25538 Turn to enter a 20-meter-radius orbit around the bus storage parking lot.
+85 3 25539 25664 Orbit the bus storage parking lot once with a 20-meter radius.
+85 4 25665 25681 Turn to face the starting point.
+85 5 25682 25748 Fly while ascending back to the starting point.
+86 0 25749 25779 Turn to face the bus storage parking lot.
+86 1 25780 25849 Fly while descending to 30 meters above the bus storage parking lot.
+86 2 25850 25867 Turn to enter a 10-meter-radius orbit around the bus storage parking lot.
+86 3 25868 25930 Orbit the bus storage parking lot once with a 10-meter radius.
+86 4 25931 25947 Turn to face the starting point.
+86 5 25948 26017 Fly while ascending back to the starting point.
+87 0 26018 26018 Turn to face the bus storage parking lot.
+87 1 26019 26086 Fly while descending to 30 meters above the bus storage parking lot.
+87 2 26087 26104 Turn to enter a 20-meter-radius orbit around the bus storage parking lot.
+87 3 26105 26230 Orbit the bus storage parking lot once with a 20-meter radius.
+87 4 26231 26247 Turn to face the starting point.
+87 5 26248 26315 Fly while ascending back to the starting point.
+88 0 26316 26342 Turn to face the bus storage parking lot.
+88 1 26343 26395 Fly while descending to 30 meters above the bus storage parking lot.
+88 2 26396 26413 Turn to enter a 20-meter-radius orbit around the bus storage parking lot.
+88 3 26414 26539 Orbit the bus storage parking lot once with a 20-meter radius.
+88 4 26540 26556 Turn to face the starting point.
+88 5 26557 26609 Fly while ascending back to the starting point.
+89 0 26610 26617 Turn to face the bus storage parking lot.
+89 1 26618 26658 Fly while descending to 30 meters above the bus storage parking lot.
+89 2 26659 26676 Turn to enter a 30-meter-radius orbit around the bus storage parking lot.
+89 3 26677 26865 Orbit the bus storage parking lot once with a 30-meter radius.
+89 4 26866 26882 Turn to face the starting point.
+89 5 26883 26923 Fly while ascending back to the starting point.
+90 0 26924 26935 Turn to face the parked green buses.
+90 1 26936 26992 Fly while descending to 30 meters above the parked green buses.
+90 2 26993 27010 Turn to enter a 20-meter-radius orbit around the parked green buses.
+90 3 27011 27136 Orbit the parked green buses once with a 20-meter radius.
+90 4 27137 27153 Turn to face the starting point.
+90 5 27154 27210 Fly while ascending back to the starting point.
+91 0 27211 27218 Turn to face the parked green buses.
+91 1 27219 27283 Fly while descending to 30 meters above the parked green buses.
+91 2 27284 27300 Turn to enter a 30-meter-radius orbit around the parked green buses.
+91 3 27301 27489 Orbit the parked green buses once with a 30-meter radius.
+91 4 27490 27506 Turn to face the starting point.
+91 5 27507 27571 Fly while ascending back to the starting point.
+92 0 27572 27592 Turn to face the parked green buses.
+92 1 27593 27655 Fly while descending to 30 meters above the parked green buses.
+92 2 27656 27673 Turn to enter a 30-meter-radius orbit around the parked green buses.
+92 3 27674 27862 Orbit the parked green buses once with a 30-meter radius.
+92 4 27863 27879 Turn to face the starting point.
+92 5 27880 27942 Fly while ascending back to the starting point.
+93 0 27943 27947 Turn to face the parked green buses.
+93 1 27948 27996 Fly while descending to 30 meters above the parked green buses.
+93 2 27997 28013 Turn to enter a 30-meter-radius orbit around the parked green buses.
+93 3 28014 28202 Orbit the parked green buses once with a 30-meter radius.
+93 4 28203 28219 Turn to face the starting point.
+93 5 28220 28268 Fly while ascending back to the starting point.
+94 0 28269 28290 Turn to face the parked green buses.
+94 1 28291 28354 Fly while descending to 30 meters above the parked green buses.
+94 2 28355 28372 Turn to enter a 10-meter-radius orbit around the parked green buses.
+94 3 28373 28435 Orbit the parked green buses once with a 10-meter radius.
+94 4 28436 28452 Turn to face the starting point.
+94 5 28453 28516 Fly while ascending back to the starting point.
+95 0 28517 28517 Turn to face the parked green buses.
+95 1 28518 28579 Fly while descending to 30 meters above the parked green buses.
+95 2 28580 28597 Turn to enter a 10-meter-radius orbit around the parked green buses.
+95 3 28598 28660 Orbit the parked green buses once with a 10-meter radius.
+95 4 28661 28677 Turn to face the starting point.
+95 5 28678 28739 Fly while ascending back to the starting point.
+96 0 28740 28766 Turn to face the parked green buses.
+96 1 28767 28822 Fly while descending to 30 meters above the parked green buses.
+96 2 28823 28839 Turn to enter a 30-meter-radius orbit around the parked green buses.
+96 3 28840 29028 Orbit the parked green buses once with a 30-meter radius.
+96 4 29029 29045 Turn to face the starting point.
+96 5 29046 29101 Fly while ascending back to the starting point.
+97 0 29102 29107 Turn to face the parked green buses.
+97 1 29108 29162 Fly while descending to 30 meters above the parked green buses.
+97 2 29163 29180 Turn to enter a 30-meter-radius orbit around the parked green buses.
+97 3 29181 29369 Orbit the parked green buses once with a 30-meter radius.
+97 4 29370 29386 Turn to face the starting point.
+97 5 29387 29441 Fly while ascending back to the starting point.
+98 0 29442 29467 Turn to face the parked green buses.
+98 1 29468 29532 Fly while descending to 30 meters above the parked green buses.
+98 2 29533 29550 Turn to enter a 10-meter-radius orbit around the parked green buses.
+98 3 29551 29613 Orbit the parked green buses once with a 10-meter radius.
+98 4 29614 29630 Turn to face the starting point.
+98 5 29631 29695 Fly while ascending back to the starting point.
+99 0 29696 29707 Turn to face the red cargo truck.
+99 1 29708 29763 Fly while descending to 30 meters above the red cargo truck.
+99 2 29764 29781 Turn to enter a 10-meter-radius orbit around the red cargo truck.
+99 3 29782 29844 Orbit the red cargo truck once with a 10-meter radius.
+99 4 29845 29861 Turn to face the starting point.
+99 5 29862 29917 Fly while ascending back to the starting point.
+100 0 29918 29933 Turn to face the red cargo truck.
+100 1 29934 29990 Fly while descending to 30 meters above the red cargo truck.
+100 2 29991 30008 Turn to enter a 20-meter-radius orbit around the red cargo truck.
+100 3 30009 30134 Orbit the red cargo truck once with a 20-meter radius.
+100 4 30135 30151 Turn to face the starting point.
+100 5 30152 30208 Fly while ascending back to the starting point.
+101 0 30209 30215 Turn to face the red cargo truck.
+101 1 30216 30271 Fly while descending to 30 meters above the red cargo truck.
+101 2 30272 30289 Turn to enter a 30-meter-radius orbit around the red cargo truck.
+101 3 30290 30478 Orbit the red cargo truck once with a 30-meter radius.
+101 4 30479 30495 Turn to face the starting point.
+101 5 30496 30551 Fly while ascending back to the starting point.
+102 0 30552 30568 Turn to face the red cargo truck.
+102 1 30569 30613 Fly while descending to 30 meters above the red cargo truck.
+102 2 30614 30631 Turn to enter a 20-meter-radius orbit around the red cargo truck.
+102 3 30632 30757 Orbit the red cargo truck once with a 20-meter radius.
+102 4 30758 30774 Turn to face the starting point.
+102 5 30775 30819 Fly while ascending back to the starting point.
+103 0 30820 30831 Turn to face the red cargo truck.
+103 1 30832 30880 Fly while descending to 30 meters above the red cargo truck.
+103 2 30881 30897 Turn to enter a 30-meter-radius orbit around the red cargo truck.
+103 3 30898 31086 Orbit the red cargo truck once with a 30-meter radius.
+103 4 31087 31103 Turn to face the starting point.
+103 5 31104 31152 Fly while ascending back to the starting point.
+104 0 31153 31168 Turn to face the red cargo truck.
+104 1 31169 31211 Fly while descending to 30 meters above the red cargo truck.
+104 2 31212 31228 Turn to enter a 30-meter-radius orbit around the red cargo truck.
+104 3 31229 31417 Orbit the red cargo truck once with a 30-meter radius.
+104 4 31418 31434 Turn to face the starting point.
+104 5 31435 31477 Fly while ascending back to the starting point.
+105 0 31478 31486 Turn to face the red cargo truck.
+105 1 31487 31542 Fly while descending to 30 meters above the red cargo truck.
+105 2 31543 31559 Turn to enter a 20-meter-radius orbit around the red cargo truck.
+105 3 31560 31685 Orbit the red cargo truck once with a 20-meter radius.
+105 4 31686 31702 Turn to face the starting point.
+105 5 31703 31758 Fly while ascending back to the starting point.
+106 0 31759 31773 Turn to face the red cargo truck.
+106 1 31774 31822 Fly while descending to 30 meters above the red cargo truck.
+106 2 31823 31840 Turn to enter a 30-meter-radius orbit around the red cargo truck.
+106 3 31841 32029 Orbit the red cargo truck once with a 30-meter radius.
+106 4 32030 32046 Turn to face the starting point.
+106 5 32047 32095 Fly while ascending back to the starting point.
+107 0 32096 32120 Turn to face the red cargo truck.
+107 1 32121 32177 Fly while descending to 30 meters above the red cargo truck.
+107 2 32178 32195 Turn to enter a 20-meter-radius orbit around the red cargo truck.
+107 3 32196 32321 Orbit the red cargo truck once with a 20-meter radius.
+107 4 32322 32338 Turn to face the starting point.
+107 5 32339 32395 Fly while ascending back to the starting point.
+108 0 32396 32427 Turn to face the gravel service road.
+108 1 32428 32487 Fly while descending to 30 meters above the gravel service road.
+108 2 32488 32505 Turn to enter a 20-meter-radius orbit around the gravel service road.
+108 3 32506 32631 Orbit the gravel service road once with a 20-meter radius.
+108 4 32632 32648 Turn to face the starting point.
+108 5 32649 32708 Fly while ascending back to the starting point.
+109 0 32709 32721 Turn to face the gravel service road.
+109 1 32722 32780 Fly while descending to 30 meters above the gravel service road.
+109 2 32781 32798 Turn to enter a 20-meter-radius orbit around the gravel service road.
+109 3 32799 32924 Orbit the gravel service road once with a 20-meter radius.
+109 4 32925 32941 Turn to face the starting point.
+109 5 32942 33000 Fly while ascending back to the starting point.
+110 0 33001 33016 Turn to face the gravel service road.
+110 1 33017 33073 Fly while descending to 30 meters above the gravel service road.
+110 2 33074 33091 Turn to enter a 30-meter-radius orbit around the gravel service road.
+110 3 33092 33280 Orbit the gravel service road once with a 30-meter radius.
+110 4 33281 33297 Turn to face the starting point.
+110 5 33298 33354 Fly while ascending back to the starting point.
+111 0 33355 33377 Turn to face the gravel service road.
+111 1 33378 33447 Fly while descending to 30 meters above the gravel service road.
+111 2 33448 33464 Turn to enter a 20-meter-radius orbit around the gravel service road.
+111 3 33465 33590 Orbit the gravel service road once with a 20-meter radius.
+111 4 33591 33607 Turn to face the starting point.
+111 5 33608 33677 Fly while ascending back to the starting point.
+112 0 33678 33683 Turn to face the gravel service road.
+112 1 33684 33744 Fly while descending to 30 meters above the gravel service road.
+112 2 33745 33762 Turn to enter a 20-meter-radius orbit around the gravel service road.
+112 3 33763 33888 Orbit the gravel service road once with a 20-meter radius.
+112 4 33889 33905 Turn to face the starting point.
+112 5 33906 33966 Fly while ascending back to the starting point.
+113 0 33967 33992 Turn to face the gravel service road.
+113 1 33993 34055 Fly while descending to 30 meters above the gravel service road.
+113 2 34056 34073 Turn to enter a 10-meter-radius orbit around the gravel service road.
+113 3 34074 34136 Orbit the gravel service road once with a 10-meter radius.
+113 4 34137 34153 Turn to face the starting point.
+113 5 34154 34216 Fly while ascending back to the starting point.
+114 0 34217 34217 Turn to face the gravel service road.
+114 1 34218 34286 Fly while descending to 30 meters above the gravel service road.
+114 2 34287 34304 Turn to enter a 10-meter-radius orbit around the gravel service road.
+114 3 34305 34367 Orbit the gravel service road once with a 10-meter radius.
+114 4 34368 34384 Turn to face the starting point.
+114 5 34385 34453 Fly while ascending back to the starting point.
+115 0 34454 34483 Turn to face the gravel service road.
+115 1 34484 34531 Fly while descending to 30 meters above the gravel service road.
+115 2 34532 34548 Turn to enter a 20-meter-radius orbit around the gravel service road.
+115 3 34549 34674 Orbit the gravel service road once with a 20-meter radius.
+115 4 34675 34691 Turn to face the starting point.
+115 5 34692 34739 Fly while ascending back to the starting point.
+116 0 34740 34746 Turn to face the gravel service road.
+116 1 34747 34810 Fly while descending to 30 meters above the gravel service road.
+116 2 34811 34827 Turn to enter a 10-meter-radius orbit around the gravel service road.
+116 3 34828 34890 Orbit the gravel service road once with a 10-meter radius.
+116 4 34891 34907 Turn to face the starting point.
+116 5 34908 34971 Fly while ascending back to the starting point.
+117 0 34972 34983 Turn to face the multi-lane highway.
+117 1 34984 35048 Fly while descending to 30 meters above the multi-lane highway.
+117 2 35049 35066 Turn to enter a 10-meter-radius orbit around the multi-lane highway.
+117 3 35067 35129 Orbit the multi-lane highway once with a 10-meter radius.
+117 4 35130 35146 Turn to face the starting point.
+117 5 35147 35211 Fly while ascending back to the starting point.
+118 0 35212 35220 Turn to face the multi-lane highway.
+118 1 35221 35265 Fly while descending to 30 meters above the multi-lane highway.
+118 2 35266 35282 Turn to enter a 30-meter-radius orbit around the multi-lane highway.
+118 3 35283 35471 Orbit the multi-lane highway once with a 30-meter radius.
+118 4 35472 35488 Turn to face the starting point.
+118 5 35489 35533 Fly while ascending back to the starting point.
+119 0 35534 35543 Turn to face the multi-lane highway.
+119 1 35544 35591 Fly while descending to 30 meters above the multi-lane highway.
+119 2 35592 35608 Turn to enter a 30-meter-radius orbit around the multi-lane highway.
+119 3 35609 35797 Orbit the multi-lane highway once with a 30-meter radius.
+119 4 35798 35814 Turn to face the starting point.
+119 5 35815 35862 Fly while ascending back to the starting point.
+120 0 35863 35868 Turn to face the multi-lane highway.
+120 1 35869 35930 Fly while descending to 30 meters above the multi-lane highway.
+120 2 35931 35948 Turn to enter a 10-meter-radius orbit around the multi-lane highway.
+120 3 35949 36011 Orbit the multi-lane highway once with a 10-meter radius.
+120 4 36012 36028 Turn to face the starting point.
+120 5 36029 36090 Fly while ascending back to the starting point.
+121 0 36091 36095 Turn to face the multi-lane highway.
+121 1 36096 36151 Fly while descending to 30 meters above the multi-lane highway.
+121 2 36152 36169 Turn to enter a 30-meter-radius orbit around the multi-lane highway.
+121 3 36170 36358 Orbit the multi-lane highway once with a 30-meter radius.
+121 4 36359 36375 Turn to face the starting point.
+121 5 36376 36431 Fly while ascending back to the starting point.
+122 0 36432 36451 Turn to face the multi-lane highway.
+122 1 36452 36500 Fly while descending to 30 meters above the multi-lane highway.
+122 2 36501 36517 Turn to enter a 30-meter-radius orbit around the multi-lane highway.
+122 3 36518 36706 Orbit the multi-lane highway once with a 30-meter radius.
+122 4 36707 36723 Turn to face the starting point.
+122 5 36724 36772 Fly while ascending back to the starting point.
+123 0 36773 36780 Turn to face the multi-lane highway.
+123 1 36781 36839 Fly while descending to 30 meters above the multi-lane highway.
+123 2 36840 36857 Turn to enter a 30-meter-radius orbit around the multi-lane highway.
+123 3 36858 37046 Orbit the multi-lane highway once with a 30-meter radius.
+123 4 37047 37063 Turn to face the starting point.
+123 5 37064 37122 Fly while ascending back to the starting point.
+124 0 37123 37129 Turn to face the multi-lane highway.
+124 1 37130 37194 Fly while descending to 30 meters above the multi-lane highway.
+124 2 37195 37211 Turn to enter a 20-meter-radius orbit around the multi-lane highway.
+124 3 37212 37337 Orbit the multi-lane highway once with a 20-meter radius.
+124 4 37338 37354 Turn to face the starting point.
+124 5 37355 37419 Fly while ascending back to the starting point.
+125 0 37420 37427 Turn to face the multi-lane highway.
+125 1 37428 37469 Fly while descending to 30 meters above the multi-lane highway.
+125 2 37470 37486 Turn to enter a 30-meter-radius orbit around the multi-lane highway.
+125 3 37487 37675 Orbit the multi-lane highway once with a 30-meter radius.
+125 4 37676 37692 Turn to face the starting point.
+125 5 37693 37734 Fly while ascending back to the starting point.
+126 0 37735 37745 Turn to face the major road intersection.
+126 1 37746 37793 Fly while descending to 30 meters above the major road intersection.
+126 2 37794 37810 Turn to enter a 20-meter-radius orbit around the major road intersection.
+126 3 37811 37936 Orbit the major road intersection once with a 20-meter radius.
+126 4 37937 37953 Turn to face the starting point.
+126 5 37954 38001 Fly while ascending back to the starting point.
+127 0 38002 38032 Turn to face the major road intersection.
+127 1 38033 38084 Fly while descending to 30 meters above the major road intersection.
+127 2 38085 38102 Turn to enter a 10-meter-radius orbit around the major road intersection.
+127 3 38103 38165 Orbit the major road intersection once with a 10-meter radius.
+127 4 38166 38182 Turn to face the starting point.
+127 5 38183 38234 Fly while ascending back to the starting point.
+128 0 38235 38252 Turn to face the major road intersection.
+128 1 38253 38309 Fly while descending to 30 meters above the major road intersection.
+128 2 38310 38326 Turn to enter a 20-meter-radius orbit around the major road intersection.
+128 3 38327 38452 Orbit the major road intersection once with a 20-meter radius.
+128 4 38453 38469 Turn to face the starting point.
+128 5 38470 38526 Fly while ascending back to the starting point.
+129 0 38527 38556 Turn to face the major road intersection.
+129 1 38557 38608 Fly while descending to 30 meters above the major road intersection.
+129 2 38609 38625 Turn to enter a 30-meter-radius orbit around the major road intersection.
+129 3 38626 38814 Orbit the major road intersection once with a 30-meter radius.
+129 4 38815 38831 Turn to face the starting point.
+129 5 38832 38883 Fly while ascending back to the starting point.
+130 0 38884 38899 Turn to face the major road intersection.
+130 1 38900 38943 Fly while descending to 30 meters above the major road intersection.
+130 2 38944 38961 Turn to enter a 10-meter-radius orbit around the major road intersection.
+130 3 38962 39024 Orbit the major road intersection once with a 10-meter radius.
+130 4 39025 39041 Turn to face the starting point.
+130 5 39042 39085 Fly while ascending back to the starting point.
+131 0 39086 39087 Turn to face the major road intersection.
+131 1 39088 39148 Fly while descending to 30 meters above the major road intersection.
+131 2 39149 39165 Turn to enter a 30-meter-radius orbit around the major road intersection.
+131 3 39166 39354 Orbit the major road intersection once with a 30-meter radius.
+131 4 39355 39371 Turn to face the starting point.
+131 5 39372 39432 Fly while ascending back to the starting point.
+132 0 39433 39438 Turn to face the major road intersection.
+132 1 39439 39500 Fly while descending to 30 meters above the major road intersection.
+132 2 39501 39517 Turn to enter a 10-meter-radius orbit around the major road intersection.
+132 3 39518 39580 Orbit the major road intersection once with a 10-meter radius.
+132 4 39581 39597 Turn to face the starting point.
+132 5 39598 39659 Fly while ascending back to the starting point.
+133 0 39660 39665 Turn to face the major road intersection.
+133 1 39666 39720 Fly while descending to 30 meters above the major road intersection.
+133 2 39721 39737 Turn to enter a 30-meter-radius orbit around the major road intersection.
+133 3 39738 39926 Orbit the major road intersection once with a 30-meter radius.
+133 4 39927 39943 Turn to face the starting point.
+133 5 39944 39998 Fly while ascending back to the starting point.
+134 0 39999 40032 Turn to face the major road intersection.
+134 1 40033 40088 Fly while descending to 30 meters above the major road intersection.
+134 2 40089 40106 Turn to enter a 10-meter-radius orbit around the major road intersection.
+134 3 40107 40169 Orbit the major road intersection once with a 10-meter radius.
+134 4 40170 40186 Turn to face the starting point.
+134 5 40187 40242 Fly while ascending back to the starting point.
+135 0 40243 40251 Turn to face the striped pedestrian crosswalk.
+135 1 40252 40301 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+135 2 40302 40318 Turn to enter a 20-meter-radius orbit around the striped pedestrian crosswalk.
+135 3 40319 40444 Orbit the striped pedestrian crosswalk once with a 20-meter radius.
+135 4 40445 40461 Turn to face the starting point.
+135 5 40462 40511 Fly while ascending back to the starting point.
+136 0 40512 40526 Turn to face the striped pedestrian crosswalk.
+136 1 40527 40579 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+136 2 40580 40597 Turn to enter a 30-meter-radius orbit around the striped pedestrian crosswalk.
+136 3 40598 40786 Orbit the striped pedestrian crosswalk once with a 30-meter radius.
+136 4 40787 40803 Turn to face the starting point.
+136 5 40804 40856 Fly while ascending back to the starting point.
+137 0 40857 40860 Turn to face the striped pedestrian crosswalk.
+137 1 40861 40917 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+137 2 40918 40935 Turn to enter a 10-meter-radius orbit around the striped pedestrian crosswalk.
+137 3 40936 40998 Orbit the striped pedestrian crosswalk once with a 10-meter radius.
+137 4 40999 41015 Turn to face the starting point.
+137 5 41016 41072 Fly while ascending back to the starting point.
+138 0 41073 41106 Turn to face the striped pedestrian crosswalk.
+138 1 41107 41169 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+138 2 41170 41186 Turn to enter a 20-meter-radius orbit around the striped pedestrian crosswalk.
+138 3 41187 41312 Orbit the striped pedestrian crosswalk once with a 20-meter radius.
+138 4 41313 41329 Turn to face the starting point.
+138 5 41330 41392 Fly while ascending back to the starting point.
+139 0 41393 41423 Turn to face the striped pedestrian crosswalk.
+139 1 41424 41485 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+139 2 41486 41502 Turn to enter a 20-meter-radius orbit around the striped pedestrian crosswalk.
+139 3 41503 41628 Orbit the striped pedestrian crosswalk once with a 20-meter radius.
+139 4 41629 41645 Turn to face the starting point.
+139 5 41646 41707 Fly while ascending back to the starting point.
+140 0 41708 41721 Turn to face the striped pedestrian crosswalk.
+140 1 41722 41765 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+140 2 41766 41782 Turn to enter a 10-meter-radius orbit around the striped pedestrian crosswalk.
+140 3 41783 41845 Orbit the striped pedestrian crosswalk once with a 10-meter radius.
+140 4 41846 41862 Turn to face the starting point.
+140 5 41863 41906 Fly while ascending back to the starting point.
+141 0 41907 41907 Turn to face the striped pedestrian crosswalk.
+141 1 41908 41967 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+141 2 41968 41984 Turn to enter a 10-meter-radius orbit around the striped pedestrian crosswalk.
+141 3 41985 42047 Orbit the striped pedestrian crosswalk once with a 10-meter radius.
+141 4 42048 42064 Turn to face the starting point.
+141 5 42065 42124 Fly while ascending back to the starting point.
+142 0 42125 42135 Turn to face the striped pedestrian crosswalk.
+142 1 42136 42194 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+142 2 42195 42211 Turn to enter a 20-meter-radius orbit around the striped pedestrian crosswalk.
+142 3 42212 42337 Orbit the striped pedestrian crosswalk once with a 20-meter radius.
+142 4 42338 42354 Turn to face the starting point.
+142 5 42355 42413 Fly while ascending back to the starting point.
+143 0 42414 42426 Turn to face the striped pedestrian crosswalk.
+143 1 42427 42486 Fly while descending to 30 meters above the striped pedestrian crosswalk.
+143 2 42487 42504 Turn to enter a 30-meter-radius orbit around the striped pedestrian crosswalk.
+143 3 42505 42693 Orbit the striped pedestrian crosswalk once with a 30-meter radius.
+143 4 42694 42710 Turn to face the starting point.
+143 5 42711 42770 Fly while ascending back to the starting point.
+144 0 42771 42773 Turn to face the canal road bridge.
+144 1 42774 42826 Fly while descending to 30 meters above the canal road bridge.
+144 2 42827 42843 Turn to enter a 30-meter-radius orbit around the canal road bridge.
+144 3 42844 43032 Orbit the canal road bridge once with a 30-meter radius.
+144 4 43033 43049 Turn to face the starting point.
+144 5 43050 43102 Fly while ascending back to the starting point.
+145 0 43103 43130 Turn to face the canal road bridge.
+145 1 43131 43204 Fly while descending to 30 meters above the canal road bridge.
+145 2 43205 43222 Turn to enter a 10-meter-radius orbit around the canal road bridge.
+145 3 43223 43285 Orbit the canal road bridge once with a 10-meter radius.
+145 4 43286 43302 Turn to face the starting point.
+145 5 43303 43376 Fly while ascending back to the starting point.
+146 0 43377 43396 Turn to face the canal road bridge.
+146 1 43397 43460 Fly while descending to 30 meters above the canal road bridge.
+146 2 43461 43477 Turn to enter a 20-meter-radius orbit around the canal road bridge.
+146 3 43478 43603 Orbit the canal road bridge once with a 20-meter radius.
+146 4 43604 43620 Turn to face the starting point.
+146 5 43621 43684 Fly while ascending back to the starting point.
+147 0 43685 43690 Turn to face the canal road bridge.
+147 1 43691 43744 Fly while descending to 30 meters above the canal road bridge.
+147 2 43745 43761 Turn to enter a 10-meter-radius orbit around the canal road bridge.
+147 3 43762 43824 Orbit the canal road bridge once with a 10-meter radius.
+147 4 43825 43841 Turn to face the starting point.
+147 5 43842 43895 Fly while ascending back to the starting point.
+148 0 43896 43910 Turn to face the canal road bridge.
+148 1 43911 43962 Fly while descending to 30 meters above the canal road bridge.
+148 2 43963 43979 Turn to enter a 20-meter-radius orbit around the canal road bridge.
+148 3 43980 44105 Orbit the canal road bridge once with a 20-meter radius.
+148 4 44106 44122 Turn to face the starting point.
+148 5 44123 44174 Fly while ascending back to the starting point.
+149 0 44175 44181 Turn to face the canal road bridge.
+149 1 44182 44238 Fly while descending to 30 meters above the canal road bridge.
+149 2 44239 44255 Turn to enter a 20-meter-radius orbit around the canal road bridge.
+149 3 44256 44381 Orbit the canal road bridge once with a 20-meter radius.
+149 4 44382 44398 Turn to face the starting point.
+149 5 44399 44455 Fly while ascending back to the starting point.
+150 0 44456 44481 Turn to face the canal road bridge.
+150 1 44482 44535 Fly while descending to 30 meters above the canal road bridge.
+150 2 44536 44553 Turn to enter a 20-meter-radius orbit around the canal road bridge.
+150 3 44554 44679 Orbit the canal road bridge once with a 20-meter radius.
+150 4 44680 44696 Turn to face the starting point.
+150 5 44697 44750 Fly while ascending back to the starting point.
+151 0 44751 44775 Turn to face the canal road bridge.
+151 1 44776 44834 Fly while descending to 30 meters above the canal road bridge.
+151 2 44835 44851 Turn to enter a 10-meter-radius orbit around the canal road bridge.
+151 3 44852 44914 Orbit the canal road bridge once with a 10-meter radius.
+151 4 44915 44931 Turn to face the starting point.
+151 5 44932 44990 Fly while ascending back to the starting point.
+152 0 44991 45011 Turn to face the canal road bridge.
+152 1 45012 45077 Fly while descending to 30 meters above the canal road bridge.
+152 2 45078 45095 Turn to enter a 20-meter-radius orbit around the canal road bridge.
+152 3 45096 45221 Orbit the canal road bridge once with a 20-meter radius.
+152 4 45222 45238 Turn to face the starting point.
+152 5 45239 45304 Fly while ascending back to the starting point.
+153 0 45305 45335 Turn to face the multi-lane bridge roadway.
+153 1 45336 45383 Fly while descending to 30 meters above the multi-lane bridge roadway.
+153 2 45384 45400 Turn to enter a 10-meter-radius orbit around the multi-lane bridge roadway.
+153 3 45401 45463 Orbit the multi-lane bridge roadway once with a 10-meter radius.
+153 4 45464 45480 Turn to face the starting point.
+153 5 45481 45528 Fly while ascending back to the starting point.
+154 0 45529 45548 Turn to face the multi-lane bridge roadway.
+154 1 45549 45606 Fly while descending to 30 meters above the multi-lane bridge roadway.
+154 2 45607 45623 Turn to enter a 20-meter-radius orbit around the multi-lane bridge roadway.
+154 3 45624 45749 Orbit the multi-lane bridge roadway once with a 20-meter radius.
+154 4 45750 45766 Turn to face the starting point.
+154 5 45767 45824 Fly while ascending back to the starting point.
+155 0 45825 45857 Turn to face the multi-lane bridge roadway.
+155 1 45858 45916 Fly while descending to 30 meters above the multi-lane bridge roadway.
+155 2 45917 45934 Turn to enter a 30-meter-radius orbit around the multi-lane bridge roadway.
+155 3 45935 46123 Orbit the multi-lane bridge roadway once with a 30-meter radius.
+155 4 46124 46140 Turn to face the starting point.
+155 5 46141 46199 Fly while ascending back to the starting point.
+156 0 46200 46201 Turn to face the multi-lane bridge roadway.
+156 1 46202 46249 Fly while descending to 30 meters above the multi-lane bridge roadway.
+156 2 46250 46266 Turn to enter a 30-meter-radius orbit around the multi-lane bridge roadway.
+156 3 46267 46455 Orbit the multi-lane bridge roadway once with a 30-meter radius.
+156 4 46456 46472 Turn to face the starting point.
+156 5 46473 46520 Fly while ascending back to the starting point.
+157 0 46521 46531 Turn to face the multi-lane bridge roadway.
+157 1 46532 46587 Fly while descending to 30 meters above the multi-lane bridge roadway.
+157 2 46588 46605 Turn to enter a 30-meter-radius orbit around the multi-lane bridge roadway.
+157 3 46606 46794 Orbit the multi-lane bridge roadway once with a 30-meter radius.
+157 4 46795 46811 Turn to face the starting point.
+157 5 46812 46867 Fly while ascending back to the starting point.
+158 0 46868 46894 Turn to face the multi-lane bridge roadway.
+158 1 46895 46963 Fly while descending to 30 meters above the multi-lane bridge roadway.
+158 2 46964 46980 Turn to enter a 10-meter-radius orbit around the multi-lane bridge roadway.
+158 3 46981 47043 Orbit the multi-lane bridge roadway once with a 10-meter radius.
+158 4 47044 47060 Turn to face the starting point.
+158 5 47061 47129 Fly while ascending back to the starting point.
+159 0 47130 47149 Turn to face the multi-lane bridge roadway.
+159 1 47150 47217 Fly while descending to 30 meters above the multi-lane bridge roadway.
+159 2 47218 47235 Turn to enter a 20-meter-radius orbit around the multi-lane bridge roadway.
+159 3 47236 47361 Orbit the multi-lane bridge roadway once with a 20-meter radius.
+159 4 47362 47378 Turn to face the starting point.
+159 5 47379 47446 Fly while ascending back to the starting point.
+160 0 47447 47450 Turn to face the multi-lane bridge roadway.
+160 1 47451 47503 Fly while descending to 30 meters above the multi-lane bridge roadway.
+160 2 47504 47520 Turn to enter a 10-meter-radius orbit around the multi-lane bridge roadway.
+160 3 47521 47583 Orbit the multi-lane bridge roadway once with a 10-meter radius.
+160 4 47584 47600 Turn to face the starting point.
+160 5 47601 47653 Fly while ascending back to the starting point.
+161 0 47654 47671 Turn to face the multi-lane bridge roadway.
+161 1 47672 47734 Fly while descending to 30 meters above the multi-lane bridge roadway.
+161 2 47735 47751 Turn to enter a 10-meter-radius orbit around the multi-lane bridge roadway.
+161 3 47752 47814 Orbit the multi-lane bridge roadway once with a 10-meter radius.
+161 4 47815 47831 Turn to face the starting point.
+161 5 47832 47894 Fly while ascending back to the starting point.
+162 0 47895 47913 Turn to face the curved asphalt roadway.
+162 1 47914 47971 Fly while descending to 30 meters above the curved asphalt roadway.
+162 2 47972 47989 Turn to enter a 30-meter-radius orbit around the curved asphalt roadway.
+162 3 47990 48178 Orbit the curved asphalt roadway once with a 30-meter radius.
+162 4 48179 48195 Turn to face the starting point.
+162 5 48196 48253 Fly while ascending back to the starting point.
+163 0 48254 48257 Turn to face the curved asphalt roadway.
+163 1 48258 48321 Fly while descending to 30 meters above the curved asphalt roadway.
+163 2 48322 48339 Turn to enter a 20-meter-radius orbit around the curved asphalt roadway.
+163 3 48340 48465 Orbit the curved asphalt roadway once with a 20-meter radius.
+163 4 48466 48482 Turn to face the starting point.
+163 5 48483 48546 Fly while ascending back to the starting point.
+164 0 48547 48572 Turn to face the curved asphalt roadway.
+164 1 48573 48625 Fly while descending to 30 meters above the curved asphalt roadway.
+164 2 48626 48642 Turn to enter a 30-meter-radius orbit around the curved asphalt roadway.
+164 3 48643 48831 Orbit the curved asphalt roadway once with a 30-meter radius.
+164 4 48832 48848 Turn to face the starting point.
+164 5 48849 48901 Fly while ascending back to the starting point.
+165 0 48902 48909 Turn to face the curved asphalt roadway.
+165 1 48910 48969 Fly while descending to 30 meters above the curved asphalt roadway.
+165 2 48970 48986 Turn to enter a 10-meter-radius orbit around the curved asphalt roadway.
+165 3 48987 49049 Orbit the curved asphalt roadway once with a 10-meter radius.
+165 4 49050 49066 Turn to face the starting point.
+165 5 49067 49126 Fly while ascending back to the starting point.
+166 0 49127 49156 Turn to face the curved asphalt roadway.
+166 1 49157 49204 Fly while descending to 30 meters above the curved asphalt roadway.
+166 2 49205 49221 Turn to enter a 20-meter-radius orbit around the curved asphalt roadway.
+166 3 49222 49347 Orbit the curved asphalt roadway once with a 20-meter radius.
+166 4 49348 49364 Turn to face the starting point.
+166 5 49365 49412 Fly while ascending back to the starting point.
+167 0 49413 49447 Turn to face the curved asphalt roadway.
+167 1 49448 49510 Fly while descending to 30 meters above the curved asphalt roadway.
+167 2 49511 49527 Turn to enter a 10-meter-radius orbit around the curved asphalt roadway.
+167 3 49528 49590 Orbit the curved asphalt roadway once with a 10-meter radius.
+167 4 49591 49607 Turn to face the starting point.
+167 5 49608 49670 Fly while ascending back to the starting point.
+168 0 49671 49705 Turn to face the curved asphalt roadway.
+168 1 49706 49767 Fly while descending to 30 meters above the curved asphalt roadway.
+168 2 49768 49785 Turn to enter a 30-meter-radius orbit around the curved asphalt roadway.
+168 3 49786 49974 Orbit the curved asphalt roadway once with a 30-meter radius.
+168 4 49975 49991 Turn to face the starting point.
+168 5 49992 50053 Fly while ascending back to the starting point.
+169 0 50054 50079 Turn to face the curved asphalt roadway.
+169 1 50080 50150 Fly while descending to 30 meters above the curved asphalt roadway.
+169 2 50151 50167 Turn to enter a 20-meter-radius orbit around the curved asphalt roadway.
+169 3 50168 50293 Orbit the curved asphalt roadway once with a 20-meter radius.
+169 4 50294 50310 Turn to face the starting point.
+169 5 50311 50381 Fly while ascending back to the starting point.
+170 0 50382 50409 Turn to face the curved asphalt roadway.
+170 1 50410 50482 Fly while descending to 30 meters above the curved asphalt roadway.
+170 2 50483 50499 Turn to enter a 10-meter-radius orbit around the curved asphalt roadway.
+170 3 50500 50562 Orbit the curved asphalt roadway once with a 10-meter radius.
+170 4 50563 50579 Turn to face the starting point.
+170 5 50580 50652 Fly while ascending back to the starting point.
+171 0 50653 50656 Turn to face the concrete bridge roadway.
+171 1 50657 50708 Fly while descending to 30 meters above the concrete bridge roadway.
+171 2 50709 50726 Turn to enter a 30-meter-radius orbit around the concrete bridge roadway.
+171 3 50727 50915 Orbit the concrete bridge roadway once with a 30-meter radius.
+171 4 50916 50932 Turn to face the starting point.
+171 5 50933 50984 Fly while ascending back to the starting point.
+172 0 50985 51013 Turn to face the concrete bridge roadway.
+172 1 51014 51068 Fly while descending to 30 meters above the concrete bridge roadway.
+172 2 51069 51085 Turn to enter a 10-meter-radius orbit around the concrete bridge roadway.
+172 3 51086 51148 Orbit the concrete bridge roadway once with a 10-meter radius.
+172 4 51149 51165 Turn to face the starting point.
+172 5 51166 51220 Fly while ascending back to the starting point.
+173 0 51221 51239 Turn to face the concrete bridge roadway.
+173 1 51240 51284 Fly while descending to 30 meters above the concrete bridge roadway.
+173 2 51285 51302 Turn to enter a 20-meter-radius orbit around the concrete bridge roadway.
+173 3 51303 51428 Orbit the concrete bridge roadway once with a 20-meter radius.
+173 4 51429 51445 Turn to face the starting point.
+173 5 51446 51490 Fly while ascending back to the starting point.
+174 0 51491 51520 Turn to face the concrete bridge roadway.
+174 1 51521 51581 Fly while descending to 30 meters above the concrete bridge roadway.
+174 2 51582 51599 Turn to enter a 30-meter-radius orbit around the concrete bridge roadway.
+174 3 51600 51788 Orbit the concrete bridge roadway once with a 30-meter radius.
+174 4 51789 51805 Turn to face the starting point.
+174 5 51806 51866 Fly while ascending back to the starting point.
+175 0 51867 51897 Turn to face the concrete bridge roadway.
+175 1 51898 51962 Fly while descending to 30 meters above the concrete bridge roadway.
+175 2 51963 51979 Turn to enter a 10-meter-radius orbit around the concrete bridge roadway.
+175 3 51980 52042 Orbit the concrete bridge roadway once with a 10-meter radius.
+175 4 52043 52059 Turn to face the starting point.
+175 5 52060 52124 Fly while ascending back to the starting point.
+176 0 52125 52127 Turn to face the concrete bridge roadway.
+176 1 52128 52190 Fly while descending to 30 meters above the concrete bridge roadway.
+176 2 52191 52208 Turn to enter a 10-meter-radius orbit around the concrete bridge roadway.
+176 3 52209 52271 Orbit the concrete bridge roadway once with a 10-meter radius.
+176 4 52272 52288 Turn to face the starting point.
+176 5 52289 52351 Fly while ascending back to the starting point.
+177 0 52352 52354 Turn to face the concrete bridge roadway.
+177 1 52355 52422 Fly while descending to 30 meters above the concrete bridge roadway.
+177 2 52423 52440 Turn to enter a 10-meter-radius orbit around the concrete bridge roadway.
+177 3 52441 52503 Orbit the concrete bridge roadway once with a 10-meter radius.
+177 4 52504 52520 Turn to face the starting point.
+177 5 52521 52588 Fly while ascending back to the starting point.
+178 0 52589 52615 Turn to face the concrete bridge roadway.
+178 1 52616 52679 Fly while descending to 30 meters above the concrete bridge roadway.
+178 2 52680 52696 Turn to enter a 20-meter-radius orbit around the concrete bridge roadway.
+178 3 52697 52822 Orbit the concrete bridge roadway once with a 20-meter radius.
+178 4 52823 52839 Turn to face the starting point.
+178 5 52840 52903 Fly while ascending back to the starting point.
+179 0 52904 52919 Turn to face the concrete bridge roadway.
+179 1 52920 52974 Fly while descending to 30 meters above the concrete bridge roadway.
+179 2 52975 52991 Turn to enter a 20-meter-radius orbit around the concrete bridge roadway.
+179 3 52992 53117 Orbit the concrete bridge roadway once with a 20-meter radius.
+179 4 53118 53134 Turn to face the starting point.
+179 5 53135 53189 Fly while ascending back to the starting point.
+180 0 53190 53217 Turn to face the water drainage canal.
+180 1 53218 53282 Fly while descending to 30 meters above the water drainage canal.
+180 2 53283 53299 Turn to enter a 10-meter-radius orbit around the water drainage canal.
+180 3 53300 53362 Orbit the water drainage canal once with a 10-meter radius.
+180 4 53363 53379 Turn to face the starting point.
+180 5 53380 53444 Fly while ascending back to the starting point.
+181 0 53445 53472 Turn to face the water drainage canal.
+181 1 53473 53537 Fly while descending to 30 meters above the water drainage canal.
+181 2 53538 53554 Turn to enter a 10-meter-radius orbit around the water drainage canal.
+181 3 53555 53617 Orbit the water drainage canal once with a 10-meter radius.
+181 4 53618 53634 Turn to face the starting point.
+181 5 53635 53699 Fly while ascending back to the starting point.
+182 0 53700 53717 Turn to face the water drainage canal.
+182 1 53718 53772 Fly while descending to 30 meters above the water drainage canal.
+182 2 53773 53789 Turn to enter a 10-meter-radius orbit around the water drainage canal.
+182 3 53790 53852 Orbit the water drainage canal once with a 10-meter radius.
+182 4 53853 53869 Turn to face the starting point.
+182 5 53870 53924 Fly while ascending back to the starting point.
+183 0 53925 53925 Turn to face the water drainage canal.
+183 1 53926 53969 Fly while descending to 30 meters above the water drainage canal.
+183 2 53970 53986 Turn to enter a 30-meter-radius orbit around the water drainage canal.
+183 3 53987 54175 Orbit the water drainage canal once with a 30-meter radius.
+183 4 54176 54192 Turn to face the starting point.
+183 5 54193 54236 Fly while ascending back to the starting point.
+184 0 54237 54259 Turn to face the water drainage canal.
+184 1 54260 54333 Fly while descending to 30 meters above the water drainage canal.
+184 2 54334 54350 Turn to enter a 10-meter-radius orbit around the water drainage canal.
+184 3 54351 54413 Orbit the water drainage canal once with a 10-meter radius.
+184 4 54414 54430 Turn to face the starting point.
+184 5 54431 54504 Fly while ascending back to the starting point.
+185 0 54505 54538 Turn to face the water drainage canal.
+185 1 54539 54595 Fly while descending to 30 meters above the water drainage canal.
+185 2 54596 54612 Turn to enter a 30-meter-radius orbit around the water drainage canal.
+185 3 54613 54801 Orbit the water drainage canal once with a 30-meter radius.
+185 4 54802 54818 Turn to face the starting point.
+185 5 54819 54875 Fly while ascending back to the starting point.
+186 0 54876 54885 Turn to face the water drainage canal.
+186 1 54886 54945 Fly while descending to 30 meters above the water drainage canal.
+186 2 54946 54963 Turn to enter a 20-meter-radius orbit around the water drainage canal.
+186 3 54964 55089 Orbit the water drainage canal once with a 20-meter radius.
+186 4 55090 55106 Turn to face the starting point.
+186 5 55107 55166 Fly while ascending back to the starting point.
+187 0 55167 55167 Turn to face the water drainage canal.
+187 1 55168 55215 Fly while descending to 30 meters above the water drainage canal.
+187 2 55216 55233 Turn to enter a 20-meter-radius orbit around the water drainage canal.
+187 3 55234 55359 Orbit the water drainage canal once with a 20-meter radius.
+187 4 55360 55376 Turn to face the starting point.
+187 5 55377 55424 Fly while ascending back to the starting point.
+188 0 55425 55441 Turn to face the water drainage canal.
+188 1 55442 55507 Fly while descending to 30 meters above the water drainage canal.
+188 2 55508 55524 Turn to enter a 10-meter-radius orbit around the water drainage canal.
+188 3 55525 55587 Orbit the water drainage canal once with a 10-meter radius.
+188 4 55588 55604 Turn to face the starting point.
+188 5 55605 55670 Fly while ascending back to the starting point.
+189 0 55671 55692 Turn to face the concrete drainage canal.
+189 1 55693 55745 Fly while descending to 30 meters above the concrete drainage canal.
+189 2 55746 55763 Turn to enter a 30-meter-radius orbit around the concrete drainage canal.
+189 3 55764 55952 Orbit the concrete drainage canal once with a 30-meter radius.
+189 4 55953 55969 Turn to face the starting point.
+189 5 55970 56022 Fly while ascending back to the starting point.
+190 0 56023 56030 Turn to face the concrete drainage canal.
+190 1 56031 56084 Fly while descending to 30 meters above the concrete drainage canal.
+190 2 56085 56102 Turn to enter a 30-meter-radius orbit around the concrete drainage canal.
+190 3 56103 56291 Orbit the concrete drainage canal once with a 30-meter radius.
+190 4 56292 56308 Turn to face the starting point.
+190 5 56309 56362 Fly while ascending back to the starting point.
+191 0 56363 56396 Turn to face the concrete drainage canal.
+191 1 56397 56459 Fly while descending to 30 meters above the concrete drainage canal.
+191 2 56460 56476 Turn to enter a 10-meter-radius orbit around the concrete drainage canal.
+191 3 56477 56539 Orbit the concrete drainage canal once with a 10-meter radius.
+191 4 56540 56556 Turn to face the starting point.
+191 5 56557 56619 Fly while ascending back to the starting point.
+192 0 56620 56623 Turn to face the concrete drainage canal.
+192 1 56624 56684 Fly while descending to 30 meters above the concrete drainage canal.
+192 2 56685 56702 Turn to enter a 20-meter-radius orbit around the concrete drainage canal.
+192 3 56703 56828 Orbit the concrete drainage canal once with a 20-meter radius.
+192 4 56829 56845 Turn to face the starting point.
+192 5 56846 56906 Fly while ascending back to the starting point.
+193 0 56907 56910 Turn to face the concrete drainage canal.
+193 1 56911 56972 Fly while descending to 30 meters above the concrete drainage canal.
+193 2 56973 56990 Turn to enter a 30-meter-radius orbit around the concrete drainage canal.
+193 3 56991 57179 Orbit the concrete drainage canal once with a 30-meter radius.
+193 4 57180 57196 Turn to face the starting point.
+193 5 57197 57258 Fly while ascending back to the starting point.
+194 0 57259 57279 Turn to face the concrete drainage canal.
+194 1 57280 57339 Fly while descending to 30 meters above the concrete drainage canal.
+194 2 57340 57356 Turn to enter a 30-meter-radius orbit around the concrete drainage canal.
+194 3 57357 57545 Orbit the concrete drainage canal once with a 30-meter radius.
+194 4 57546 57562 Turn to face the starting point.
+194 5 57563 57622 Fly while ascending back to the starting point.
+195 0 57623 57645 Turn to face the concrete drainage canal.
+195 1 57646 57706 Fly while descending to 30 meters above the concrete drainage canal.
+195 2 57707 57723 Turn to enter a 10-meter-radius orbit around the concrete drainage canal.
+195 3 57724 57786 Orbit the concrete drainage canal once with a 10-meter radius.
+195 4 57787 57803 Turn to face the starting point.
+195 5 57804 57864 Fly while ascending back to the starting point.
+196 0 57865 57876 Turn to face the concrete drainage canal.
+196 1 57877 57934 Fly while descending to 30 meters above the concrete drainage canal.
+196 2 57935 57951 Turn to enter a 20-meter-radius orbit around the concrete drainage canal.
+196 3 57952 58077 Orbit the concrete drainage canal once with a 20-meter radius.
+196 4 58078 58094 Turn to face the starting point.
+196 5 58095 58152 Fly while ascending back to the starting point.
+197 0 58153 58160 Turn to face the concrete drainage canal.
+197 1 58161 58219 Fly while descending to 30 meters above the concrete drainage canal.
+197 2 58220 58237 Turn to enter a 30-meter-radius orbit around the concrete drainage canal.
+197 3 58238 58426 Orbit the concrete drainage canal once with a 30-meter radius.
+197 4 58427 58443 Turn to face the starting point.
+197 5 58444 58502 Fly while ascending back to the starting point.
+198 0 58503 58508 Turn to face the curved canal waterway.
+198 1 58509 58562 Fly while descending to 30 meters above the curved canal waterway.
+198 2 58563 58579 Turn to enter a 20-meter-radius orbit around the curved canal waterway.
+198 3 58580 58705 Orbit the curved canal waterway once with a 20-meter radius.
+198 4 58706 58722 Turn to face the starting point.
+198 5 58723 58776 Fly while ascending back to the starting point.
+199 0 58777 58782 Turn to face the curved canal waterway.
+199 1 58783 58843 Fly while descending to 30 meters above the curved canal waterway.
+199 2 58844 58861 Turn to enter a 10-meter-radius orbit around the curved canal waterway.
+199 3 58862 58924 Orbit the curved canal waterway once with a 10-meter radius.
+199 4 58925 58941 Turn to face the starting point.
+199 5 58942 59002 Fly while ascending back to the starting point.
+200 0 59003 59022 Turn to face the curved canal waterway.
+200 1 59023 59089 Fly while descending to 30 meters above the curved canal waterway.
+200 2 59090 59106 Turn to enter a 10-meter-radius orbit around the curved canal waterway.
+200 3 59107 59169 Orbit the curved canal waterway once with a 10-meter radius.
+200 4 59170 59186 Turn to face the starting point.
+200 5 59187 59253 Fly while ascending back to the starting point.
+201 0 59254 59261 Turn to face the curved canal waterway.
+201 1 59262 59309 Fly while descending to 30 meters above the curved canal waterway.
+201 2 59310 59327 Turn to enter a 30-meter-radius orbit around the curved canal waterway.
+201 3 59328 59516 Orbit the curved canal waterway once with a 30-meter radius.
+201 4 59517 59533 Turn to face the starting point.
+201 5 59534 59581 Fly while ascending back to the starting point.
+202 0 59582 59593 Turn to face the curved canal waterway.
+202 1 59594 59656 Fly while descending to 30 meters above the curved canal waterway.
+202 2 59657 59674 Turn to enter a 30-meter-radius orbit around the curved canal waterway.
+202 3 59675 59863 Orbit the curved canal waterway once with a 30-meter radius.
+202 4 59864 59880 Turn to face the starting point.
+202 5 59881 59943 Fly while ascending back to the starting point.
+203 0 59944 59977 Turn to face the curved canal waterway.
+203 1 59978 60037 Fly while descending to 30 meters above the curved canal waterway.
+203 2 60038 60054 Turn to enter a 10-meter-radius orbit around the curved canal waterway.
+203 3 60055 60117 Orbit the curved canal waterway once with a 10-meter radius.
+203 4 60118 60134 Turn to face the starting point.
+203 5 60135 60194 Fly while ascending back to the starting point.
+204 0 60195 60197 Turn to face the curved canal waterway.
+204 1 60198 60240 Fly while descending to 30 meters above the curved canal waterway.
+204 2 60241 60257 Turn to enter a 30-meter-radius orbit around the curved canal waterway.
+204 3 60258 60446 Orbit the curved canal waterway once with a 30-meter radius.
+204 4 60447 60463 Turn to face the starting point.
+204 5 60464 60506 Fly while ascending back to the starting point.
+205 0 60507 60527 Turn to face the curved canal waterway.
+205 1 60528 60573 Fly while descending to 30 meters above the curved canal waterway.
+205 2 60574 60591 Turn to enter a 20-meter-radius orbit around the curved canal waterway.
+205 3 60592 60717 Orbit the curved canal waterway once with a 20-meter radius.
+205 4 60718 60734 Turn to face the starting point.
+205 5 60735 60780 Fly while ascending back to the starting point.
+206 0 60781 60793 Turn to face the curved canal waterway.
+206 1 60794 60846 Fly while descending to 30 meters above the curved canal waterway.
+206 2 60847 60864 Turn to enter a 30-meter-radius orbit around the curved canal waterway.
+206 3 60865 61053 Orbit the curved canal waterway once with a 30-meter radius.
+206 4 61054 61070 Turn to face the starting point.
+206 5 61071 61123 Fly while ascending back to the starting point.
+207 0 61124 61125 Turn to face the narrow canal waterway.
+207 1 61126 61181 Fly while descending to 30 meters above the narrow canal waterway.
+207 2 61182 61199 Turn to enter a 30-meter-radius orbit around the narrow canal waterway.
+207 3 61200 61388 Orbit the narrow canal waterway once with a 30-meter radius.
+207 4 61389 61405 Turn to face the starting point.
+207 5 61406 61461 Fly while ascending back to the starting point.
+208 0 61462 61469 Turn to face the narrow canal waterway.
+208 1 61470 61528 Fly while descending to 30 meters above the narrow canal waterway.
+208 2 61529 61546 Turn to enter a 30-meter-radius orbit around the narrow canal waterway.
+208 3 61547 61735 Orbit the narrow canal waterway once with a 30-meter radius.
+208 4 61736 61752 Turn to face the starting point.
+208 5 61753 61811 Fly while ascending back to the starting point.
+209 0 61812 61840 Turn to face the narrow canal waterway.
+209 1 61841 61884 Fly while descending to 30 meters above the narrow canal waterway.
+209 2 61885 61901 Turn to enter a 10-meter-radius orbit around the narrow canal waterway.
+209 3 61902 61964 Orbit the narrow canal waterway once with a 10-meter radius.
+209 4 61965 61981 Turn to face the starting point.
+209 5 61982 62025 Fly while ascending back to the starting point.
+210 0 62026 62026 Turn to face the narrow canal waterway.
+210 1 62027 62082 Fly while descending to 30 meters above the narrow canal waterway.
+210 2 62083 62099 Turn to enter a 30-meter-radius orbit around the narrow canal waterway.
+210 3 62100 62288 Orbit the narrow canal waterway once with a 30-meter radius.
+210 4 62289 62305 Turn to face the starting point.
+210 5 62306 62361 Fly while ascending back to the starting point.
+211 0 62362 62370 Turn to face the narrow canal waterway.
+211 1 62371 62425 Fly while descending to 30 meters above the narrow canal waterway.
+211 2 62426 62443 Turn to enter a 20-meter-radius orbit around the narrow canal waterway.
+211 3 62444 62569 Orbit the narrow canal waterway once with a 20-meter radius.
+211 4 62570 62586 Turn to face the starting point.
+211 5 62587 62641 Fly while ascending back to the starting point.
+212 0 62642 62655 Turn to face the narrow canal waterway.
+212 1 62656 62699 Fly while descending to 30 meters above the narrow canal waterway.
+212 2 62700 62717 Turn to enter a 30-meter-radius orbit around the narrow canal waterway.
+212 3 62718 62906 Orbit the narrow canal waterway once with a 30-meter radius.
+212 4 62907 62923 Turn to face the starting point.
+212 5 62924 62967 Fly while ascending back to the starting point.
+213 0 62968 62981 Turn to face the narrow canal waterway.
+213 1 62982 63042 Fly while descending to 30 meters above the narrow canal waterway.
+213 2 63043 63060 Turn to enter a 20-meter-radius orbit around the narrow canal waterway.
+213 3 63061 63186 Orbit the narrow canal waterway once with a 20-meter radius.
+213 4 63187 63203 Turn to face the starting point.
+213 5 63204 63264 Fly while ascending back to the starting point.
+214 0 63265 63278 Turn to face the narrow canal waterway.
+214 1 63279 63327 Fly while descending to 30 meters above the narrow canal waterway.
+214 2 63328 63344 Turn to enter a 30-meter-radius orbit around the narrow canal waterway.
+214 3 63345 63533 Orbit the narrow canal waterway once with a 30-meter radius.
+214 4 63534 63550 Turn to face the starting point.
+214 5 63551 63599 Fly while ascending back to the starting point.
+215 0 63600 63602 Turn to face the narrow canal waterway.
+215 1 63603 63668 Fly while descending to 30 meters above the narrow canal waterway.
+215 2 63669 63686 Turn to enter a 20-meter-radius orbit around the narrow canal waterway.
+215 3 63687 63812 Orbit the narrow canal waterway once with a 20-meter radius.
+215 4 63813 63829 Turn to face the starting point.
+215 5 63830 63895 Fly while ascending back to the starting point.
+216 0 63896 63922 Turn to face the river channel.
+216 1 63923 63975 Fly while descending to 30 meters above the river channel.
+216 2 63976 63993 Turn to enter a 30-meter-radius orbit around the river channel.
+216 3 63994 64182 Orbit the river channel once with a 30-meter radius.
+216 4 64183 64199 Turn to face the starting point.
+216 5 64200 64252 Fly while ascending back to the starting point.
+217 0 64253 64286 Turn to face the river channel.
+217 1 64287 64343 Fly while descending to 30 meters above the river channel.
+217 2 64344 64361 Turn to enter a 20-meter-radius orbit around the river channel.
+217 3 64362 64487 Orbit the river channel once with a 20-meter radius.
+217 4 64488 64504 Turn to face the starting point.
+217 5 64505 64561 Fly while ascending back to the starting point.
+218 0 64562 64592 Turn to face the river channel.
+218 1 64593 64640 Fly while descending to 30 meters above the river channel.
+218 2 64641 64657 Turn to enter a 10-meter-radius orbit around the river channel.
+218 3 64658 64720 Orbit the river channel once with a 10-meter radius.
+218 4 64721 64737 Turn to face the starting point.
+218 5 64738 64785 Fly while ascending back to the starting point.
+219 0 64786 64786 Turn to face the river channel.
+219 1 64787 64840 Fly while descending to 30 meters above the river channel.
+219 2 64841 64857 Turn to enter a 30-meter-radius orbit around the river channel.
+219 3 64858 65046 Orbit the river channel once with a 30-meter radius.
+219 4 65047 65063 Turn to face the starting point.
+219 5 65064 65117 Fly while ascending back to the starting point.
+220 0 65118 65137 Turn to face the river channel.
+220 1 65138 65186 Fly while descending to 30 meters above the river channel.
+220 2 65187 65204 Turn to enter a 20-meter-radius orbit around the river channel.
+220 3 65205 65330 Orbit the river channel once with a 20-meter radius.
+220 4 65331 65347 Turn to face the starting point.
+220 5 65348 65396 Fly while ascending back to the starting point.
+221 0 65397 65409 Turn to face the river channel.
+221 1 65410 65458 Fly while descending to 30 meters above the river channel.
+221 2 65459 65476 Turn to enter a 20-meter-radius orbit around the river channel.
+221 3 65477 65602 Orbit the river channel once with a 20-meter radius.
+221 4 65603 65619 Turn to face the starting point.
+221 5 65620 65668 Fly while ascending back to the starting point.
+222 0 65669 65673 Turn to face the river channel.
+222 1 65674 65741 Fly while descending to 30 meters above the river channel.
+222 2 65742 65759 Turn to enter a 10-meter-radius orbit around the river channel.
+222 3 65760 65822 Orbit the river channel once with a 10-meter radius.
+222 4 65823 65839 Turn to face the starting point.
+222 5 65840 65907 Fly while ascending back to the starting point.
+223 0 65908 65918 Turn to face the river channel.
+223 1 65919 65977 Fly while descending to 30 meters above the river channel.
+223 2 65978 65994 Turn to enter a 20-meter-radius orbit around the river channel.
+223 3 65995 66120 Orbit the river channel once with a 20-meter radius.
+223 4 66121 66137 Turn to face the starting point.
+223 5 66138 66196 Fly while ascending back to the starting point.
+224 0 66197 66211 Turn to face the river channel.
+224 1 66212 66253 Fly while descending to 30 meters above the river channel.
+224 2 66254 66271 Turn to enter a 20-meter-radius orbit around the river channel.
+224 3 66272 66397 Orbit the river channel once with a 20-meter radius.
+224 4 66398 66414 Turn to face the starting point.
+224 5 66415 66456 Fly while ascending back to the starting point.
+225 0 66457 66489 Turn to face the small river island.
+225 1 66490 66549 Fly while descending to 30 meters above the small river island.
+225 2 66550 66566 Turn to enter a 10-meter-radius orbit around the small river island.
+225 3 66567 66629 Orbit the small river island once with a 10-meter radius.
+225 4 66630 66646 Turn to face the starting point.
+225 5 66647 66706 Fly while ascending back to the starting point.
+226 0 66707 66712 Turn to face the small river island.
+226 1 66713 66771 Fly while descending to 30 meters above the small river island.
+226 2 66772 66788 Turn to enter a 30-meter-radius orbit around the small river island.
+226 3 66789 66977 Orbit the small river island once with a 30-meter radius.
+226 4 66978 66994 Turn to face the starting point.
+226 5 66995 67053 Fly while ascending back to the starting point.
+227 0 67054 67065 Turn to face the small river island.
+227 1 67066 67132 Fly while descending to 30 meters above the small river island.
+227 2 67133 67150 Turn to enter a 10-meter-radius orbit around the small river island.
+227 3 67151 67213 Orbit the small river island once with a 10-meter radius.
+227 4 67214 67230 Turn to face the starting point.
+227 5 67231 67297 Fly while ascending back to the starting point.
+228 0 67298 67303 Turn to face the small river island.
+228 1 67304 67358 Fly while descending to 30 meters above the small river island.
+228 2 67359 67375 Turn to enter a 30-meter-radius orbit around the small river island.
+228 3 67376 67564 Orbit the small river island once with a 30-meter radius.
+228 4 67565 67581 Turn to face the starting point.
+228 5 67582 67636 Fly while ascending back to the starting point.
+229 0 67637 67655 Turn to face the small river island.
+229 1 67656 67724 Fly while descending to 30 meters above the small river island.
+229 2 67725 67742 Turn to enter a 10-meter-radius orbit around the small river island.
+229 3 67743 67805 Orbit the small river island once with a 10-meter radius.
+229 4 67806 67822 Turn to face the starting point.
+229 5 67823 67891 Fly while ascending back to the starting point.
+230 0 67892 67917 Turn to face the small river island.
+230 1 67918 67980 Fly while descending to 30 meters above the small river island.
+230 2 67981 67997 Turn to enter a 20-meter-radius orbit around the small river island.
+230 3 67998 68123 Orbit the small river island once with a 20-meter radius.
+230 4 68124 68140 Turn to face the starting point.
+230 5 68141 68203 Fly while ascending back to the starting point.
+231 0 68204 68217 Turn to face the small river island.
+231 1 68218 68263 Fly while descending to 30 meters above the small river island.
+231 2 68264 68280 Turn to enter a 10-meter-radius orbit around the small river island.
+231 3 68281 68343 Orbit the small river island once with a 10-meter radius.
+231 4 68344 68360 Turn to face the starting point.
+231 5 68361 68406 Fly while ascending back to the starting point.
+232 0 68407 68407 Turn to face the small river island.
+232 1 68408 68465 Fly while descending to 30 meters above the small river island.
+232 2 68466 68483 Turn to enter a 20-meter-radius orbit around the small river island.
+232 3 68484 68609 Orbit the small river island once with a 20-meter radius.
+232 4 68610 68626 Turn to face the starting point.
+232 5 68627 68684 Fly while ascending back to the starting point.
+233 0 68685 68716 Turn to face the small river island.
+233 1 68717 68770 Fly while descending to 30 meters above the small river island.
+233 2 68771 68788 Turn to enter a 30-meter-radius orbit around the small river island.
+233 3 68789 68977 Orbit the small river island once with a 30-meter radius.
+233 4 68978 68994 Turn to face the starting point.
+233 5 68995 69048 Fly while ascending back to the starting point.
+234 0 69049 69049 Turn to face the water control gate structure.
+234 1 69050 69107 Fly while descending to 30 meters above the water control gate structure.
+234 2 69108 69125 Turn to enter a 20-meter-radius orbit around the water control gate structure.
+234 3 69126 69251 Orbit the water control gate structure once with a 20-meter radius.
+234 4 69252 69268 Turn to face the starting point.
+234 5 69269 69326 Fly while ascending back to the starting point.
+235 0 69327 69353 Turn to face the water control gate structure.
+235 1 69354 69401 Fly while descending to 30 meters above the water control gate structure.
+235 2 69402 69419 Turn to enter a 30-meter-radius orbit around the water control gate structure.
+235 3 69420 69608 Orbit the water control gate structure once with a 30-meter radius.
+235 4 69609 69625 Turn to face the starting point.
+235 5 69626 69673 Fly while ascending back to the starting point.
+236 0 69674 69676 Turn to face the water control gate structure.
+236 1 69677 69746 Fly while descending to 30 meters above the water control gate structure.
+236 2 69747 69764 Turn to enter a 20-meter-radius orbit around the water control gate structure.
+236 3 69765 69890 Orbit the water control gate structure once with a 20-meter radius.
+236 4 69891 69907 Turn to face the starting point.
+236 5 69908 69977 Fly while ascending back to the starting point.
+237 0 69978 69993 Turn to face the water control gate structure.
+237 1 69994 70049 Fly while descending to 30 meters above the water control gate structure.
+237 2 70050 70066 Turn to enter a 30-meter-radius orbit around the water control gate structure.
+237 3 70067 70255 Orbit the water control gate structure once with a 30-meter radius.
+237 4 70256 70272 Turn to face the starting point.
+237 5 70273 70328 Fly while ascending back to the starting point.
+238 0 70329 70342 Turn to face the water control gate structure.
+238 1 70343 70402 Fly while descending to 30 meters above the water control gate structure.
+238 2 70403 70420 Turn to enter a 10-meter-radius orbit around the water control gate structure.
+238 3 70421 70483 Orbit the water control gate structure once with a 10-meter radius.
+238 4 70484 70500 Turn to face the starting point.
+238 5 70501 70560 Fly while ascending back to the starting point.
+239 0 70561 70588 Turn to face the water control gate structure.
+239 1 70589 70634 Fly while descending to 30 meters above the water control gate structure.
+239 2 70635 70652 Turn to enter a 30-meter-radius orbit around the water control gate structure.
+239 3 70653 70841 Orbit the water control gate structure once with a 30-meter radius.
+239 4 70842 70858 Turn to face the starting point.
+239 5 70859 70904 Fly while ascending back to the starting point.
+240 0 70905 70916 Turn to face the water control gate structure.
+240 1 70917 70980 Fly while descending to 30 meters above the water control gate structure.
+240 2 70981 70997 Turn to enter a 10-meter-radius orbit around the water control gate structure.
+240 3 70998 71060 Orbit the water control gate structure once with a 10-meter radius.
+240 4 71061 71077 Turn to face the starting point.
+240 5 71078 71141 Fly while ascending back to the starting point.
+241 0 71142 71168 Turn to face the water control gate structure.
+241 1 71169 71228 Fly while descending to 30 meters above the water control gate structure.
+241 2 71229 71245 Turn to enter a 20-meter-radius orbit around the water control gate structure.
+241 3 71246 71371 Orbit the water control gate structure once with a 20-meter radius.
+241 4 71372 71388 Turn to face the starting point.
+241 5 71389 71448 Fly while ascending back to the starting point.
+242 0 71449 71451 Turn to face the water control gate structure.
+242 1 71452 71514 Fly while descending to 30 meters above the water control gate structure.
+242 2 71515 71531 Turn to enter a 10-meter-radius orbit around the water control gate structure.
+242 3 71532 71594 Orbit the water control gate structure once with a 10-meter radius.
+242 4 71595 71611 Turn to face the starting point.
+242 5 71612 71674 Fly while ascending back to the starting point.
+243 0 71675 71699 Turn to face the small retention pond.
+243 1 71700 71745 Fly while descending to 30 meters above the small retention pond.
+243 2 71746 71762 Turn to enter a 30-meter-radius orbit around the small retention pond.
+243 3 71763 71951 Orbit the small retention pond once with a 30-meter radius.
+243 4 71952 71968 Turn to face the starting point.
+243 5 71969 72014 Fly while ascending back to the starting point.
+244 0 72015 72022 Turn to face the small retention pond.
+244 1 72023 72074 Fly while descending to 30 meters above the small retention pond.
+244 2 72075 72091 Turn to enter a 20-meter-radius orbit around the small retention pond.
+244 3 72092 72217 Orbit the small retention pond once with a 20-meter radius.
+244 4 72218 72234 Turn to face the starting point.
+244 5 72235 72286 Fly while ascending back to the starting point.
+245 0 72287 72316 Turn to face the small retention pond.
+245 1 72317 72379 Fly while descending to 30 meters above the small retention pond.
+245 2 72380 72397 Turn to enter a 10-meter-radius orbit around the small retention pond.
+245 3 72398 72460 Orbit the small retention pond once with a 10-meter radius.
+245 4 72461 72477 Turn to face the starting point.
+245 5 72478 72540 Fly while ascending back to the starting point.
+246 0 72541 72557 Turn to face the small retention pond.
+246 1 72558 72614 Fly while descending to 30 meters above the small retention pond.
+246 2 72615 72631 Turn to enter a 20-meter-radius orbit around the small retention pond.
+246 3 72632 72757 Orbit the small retention pond once with a 20-meter radius.
+246 4 72758 72774 Turn to face the starting point.
+246 5 72775 72831 Fly while ascending back to the starting point.
+247 0 72832 72851 Turn to face the small retention pond.
+247 1 72852 72906 Fly while descending to 30 meters above the small retention pond.
+247 2 72907 72923 Turn to enter a 20-meter-radius orbit around the small retention pond.
+247 3 72924 73049 Orbit the small retention pond once with a 20-meter radius.
+247 4 73050 73066 Turn to face the starting point.
+247 5 73067 73121 Fly while ascending back to the starting point.
+248 0 73122 73155 Turn to face the small retention pond.
+248 1 73156 73218 Fly while descending to 30 meters above the small retention pond.
+248 2 73219 73235 Turn to enter a 10-meter-radius orbit around the small retention pond.
+248 3 73236 73298 Orbit the small retention pond once with a 10-meter radius.
+248 4 73299 73315 Turn to face the starting point.
+248 5 73316 73378 Fly while ascending back to the starting point.
+249 0 73379 73404 Turn to face the small retention pond.
+249 1 73405 73466 Fly while descending to 30 meters above the small retention pond.
+249 2 73467 73484 Turn to enter a 10-meter-radius orbit around the small retention pond.
+249 3 73485 73547 Orbit the small retention pond once with a 10-meter radius.
+249 4 73548 73564 Turn to face the starting point.
+249 5 73565 73626 Fly while ascending back to the starting point.
+250 0 73627 73658 Turn to face the small retention pond.
+250 1 73659 73706 Fly while descending to 30 meters above the small retention pond.
+250 2 73707 73723 Turn to enter a 20-meter-radius orbit around the small retention pond.
+250 3 73724 73849 Orbit the small retention pond once with a 20-meter radius.
+250 4 73850 73866 Turn to face the starting point.
+250 5 73867 73914 Fly while ascending back to the starting point.
+251 0 73915 73924 Turn to face the small retention pond.
+251 1 73925 73988 Fly while descending to 30 meters above the small retention pond.
+251 2 73989 74006 Turn to enter a 30-meter-radius orbit around the small retention pond.
+251 3 74007 74195 Orbit the small retention pond once with a 30-meter radius.
+251 4 74196 74212 Turn to face the starting point.
+251 5 74213 74276 Fly while ascending back to the starting point.
+252 0 74277 74301 Turn to face the plowed agricultural field.
+252 1 74302 74348 Fly while descending to 30 meters above the plowed agricultural field.
+252 2 74349 74366 Turn to enter a 30-meter-radius orbit around the plowed agricultural field.
+252 3 74367 74555 Orbit the plowed agricultural field once with a 30-meter radius.
+252 4 74556 74572 Turn to face the starting point.
+252 5 74573 74619 Fly while ascending back to the starting point.
+253 0 74620 74645 Turn to face the plowed agricultural field.
+253 1 74646 74688 Fly while descending to 30 meters above the plowed agricultural field.
+253 2 74689 74705 Turn to enter a 30-meter-radius orbit around the plowed agricultural field.
+253 3 74706 74894 Orbit the plowed agricultural field once with a 30-meter radius.
+253 4 74895 74911 Turn to face the starting point.
+253 5 74912 74954 Fly while ascending back to the starting point.
+254 0 74955 74958 Turn to face the plowed agricultural field.
+254 1 74959 75016 Fly while descending to 30 meters above the plowed agricultural field.
+254 2 75017 75033 Turn to enter a 30-meter-radius orbit around the plowed agricultural field.
+254 3 75034 75222 Orbit the plowed agricultural field once with a 30-meter radius.
+254 4 75223 75239 Turn to face the starting point.
+254 5 75240 75297 Fly while ascending back to the starting point.
+255 0 75298 75326 Turn to face the plowed agricultural field.
+255 1 75327 75380 Fly while descending to 30 meters above the plowed agricultural field.
+255 2 75381 75398 Turn to enter a 30-meter-radius orbit around the plowed agricultural field.
+255 3 75399 75587 Orbit the plowed agricultural field once with a 30-meter radius.
+255 4 75588 75604 Turn to face the starting point.
+255 5 75605 75658 Fly while ascending back to the starting point.
+256 0 75659 75679 Turn to face the plowed agricultural field.
+256 1 75680 75725 Fly while descending to 30 meters above the plowed agricultural field.
+256 2 75726 75743 Turn to enter a 30-meter-radius orbit around the plowed agricultural field.
+256 3 75744 75932 Orbit the plowed agricultural field once with a 30-meter radius.
+256 4 75933 75949 Turn to face the starting point.
+256 5 75950 75995 Fly while ascending back to the starting point.
+257 0 75996 76024 Turn to face the plowed agricultural field.
+257 1 76025 76075 Fly while descending to 30 meters above the plowed agricultural field.
+257 2 76076 76092 Turn to enter a 20-meter-radius orbit around the plowed agricultural field.
+257 3 76093 76218 Orbit the plowed agricultural field once with a 20-meter radius.
+257 4 76219 76235 Turn to face the starting point.
+257 5 76236 76286 Fly while ascending back to the starting point.
+258 0 76287 76292 Turn to face the plowed agricultural field.
+258 1 76293 76353 Fly while descending to 30 meters above the plowed agricultural field.
+258 2 76354 76371 Turn to enter a 30-meter-radius orbit around the plowed agricultural field.
+258 3 76372 76560 Orbit the plowed agricultural field once with a 30-meter radius.
+258 4 76561 76577 Turn to face the starting point.
+258 5 76578 76638 Fly while ascending back to the starting point.
+259 0 76639 76646 Turn to face the plowed agricultural field.
+259 1 76647 76702 Fly while descending to 30 meters above the plowed agricultural field.
+259 2 76703 76719 Turn to enter a 30-meter-radius orbit around the plowed agricultural field.
+259 3 76720 76908 Orbit the plowed agricultural field once with a 30-meter radius.
+259 4 76909 76925 Turn to face the starting point.
+259 5 76926 76981 Fly while ascending back to the starting point.
+260 0 76982 77015 Turn to face the plowed agricultural field.
+260 1 77016 77091 Fly while descending to 30 meters above the plowed agricultural field.
+260 2 77092 77108 Turn to enter a 10-meter-radius orbit around the plowed agricultural field.
+260 3 77109 77171 Orbit the plowed agricultural field once with a 10-meter radius.
+260 4 77172 77188 Turn to face the starting point.
+260 5 77189 77264 Fly while ascending back to the starting point.
+261 0 77265 77295 Turn to face the small utility shed.
+261 1 77296 77353 Fly while descending to 30 meters above the small utility shed.
+261 2 77354 77371 Turn to enter a 20-meter-radius orbit around the small utility shed.
+261 3 77372 77497 Orbit the small utility shed once with a 20-meter radius.
+261 4 77498 77514 Turn to face the starting point.
+261 5 77515 77572 Fly while ascending back to the starting point.
+262 0 77573 77580 Turn to face the small utility shed.
+262 1 77581 77626 Fly while descending to 30 meters above the small utility shed.
+262 2 77627 77643 Turn to enter a 10-meter-radius orbit around the small utility shed.
+262 3 77644 77706 Orbit the small utility shed once with a 10-meter radius.
+262 4 77707 77723 Turn to face the starting point.
+262 5 77724 77769 Fly while ascending back to the starting point.
+263 0 77770 77770 Turn to face the small utility shed.
+263 1 77771 77828 Fly while descending to 30 meters above the small utility shed.
+263 2 77829 77845 Turn to enter a 20-meter-radius orbit around the small utility shed.
+263 3 77846 77971 Orbit the small utility shed once with a 20-meter radius.
+263 4 77972 77988 Turn to face the starting point.
+263 5 77989 78046 Fly while ascending back to the starting point.
+264 0 78047 78061 Turn to face the small utility shed.
+264 1 78062 78113 Fly while descending to 30 meters above the small utility shed.
+264 2 78114 78131 Turn to enter a 30-meter-radius orbit around the small utility shed.
+264 3 78132 78320 Orbit the small utility shed once with a 30-meter radius.
+264 4 78321 78337 Turn to face the starting point.
+264 5 78338 78389 Fly while ascending back to the starting point.
+265 0 78390 78413 Turn to face the small utility shed.
+265 1 78414 78470 Fly while descending to 30 meters above the small utility shed.
+265 2 78471 78487 Turn to enter a 20-meter-radius orbit around the small utility shed.
+265 3 78488 78613 Orbit the small utility shed once with a 20-meter radius.
+265 4 78614 78630 Turn to face the starting point.
+265 5 78631 78687 Fly while ascending back to the starting point.
+266 0 78688 78715 Turn to face the small utility shed.
+266 1 78716 78762 Fly while descending to 30 meters above the small utility shed.
+266 2 78763 78779 Turn to enter a 30-meter-radius orbit around the small utility shed.
+266 3 78780 78968 Orbit the small utility shed once with a 30-meter radius.
+266 4 78969 78985 Turn to face the starting point.
+266 5 78986 79032 Fly while ascending back to the starting point.
+267 0 79033 79064 Turn to face the small utility shed.
+267 1 79065 79121 Fly while descending to 30 meters above the small utility shed.
+267 2 79122 79139 Turn to enter a 10-meter-radius orbit around the small utility shed.
+267 3 79140 79202 Orbit the small utility shed once with a 10-meter radius.
+267 4 79203 79219 Turn to face the starting point.
+267 5 79220 79276 Fly while ascending back to the starting point.
+268 0 79277 79293 Turn to face the small utility shed.
+268 1 79294 79338 Fly while descending to 30 meters above the small utility shed.
+268 2 79339 79356 Turn to enter a 30-meter-radius orbit around the small utility shed.
+268 3 79357 79545 Orbit the small utility shed once with a 30-meter radius.
+268 4 79546 79562 Turn to face the starting point.
+268 5 79563 79607 Fly while ascending back to the starting point.
+269 0 79608 79631 Turn to face the small utility shed.
+269 1 79632 79688 Fly while descending to 30 meters above the small utility shed.
+269 2 79689 79705 Turn to enter a 30-meter-radius orbit around the small utility shed.
+269 3 79706 79894 Orbit the small utility shed once with a 30-meter radius.
+269 4 79895 79911 Turn to face the starting point.
+269 5 79912 79968 Fly while ascending back to the starting point.

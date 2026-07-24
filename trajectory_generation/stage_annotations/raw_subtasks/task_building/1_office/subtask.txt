@@ -1,0 +1,1621 @@
+# traj_id  subtask_id  pose_id_start  pose_id_end  subtask
+0 0 0 9 Move to the building in the upper left of the view.
+0 1 10 67 Descend to above the target building.
+0 2 68 100 Adjust heading.
+0 3 101 975 Orbit the target building.
+0 4 976 1033 Ascend back to the original altitude.
+0 5 1034 1042 Move back to the starting point.
+1 0 1043 1055 Move to the building in the right of the view.
+1 1 1056 1111 Descend to above the target building.
+1 2 1112 1112 Adjust heading.
+1 3 1113 1983 Orbit the target building.
+1 4 1984 2039 Ascend back to the original altitude.
+1 5 2040 2051 Move back to the starting point.
+2 0 2052 2087 Move to the building in the center of the view.
+2 1 2088 2135 Descend to above the target building.
+2 2 2136 2143 Adjust heading.
+2 3 2144 3018 Orbit the target building.
+2 4 3019 3066 Ascend back to the original altitude.
+2 5 3067 3101 Move back to the starting point.
+3 0 3102 3106 Move to the building in the upper left of the view.
+3 1 3107 3155 Descend to above the target building.
+3 2 3156 3178 Adjust heading.
+3 3 3179 4053 Orbit the target building.
+3 4 4054 4102 Ascend back to the original altitude.
+3 5 4103 4106 Move back to the starting point.
+4 0 4107 4130 Move to the building in the upper right of the view.
+4 1 4131 4187 Descend to above the target building.
+4 2 4188 4193 Adjust heading.
+4 3 4194 5068 Orbit the target building.
+4 4 5069 5125 Ascend back to the original altitude.
+4 5 5126 5148 Move back to the starting point.
+5 0 5149 5151 Move to the building in the upper right of the view.
+5 1 5152 5211 Descend to above the target building.
+5 2 5212 5222 Adjust heading.
+5 3 5223 6097 Orbit the target building.
+5 4 6098 6157 Ascend back to the original altitude.
+5 5 6158 6160 Move back to the starting point.
+6 0 6161 6166 Move to the building in the center of the view.
+6 1 6167 6216 Descend to above the target building.
+6 2 6217 6217 Adjust heading.
+6 3 6218 7092 Orbit the target building.
+6 4 7093 7142 Ascend back to the original altitude.
+6 5 7143 7147 Move back to the starting point.
+7 0 7148 7180 Move to the building in the left of the view.
+7 1 7181 7235 Descend to above the target building.
+7 2 7236 7260 Adjust heading.
+7 3 7261 8135 Orbit the target building.
+7 4 8136 8190 Ascend back to the original altitude.
+7 5 8191 8222 Move back to the starting point.
+8 0 8223 8240 Move to the building in the right of the view.
+8 1 8241 8290 Descend to above the target building.
+8 2 8291 8300 Adjust heading.
+8 3 8301 9175 Orbit the target building.
+8 4 9176 9225 Ascend back to the original altitude.
+8 5 9226 9242 Move back to the starting point.
+9 0 9243 9281 Move to the building in the center of the view.
+9 1 9282 9326 Descend to above the target building.
+9 2 9327 9353 Adjust heading.
+9 3 9354 10228 Orbit the target building.
+9 4 10229 10273 Ascend back to the original altitude.
+9 5 10274 10311 Move back to the starting point.
+10 0 10312 10318 Move to the building in the upper left of the view.
+10 1 10319 10373 Descend to above the target building.
+10 2 10374 10390 Adjust heading.
+10 3 10391 11265 Orbit the target building.
+10 4 11266 11320 Ascend back to the original altitude.
+10 5 11321 11326 Move back to the starting point.
+11 0 11327 11337 Move to the building in the upper left of the view.
+11 1 11338 11385 Descend to above the target building.
+11 2 11386 11408 Adjust heading.
+11 3 11409 12283 Orbit the target building.
+11 4 12284 12331 Ascend back to the original altitude.
+11 5 12332 12341 Move back to the starting point.
+12 0 12342 12362 Move to the building in the center of the view.
+12 1 12363 12406 Descend to above the target building.
+12 2 12407 12408 Adjust heading.
+12 3 12409 13283 Orbit the target building.
+12 4 13284 13327 Ascend back to the original altitude.
+12 5 13328 13347 Move back to the starting point.
+13 0 13348 13357 Move to the building in the lower left of the view.
+13 1 13358 13412 Descend to above the target building.
+13 2 13413 13437 Adjust heading.
+13 3 13438 14312 Orbit the target building.
+13 4 14313 14367 Ascend back to the original altitude.
+13 5 14368 14376 Move back to the starting point.
+14 0 14377 14407 Move to the building in the upper right of the view.
+14 1 14408 14450 Descend to above the target building.
+14 2 14451 14472 Adjust heading.
+14 3 14473 15347 Orbit the target building.
+14 4 15348 15390 Ascend back to the original altitude.
+14 5 15391 15420 Move back to the starting point.
+15 0 15421 15425 Move to the building in the upper left of the view.
+15 1 15426 15477 Descend to above the target building.
+15 2 15478 15503 Adjust heading.
+15 3 15504 16131 Orbit the target building.
+15 4 16132 16183 Ascend back to the original altitude.
+15 5 16184 16187 Move back to the starting point.
+16 0 16188 16201 Move to the building in the center of the view.
+16 1 16202 16253 Descend to above the target building.
+16 2 16254 16262 Adjust heading.
+16 3 16263 16890 Orbit the target building.
+16 4 16891 16942 Ascend back to the original altitude.
+16 5 16943 16955 Move back to the starting point.
+17 0 16956 16976 Move to the building in the center of the view.
+17 1 16977 17021 Descend to above the target building.
+17 2 17022 17047 Adjust heading.
+17 3 17048 17675 Orbit the target building.
+17 4 17676 17720 Ascend back to the original altitude.
+17 5 17721 17740 Move back to the starting point.
+18 0 17741 17766 Move to the building in the bottom of the view.
+18 1 17767 17808 Descend to above the target building.
+18 2 17809 17824 Adjust heading.
+18 3 17825 18452 Orbit the target building.
+18 4 18453 18494 Ascend back to the original altitude.
+18 5 18495 18519 Move back to the starting point.
+19 0 18520 18524 Move to the building in the center of the view.
+19 1 18525 18576 Descend to above the target building.
+19 2 18577 18584 Adjust heading.
+19 3 18585 19212 Orbit the target building.
+19 4 19213 19264 Ascend back to the original altitude.
+19 5 19265 19268 Move back to the starting point.
+20 0 19269 19283 Move to the building in the right of the view.
+20 1 19284 19340 Descend to above the target building.
+20 2 19341 19345 Adjust heading.
+20 3 19346 19973 Orbit the target building.
+20 4 19974 20030 Ascend back to the original altitude.
+20 5 20031 20044 Move back to the starting point.
+21 0 20045 20068 Move to the building in the center of the view.
+21 1 20069 20123 Descend to above the target building.
+21 2 20124 20129 Adjust heading.
+21 3 20130 20757 Orbit the target building.
+21 4 20758 20812 Ascend back to the original altitude.
+21 5 20813 20835 Move back to the starting point.
+22 0 20836 20855 Move to the building in the center of the view.
+22 1 20856 20899 Descend to above the target building.
+22 2 20900 20926 Adjust heading.
+22 3 20927 21554 Orbit the target building.
+22 4 21555 21598 Ascend back to the original altitude.
+22 5 21599 21617 Move back to the starting point.
+23 0 21618 21627 Move to the building in the left of the view.
+23 1 21628 21674 Descend to above the target building.
+23 2 21675 21704 Adjust heading.
+23 3 21705 22332 Orbit the target building.
+23 4 22333 22379 Ascend back to the original altitude.
+23 5 22380 22388 Move back to the starting point.
+24 0 22389 22407 Move to the building in the center of the view.
+24 1 22408 22450 Descend to above the target building.
+24 2 22451 22456 Adjust heading.
+24 3 22457 23084 Orbit the target building.
+24 4 23085 23127 Ascend back to the original altitude.
+24 5 23128 23145 Move back to the starting point.
+25 0 23146 23160 Move to the building in the left of the view.
+25 1 23161 23206 Descend to above the target building.
+25 2 23207 23234 Adjust heading.
+25 3 23235 23862 Orbit the target building.
+25 4 23863 23908 Ascend back to the original altitude.
+25 5 23909 23922 Move back to the starting point.
+26 0 23923 23939 Move to the building in the top of the view.
+26 1 23940 23988 Descend to above the target building.
+26 2 23989 24012 Adjust heading.
+26 3 24013 24640 Orbit the target building.
+26 4 24641 24689 Ascend back to the original altitude.
+26 5 24690 24705 Move back to the starting point.
+27 0 24706 24712 Move to the building in the upper left of the view.
+27 1 24713 24762 Descend to above the target building.
+27 2 24763 24786 Adjust heading.
+27 3 24787 25414 Orbit the target building.
+27 4 25415 25464 Ascend back to the original altitude.
+27 5 25465 25470 Move back to the starting point.
+28 0 25471 25491 Move to the building in the upper left of the view.
+28 1 25492 25535 Descend to above the target building.
+28 2 25536 25550 Adjust heading.
+28 3 25551 26178 Orbit the target building.
+28 4 26179 26222 Ascend back to the original altitude.
+28 5 26223 26242 Move back to the starting point.
+29 0 26243 26259 Move to the building in the lower right of the view.
+29 1 26260 26308 Descend to above the target building.
+29 2 26309 26309 Adjust heading.
+29 3 26310 26937 Orbit the target building.
+29 4 26938 26986 Ascend back to the original altitude.
+29 5 26987 27002 Move back to the starting point.
+30 0 27003 27026 Move to the building in the upper right of the view.
+30 1 27027 27068 Descend to above the target building.
+30 2 27069 27077 Adjust heading.
+30 3 27078 27889 Orbit the target building.
+30 4 27890 27931 Ascend back to the original altitude.
+30 5 27932 27954 Move back to the starting point.
+31 0 27955 27965 Move to the building in the center of the view.
+31 1 27966 28012 Descend to above the target building.
+31 2 28013 28038 Adjust heading.
+31 3 28039 28850 Orbit the target building.
+31 4 28851 28897 Ascend back to the original altitude.
+31 5 28898 28907 Move back to the starting point.
+32 0 28908 28909 Move to the building in the center of the view.
+32 1 28910 28953 Descend to above the target building.
+32 2 28954 28980 Adjust heading.
+32 3 28981 29792 Orbit the target building.
+32 4 29793 29836 Ascend back to the original altitude.
+32 5 29837 29838 Move back to the starting point.
+33 0 29839 29842 Move to the building in the right of the view.
+33 1 29843 29894 Descend to above the target building.
+33 2 29895 29895 Adjust heading.
+33 3 29896 30707 Orbit the target building.
+33 4 30708 30759 Ascend back to the original altitude.
+33 5 30760 30762 Move back to the starting point.
+34 0 30763 30782 Move to the building in the center of the view.
+34 1 30783 30838 Descend to above the target building.
+34 2 30839 30840 Adjust heading.
+34 3 30841 31653 Orbit the target building.
+34 4 31654 31709 Ascend back to the original altitude.
+34 5 31710 31728 Move back to the starting point.
+35 0 31729 31749 Move to the building in the center of the view.
+35 1 31750 31808 Descend to above the target building.
+35 2 31809 31809 Adjust heading.
+35 3 31810 32621 Orbit the target building.
+35 4 32622 32680 Ascend back to the original altitude.
+35 5 32681 32700 Move back to the starting point.
+36 0 32701 32705 Move to the building in the left of the view.
+36 1 32706 32752 Descend to above the target building.
+36 2 32753 32785 Adjust heading.
+36 3 32786 33597 Orbit the target building.
+36 4 33598 33644 Ascend back to the original altitude.
+36 5 33645 33648 Move back to the starting point.
+37 0 33649 33662 Move to the building in the center of the view.
+37 1 33663 33719 Descend to above the target building.
+37 2 33720 33720 Adjust heading.
+37 3 33721 34532 Orbit the target building.
+37 4 34533 34589 Ascend back to the original altitude.
+37 5 34590 34602 Move back to the starting point.
+38 0 34603 34607 Move to the building in the center of the view.
+38 1 34608 34650 Descend to above the target building.
+38 2 34651 34659 Adjust heading.
+38 3 34660 35471 Orbit the target building.
+38 4 35472 35514 Ascend back to the original altitude.
+38 5 35515 35518 Move back to the starting point.
+39 0 35519 35535 Move to the building in the bottom of the view.
+39 1 35536 35590 Descend to above the target building.
+39 2 35591 35606 Adjust heading.
+39 3 35607 36418 Orbit the target building.
+39 4 36419 36473 Ascend back to the original altitude.
+39 5 36474 36489 Move back to the starting point.
+40 0 36490 36500 Move to the building in the center of the view.
+40 1 36501 36545 Descend to above the target building.
+40 2 36546 36572 Adjust heading.
+40 3 36573 37384 Orbit the target building.
+40 4 37385 37429 Ascend back to the original altitude.
+40 5 37430 37439 Move back to the starting point.
+41 0 37440 37442 Move to the building in the top of the view.
+41 1 37443 37499 Descend to above the target building.
+41 2 37500 37516 Adjust heading.
+41 3 37517 38328 Orbit the target building.
+41 4 38329 38385 Ascend back to the original altitude.
+41 5 38386 38387 Move back to the starting point.
+42 0 38388 38405 Move to the building in the center of the view.
+42 1 38406 38451 Descend to above the target building.
+42 2 38452 38457 Adjust heading.
+42 3 38458 39269 Orbit the target building.
+42 4 39270 39315 Ascend back to the original altitude.
+42 5 39316 39332 Move back to the starting point.
+43 0 39333 39346 Move to the building in the center of the view.
+43 1 39347 39390 Descend to above the target building.
+43 2 39391 39417 Adjust heading.
+43 3 39418 40229 Orbit the target building.
+43 4 40230 40273 Ascend back to the original altitude.
+43 5 40274 40287 Move back to the starting point.
+44 0 40288 40307 Move to the building in the center of the view.
+44 1 40308 40365 Descend to above the target building.
+44 2 40366 40377 Adjust heading.
+44 3 40378 41189 Orbit the target building.
+44 4 41190 41247 Ascend back to the original altitude.
+44 5 41248 41266 Move back to the starting point.
+45 0 41267 41280 Move to the building in the upper left of the view.
+45 1 41281 41331 Descend to above the target building.
+45 2 41332 41351 Adjust heading.
+45 3 41352 41880 Orbit the target building.
+45 4 41881 41931 Ascend back to the original altitude.
+45 5 41932 41944 Move back to the starting point.
+46 0 41945 41958 Move to the building in the upper left of the view.
+46 1 41959 42006 Descend to above the target building.
+46 2 42007 42032 Adjust heading.
+46 3 42033 42561 Orbit the target building.
+46 4 42562 42609 Ascend back to the original altitude.
+46 5 42610 42622 Move back to the starting point.
+47 0 42623 42642 Move to the building in the lower right of the view.
+47 1 42643 42701 Descend to above the target building.
+47 2 42702 42715 Adjust heading.
+47 3 42716 43244 Orbit the target building.
+47 4 43245 43303 Ascend back to the original altitude.
+47 5 43304 43322 Move back to the starting point.
+48 0 43323 43336 Move to the building in the center of the view.
+48 1 43337 43380 Descend to above the target building.
+48 2 43381 43404 Adjust heading.
+48 3 43405 43933 Orbit the target building.
+48 4 43934 43977 Ascend back to the original altitude.
+48 5 43978 43991 Move back to the starting point.
+49 0 43992 43997 Move to the building in the upper left of the view.
+49 1 43998 44041 Descend to above the target building.
+49 2 44042 44058 Adjust heading.
+49 3 44059 44587 Orbit the target building.
+49 4 44588 44631 Ascend back to the original altitude.
+49 5 44632 44637 Move back to the starting point.
+50 0 44638 44645 Move to the building in the lower left of the view.
+50 1 44646 44696 Descend to above the target building.
+50 2 44697 44725 Adjust heading.
+50 3 44726 45254 Orbit the target building.
+50 4 45255 45305 Ascend back to the original altitude.
+50 5 45306 45312 Move back to the starting point.
+51 0 45313 45340 Move to the building in the center of the view.
+51 1 45341 45383 Descend to above the target building.
+51 2 45384 45409 Adjust heading.
+51 3 45410 45938 Orbit the target building.
+51 4 45939 45981 Ascend back to the original altitude.
+51 5 45982 46008 Move back to the starting point.
+52 0 46009 46035 Move to the building in the center of the view.
+52 1 46036 46089 Descend to above the target building.
+52 2 46090 46109 Adjust heading.
+52 3 46110 46638 Orbit the target building.
+52 4 46639 46692 Ascend back to the original altitude.
+52 5 46693 46718 Move back to the starting point.
+53 0 46719 46726 Move to the building in the center of the view.
+53 1 46727 46781 Descend to above the target building.
+53 2 46782 46797 Adjust heading.
+53 3 46798 47326 Orbit the target building.
+53 4 47327 47381 Ascend back to the original altitude.
+53 5 47382 47388 Move back to the starting point.
+54 0 47389 47411 Move to the building in the left of the view.
+54 1 47412 47470 Descend to above the target building.
+54 2 47471 47497 Adjust heading.
+54 3 47498 48026 Orbit the target building.
+54 4 48027 48085 Ascend back to the original altitude.
+54 5 48086 48108 Move back to the starting point.
+55 0 48109 48124 Move to the building in the center of the view.
+55 1 48125 48178 Descend to above the target building.
+55 2 48179 48199 Adjust heading.
+55 3 48200 48728 Orbit the target building.
+55 4 48729 48782 Ascend back to the original altitude.
+55 5 48783 48797 Move back to the starting point.
+56 0 48798 48812 Move to the building in the upper right of the view.
+56 1 48813 48853 Descend to above the target building.
+56 2 48854 48856 Adjust heading.
+56 3 48857 49385 Orbit the target building.
+56 4 49386 49426 Ascend back to the original altitude.
+56 5 49427 49440 Move back to the starting point.
+57 0 49441 49445 Move to the building in the upper left of the view.
+57 1 49446 49488 Descend to above the target building.
+57 2 49489 49518 Adjust heading.
+57 3 49519 50047 Orbit the target building.
+57 4 50048 50090 Ascend back to the original altitude.
+57 5 50091 50094 Move back to the starting point.
+58 0 50095 50109 Move to the building in the lower left of the view.
+58 1 50110 50168 Descend to above the target building.
+58 2 50169 50200 Adjust heading.
+58 3 50201 50729 Orbit the target building.
+58 4 50730 50788 Ascend back to the original altitude.
+58 5 50789 50802 Move back to the starting point.
+59 0 50803 50812 Move to the building in the upper left of the view.
+59 1 50813 50853 Descend to above the target building.
+59 2 50854 50882 Adjust heading.
+59 3 50883 51411 Orbit the target building.
+59 4 51412 51452 Ascend back to the original altitude.
+59 5 51453 51461 Move back to the starting point.
+60 0 51462 51481 Move to the building in the right of the view.
+60 1 51482 51526 Descend to above the target building.
+60 2 51527 51527 Adjust heading.
+60 3 51528 52212 Orbit the target building.
+60 4 52213 52257 Ascend back to the original altitude.
+60 5 52258 52276 Move back to the starting point.
+61 0 52277 52283 Move to the building in the upper right of the view.
+61 1 52284 52336 Descend to above the target building.
+61 2 52337 52345 Adjust heading.
+61 3 52346 53030 Orbit the target building.
+61 4 53031 53083 Ascend back to the original altitude.
+61 5 53084 53089 Move back to the starting point.
+62 0 53090 53103 Move to the building in the upper left of the view.
+62 1 53104 53157 Descend to above the target building.
+62 2 53158 53169 Adjust heading.
+62 3 53170 53854 Orbit the target building.
+62 4 53855 53908 Ascend back to the original altitude.
+62 5 53909 53921 Move back to the starting point.
+63 0 53922 53924 Move to the building in the top of the view.
+63 1 53925 53969 Descend to above the target building.
+63 2 53970 53990 Adjust heading.
+63 3 53991 54675 Orbit the target building.
+63 4 54676 54720 Ascend back to the original altitude.
+63 5 54721 54722 Move back to the starting point.
+64 0 54723 54725 Move to the building in the upper left of the view.
+64 1 54726 54767 Descend to above the target building.
+64 2 54768 54790 Adjust heading.
+64 3 54791 55475 Orbit the target building.
+64 4 55476 55517 Ascend back to the original altitude.
+64 5 55518 55519 Move back to the starting point.
+65 0 55520 55534 Move to the building in the upper left of the view.
+65 1 55535 55581 Descend to above the target building.
+65 2 55582 55609 Adjust heading.
+65 3 55610 56294 Orbit the target building.
+65 4 56295 56341 Ascend back to the original altitude.
+65 5 56342 56355 Move back to the starting point.
+66 0 56356 56367 Move to the building in the lower right of the view.
+66 1 56368 56413 Descend to above the target building.
+66 2 56414 56427 Adjust heading.
+66 3 56428 57112 Orbit the target building.
+66 4 57113 57158 Ascend back to the original altitude.
+66 5 57159 57169 Move back to the starting point.
+67 0 57170 57204 Move to the building in the center of the view.
+67 1 57205 57246 Descend to above the target building.
+67 2 57247 57272 Adjust heading.
+67 3 57273 57957 Orbit the target building.
+67 4 57958 57999 Ascend back to the original altitude.
+67 5 58000 58033 Move back to the starting point.
+68 0 58034 58066 Move to the building in the center of the view.
+68 1 58067 58120 Descend to above the target building.
+68 2 58121 58128 Adjust heading.
+68 3 58129 58813 Orbit the target building.
+68 4 58814 58867 Ascend back to the original altitude.
+68 5 58868 58900 Move back to the starting point.
+69 0 58901 58930 Move to the building in the upper left of the view.
+69 1 58931 58988 Descend to above the target building.
+69 2 58989 59002 Adjust heading.
+69 3 59003 59687 Orbit the target building.
+69 4 59688 59745 Ascend back to the original altitude.
+69 5 59746 59774 Move back to the starting point.
+70 0 59775 59803 Move to the building in the center of the view.
+70 1 59804 59848 Descend to above the target building.
+70 2 59849 59862 Adjust heading.
+70 3 59863 60547 Orbit the target building.
+70 4 60548 60592 Ascend back to the original altitude.
+70 5 60593 60620 Move back to the starting point.
+71 0 60621 60626 Move to the building in the lower left of the view.
+71 1 60627 60667 Descend to above the target building.
+71 2 60668 60690 Adjust heading.
+71 3 60691 61375 Orbit the target building.
+71 4 61376 61416 Ascend back to the original altitude.
+71 5 61417 61421 Move back to the starting point.
+72 0 61422 61432 Move to the building in the center of the view.
+72 1 61433 61489 Descend to above the target building.
+72 2 61490 61498 Adjust heading.
+72 3 61499 62183 Orbit the target building.
+72 4 62184 62240 Ascend back to the original altitude.
+72 5 62241 62250 Move back to the starting point.
+73 0 62251 62255 Move to the building in the right of the view.
+73 1 62256 62312 Descend to above the target building.
+73 2 62313 62313 Adjust heading.
+73 3 62314 62998 Orbit the target building.
+73 4 62999 63055 Ascend back to the original altitude.
+73 5 63056 63059 Move back to the starting point.
+74 0 63060 63083 Move to the building in the lower right of the view.
+74 1 63084 63139 Descend to above the target building.
+74 2 63140 63145 Adjust heading.
+74 3 63146 63830 Orbit the target building.
+74 4 63831 63886 Ascend back to the original altitude.
+74 5 63887 63909 Move back to the starting point.
+75 0 63910 63915 Move to the building in the left of the view.
+75 1 63916 63966 Descend to above the target building.
+75 2 63967 64001 Adjust heading.
+75 3 64002 65145 Orbit the target building.
+75 4 65146 65196 Ascend back to the original altitude.
+75 5 65197 65201 Move back to the starting point.
+76 0 65202 65208 Move to the building in the left of the view.
+76 1 65209 65256 Descend to above the target building.
+76 2 65257 65285 Adjust heading.
+76 3 65286 66429 Orbit the target building.
+76 4 66430 66477 Ascend back to the original altitude.
+76 5 66478 66483 Move back to the starting point.
+77 0 66484 66500 Move to the building in the center of the view.
+77 1 66501 66550 Descend to above the target building.
+77 2 66551 66576 Adjust heading.
+77 3 66577 67720 Orbit the target building.
+77 4 67721 67770 Ascend back to the original altitude.
+77 5 67771 67786 Move back to the starting point.
+78 0 67787 67793 Move to the building in the center of the view.
+78 1 67794 67841 Descend to above the target building.
+78 2 67842 67861 Adjust heading.
+78 3 67862 69005 Orbit the target building.
+78 4 69006 69053 Ascend back to the original altitude.
+78 5 69054 69059 Move back to the starting point.
+79 0 69060 69077 Move to the building in the left of the view.
+79 1 69078 69123 Descend to above the target building.
+79 2 69124 69151 Adjust heading.
+79 3 69152 70295 Orbit the target building.
+79 4 70296 70341 Ascend back to the original altitude.
+79 5 70342 70358 Move back to the starting point.
+80 0 70359 70370 Move to the building in the center of the view.
+80 1 70371 70417 Descend to above the target building.
+80 2 70418 70452 Adjust heading.
+80 3 70453 71596 Orbit the target building.
+80 4 71597 71643 Ascend back to the original altitude.
+80 5 71644 71654 Move back to the starting point.
+81 0 71655 71677 Move to the building in the right of the view.
+81 1 71678 71734 Descend to above the target building.
+81 2 71735 71735 Adjust heading.
+81 3 71736 72879 Orbit the target building.
+81 4 72880 72936 Ascend back to the original altitude.
+81 5 72937 72958 Move back to the starting point.
+82 0 72959 72974 Move to the building in the lower right of the view.
+82 1 72975 73029 Descend to above the target building.
+82 2 73030 73039 Adjust heading.
+82 3 73040 74183 Orbit the target building.
+82 4 74184 74238 Ascend back to the original altitude.
+82 5 74239 74253 Move back to the starting point.
+83 0 74254 74287 Move to the building in the right of the view.
+83 1 74288 74330 Descend to above the target building.
+83 2 74331 74334 Adjust heading.
+83 3 74335 75478 Orbit the target building.
+83 4 75479 75521 Ascend back to the original altitude.
+83 5 75522 75554 Move back to the starting point.
+84 0 75555 75561 Move to the building in the left of the view.
+84 1 75562 75603 Descend to above the target building.
+84 2 75604 75631 Adjust heading.
+84 3 75632 76775 Orbit the target building.
+84 4 76776 76817 Ascend back to the original altitude.
+84 5 76818 76823 Move back to the starting point.
+85 0 76824 76826 Move to the building in the center of the view.
+85 1 76827 76883 Descend to above the target building.
+85 2 76884 76886 Adjust heading.
+85 3 76887 78031 Orbit the target building.
+85 4 78032 78088 Ascend back to the original altitude.
+85 5 78089 78090 Move back to the starting point.
+86 0 78091 78132 Move to the building in the top of the view.
+86 1 78133 78191 Descend to above the target building.
+86 2 78192 78210 Adjust heading.
+86 3 78211 79354 Orbit the target building.
+86 4 79355 79413 Ascend back to the original altitude.
+86 5 79414 79454 Move back to the starting point.
+87 0 79455 79474 Move to the building in the center of the view.
+87 1 79475 79527 Descend to above the target building.
+87 2 79528 79537 Adjust heading.
+87 3 79538 80681 Orbit the target building.
+87 4 80682 80734 Ascend back to the original altitude.
+87 5 80735 80753 Move back to the starting point.
+88 0 80754 80760 Move to the building in the center of the view.
+88 1 80761 80810 Descend to above the target building.
+88 2 80811 80811 Adjust heading.
+88 3 80812 81955 Orbit the target building.
+88 4 81956 82005 Ascend back to the original altitude.
+88 5 82006 82011 Move back to the starting point.
+89 0 82012 82052 Move to the building in the right of the view.
+89 1 82053 82102 Descend to above the target building.
+89 2 82103 82106 Adjust heading.
+89 3 82107 83250 Orbit the target building.
+89 4 83251 83300 Ascend back to the original altitude.
+89 5 83301 83340 Move back to the starting point.
+90 0 83341 83364 Move to the building in the lower right of the view.
+90 1 83365 83407 Descend to above the target building.
+90 2 83408 83418 Adjust heading.
+90 3 83419 84055 Orbit the target building.
+90 4 84056 84098 Ascend back to the original altitude.
+90 5 84099 84121 Move back to the starting point.
+91 0 84122 84124 Move to the building in the upper left of the view.
+91 1 84125 84180 Descend to above the target building.
+91 2 84181 84206 Adjust heading.
+91 3 84207 84843 Orbit the target building.
+91 4 84844 84899 Ascend back to the original altitude.
+91 5 84900 84901 Move back to the starting point.
+92 0 84902 84911 Move to the building in the upper left of the view.
+92 1 84912 84967 Descend to above the target building.
+92 2 84968 84977 Adjust heading.
+92 3 84978 85614 Orbit the target building.
+92 4 85615 85670 Ascend back to the original altitude.
+92 5 85671 85679 Move back to the starting point.
+93 0 85680 85681 Move to the building in the lower right of the view.
+93 1 85682 85725 Descend to above the target building.
+93 2 85726 85734 Adjust heading.
+93 3 85735 86371 Orbit the target building.
+93 4 86372 86415 Ascend back to the original altitude.
+93 5 86416 86417 Move back to the starting point.
+94 0 86418 86419 Move to the building in the upper left of the view.
+94 1 86420 86467 Descend to above the target building.
+94 2 86468 86490 Adjust heading.
+94 3 86491 87127 Orbit the target building.
+94 4 87128 87175 Ascend back to the original altitude.
+94 5 87176 87176 Move back to the starting point.
+95 0 87177 87192 Move to the building in the upper right of the view.
+95 1 87193 87248 Descend to above the target building.
+95 2 87249 87261 Adjust heading.
+95 3 87262 87898 Orbit the target building.
+95 4 87899 87954 Ascend back to the original altitude.
+95 5 87955 87970 Move back to the starting point.
+96 0 87971 87989 Move to the building in the center of the view.
+96 1 87990 88044 Descend to above the target building.
+96 2 88045 88046 Adjust heading.
+96 3 88047 88683 Orbit the target building.
+96 4 88684 88738 Ascend back to the original altitude.
+96 5 88739 88756 Move back to the starting point.
+97 0 88757 88762 Move to the building in the upper left of the view.
+97 1 88763 88815 Descend to above the target building.
+97 2 88816 88836 Adjust heading.
+97 3 88837 89473 Orbit the target building.
+97 4 89474 89526 Ascend back to the original altitude.
+97 5 89527 89531 Move back to the starting point.
+98 0 89532 89558 Move to the building in the right of the view.
+98 1 89559 89599 Descend to above the target building.
+98 2 89600 89605 Adjust heading.
+98 3 89606 90242 Orbit the target building.
+98 4 90243 90283 Ascend back to the original altitude.
+98 5 90284 90309 Move back to the starting point.
+99 0 90310 90330 Move to the building in the left of the view.
+99 1 90331 90380 Descend to above the target building.
+99 2 90381 90410 Adjust heading.
+99 3 90411 91047 Orbit the target building.
+99 4 91048 91097 Ascend back to the original altitude.
+99 5 91098 91117 Move back to the starting point.
+100 0 91118 91132 Move to the building in the left of the view.
+100 1 91133 91188 Descend to above the target building.
+100 2 91189 91210 Adjust heading.
+100 3 91211 91847 Orbit the target building.
+100 4 91848 91903 Ascend back to the original altitude.
+100 5 91904 91917 Move back to the starting point.
+101 0 91918 91924 Move to the building in the lower left of the view.
+101 1 91925 91970 Descend to above the target building.
+101 2 91971 91992 Adjust heading.
+101 3 91993 92629 Orbit the target building.
+101 4 92630 92675 Ascend back to the original altitude.
+101 5 92676 92681 Move back to the starting point.
+102 0 92682 92705 Move to the building in the upper right of the view.
+102 1 92706 92759 Descend to above the target building.
+102 2 92760 92775 Adjust heading.
+102 3 92776 93412 Orbit the target building.
+102 4 93413 93466 Ascend back to the original altitude.
+102 5 93467 93490 Move back to the starting point.
+103 0 93491 93503 Move to the building in the top of the view.
+103 1 93504 93544 Descend to above the target building.
+103 2 93545 93556 Adjust heading.
+103 3 93557 94193 Orbit the target building.
+103 4 94194 94234 Ascend back to the original altitude.
+103 5 94235 94246 Move back to the starting point.
+104 0 94247 94252 Move to the building in the left of the view.
+104 1 94253 94296 Descend to above the target building.
+104 2 94297 94331 Adjust heading.
+104 3 94332 94968 Orbit the target building.
+104 4 94969 95012 Ascend back to the original altitude.
+104 5 95013 95017 Move back to the starting point.
+105 0 95018 95038 Move to the building in the center of the view.
+105 1 95039 95079 Descend to above the target building.
+105 2 95080 95096 Adjust heading.
+105 3 95097 95829 Orbit the target building.
+105 4 95830 95870 Ascend back to the original altitude.
+105 5 95871 95890 Move back to the starting point.
+106 0 95891 95915 Move to the building in the lower left of the view.
+106 1 95916 95960 Descend to above the target building.
+106 2 95961 95981 Adjust heading.
+106 3 95982 96714 Orbit the target building.
+106 4 96715 96759 Ascend back to the original altitude.
+106 5 96760 96783 Move back to the starting point.
+107 0 96784 96793 Move to the building in the center of the view.
+107 1 96794 96852 Descend to above the target building.
+107 2 96853 96868 Adjust heading.
+107 3 96869 97601 Orbit the target building.
+107 4 97602 97660 Ascend back to the original altitude.
+107 5 97661 97669 Move back to the starting point.
+108 0 97670 97696 Move to the building in the upper left of the view.
+108 1 97697 97737 Descend to above the target building.
+108 2 97738 97761 Adjust heading.
+108 3 97762 98494 Orbit the target building.
+108 4 98495 98535 Ascend back to the original altitude.
+108 5 98536 98561 Move back to the starting point.
+109 0 98562 98580 Move to the building in the center of the view.
+109 1 98581 98635 Descend to above the target building.
+109 2 98636 98664 Adjust heading.
+109 3 98665 99397 Orbit the target building.
+109 4 99398 99452 Ascend back to the original altitude.
+109 5 99453 99470 Move back to the starting point.
+110 0 99471 99472 Move to the building in the lower right of the view.
+110 1 99473 99527 Descend to above the target building.
+110 2 99528 99539 Adjust heading.
+110 3 99540 100272 Orbit the target building.
+110 4 100273 100327 Ascend back to the original altitude.
+110 5 100328 100328 Move back to the starting point.
+111 0 100329 100333 Move to the building in the right of the view.
+111 1 100334 100393 Descend to above the target building.
+111 2 100394 100397 Adjust heading.
+111 3 100398 101130 Orbit the target building.
+111 4 101131 101190 Ascend back to the original altitude.
+111 5 101191 101194 Move back to the starting point.
+112 0 101195 101213 Move to the building in the center of the view.
+112 1 101214 101254 Descend to above the target building.
+112 2 101255 101278 Adjust heading.
+112 3 101279 102011 Orbit the target building.
+112 4 102012 102052 Ascend back to the original altitude.
+112 5 102053 102070 Move back to the starting point.
+113 0 102071 102075 Move to the building in the lower right of the view.
+113 1 102076 102117 Descend to above the target building.
+113 2 102118 102122 Adjust heading.
+113 3 102123 102855 Orbit the target building.
+113 4 102856 102897 Ascend back to the original altitude.
+113 5 102898 102901 Move back to the starting point.
+114 0 102902 102911 Move to the building in the left of the view.
+114 1 102912 102967 Descend to above the target building.
+114 2 102968 102996 Adjust heading.
+114 3 102997 103729 Orbit the target building.
+114 4 103730 103785 Ascend back to the original altitude.
+114 5 103786 103794 Move back to the starting point.
+115 0 103795 103801 Move to the building in the bottom of the view.
+115 1 103802 103860 Descend to above the target building.
+115 2 103861 103871 Adjust heading.
+115 3 103872 104604 Orbit the target building.
+115 4 104605 104663 Ascend back to the original altitude.
+115 5 104664 104669 Move back to the starting point.
+116 0 104670 104685 Move to the building in the left of the view.
+116 1 104686 104738 Descend to above the target building.
+116 2 104739 104766 Adjust heading.
+116 3 104767 105499 Orbit the target building.
+116 4 105500 105552 Ascend back to the original altitude.
+116 5 105553 105567 Move back to the starting point.
+117 0 105568 105586 Move to the building in the center of the view.
+117 1 105587 105635 Descend to above the target building.
+117 2 105636 105665 Adjust heading.
+117 3 105666 106398 Orbit the target building.
+117 4 106399 106447 Ascend back to the original altitude.
+117 5 106448 106465 Move back to the starting point.
+118 0 106466 106479 Move to the building in the center of the view.
+118 1 106480 106525 Descend to above the target building.
+118 2 106526 106542 Adjust heading.
+118 3 106543 107275 Orbit the target building.
+118 4 107276 107321 Ascend back to the original altitude.
+118 5 107322 107334 Move back to the starting point.
+119 0 107335 107343 Move to the building in the right of the view.
+119 1 107344 107396 Descend to above the target building.
+119 2 107397 107405 Adjust heading.
+119 3 107406 108138 Orbit the target building.
+119 4 108139 108191 Ascend back to the original altitude.
+119 5 108192 108199 Move back to the starting point.
+120 0 108200 108218 Move to the building in the lower left of the view.
+120 1 108219 108270 Descend to above the target building.
+120 2 108271 108294 Adjust heading.
+120 3 108295 108645 Orbit the target building.
+120 4 108646 108697 Ascend back to the original altitude.
+120 5 108698 108715 Move back to the starting point.
+121 0 108716 108731 Move to the building in the center of the view.
+121 1 108732 108781 Descend to above the target building.
+121 2 108782 108792 Adjust heading.
+121 3 108793 109143 Orbit the target building.
+121 4 109144 109193 Ascend back to the original altitude.
+121 5 109194 109208 Move back to the starting point.
+122 0 109209 109221 Move to the building in the lower left of the view.
+122 1 109222 109276 Descend to above the target building.
+122 2 109277 109298 Adjust heading.
+122 3 109299 109649 Orbit the target building.
+122 4 109650 109704 Ascend back to the original altitude.
+122 5 109705 109716 Move back to the starting point.
+123 0 109717 109743 Move to the building in the left of the view.
+123 1 109744 109799 Descend to above the target building.
+123 2 109800 109834 Adjust heading.
+123 3 109835 110185 Orbit the target building.
+123 4 110186 110241 Ascend back to the original altitude.
+123 5 110242 110267 Move back to the starting point.
+124 0 110268 110280 Move to the building in the lower right of the view.
+124 1 110281 110328 Descend to above the target building.
+124 2 110329 110332 Adjust heading.
+124 3 110333 110683 Orbit the target building.
+124 4 110684 110731 Ascend back to the original altitude.
+124 5 110732 110743 Move back to the starting point.
+125 0 110744 110770 Move to the building in the upper right of the view.
+125 1 110771 110829 Descend to above the target building.
+125 2 110830 110836 Adjust heading.
+125 3 110837 111187 Orbit the target building.
+125 4 111188 111246 Ascend back to the original altitude.
+125 5 111247 111272 Move back to the starting point.
+126 0 111273 111294 Move to the building in the bottom of the view.
+126 1 111295 111341 Descend to above the target building.
+126 2 111342 111363 Adjust heading.
+126 3 111364 111714 Orbit the target building.
+126 4 111715 111761 Ascend back to the original altitude.
+126 5 111762 111782 Move back to the starting point.
+127 0 111783 111796 Move to the building in the upper right of the view.
+127 1 111797 111838 Descend to above the target building.
+127 2 111839 111844 Adjust heading.
+127 3 111845 112195 Orbit the target building.
+127 4 112196 112237 Ascend back to the original altitude.
+127 5 112238 112250 Move back to the starting point.
+128 0 112251 112259 Move to the building in the center of the view.
+128 1 112260 112306 Descend to above the target building.
+128 2 112307 112319 Adjust heading.
+128 3 112320 112670 Orbit the target building.
+128 4 112671 112717 Ascend back to the original altitude.
+128 5 112718 112725 Move back to the starting point.
+129 0 112726 112739 Move to the building in the center of the view.
+129 1 112740 112780 Descend to above the target building.
+129 2 112781 112804 Adjust heading.
+129 3 112805 113155 Orbit the target building.
+129 4 113156 113196 Ascend back to the original altitude.
+129 5 113197 113210 Move back to the starting point.
+130 0 113211 113241 Move to the building in the left of the view.
+130 1 113242 113285 Descend to above the target building.
+130 2 113286 113320 Adjust heading.
+130 3 113321 113671 Orbit the target building.
+130 4 113672 113715 Ascend back to the original altitude.
+130 5 113716 113745 Move back to the starting point.
+131 0 113746 113750 Move to the building in the center of the view.
+131 1 113751 113810 Descend to above the target building.
+131 2 113811 113814 Adjust heading.
+131 3 113815 114165 Orbit the target building.
+131 4 114166 114225 Ascend back to the original altitude.
+131 5 114226 114229 Move back to the starting point.
+132 0 114230 114260 Move to the building in the upper left of the view.
+132 1 114261 114314 Descend to above the target building.
+132 2 114315 114337 Adjust heading.
+132 3 114338 114688 Orbit the target building.
+132 4 114689 114742 Ascend back to the original altitude.
+132 5 114743 114772 Move back to the starting point.
+133 0 114773 114785 Move to the building in the upper right of the view.
+133 1 114786 114826 Descend to above the target building.
+133 2 114827 114844 Adjust heading.
+133 3 114845 115195 Orbit the target building.
+133 4 115196 115236 Ascend back to the original altitude.
+133 5 115237 115248 Move back to the starting point.
+134 0 115249 115269 Move to the building in the upper right of the view.
+134 1 115270 115313 Descend to above the target building.
+134 2 115314 115322 Adjust heading.
+134 3 115323 115673 Orbit the target building.
+134 4 115674 115717 Ascend back to the original altitude.
+134 5 115718 115737 Move back to the starting point.
+135 0 115738 115753 Move to the building in the upper left of the view.
+135 1 115754 115810 Descend to above the target building.
+135 2 115811 115832 Adjust heading.
+135 3 115833 116563 Orbit the target building.
+135 4 116564 116620 Ascend back to the original altitude.
+135 5 116621 116635 Move back to the starting point.
+136 0 116636 116647 Move to the building in the center of the view.
+136 1 116648 116695 Descend to above the target building.
+136 2 116696 116697 Adjust heading.
+136 3 116698 117428 Orbit the target building.
+136 4 117429 117476 Ascend back to the original altitude.
+136 5 117477 117487 Move back to the starting point.
+137 0 117488 117499 Move to the building in the right of the view.
+137 1 117500 117549 Descend to above the target building.
+137 2 117550 117556 Adjust heading.
+137 3 117557 118287 Orbit the target building.
+137 4 118288 118337 Ascend back to the original altitude.
+137 5 118338 118348 Move back to the starting point.
+138 0 118349 118353 Move to the building in the upper left of the view.
+138 1 118354 118394 Descend to above the target building.
+138 2 118395 118416 Adjust heading.
+138 3 118417 119147 Orbit the target building.
+138 4 119148 119188 Ascend back to the original altitude.
+138 5 119189 119192 Move back to the starting point.
+139 0 119193 119205 Move to the building in the center of the view.
+139 1 119206 119257 Descend to above the target building.
+139 2 119258 119289 Adjust heading.
+139 3 119290 120020 Orbit the target building.
+139 4 120021 120072 Ascend back to the original altitude.
+139 5 120073 120084 Move back to the starting point.
+140 0 120085 120092 Move to the building in the upper left of the view.
+140 1 120093 120149 Descend to above the target building.
+140 2 120150 120178 Adjust heading.
+140 3 120179 120909 Orbit the target building.
+140 4 120910 120966 Ascend back to the original altitude.
+140 5 120967 120973 Move back to the starting point.
+141 0 120974 120985 Move to the building in the left of the view.
+141 1 120986 121041 Descend to above the target building.
+141 2 121042 121076 Adjust heading.
+141 3 121077 121807 Orbit the target building.
+141 4 121808 121863 Ascend back to the original altitude.
+141 5 121864 121874 Move back to the starting point.
+142 0 121875 121897 Move to the building in the center of the view.
+142 1 121898 121944 Descend to above the target building.
+142 2 121945 121958 Adjust heading.
+142 3 121959 122689 Orbit the target building.
+142 4 122690 122736 Ascend back to the original altitude.
+142 5 122737 122758 Move back to the starting point.
+143 0 122759 122778 Move to the building in the right of the view.
+143 1 122779 122836 Descend to above the target building.
+143 2 122837 122838 Adjust heading.
+143 3 122839 123569 Orbit the target building.
+143 4 123570 123627 Ascend back to the original altitude.
+143 5 123628 123646 Move back to the starting point.
+144 0 123647 123656 Move to the building in the upper right of the view.
+144 1 123657 123714 Descend to above the target building.
+144 2 123715 123728 Adjust heading.
+144 3 123729 124459 Orbit the target building.
+144 4 124460 124517 Ascend back to the original altitude.
+144 5 124518 124526 Move back to the starting point.
+145 0 124527 124547 Move to the building in the center of the view.
+145 1 124548 124590 Descend to above the target building.
+145 2 124591 124615 Adjust heading.
+145 3 124616 125346 Orbit the target building.
+145 4 125347 125389 Ascend back to the original altitude.
+145 5 125390 125409 Move back to the starting point.
+146 0 125410 125417 Move to the building in the upper right of the view.
+146 1 125418 125461 Descend to above the target building.
+146 2 125462 125475 Adjust heading.
+146 3 125476 126206 Orbit the target building.
+146 4 126207 126250 Ascend back to the original altitude.
+146 5 126251 126257 Move back to the starting point.
+147 0 126258 126279 Move to the building in the center of the view.
+147 1 126280 126338 Descend to above the target building.
+147 2 126339 126342 Adjust heading.
+147 3 126343 127073 Orbit the target building.
+147 4 127074 127132 Ascend back to the original altitude.
+147 5 127133 127153 Move back to the starting point.
+148 0 127154 127167 Move to the building in the center of the view.
+148 1 127168 127208 Descend to above the target building.
+148 2 127209 127227 Adjust heading.
+148 3 127228 127959 Orbit the target building.
+148 4 127960 128000 Ascend back to the original altitude.
+148 5 128001 128013 Move back to the starting point.
+149 0 128014 128018 Move to the building in the center of the view.
+149 1 128019 128078 Descend to above the target building.
+149 2 128079 128083 Adjust heading.
+149 3 128084 128814 Orbit the target building.
+149 4 128815 128874 Ascend back to the original altitude.
+149 5 128875 128878 Move back to the starting point.
+150 0 128879 128894 Move to the building in the bottom of the view.
+150 1 128895 128953 Descend to above the target building.
+150 2 128954 128971 Adjust heading.
+150 3 128972 129591 Orbit the target building.
+150 4 129592 129650 Ascend back to the original altitude.
+150 5 129651 129666 Move back to the starting point.
+151 0 129667 129696 Move to the building in the upper left of the view.
+151 1 129697 129754 Descend to above the target building.
+151 2 129755 129779 Adjust heading.
+151 3 129780 130399 Orbit the target building.
+151 4 130400 130457 Ascend back to the original altitude.
+151 5 130458 130486 Move back to the starting point.
+152 0 130487 130496 Move to the building in the lower left of the view.
+152 1 130497 130548 Descend to above the target building.
+152 2 130549 130580 Adjust heading.
+152 3 130581 131200 Orbit the target building.
+152 4 131201 131252 Ascend back to the original altitude.
+152 5 131253 131261 Move back to the starting point.
+153 0 131262 131264 Move to the building in the upper right of the view.
+153 1 131265 131310 Descend to above the target building.
+153 2 131311 131311 Adjust heading.
+153 3 131312 131931 Orbit the target building.
+153 4 131932 131977 Ascend back to the original altitude.
+153 5 131978 131979 Move back to the starting point.
+154 0 131980 131991 Move to the building in the right of the view.
+154 1 131992 132034 Descend to above the target building.
+154 2 132035 132039 Adjust heading.
+154 3 132040 132659 Orbit the target building.
+154 4 132660 132702 Ascend back to the original altitude.
+154 5 132703 132713 Move back to the starting point.
+155 0 132714 132721 Move to the building in the center of the view.
+155 1 132722 132781 Descend to above the target building.
+155 2 132782 132798 Adjust heading.
+155 3 132799 133418 Orbit the target building.
+155 4 133419 133478 Ascend back to the original altitude.
+155 5 133479 133485 Move back to the starting point.
+156 0 133486 133487 Move to the building in the upper right of the view.
+156 1 133488 133543 Descend to above the target building.
+156 2 133544 133544 Adjust heading.
+156 3 133545 134164 Orbit the target building.
+156 4 134165 134220 Ascend back to the original altitude.
+156 5 134221 134221 Move back to the starting point.
+157 0 134222 134236 Move to the building in the lower left of the view.
+157 1 134237 134295 Descend to above the target building.
+157 2 134296 134320 Adjust heading.
+157 3 134321 134940 Orbit the target building.
+157 4 134941 134999 Ascend back to the original altitude.
+157 5 135000 135013 Move back to the starting point.
+158 0 135014 135033 Move to the building in the center of the view.
+158 1 135034 135074 Descend to above the target building.
+158 2 135075 135084 Adjust heading.
+158 3 135085 135704 Orbit the target building.
+158 4 135705 135745 Ascend back to the original altitude.
+158 5 135746 135764 Move back to the starting point.
+159 0 135765 135790 Move to the building in the lower left of the view.
+159 1 135791 135846 Descend to above the target building.
+159 2 135847 135874 Adjust heading.
+159 3 135875 136494 Orbit the target building.
+159 4 136495 136550 Ascend back to the original altitude.
+159 5 136551 136575 Move back to the starting point.
+160 0 136576 136596 Move to the building in the top of the view.
+160 1 136597 136637 Descend to above the target building.
+160 2 136638 136653 Adjust heading.
+160 3 136654 137273 Orbit the target building.
+160 4 137274 137314 Ascend back to the original altitude.
+160 5 137315 137334 Move back to the starting point.
+161 0 137335 137340 Move to the building in the upper right of the view.
+161 1 137341 137381 Descend to above the target building.
+161 2 137382 137384 Adjust heading.
+161 3 137385 138004 Orbit the target building.
+161 4 138005 138045 Ascend back to the original altitude.
+161 5 138046 138050 Move back to the starting point.
+162 0 138051 138056 Move to the building in the right of the view.
+162 1 138057 138105 Descend to above the target building.
+162 2 138106 138109 Adjust heading.
+162 3 138110 138729 Orbit the target building.
+162 4 138730 138778 Ascend back to the original altitude.
+162 5 138779 138783 Move back to the starting point.
+163 0 138784 138809 Move to the building in the lower left of the view.
+163 1 138810 138867 Descend to above the target building.
+163 2 138868 138894 Adjust heading.
+163 3 138895 139514 Orbit the target building.
+163 4 139515 139572 Ascend back to the original altitude.
+163 5 139573 139597 Move back to the starting point.
+164 0 139598 139621 Move to the building in the lower left of the view.
+164 1 139622 139673 Descend to above the target building.
+164 2 139674 139704 Adjust heading.
+164 3 139705 140324 Orbit the target building.
+164 4 140325 140376 Ascend back to the original altitude.
+164 5 140377 140399 Move back to the starting point.
+165 0 140400 140423 Move to the building in the left of the view.
+165 1 140424 140467 Descend to above the target building.
+165 2 140468 140494 Adjust heading.
+165 3 140495 141199 Orbit the target building.
+165 4 141200 141243 Ascend back to the original altitude.
+165 5 141244 141266 Move back to the starting point.
+166 0 141267 141269 Move to the building in the left of the view.
+166 1 141270 141326 Descend to above the target building.
+166 2 141327 141359 Adjust heading.
+166 3 141360 142064 Orbit the target building.
+166 4 142065 142121 Ascend back to the original altitude.
+166 5 142122 142123 Move back to the starting point.
+167 0 142124 142152 Move to the building in the left of the view.
+167 1 142153 142195 Descend to above the target building.
+167 2 142196 142222 Adjust heading.
+167 3 142223 142927 Orbit the target building.
+167 4 142928 142970 Ascend back to the original altitude.
+167 5 142971 142998 Move back to the starting point.
+168 0 142999 143022 Move to the building in the upper right of the view.
+168 1 143023 143074 Descend to above the target building.
+168 2 143075 143079 Adjust heading.
+168 3 143080 143784 Orbit the target building.
+168 4 143785 143836 Ascend back to the original altitude.
+168 5 143837 143860 Move back to the starting point.
+169 0 143861 143864 Move to the building in the lower right of the view.
+169 1 143865 143907 Descend to above the target building.
+169 2 143908 143918 Adjust heading.
+169 3 143919 144623 Orbit the target building.
+169 4 144624 144666 Ascend back to the original altitude.
+169 5 144667 144669 Move back to the starting point.
+170 0 144670 144693 Move to the building in the center of the view.
+170 1 144694 144734 Descend to above the target building.
+170 2 144735 144769 Adjust heading.
+170 3 144770 145474 Orbit the target building.
+170 4 145475 145515 Ascend back to the original altitude.
+170 5 145516 145538 Move back to the starting point.
+171 0 145539 145545 Move to the building in the upper right of the view.
+171 1 145546 145594 Descend to above the target building.
+171 2 145595 145595 Adjust heading.
+171 3 145596 146300 Orbit the target building.
+171 4 146301 146349 Ascend back to the original altitude.
+171 5 146350 146355 Move back to the starting point.
+172 0 146356 146368 Move to the building in the upper left of the view.
+172 1 146369 146414 Descend to above the target building.
+172 2 146415 146449 Adjust heading.
+172 3 146450 147154 Orbit the target building.
+172 4 147155 147200 Ascend back to the original altitude.
+172 5 147201 147212 Move back to the starting point.
+173 0 147213 147230 Move to the building in the left of the view.
+173 1 147231 147289 Descend to above the target building.
+173 2 147290 147320 Adjust heading.
+173 3 147321 148025 Orbit the target building.
+173 4 148026 148084 Ascend back to the original altitude.
+173 5 148085 148101 Move back to the starting point.
+174 0 148102 148103 Move to the building in the upper right of the view.
+174 1 148104 148157 Descend to above the target building.
+174 2 148158 148168 Adjust heading.
+174 3 148169 148873 Orbit the target building.
+174 4 148874 148927 Ascend back to the original altitude.
+174 5 148928 148928 Move back to the starting point.
+175 0 148929 148945 Move to the building in the upper right of the view.
+175 1 148946 148989 Descend to above the target building.
+175 2 148990 148995 Adjust heading.
+175 3 148996 149700 Orbit the target building.
+175 4 149701 149744 Ascend back to the original altitude.
+175 5 149745 149760 Move back to the starting point.
+176 0 149761 149780 Move to the building in the center of the view.
+176 1 149781 149836 Descend to above the target building.
+176 2 149837 149859 Adjust heading.
+176 3 149860 150565 Orbit the target building.
+176 4 150566 150621 Ascend back to the original altitude.
+176 5 150622 150640 Move back to the starting point.
+177 0 150641 150660 Move to the building in the center of the view.
+177 1 150661 150720 Descend to above the target building.
+177 2 150721 150753 Adjust heading.
+177 3 150754 151458 Orbit the target building.
+177 4 151459 151518 Ascend back to the original altitude.
+177 5 151519 151537 Move back to the starting point.
+178 0 151538 151546 Move to the building in the left of the view.
+178 1 151547 151602 Descend to above the target building.
+178 2 151603 151636 Adjust heading.
+178 3 151637 152341 Orbit the target building.
+178 4 152342 152397 Ascend back to the original altitude.
+178 5 152398 152405 Move back to the starting point.
+179 0 152406 152410 Move to the building in the right of the view.
+179 1 152411 152464 Descend to above the target building.
+179 2 152465 152465 Adjust heading.
+179 3 152466 153170 Orbit the target building.
+179 4 153171 153224 Ascend back to the original altitude.
+179 5 153225 153229 Move back to the starting point.
+180 0 153230 153250 Move to the building in the top of the view.
+180 1 153251 153291 Descend to above the target building.
+180 2 153292 153292 Adjust heading.
+180 3 153293 154064 Orbit the target building.
+180 4 154065 154105 Ascend back to the original altitude.
+180 5 154106 154126 Move back to the starting point.
+181 0 154127 154147 Move to the building in the center of the view.
+181 1 154148 154192 Descend to above the target building.
+181 2 154193 154197 Adjust heading.
+181 3 154198 154969 Orbit the target building.
+181 4 154970 155014 Ascend back to the original altitude.
+181 5 155015 155034 Move back to the starting point.
+182 0 155035 155040 Move to the building in the upper left of the view.
+182 1 155041 155087 Descend to above the target building.
+182 2 155088 155116 Adjust heading.
+182 3 155117 155888 Orbit the target building.
+182 4 155889 155935 Ascend back to the original altitude.
+182 5 155936 155940 Move back to the starting point.
+183 0 155941 155960 Move to the building in the upper left of the view.
+183 1 155961 156002 Descend to above the target building.
+183 2 156003 156020 Adjust heading.
+183 3 156021 156792 Orbit the target building.
+183 4 156793 156834 Ascend back to the original altitude.
+183 5 156835 156853 Move back to the starting point.
+184 0 156854 156860 Move to the building in the left of the view.
+184 1 156861 156908 Descend to above the target building.
+184 2 156909 156940 Adjust heading.
+184 3 156941 157712 Orbit the target building.
+184 4 157713 157760 Ascend back to the original altitude.
+184 5 157761 157766 Move back to the starting point.
+185 0 157767 157792 Move to the building in the center of the view.
+185 1 157793 157850 Descend to above the target building.
+185 2 157851 157877 Adjust heading.
+185 3 157878 158649 Orbit the target building.
+185 4 158650 158707 Ascend back to the original altitude.
+185 5 158708 158732 Move back to the starting point.
+186 0 158733 158744 Move to the building in the right of the view.
+186 1 158745 158791 Descend to above the target building.
+186 2 158792 158793 Adjust heading.
+186 3 158794 159565 Orbit the target building.
+186 4 159566 159612 Ascend back to the original altitude.
+186 5 159613 159623 Move back to the starting point.
+187 0 159624 159625 Move to the building in the upper right of the view.
+187 1 159626 159671 Descend to above the target building.
+187 2 159672 159695 Adjust heading.
+187 3 159696 160467 Orbit the target building.
+187 4 160468 160513 Ascend back to the original altitude.
+187 5 160514 160514 Move back to the starting point.
+188 0 160515 160530 Move to the building in the center of the view.
+188 1 160531 160584 Descend to above the target building.
+188 2 160585 160600 Adjust heading.
+188 3 160601 161372 Orbit the target building.
+188 4 161373 161426 Ascend back to the original altitude.
+188 5 161427 161441 Move back to the starting point.
+189 0 161442 161455 Move to the building in the center of the view.
+189 1 161456 161496 Descend to above the target building.
+189 2 161497 161508 Adjust heading.
+189 3 161509 162280 Orbit the target building.
+189 4 162281 162321 Ascend back to the original altitude.
+189 5 162322 162334 Move back to the starting point.
+190 0 162335 162352 Move to the building in the lower right of the view.
+190 1 162353 162393 Descend to above the target building.
+190 2 162394 162399 Adjust heading.
+190 3 162400 163171 Orbit the target building.
+190 4 163172 163212 Ascend back to the original altitude.
+190 5 163213 163229 Move back to the starting point.
+191 0 163230 163240 Move to the building in the bottom of the view.
+191 1 163241 163284 Descend to above the target building.
+191 2 163285 163301 Adjust heading.
+191 3 163302 164073 Orbit the target building.
+191 4 164074 164117 Ascend back to the original altitude.
+191 5 164118 164127 Move back to the starting point.
+192 0 164128 164131 Move to the building in the center of the view.
+192 1 164132 164176 Descend to above the target building.
+192 2 164177 164188 Adjust heading.
+192 3 164189 164960 Orbit the target building.
+192 4 164961 165005 Ascend back to the original altitude.
+192 5 165006 165008 Move back to the starting point.
+193 0 165009 165014 Move to the building in the lower left of the view.
+193 1 165015 165055 Descend to above the target building.
+193 2 165056 165068 Adjust heading.
+193 3 165069 165840 Orbit the target building.
+193 4 165841 165881 Ascend back to the original altitude.
+193 5 165882 165886 Move back to the starting point.
+194 0 165887 165904 Move to the building in the upper right of the view.
+194 1 165905 165960 Descend to above the target building.
+194 2 165961 165971 Adjust heading.
+194 3 165972 166743 Orbit the target building.
+194 4 166744 166799 Ascend back to the original altitude.
+194 5 166800 166816 Move back to the starting point.
+195 0 166817 166819 Move to the building in the right of the view.
+195 1 166820 166869 Descend to above the target building.
+195 2 166870 166873 Adjust heading.
+195 3 166874 167606 Orbit the target building.
+195 4 167607 167656 Ascend back to the original altitude.
+195 5 167657 167658 Move back to the starting point.
+196 0 167659 167684 Move to the building in the bottom of the view.
+196 1 167685 167741 Descend to above the target building.
+196 2 167742 167766 Adjust heading.
+196 3 167767 168499 Orbit the target building.
+196 4 168500 168556 Ascend back to the original altitude.
+196 5 168557 168581 Move back to the starting point.
+197 0 168582 168592 Move to the building in the right of the view.
+197 1 168593 168637 Descend to above the target building.
+197 2 168638 168638 Adjust heading.
+197 3 168639 169371 Orbit the target building.
+197 4 169372 169416 Ascend back to the original altitude.
+197 5 169417 169426 Move back to the starting point.
+198 0 169427 169444 Move to the building in the center of the view.
+198 1 169445 169485 Descend to above the target building.
+198 2 169486 169506 Adjust heading.
+198 3 169507 170239 Orbit the target building.
+198 4 170240 170280 Ascend back to the original altitude.
+198 5 170281 170297 Move back to the starting point.
+199 0 170298 170316 Move to the building in the center of the view.
+199 1 170317 170371 Descend to above the target building.
+199 2 170372 170395 Adjust heading.
+199 3 170396 171128 Orbit the target building.
+199 4 171129 171183 Ascend back to the original altitude.
+199 5 171184 171201 Move back to the starting point.
+200 0 171202 171230 Move to the building in the left of the view.
+200 1 171231 171288 Descend to above the target building.
+200 2 171289 171320 Adjust heading.
+200 3 171321 172053 Orbit the target building.
+200 4 172054 172111 Ascend back to the original altitude.
+200 5 172112 172139 Move back to the starting point.
+201 0 172140 172151 Move to the building in the center of the view.
+201 1 172152 172205 Descend to above the target building.
+201 2 172206 172214 Adjust heading.
+201 3 172215 172947 Orbit the target building.
+201 4 172948 173001 Ascend back to the original altitude.
+201 5 173002 173012 Move back to the starting point.
+202 0 173013 173022 Move to the building in the center of the view.
+202 1 173023 173063 Descend to above the target building.
+202 2 173064 173096 Adjust heading.
+202 3 173097 173829 Orbit the target building.
+202 4 173830 173870 Ascend back to the original altitude.
+202 5 173871 173879 Move back to the starting point.
+203 0 173880 173887 Move to the building in the upper left of the view.
+203 1 173888 173930 Descend to above the target building.
+203 2 173931 173964 Adjust heading.
+203 3 173965 174697 Orbit the target building.
+203 4 174698 174740 Ascend back to the original altitude.
+203 5 174741 174747 Move back to the starting point.
+204 0 174748 174761 Move to the building in the right of the view.
+204 1 174762 174814 Descend to above the target building.
+204 2 174815 174816 Adjust heading.
+204 3 174817 175549 Orbit the target building.
+204 4 175550 175602 Ascend back to the original altitude.
+204 5 175603 175615 Move back to the starting point.
+205 0 175616 175635 Move to the building in the center of the view.
+205 1 175636 175681 Descend to above the target building.
+205 2 175682 175689 Adjust heading.
+205 3 175690 176422 Orbit the target building.
+205 4 176423 176468 Ascend back to the original altitude.
+205 5 176469 176487 Move back to the starting point.
+206 0 176488 176502 Move to the building in the left of the view.
+206 1 176503 176554 Descend to above the target building.
+206 2 176555 176576 Adjust heading.
+206 3 176577 177309 Orbit the target building.
+206 4 177310 177361 Ascend back to the original altitude.
+206 5 177362 177375 Move back to the starting point.
+207 0 177376 177407 Move to the building in the left of the view.
+207 1 177408 177460 Descend to above the target building.
+207 2 177461 177495 Adjust heading.
+207 3 177496 178229 Orbit the target building.
+207 4 178230 178282 Ascend back to the original altitude.
+207 5 178283 178313 Move back to the starting point.
+208 0 178314 178317 Move to the building in the center of the view.
+208 1 178318 178372 Descend to above the target building.
+208 2 178373 178377 Adjust heading.
+208 3 178378 179110 Orbit the target building.
+208 4 179111 179165 Ascend back to the original altitude.
+208 5 179166 179168 Move back to the starting point.
+209 0 179169 179172 Move to the building in the upper right of the view.
+209 1 179173 179221 Descend to above the target building.
+209 2 179222 179223 Adjust heading.
+209 3 179224 179956 Orbit the target building.
+209 4 179957 180005 Ascend back to the original altitude.
+209 5 180006 180009 Move back to the starting point.
+210 0 180010 180027 Move to the building in the center of the view.
+210 1 180028 180078 Descend to above the target building.
+210 2 180079 180087 Adjust heading.
+210 3 180088 180817 Orbit the target building.
+210 4 180818 180868 Ascend back to the original altitude.
+210 5 180869 180885 Move back to the starting point.
+211 0 180886 180894 Move to the building in the center of the view.
+211 1 180895 180942 Descend to above the target building.
+211 2 180943 180951 Adjust heading.
+211 3 180952 181681 Orbit the target building.
+211 4 181682 181729 Ascend back to the original altitude.
+211 5 181730 181737 Move back to the starting point.
+212 0 181738 181750 Move to the building in the center of the view.
+212 1 181751 181794 Descend to above the target building.
+212 2 181795 181818 Adjust heading.
+212 3 181819 182548 Orbit the target building.
+212 4 182549 182592 Ascend back to the original altitude.
+212 5 182593 182604 Move back to the starting point.
+213 0 182605 182624 Move to the building in the upper right of the view.
+213 1 182625 182669 Descend to above the target building.
+213 2 182670 182674 Adjust heading.
+213 3 182675 183404 Orbit the target building.
+213 4 183405 183449 Ascend back to the original altitude.
+213 5 183450 183468 Move back to the starting point.
+214 0 183469 183491 Move to the building in the upper right of the view.
+214 1 183492 183539 Descend to above the target building.
+214 2 183540 183541 Adjust heading.
+214 3 183542 184271 Orbit the target building.
+214 4 184272 184319 Ascend back to the original altitude.
+214 5 184320 184341 Move back to the starting point.
+215 0 184342 184363 Move to the building in the right of the view.
+215 1 184364 184419 Descend to above the target building.
+215 2 184420 184424 Adjust heading.
+215 3 184425 185154 Orbit the target building.
+215 4 185155 185210 Ascend back to the original altitude.
+215 5 185211 185231 Move back to the starting point.
+216 0 185232 185240 Move to the building in the lower right of the view.
+216 1 185241 185298 Descend to above the target building.
+216 2 185299 185316 Adjust heading.
+216 3 185317 186046 Orbit the target building.
+216 4 186047 186104 Ascend back to the original altitude.
+216 5 186105 186112 Move back to the starting point.
+217 0 186113 186121 Move to the building in the center of the view.
+217 1 186122 186176 Descend to above the target building.
+217 2 186177 186177 Adjust heading.
+217 3 186178 186907 Orbit the target building.
+217 4 186908 186962 Ascend back to the original altitude.
+217 5 186963 186970 Move back to the starting point.
+218 0 186971 186992 Move to the building in the upper right of the view.
+218 1 186993 187047 Descend to above the target building.
+218 2 187048 187053 Adjust heading.
+218 3 187054 187783 Orbit the target building.
+218 4 187784 187838 Ascend back to the original altitude.
+218 5 187839 187859 Move back to the starting point.
+219 0 187860 187875 Move to the building in the left of the view.
+219 1 187876 187928 Descend to above the target building.
+219 2 187929 187961 Adjust heading.
+219 3 187962 188691 Orbit the target building.
+219 4 188692 188744 Ascend back to the original altitude.
+219 5 188745 188759 Move back to the starting point.
+220 0 188760 188776 Move to the building in the right of the view.
+220 1 188777 188835 Descend to above the target building.
+220 2 188836 188847 Adjust heading.
+220 3 188848 189577 Orbit the target building.
+220 4 189578 189636 Ascend back to the original altitude.
+220 5 189637 189652 Move back to the starting point.
+221 0 189653 189654 Move to the building in the right of the view.
+221 1 189655 189702 Descend to above the target building.
+221 2 189703 189708 Adjust heading.
+221 3 189709 190438 Orbit the target building.
+221 4 190439 190486 Ascend back to the original altitude.
+221 5 190487 190488 Move back to the starting point.
+222 0 190489 190494 Move to the building in the left of the view.
+222 1 190495 190541 Descend to above the target building.
+222 2 190542 190569 Adjust heading.
+222 3 190570 191299 Orbit the target building.
+222 4 191300 191346 Ascend back to the original altitude.
+222 5 191347 191351 Move back to the starting point.
+223 0 191352 191366 Move to the building in the right of the view.
+223 1 191367 191422 Descend to above the target building.
+223 2 191423 191433 Adjust heading.
+223 3 191434 192163 Orbit the target building.
+223 4 192164 192219 Ascend back to the original altitude.
+223 5 192220 192233 Move back to the starting point.
+224 0 192234 192238 Move to the building in the left of the view.
+224 1 192239 192282 Descend to above the target building.
+224 2 192283 192316 Adjust heading.
+224 3 192317 193046 Orbit the target building.
+224 4 193047 193090 Ascend back to the original altitude.
+224 5 193091 193094 Move back to the starting point.
+225 0 193095 193101 Move to the building in the left of the view.
+225 1 193102 193142 Descend to above the target building.
+225 2 193143 193177 Adjust heading.
+225 3 193178 193602 Orbit the target building.
+225 4 193603 193643 Ascend back to the original altitude.
+225 5 193644 193650 Move back to the starting point.
+226 0 193651 193677 Move to the building in the upper left of the view.
+226 1 193678 193727 Descend to above the target building.
+226 2 193728 193748 Adjust heading.
+226 3 193749 194173 Orbit the target building.
+226 4 194174 194223 Ascend back to the original altitude.
+226 5 194224 194249 Move back to the starting point.
+227 0 194250 194256 Move to the building in the upper right of the view.
+227 1 194257 194312 Descend to above the target building.
+227 2 194313 194322 Adjust heading.
+227 3 194323 194747 Orbit the target building.
+227 4 194748 194803 Ascend back to the original altitude.
+227 5 194804 194809 Move back to the starting point.
+228 0 194810 194834 Move to the building in the bottom of the view.
+228 1 194835 194894 Descend to above the target building.
+228 2 194895 194911 Adjust heading.
+228 3 194912 195336 Orbit the target building.
+228 4 195337 195396 Ascend back to the original altitude.
+228 5 195397 195420 Move back to the starting point.
+229 0 195421 195437 Move to the building in the center of the view.
+229 1 195438 195484 Descend to above the target building.
+229 2 195485 195510 Adjust heading.
+229 3 195511 195935 Orbit the target building.
+229 4 195936 195982 Ascend back to the original altitude.
+229 5 195983 195998 Move back to the starting point.
+230 0 195999 196014 Move to the building in the center of the view.
+230 1 196015 196067 Descend to above the target building.
+230 2 196068 196075 Adjust heading.
+230 3 196076 196500 Orbit the target building.
+230 4 196501 196553 Ascend back to the original altitude.
+230 5 196554 196568 Move back to the starting point.
+231 0 196569 196579 Move to the building in the center of the view.
+231 1 196580 196623 Descend to above the target building.
+231 2 196624 196629 Adjust heading.
+231 3 196630 197054 Orbit the target building.
+231 4 197055 197098 Ascend back to the original altitude.
+231 5 197099 197108 Move back to the starting point.
+232 0 197109 197120 Move to the building in the upper right of the view.
+232 1 197121 197166 Descend to above the target building.
+232 2 197167 197172 Adjust heading.
+232 3 197173 197597 Orbit the target building.
+232 4 197598 197643 Ascend back to the original altitude.
+232 5 197644 197654 Move back to the starting point.
+233 0 197655 197658 Move to the building in the upper left of the view.
+233 1 197659 197714 Descend to above the target building.
+233 2 197715 197734 Adjust heading.
+233 3 197735 198159 Orbit the target building.
+233 4 198160 198215 Ascend back to the original altitude.
+233 5 198216 198218 Move back to the starting point.
+234 0 198219 198244 Move to the building in the bottom of the view.
+234 1 198245 198302 Descend to above the target building.
+234 2 198303 198317 Adjust heading.
+234 3 198318 198742 Orbit the target building.
+234 4 198743 198800 Ascend back to the original altitude.
+234 5 198801 198825 Move back to the starting point.
+235 0 198826 198830 Move to the building in the upper right of the view.
+235 1 198831 198874 Descend to above the target building.
+235 2 198875 198890 Adjust heading.
+235 3 198891 199315 Orbit the target building.
+235 4 199316 199359 Ascend back to the original altitude.
+235 5 199360 199363 Move back to the starting point.
+236 0 199364 199370 Move to the building in the upper right of the view.
+236 1 199371 199425 Descend to above the target building.
+236 2 199426 199433 Adjust heading.
+236 3 199434 199858 Orbit the target building.
+236 4 199859 199913 Ascend back to the original altitude.
+236 5 199914 199919 Move back to the starting point.
+237 0 199920 199941 Move to the building in the lower right of the view.
+237 1 199942 199992 Descend to above the target building.
+237 2 199993 200003 Adjust heading.
+237 3 200004 200428 Orbit the target building.
+237 4 200429 200479 Ascend back to the original altitude.
+237 5 200480 200500 Move back to the starting point.
+238 0 200501 200503 Move to the building in the center of the view.
+238 1 200504 200562 Descend to above the target building.
+238 2 200563 200564 Adjust heading.
+238 3 200565 200989 Orbit the target building.
+238 4 200990 201048 Ascend back to the original altitude.
+238 5 201049 201050 Move back to the starting point.
+239 0 201051 201072 Move to the building in the bottom of the view.
+239 1 201073 201122 Descend to above the target building.
+239 2 201123 201142 Adjust heading.
+239 3 201143 201567 Orbit the target building.
+239 4 201568 201617 Ascend back to the original altitude.
+239 5 201618 201638 Move back to the starting point.
+240 0 201639 201641 Move to the building in the upper right of the view.
+240 1 201642 201684 Descend to above the target building.
+240 2 201685 201687 Adjust heading.
+240 3 201688 202248 Orbit the target building.
+240 4 202249 202291 Ascend back to the original altitude.
+240 5 202292 202293 Move back to the starting point.
+241 0 202294 202307 Move to the building in the upper right of the view.
+241 1 202308 202367 Descend to above the target building.
+241 2 202368 202369 Adjust heading.
+241 3 202370 202930 Orbit the target building.
+241 4 202931 202990 Ascend back to the original altitude.
+241 5 202991 203003 Move back to the starting point.
+242 0 203004 203011 Move to the building in the right of the view.
+242 1 203012 203057 Descend to above the target building.
+242 2 203058 203064 Adjust heading.
+242 3 203065 203625 Orbit the target building.
+242 4 203626 203671 Ascend back to the original altitude.
+242 5 203672 203678 Move back to the starting point.
+243 0 203679 203706 Move to the building in the center of the view.
+243 1 203707 203753 Descend to above the target building.
+243 2 203754 203756 Adjust heading.
+243 3 203757 204317 Orbit the target building.
+243 4 204318 204364 Ascend back to the original altitude.
+243 5 204365 204391 Move back to the starting point.
+244 0 204392 204394 Move to the building in the right of the view.
+244 1 204395 204445 Descend to above the target building.
+244 2 204446 204446 Adjust heading.
+244 3 204447 205007 Orbit the target building.
+244 4 205008 205058 Ascend back to the original altitude.
+244 5 205059 205061 Move back to the starting point.
+245 0 205062 205080 Move to the building in the upper right of the view.
+245 1 205081 205135 Descend to above the target building.
+245 2 205136 205138 Adjust heading.
+245 3 205139 205699 Orbit the target building.
+245 4 205700 205754 Ascend back to the original altitude.
+245 5 205755 205772 Move back to the starting point.
+246 0 205773 205797 Move to the building in the center of the view.
+246 1 205798 205844 Descend to above the target building.
+246 2 205845 205871 Adjust heading.
+246 3 205872 206432 Orbit the target building.
+246 4 206433 206479 Ascend back to the original altitude.
+246 5 206480 206503 Move back to the starting point.
+247 0 206504 206508 Move to the building in the lower right of the view.
+247 1 206509 206561 Descend to above the target building.
+247 2 206562 206580 Adjust heading.
+247 3 206581 207141 Orbit the target building.
+247 4 207142 207194 Ascend back to the original altitude.
+247 5 207195 207198 Move back to the starting point.
+248 0 207199 207214 Move to the building in the left of the view.
+248 1 207215 207273 Descend to above the target building.
+248 2 207274 207308 Adjust heading.
+248 3 207309 207869 Orbit the target building.
+248 4 207870 207928 Ascend back to the original altitude.
+248 5 207929 207943 Move back to the starting point.
+249 0 207944 207946 Move to the building in the upper left of the view.
+249 1 207947 208006 Descend to above the target building.
+249 2 208007 208039 Adjust heading.
+249 3 208040 208600 Orbit the target building.
+249 4 208601 208660 Ascend back to the original altitude.
+249 5 208661 208662 Move back to the starting point.
+250 0 208663 208691 Move to the building in the center of the view.
+250 1 208692 208734 Descend to above the target building.
+250 2 208735 208735 Adjust heading.
+250 3 208736 209296 Orbit the target building.
+250 4 209297 209339 Ascend back to the original altitude.
+250 5 209340 209367 Move back to the starting point.
+251 0 209368 209373 Move to the building in the lower right of the view.
+251 1 209374 209432 Descend to above the target building.
+251 2 209433 209443 Adjust heading.
+251 3 209444 210004 Orbit the target building.
+251 4 210005 210063 Ascend back to the original altitude.
+251 5 210064 210068 Move back to the starting point.
+252 0 210069 210077 Move to the building in the lower left of the view.
+252 1 210078 210131 Descend to above the target building.
+252 2 210132 210161 Adjust heading.
+252 3 210162 210722 Orbit the target building.
+252 4 210723 210776 Ascend back to the original altitude.
+252 5 210777 210784 Move back to the starting point.
+253 0 210785 210792 Move to the building in the left of the view.
+253 1 210793 210839 Descend to above the target building.
+253 2 210840 210874 Adjust heading.
+253 3 210875 211435 Orbit the target building.
+253 4 211436 211482 Ascend back to the original altitude.
+253 5 211483 211489 Move back to the starting point.
+254 0 211490 211495 Move to the building in the upper right of the view.
+254 1 211496 211536 Descend to above the target building.
+254 2 211537 211543 Adjust heading.
+254 3 211544 212104 Orbit the target building.
+254 4 212105 212145 Ascend back to the original altitude.
+254 5 212146 212150 Move back to the starting point.
+255 0 212151 212186 Move to the building in the center of the view.
+255 1 212187 212246 Descend to above the target building.
+255 2 212247 212250 Adjust heading.
+255 3 212251 212558 Orbit the target building.
+255 4 212559 212618 Ascend back to the original altitude.
+255 5 212619 212653 Move back to the starting point.
+256 0 212654 212679 Move to the building in the lower left of the view.
+256 1 212680 212738 Descend to above the target building.
+256 2 212739 212762 Adjust heading.
+256 3 212763 213070 Orbit the target building.
+256 4 213071 213129 Ascend back to the original altitude.
+256 5 213130 213154 Move back to the starting point.
+257 0 213155 213181 Move to the building in the upper left of the view.
+257 1 213182 213233 Descend to above the target building.
+257 2 213234 213263 Adjust heading.
+257 3 213264 213571 Orbit the target building.
+257 4 213572 213623 Ascend back to the original altitude.
+257 5 213624 213649 Move back to the starting point.
+258 0 213650 213667 Move to the building in the upper right of the view.
+258 1 213668 213716 Descend to above the target building.
+258 2 213717 213717 Adjust heading.
+258 3 213718 214025 Orbit the target building.
+258 4 214026 214074 Ascend back to the original altitude.
+258 5 214075 214091 Move back to the starting point.
+259 0 214092 214101 Move to the building in the upper right of the view.
+259 1 214102 214150 Descend to above the target building.
+259 2 214151 214152 Adjust heading.
+259 3 214153 214460 Orbit the target building.
+259 4 214461 214509 Ascend back to the original altitude.
+259 5 214510 214519 Move back to the starting point.
+260 0 214520 214522 Move to the building in the center of the view.
+260 1 214523 214576 Descend to above the target building.
+260 2 214577 214591 Adjust heading.
+260 3 214592 214899 Orbit the target building.
+260 4 214900 214953 Ascend back to the original altitude.
+260 5 214954 214956 Move back to the starting point.
+261 0 214957 214973 Move to the building in the upper left of the view.
+261 1 214974 215017 Descend to above the target building.
+261 2 215018 215030 Adjust heading.
+261 3 215031 215338 Orbit the target building.
+261 4 215339 215382 Ascend back to the original altitude.
+261 5 215383 215398 Move back to the starting point.
+262 0 215399 215432 Move to the building in the lower right of the view.
+262 1 215433 215486 Descend to above the target building.
+262 2 215487 215496 Adjust heading.
+262 3 215497 215804 Orbit the target building.
+262 4 215805 215858 Ascend back to the original altitude.
+262 5 215859 215892 Move back to the starting point.
+263 0 215893 215902 Move to the building in the upper right of the view.
+263 1 215903 215948 Descend to above the target building.
+263 2 215949 215964 Adjust heading.
+263 3 215965 216272 Orbit the target building.
+263 4 216273 216318 Ascend back to the original altitude.
+263 5 216319 216328 Move back to the starting point.
+264 0 216329 216365 Move to the building in the top of the view.
+264 1 216366 216416 Descend to above the target building.
+264 2 216417 216433 Adjust heading.
+264 3 216434 216741 Orbit the target building.
+264 4 216742 216792 Ascend back to the original altitude.
+264 5 216793 216828 Move back to the starting point.
+265 0 216829 216864 Move to the building in the center of the view.
+265 1 216865 216910 Descend to above the target building.
+265 2 216911 216927 Adjust heading.
+265 3 216928 217235 Orbit the target building.
+265 4 217236 217281 Ascend back to the original altitude.
+265 5 217282 217316 Move back to the starting point.
+266 0 217317 217325 Move to the building in the upper right of the view.
+266 1 217326 217373 Descend to above the target building.
+266 2 217374 217375 Adjust heading.
+266 3 217376 217683 Orbit the target building.
+266 4 217684 217731 Ascend back to the original altitude.
+266 5 217732 217739 Move back to the starting point.
+267 0 217740 217757 Move to the building in the center of the view.
+267 1 217758 217815 Descend to above the target building.
+267 2 217816 217849 Adjust heading.
+267 3 217850 218157 Orbit the target building.
+267 4 218158 218215 Ascend back to the original altitude.
+267 5 218216 218232 Move back to the starting point.
+268 0 218233 218247 Move to the building in the upper left of the view.
+268 1 218248 218305 Descend to above the target building.
+268 2 218306 218331 Adjust heading.
+268 3 218332 218639 Orbit the target building.
+268 4 218640 218697 Ascend back to the original altitude.
+268 5 218698 218711 Move back to the starting point.
+269 0 218712 218730 Move to the building in the lower right of the view.
+269 1 218731 218783 Descend to above the target building.
+269 2 218784 218790 Adjust heading.
+269 3 218791 219098 Orbit the target building.
+269 4 219099 219151 Ascend back to the original altitude.
+269 5 219152 219169 Move back to the starting point.

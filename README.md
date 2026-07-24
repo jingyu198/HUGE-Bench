@@ -24,12 +24,19 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 - ✅ Release `HUGE_Environment`, including 4 3DGS-Mesh environments (and 3 more finely reconstructed subregions for low-altitude forward obstacle avoidance).
 - ✅ Release trajectory collection scripts, including RGB, depth, subtask, and instruction generation.
 - ✅ Release the 3DGS-Mesh construction pipeline
+- ✅ Release multi-stage trajectory annotations and LeRobot episode mappings.
 
 ## Dataset
 
 [`HUGE_Trajectory`](https://huggingface.co/datasets/yu781986168/HUGE_Dataset_v0) is released in LeRobot format, it can be used directly with `pi0` training pipeline.
 
 [`HUGE_Environment`](https://huggingface.co/datasets/yu781986168/3DGS_Mesh_Envs) includes all 3DGS-Mesh environments.
+
+The original multi-stage trajectory annotations and the mapping to the released
+LeRobot episode indices are available in
+[`trajectory_generation/stage_annotations/`](trajectory_generation/stage_annotations/README.md).
+They are provided as a lightweight sidecar release; the existing Hugging Face
+parquet files remain unchanged.
 
 For a complete local setup, including the expected data layout, external
 Gaussian Splatting/OpenPI checkouts, checkpoint paths, and evaluation commands,

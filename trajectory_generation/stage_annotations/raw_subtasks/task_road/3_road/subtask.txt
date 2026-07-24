@@ -1,0 +1,3451 @@
+# traj_id  subtask_id  pose_id_start  pose_id_end  subtask
+0 0 0 5 Move above the dirt road
+0 1 6 24 Descend to cruise altitude
+0 2 25 53 Adjust heading
+0 3 54 520 Inspect along the dirt road
+0 4 521 539 Ascend back to the original altitude
+1 0 540 542 Move above the dirt road
+1 1 543 560 Descend to cruise altitude
+1 2 561 582 Adjust heading
+1 3 583 1049 Inspect along the dirt road
+1 4 1050 1067 Ascend back to the original altitude
+2 0 1068 1070 Move above the dirt road
+2 1 1071 1084 Descend to cruise altitude
+2 2 1085 1096 Adjust heading
+2 3 1097 1563 Inspect along the dirt road
+2 4 1564 1577 Ascend back to the original altitude
+3 0 1578 1583 Move above the dirt road
+3 1 1584 1598 Descend to cruise altitude
+3 2 1599 1606 Adjust heading
+3 3 1607 2073 Inspect along the dirt road
+3 4 2074 2088 Ascend back to the original altitude
+4 0 2089 2093 Move above the dirt road
+4 1 2094 2112 Descend to cruise altitude
+4 2 2113 2145 Adjust heading
+4 3 2146 2612 Inspect along the dirt road
+4 4 2613 2631 Ascend back to the original altitude
+5 0 2632 2637 Move above the dirt road
+5 1 2638 2657 Descend to cruise altitude
+5 2 2658 2672 Adjust heading
+5 3 2673 3139 Inspect along the dirt road
+5 4 3140 3159 Ascend back to the original altitude
+6 0 3160 3165 Move above the dirt road
+6 1 3166 3180 Descend to cruise altitude
+6 2 3181 3184 Adjust heading
+6 3 3185 3651 Inspect along the dirt road
+6 4 3652 3666 Ascend back to the original altitude
+7 0 3667 3669 Move above the dirt road
+7 1 3670 3687 Descend to cruise altitude
+7 2 3688 3696 Adjust heading
+7 3 3697 4163 Inspect along the dirt road
+7 4 4164 4181 Ascend back to the original altitude
+8 0 4182 4185 Move above the dirt road
+8 1 4186 4200 Descend to cruise altitude
+8 2 4201 4206 Adjust heading
+8 3 4207 4673 Inspect along the dirt road
+8 4 4674 4688 Ascend back to the original altitude
+9 0 4689 4691 Move above the dirt road
+9 1 4692 4704 Descend to cruise altitude
+9 2 4705 4735 Adjust heading
+9 3 4736 5202 Inspect along the dirt road
+9 4 5203 5215 Ascend back to the original altitude
+10 0 5216 5220 Move above the dirt road
+10 1 5221 5238 Descend to cruise altitude
+10 2 5239 5253 Adjust heading
+10 3 5254 5720 Inspect along the dirt road
+10 4 5721 5738 Ascend back to the original altitude
+11 0 5739 5744 Move above the dirt road
+11 1 5745 5758 Descend to cruise altitude
+11 2 5759 5771 Adjust heading
+11 3 5772 6238 Inspect along the dirt road
+11 4 6239 6252 Ascend back to the original altitude
+12 0 6253 6258 Move above the dirt road
+12 1 6259 6270 Descend to cruise altitude
+12 2 6271 6276 Adjust heading
+12 3 6277 6743 Inspect along the dirt road
+12 4 6744 6755 Ascend back to the original altitude
+13 0 6756 6761 Move above the dirt road
+13 1 6762 6779 Descend to cruise altitude
+13 2 6780 6802 Adjust heading
+13 3 6803 7269 Inspect along the dirt road
+13 4 7270 7287 Ascend back to the original altitude
+14 0 7288 7292 Move above the dirt road
+14 1 7293 7304 Descend to cruise altitude
+14 2 7305 7305 Adjust heading
+14 3 7306 7772 Inspect along the dirt road
+14 4 7773 7784 Ascend back to the original altitude
+15 0 7785 7790 Move above the dirt road
+15 1 7791 7806 Descend to cruise altitude
+15 2 7807 7832 Adjust heading
+15 3 7833 8300 Inspect along the dirt road
+15 4 8301 8316 Ascend back to the original altitude
+16 0 8317 8321 Move above the dirt road
+16 1 8322 8337 Descend to cruise altitude
+16 2 8338 8343 Adjust heading
+16 3 8344 8811 Inspect along the dirt road
+16 4 8812 8827 Ascend back to the original altitude
+17 0 8828 8829 Move above the dirt road
+17 1 8830 8842 Descend to cruise altitude
+17 2 8843 8843 Adjust heading
+17 3 8844 9311 Inspect along the dirt road
+17 4 9312 9324 Ascend back to the original altitude
+18 0 9325 9330 Move above the dirt road
+18 1 9331 9341 Descend to cruise altitude
+18 2 9342 9349 Adjust heading
+18 3 9350 9817 Inspect along the dirt road
+18 4 9818 9828 Ascend back to the original altitude
+19 0 9829 9832 Move above the dirt road
+19 1 9833 9848 Descend to cruise altitude
+19 2 9849 9875 Adjust heading
+19 3 9876 10343 Inspect along the dirt road
+19 4 10344 10359 Ascend back to the original altitude
+20 0 10360 10365 Move above the dirt road
+20 1 10366 10384 Descend to cruise altitude
+20 2 10385 10400 Adjust heading
+20 3 10401 10868 Inspect along the dirt road
+20 4 10869 10887 Ascend back to the original altitude
+21 0 10888 10889 Move above the dirt road
+21 1 10890 10907 Descend to cruise altitude
+21 2 10908 10911 Adjust heading
+21 3 10912 11379 Inspect along the dirt road
+21 4 11380 11397 Ascend back to the original altitude
+22 0 11398 11401 Move above the dirt road
+22 1 11402 11413 Descend to cruise altitude
+22 2 11414 11434 Adjust heading
+22 3 11435 11902 Inspect along the dirt road
+22 4 11903 11914 Ascend back to the original altitude
+23 0 11915 11919 Move above the dirt road
+23 1 11920 11933 Descend to cruise altitude
+23 2 11934 11949 Adjust heading
+23 3 11950 12417 Inspect along the dirt road
+23 4 12418 12431 Ascend back to the original altitude
+24 0 12432 12436 Move above the dirt road
+24 1 12437 12448 Descend to cruise altitude
+24 2 12449 12479 Adjust heading
+24 3 12480 12947 Inspect along the dirt road
+24 4 12948 12959 Ascend back to the original altitude
+25 0 12960 12965 Move above the dirt road
+25 1 12966 12978 Descend to cruise altitude
+25 2 12979 13008 Adjust heading
+25 3 13009 13476 Inspect along the dirt road
+25 4 13477 13489 Ascend back to the original altitude
+26 0 13490 13495 Move above the dirt road
+26 1 13496 13510 Descend to cruise altitude
+26 2 13511 13518 Adjust heading
+26 3 13519 13986 Inspect along the dirt road
+26 4 13987 14001 Ascend back to the original altitude
+27 0 14002 14004 Move above the dirt road
+27 1 14005 14019 Descend to cruise altitude
+27 2 14020 14033 Adjust heading
+27 3 14034 14501 Inspect along the dirt road
+27 4 14502 14516 Ascend back to the original altitude
+28 0 14517 14520 Move above the dirt road
+28 1 14521 14532 Descend to cruise altitude
+28 2 14533 14565 Adjust heading
+28 3 14566 15033 Inspect along the dirt road
+28 4 15034 15045 Ascend back to the original altitude
+29 0 15046 15051 Move above the dirt road
+29 1 15052 15066 Descend to cruise altitude
+29 2 15067 15082 Adjust heading
+29 3 15083 15550 Inspect along the dirt road
+29 4 15551 15565 Ascend back to the original altitude
+30 0 15566 15570 Move above the dirt road
+30 1 15571 15581 Descend to cruise altitude
+30 2 15582 15582 Adjust heading
+30 3 15583 16326 Inspect along the dirt road
+30 4 16327 16337 Ascend back to the original altitude
+31 0 16338 16340 Move above the dirt road
+31 1 16341 16354 Descend to cruise altitude
+31 2 16355 16374 Adjust heading
+31 3 16375 17118 Inspect along the dirt road
+31 4 17119 17132 Ascend back to the original altitude
+32 0 17133 17135 Move above the dirt road
+32 1 17136 17147 Descend to cruise altitude
+32 2 17148 17182 Adjust heading
+32 3 17183 17926 Inspect along the dirt road
+32 4 17927 17938 Ascend back to the original altitude
+33 0 17939 17943 Move above the dirt road
+33 1 17944 17959 Descend to cruise altitude
+33 2 17960 17987 Adjust heading
+33 3 17988 18731 Inspect along the dirt road
+33 4 18732 18747 Ascend back to the original altitude
+34 0 18748 18753 Move above the dirt road
+34 1 18754 18771 Descend to cruise altitude
+34 2 18772 18795 Adjust heading
+34 3 18796 19539 Inspect along the dirt road
+34 4 19540 19557 Ascend back to the original altitude
+35 0 19558 19562 Move above the dirt road
+35 1 19563 19582 Descend to cruise altitude
+35 2 19583 19592 Adjust heading
+35 3 19593 20336 Inspect along the dirt road
+35 4 20337 20356 Ascend back to the original altitude
+36 0 20357 20361 Move above the dirt road
+36 1 20362 20375 Descend to cruise altitude
+36 2 20376 20381 Adjust heading
+36 3 20382 21125 Inspect along the dirt road
+36 4 21126 21139 Ascend back to the original altitude
+37 0 21140 21144 Move above the dirt road
+37 1 21145 21163 Descend to cruise altitude
+37 2 21164 21196 Adjust heading
+37 3 21197 21940 Inspect along the dirt road
+37 4 21941 21959 Ascend back to the original altitude
+38 0 21960 21962 Move above the dirt road
+38 1 21963 21974 Descend to cruise altitude
+38 2 21975 21991 Adjust heading
+38 3 21992 22735 Inspect along the dirt road
+38 4 22736 22747 Ascend back to the original altitude
+39 0 22748 22751 Move above the dirt road
+39 1 22752 22769 Descend to cruise altitude
+39 2 22770 22793 Adjust heading
+39 3 22794 23537 Inspect along the dirt road
+39 4 23538 23555 Ascend back to the original altitude
+40 0 23556 23558 Move above the dirt road
+40 1 23559 23571 Descend to cruise altitude
+40 2 23572 23598 Adjust heading
+40 3 23599 24342 Inspect along the dirt road
+40 4 24343 24355 Ascend back to the original altitude
+41 0 24356 24360 Move above the dirt road
+41 1 24361 24379 Descend to cruise altitude
+41 2 24380 24406 Adjust heading
+41 3 24407 25150 Inspect along the dirt road
+41 4 25151 25169 Ascend back to the original altitude
+42 0 25170 25173 Move above the dirt road
+42 1 25174 25186 Descend to cruise altitude
+42 2 25187 25192 Adjust heading
+42 3 25193 25936 Inspect along the dirt road
+42 4 25937 25949 Ascend back to the original altitude
+43 0 25950 25953 Move above the dirt road
+43 1 25954 25965 Descend to cruise altitude
+43 2 25966 25992 Adjust heading
+43 3 25993 26736 Inspect along the dirt road
+43 4 26737 26748 Ascend back to the original altitude
+44 0 26749 26753 Move above the dirt road
+44 1 26754 26772 Descend to cruise altitude
+44 2 26773 26795 Adjust heading
+44 3 26796 27539 Inspect along the dirt road
+44 4 27540 27558 Ascend back to the original altitude
+45 0 27559 27564 Move above the dirt road
+45 1 27565 27580 Descend to cruise altitude
+45 2 27581 27598 Adjust heading
+45 3 27599 28342 Inspect along the dirt road
+45 4 28343 28358 Ascend back to the original altitude
+46 0 28359 28364 Move above the dirt road
+46 1 28365 28378 Descend to cruise altitude
+46 2 28379 28412 Adjust heading
+46 3 28413 29156 Inspect along the dirt road
+46 4 29157 29170 Ascend back to the original altitude
+47 0 29171 29176 Move above the dirt road
+47 1 29177 29196 Descend to cruise altitude
+47 2 29197 29219 Adjust heading
+47 3 29220 29963 Inspect along the dirt road
+47 4 29964 29983 Ascend back to the original altitude
+48 0 29984 29986 Move above the dirt road
+48 1 29987 29998 Descend to cruise altitude
+48 2 29999 30026 Adjust heading
+48 3 30027 30770 Inspect along the dirt road
+48 4 30771 30782 Ascend back to the original altitude
+49 0 30783 30787 Move above the dirt road
+49 1 30788 30799 Descend to cruise altitude
+49 2 30800 30817 Adjust heading
+49 3 30818 31561 Inspect along the dirt road
+49 4 31562 31573 Ascend back to the original altitude
+50 0 31574 31579 Move above the dirt road
+50 1 31580 31595 Descend to cruise altitude
+50 2 31596 31625 Adjust heading
+50 3 31626 32369 Inspect along the dirt road
+50 4 32370 32385 Ascend back to the original altitude
+51 0 32386 32387 Move above the dirt road
+51 1 32388 32399 Descend to cruise altitude
+51 2 32400 32406 Adjust heading
+51 3 32407 33150 Inspect along the dirt road
+51 4 33151 33162 Ascend back to the original altitude
+52 0 33163 33165 Move above the dirt road
+52 1 33166 33182 Descend to cruise altitude
+52 2 33183 33183 Adjust heading
+52 3 33184 33927 Inspect along the dirt road
+52 4 33928 33944 Ascend back to the original altitude
+53 0 33945 33948 Move above the dirt road
+53 1 33949 33966 Descend to cruise altitude
+53 2 33967 33978 Adjust heading
+53 3 33979 34722 Inspect along the dirt road
+53 4 34723 34740 Ascend back to the original altitude
+54 0 34741 34743 Move above the dirt road
+54 1 34744 34763 Descend to cruise altitude
+54 2 34764 34775 Adjust heading
+54 3 34776 35519 Inspect along the dirt road
+54 4 35520 35539 Ascend back to the original altitude
+55 0 35540 35543 Move above the dirt road
+55 1 35544 35560 Descend to cruise altitude
+55 2 35561 35587 Adjust heading
+55 3 35588 36331 Inspect along the dirt road
+55 4 36332 36348 Ascend back to the original altitude
+56 0 36349 36352 Move above the dirt road
+56 1 36353 36363 Descend to cruise altitude
+56 2 36364 36364 Adjust heading
+56 3 36365 37108 Inspect along the dirt road
+56 4 37109 37119 Ascend back to the original altitude
+57 0 37120 37124 Move above the dirt road
+57 1 37125 37136 Descend to cruise altitude
+57 2 37137 37146 Adjust heading
+57 3 37147 37890 Inspect along the dirt road
+57 4 37891 37902 Ascend back to the original altitude
+58 0 37903 37908 Move above the dirt road
+58 1 37909 37928 Descend to cruise altitude
+58 2 37929 37944 Adjust heading
+58 3 37945 38688 Inspect along the dirt road
+58 4 38689 38708 Ascend back to the original altitude
+59 0 38709 38713 Move above the dirt road
+59 1 38714 38724 Descend to cruise altitude
+59 2 38725 38757 Adjust heading
+59 3 38758 39501 Inspect along the dirt road
+59 4 39502 39512 Ascend back to the original altitude
+60 0 39513 39518 Move above the small road
+60 1 39519 39531 Descend to cruise altitude
+60 2 39532 39555 Adjust heading
+60 3 39556 39816 Inspect along the small road
+60 4 39817 39829 Ascend back to the original altitude
+61 0 39830 39834 Move above the small road
+61 1 39835 39851 Descend to cruise altitude
+61 2 39852 39867 Adjust heading
+61 3 39868 40128 Inspect along the small road
+61 4 40129 40145 Ascend back to the original altitude
+62 0 40146 40150 Move above the small road
+62 1 40151 40167 Descend to cruise altitude
+62 2 40168 40189 Adjust heading
+62 3 40190 40450 Inspect along the small road
+62 4 40451 40467 Ascend back to the original altitude
+63 0 40468 40472 Move above the small road
+63 1 40473 40485 Descend to cruise altitude
+63 2 40486 40516 Adjust heading
+63 3 40517 40777 Inspect along the small road
+63 4 40778 40790 Ascend back to the original altitude
+64 0 40791 40796 Move above the small road
+64 1 40797 40807 Descend to cruise altitude
+64 2 40808 40836 Adjust heading
+64 3 40837 41097 Inspect along the small road
+64 4 41098 41108 Ascend back to the original altitude
+65 0 41109 41111 Move above the small road
+65 1 41112 41125 Descend to cruise altitude
+65 2 41126 41127 Adjust heading
+65 3 41128 41388 Inspect along the small road
+65 4 41389 41402 Ascend back to the original altitude
+66 0 41403 41408 Move above the small road
+66 1 41409 41421 Descend to cruise altitude
+66 2 41422 41423 Adjust heading
+66 3 41424 41684 Inspect along the small road
+66 4 41685 41697 Ascend back to the original altitude
+67 0 41698 41700 Move above the small road
+67 1 41701 41711 Descend to cruise altitude
+67 2 41712 41712 Adjust heading
+67 3 41713 41973 Inspect along the small road
+67 4 41974 41984 Ascend back to the original altitude
+68 0 41985 41987 Move above the small road
+68 1 41988 42004 Descend to cruise altitude
+68 2 42005 42019 Adjust heading
+68 3 42020 42280 Inspect along the small road
+68 4 42281 42297 Ascend back to the original altitude
+69 0 42298 42301 Move above the small road
+69 1 42302 42320 Descend to cruise altitude
+69 2 42321 42344 Adjust heading
+69 3 42345 42605 Inspect along the small road
+69 4 42606 42624 Ascend back to the original altitude
+70 0 42625 42627 Move above the small road
+70 1 42628 42640 Descend to cruise altitude
+70 2 42641 42644 Adjust heading
+70 3 42645 42905 Inspect along the small road
+70 4 42906 42918 Ascend back to the original altitude
+71 0 42919 42923 Move above the small road
+71 1 42924 42934 Descend to cruise altitude
+71 2 42935 42947 Adjust heading
+71 3 42948 43208 Inspect along the small road
+71 4 43209 43219 Ascend back to the original altitude
+72 0 43220 43224 Move above the small road
+72 1 43225 43243 Descend to cruise altitude
+72 2 43244 43252 Adjust heading
+72 3 43253 43513 Inspect along the small road
+72 4 43514 43532 Ascend back to the original altitude
+73 0 43533 43538 Move above the small road
+73 1 43539 43557 Descend to cruise altitude
+73 2 43558 43577 Adjust heading
+73 3 43578 43838 Inspect along the small road
+73 4 43839 43857 Ascend back to the original altitude
+74 0 43858 43863 Move above the small road
+74 1 43864 43881 Descend to cruise altitude
+74 2 43882 43913 Adjust heading
+74 3 43914 44174 Inspect along the small road
+74 4 44175 44192 Ascend back to the original altitude
+75 0 44193 44198 Move above the small road
+75 1 44199 44214 Descend to cruise altitude
+75 2 44215 44227 Adjust heading
+75 3 44228 44488 Inspect along the small road
+75 4 44489 44504 Ascend back to the original altitude
+76 0 44505 44510 Move above the small road
+76 1 44511 44524 Descend to cruise altitude
+76 2 44525 44528 Adjust heading
+76 3 44529 44789 Inspect along the small road
+76 4 44790 44803 Ascend back to the original altitude
+77 0 44804 44807 Move above the small road
+77 1 44808 44822 Descend to cruise altitude
+77 2 44823 44842 Adjust heading
+77 3 44843 45103 Inspect along the small road
+77 4 45104 45118 Ascend back to the original altitude
+78 0 45119 45122 Move above the small road
+78 1 45123 45136 Descend to cruise altitude
+78 2 45137 45163 Adjust heading
+78 3 45164 45424 Inspect along the small road
+78 4 45425 45438 Ascend back to the original altitude
+79 0 45439 45443 Move above the small road
+79 1 45444 45456 Descend to cruise altitude
+79 2 45457 45473 Adjust heading
+79 3 45474 45734 Inspect along the small road
+79 4 45735 45747 Ascend back to the original altitude
+80 0 45748 45753 Move above the small road
+80 1 45754 45767 Descend to cruise altitude
+80 2 45768 45779 Adjust heading
+80 3 45780 46040 Inspect along the small road
+80 4 46041 46054 Ascend back to the original altitude
+81 0 46055 46060 Move above the small road
+81 1 46061 46079 Descend to cruise altitude
+81 2 46080 46091 Adjust heading
+81 3 46092 46352 Inspect along the small road
+81 4 46353 46371 Ascend back to the original altitude
+82 0 46372 46376 Move above the small road
+82 1 46377 46394 Descend to cruise altitude
+82 2 46395 46429 Adjust heading
+82 3 46430 46690 Inspect along the small road
+82 4 46691 46708 Ascend back to the original altitude
+83 0 46709 46714 Move above the small road
+83 1 46715 46726 Descend to cruise altitude
+83 2 46727 46732 Adjust heading
+83 3 46733 46993 Inspect along the small road
+83 4 46994 47005 Ascend back to the original altitude
+84 0 47006 47008 Move above the small road
+84 1 47009 47019 Descend to cruise altitude
+84 2 47020 47035 Adjust heading
+84 3 47036 47296 Inspect along the small road
+84 4 47297 47307 Ascend back to the original altitude
+85 0 47308 47310 Move above the small road
+85 1 47311 47329 Descend to cruise altitude
+85 2 47330 47336 Adjust heading
+85 3 47337 47597 Inspect along the small road
+85 4 47598 47616 Ascend back to the original altitude
+86 0 47617 47622 Move above the small road
+86 1 47623 47642 Descend to cruise altitude
+86 2 47643 47674 Adjust heading
+86 3 47675 47935 Inspect along the small road
+86 4 47936 47955 Ascend back to the original altitude
+87 0 47956 47960 Move above the small road
+87 1 47961 47977 Descend to cruise altitude
+87 2 47978 48010 Adjust heading
+87 3 48011 48271 Inspect along the small road
+87 4 48272 48288 Ascend back to the original altitude
+88 0 48289 48293 Move above the small road
+88 1 48294 48308 Descend to cruise altitude
+88 2 48309 48320 Adjust heading
+88 3 48321 48581 Inspect along the small road
+88 4 48582 48596 Ascend back to the original altitude
+89 0 48597 48602 Move above the small road
+89 1 48603 48617 Descend to cruise altitude
+89 2 48618 48624 Adjust heading
+89 3 48625 48885 Inspect along the small road
+89 4 48886 48900 Ascend back to the original altitude
+90 0 48901 48906 Move above the small road
+90 1 48907 48918 Descend to cruise altitude
+90 2 48919 48946 Adjust heading
+90 3 48947 49211 Inspect along the small road
+90 4 49212 49223 Ascend back to the original altitude
+91 0 49224 49229 Move above the small road
+91 1 49230 49247 Descend to cruise altitude
+91 2 49248 49248 Adjust heading
+91 3 49249 49513 Inspect along the small road
+91 4 49514 49531 Ascend back to the original altitude
+92 0 49532 49535 Move above the small road
+92 1 49536 49553 Descend to cruise altitude
+92 2 49554 49583 Adjust heading
+92 3 49584 49848 Inspect along the small road
+92 4 49849 49866 Ascend back to the original altitude
+93 0 49867 49871 Move above the small road
+93 1 49872 49883 Descend to cruise altitude
+93 2 49884 49915 Adjust heading
+93 3 49916 50180 Inspect along the small road
+93 4 50181 50192 Ascend back to the original altitude
+94 0 50193 50198 Move above the small road
+94 1 50199 50212 Descend to cruise altitude
+94 2 50213 50214 Adjust heading
+94 3 50215 50479 Inspect along the small road
+94 4 50480 50493 Ascend back to the original altitude
+95 0 50494 50498 Move above the small road
+95 1 50499 50516 Descend to cruise altitude
+95 2 50517 50531 Adjust heading
+95 3 50532 50796 Inspect along the small road
+95 4 50797 50814 Ascend back to the original altitude
+96 0 50815 50819 Move above the small road
+96 1 50820 50837 Descend to cruise altitude
+96 2 50838 50855 Adjust heading
+96 3 50856 51120 Inspect along the small road
+96 4 51121 51138 Ascend back to the original altitude
+97 0 51139 51141 Move above the small road
+97 1 51142 51158 Descend to cruise altitude
+97 2 51159 51188 Adjust heading
+97 3 51189 51453 Inspect along the small road
+97 4 51454 51470 Ascend back to the original altitude
+98 0 51471 51475 Move above the small road
+98 1 51476 51486 Descend to cruise altitude
+98 2 51487 51503 Adjust heading
+98 3 51504 51768 Inspect along the small road
+98 4 51769 51779 Ascend back to the original altitude
+99 0 51780 51785 Move above the small road
+99 1 51786 51800 Descend to cruise altitude
+99 2 51801 51818 Adjust heading
+99 3 51819 52083 Inspect along the small road
+99 4 52084 52098 Ascend back to the original altitude
+100 0 52099 52102 Move above the small road
+100 1 52103 52120 Descend to cruise altitude
+100 2 52121 52150 Adjust heading
+100 3 52151 52415 Inspect along the small road
+100 4 52416 52433 Ascend back to the original altitude
+101 0 52434 52439 Move above the small road
+101 1 52440 52452 Descend to cruise altitude
+101 2 52453 52462 Adjust heading
+101 3 52463 52727 Inspect along the small road
+101 4 52728 52740 Ascend back to the original altitude
+102 0 52741 52743 Move above the small road
+102 1 52744 52760 Descend to cruise altitude
+102 2 52761 52763 Adjust heading
+102 3 52764 53028 Inspect along the small road
+102 4 53029 53045 Ascend back to the original altitude
+103 0 53046 53048 Move above the small road
+103 1 53049 53059 Descend to cruise altitude
+103 2 53060 53091 Adjust heading
+103 3 53092 53356 Inspect along the small road
+103 4 53357 53367 Ascend back to the original altitude
+104 0 53368 53370 Move above the small road
+104 1 53371 53382 Descend to cruise altitude
+104 2 53383 53397 Adjust heading
+104 3 53398 53662 Inspect along the small road
+104 4 53663 53674 Ascend back to the original altitude
+105 0 53675 53680 Move above the small road
+105 1 53681 53691 Descend to cruise altitude
+105 2 53692 53701 Adjust heading
+105 3 53702 53966 Inspect along the small road
+105 4 53967 53977 Ascend back to the original altitude
+106 0 53978 53982 Move above the small road
+106 1 53983 53995 Descend to cruise altitude
+106 2 53996 54020 Adjust heading
+106 3 54021 54285 Inspect along the small road
+106 4 54286 54298 Ascend back to the original altitude
+107 0 54299 54301 Move above the small road
+107 1 54302 54321 Descend to cruise altitude
+107 2 54322 54351 Adjust heading
+107 3 54352 54616 Inspect along the small road
+107 4 54617 54636 Ascend back to the original altitude
+108 0 54637 54642 Move above the small road
+108 1 54643 54653 Descend to cruise altitude
+108 2 54654 54654 Adjust heading
+108 3 54655 54919 Inspect along the small road
+108 4 54920 54930 Ascend back to the original altitude
+109 0 54931 54933 Move above the small road
+109 1 54934 54951 Descend to cruise altitude
+109 2 54952 54982 Adjust heading
+109 3 54983 55247 Inspect along the small road
+109 4 55248 55265 Ascend back to the original altitude
+110 0 55266 55271 Move above the small road
+110 1 55272 55289 Descend to cruise altitude
+110 2 55290 55290 Adjust heading
+110 3 55291 55555 Inspect along the small road
+110 4 55556 55573 Ascend back to the original altitude
+111 0 55574 55577 Move above the small road
+111 1 55578 55597 Descend to cruise altitude
+111 2 55598 55626 Adjust heading
+111 3 55627 55891 Inspect along the small road
+111 4 55892 55911 Ascend back to the original altitude
+112 0 55912 55914 Move above the small road
+112 1 55915 55925 Descend to cruise altitude
+112 2 55926 55947 Adjust heading
+112 3 55948 56212 Inspect along the small road
+112 4 56213 56223 Ascend back to the original altitude
+113 0 56224 56229 Move above the small road
+113 1 56230 56240 Descend to cruise altitude
+113 2 56241 56241 Adjust heading
+113 3 56242 56506 Inspect along the small road
+113 4 56507 56517 Ascend back to the original altitude
+114 0 56518 56523 Move above the small road
+114 1 56524 56541 Descend to cruise altitude
+114 2 56542 56572 Adjust heading
+114 3 56573 56837 Inspect along the small road
+114 4 56838 56855 Ascend back to the original altitude
+115 0 56856 56860 Move above the small road
+115 1 56861 56880 Descend to cruise altitude
+115 2 56881 56887 Adjust heading
+115 3 56888 57152 Inspect along the small road
+115 4 57153 57172 Ascend back to the original altitude
+116 0 57173 57177 Move above the small road
+116 1 57178 57194 Descend to cruise altitude
+116 2 57195 57212 Adjust heading
+116 3 57213 57477 Inspect along the small road
+116 4 57478 57494 Ascend back to the original altitude
+117 0 57495 57497 Move above the small road
+117 1 57498 57512 Descend to cruise altitude
+117 2 57513 57531 Adjust heading
+117 3 57532 57796 Inspect along the small road
+117 4 57797 57811 Ascend back to the original altitude
+118 0 57812 57814 Move above the small road
+118 1 57815 57827 Descend to cruise altitude
+118 2 57828 57834 Adjust heading
+118 3 57835 58099 Inspect along the small road
+118 4 58100 58112 Ascend back to the original altitude
+119 0 58113 58117 Move above the small road
+119 1 58118 58134 Descend to cruise altitude
+119 2 58135 58149 Adjust heading
+119 3 58150 58414 Inspect along the small road
+119 4 58415 58431 Ascend back to the original altitude
+120 0 58432 58436 Move above the small road
+120 1 58437 58452 Descend to cruise altitude
+120 2 58453 58459 Adjust heading
+120 3 58460 58642 Inspect along the small road
+120 4 58643 58658 Ascend back to the original altitude
+121 0 58659 58660 Move above the small road
+121 1 58661 58675 Descend to cruise altitude
+121 2 58676 58676 Adjust heading
+121 3 58677 58859 Inspect along the small road
+121 4 58860 58874 Ascend back to the original altitude
+122 0 58875 58879 Move above the small road
+122 1 58880 58897 Descend to cruise altitude
+122 2 58898 58927 Adjust heading
+122 3 58928 59110 Inspect along the small road
+122 4 59111 59128 Ascend back to the original altitude
+123 0 59129 59134 Move above the small road
+123 1 59135 59152 Descend to cruise altitude
+123 2 59153 59175 Adjust heading
+123 3 59176 59358 Inspect along the small road
+123 4 59359 59376 Ascend back to the original altitude
+124 0 59377 59381 Move above the small road
+124 1 59382 59395 Descend to cruise altitude
+124 2 59396 59416 Adjust heading
+124 3 59417 59599 Inspect along the small road
+124 4 59600 59613 Ascend back to the original altitude
+125 0 59614 59619 Move above the small road
+125 1 59620 59639 Descend to cruise altitude
+125 2 59640 59659 Adjust heading
+125 3 59660 59842 Inspect along the small road
+125 4 59843 59862 Ascend back to the original altitude
+126 0 59863 59867 Move above the small road
+126 1 59868 59881 Descend to cruise altitude
+126 2 59882 59908 Adjust heading
+126 3 59909 60091 Inspect along the small road
+126 4 60092 60105 Ascend back to the original altitude
+127 0 60106 60110 Move above the small road
+127 1 60111 60121 Descend to cruise altitude
+127 2 60122 60148 Adjust heading
+127 3 60149 60331 Inspect along the small road
+127 4 60332 60342 Ascend back to the original altitude
+128 0 60343 60345 Move above the small road
+128 1 60346 60359 Descend to cruise altitude
+128 2 60360 60362 Adjust heading
+128 3 60363 60545 Inspect along the small road
+128 4 60546 60559 Ascend back to the original altitude
+129 0 60560 60563 Move above the small road
+129 1 60564 60574 Descend to cruise altitude
+129 2 60575 60602 Adjust heading
+129 3 60603 60785 Inspect along the small road
+129 4 60786 60796 Ascend back to the original altitude
+130 0 60797 60802 Move above the small road
+130 1 60803 60814 Descend to cruise altitude
+130 2 60815 60841 Adjust heading
+130 3 60842 61024 Inspect along the small road
+130 4 61025 61036 Ascend back to the original altitude
+131 0 61037 61039 Move above the small road
+131 1 61040 61059 Descend to cruise altitude
+131 2 61060 61075 Adjust heading
+131 3 61076 61258 Inspect along the small road
+131 4 61259 61278 Ascend back to the original altitude
+132 0 61279 61284 Move above the small road
+132 1 61285 61301 Descend to cruise altitude
+132 2 61302 61336 Adjust heading
+132 3 61337 61519 Inspect along the small road
+132 4 61520 61536 Ascend back to the original altitude
+133 0 61537 61541 Move above the small road
+133 1 61542 61552 Descend to cruise altitude
+133 2 61553 61553 Adjust heading
+133 3 61554 61736 Inspect along the small road
+133 4 61737 61747 Ascend back to the original altitude
+134 0 61748 61752 Move above the small road
+134 1 61753 61764 Descend to cruise altitude
+134 2 61765 61791 Adjust heading
+134 3 61792 61974 Inspect along the small road
+134 4 61975 61986 Ascend back to the original altitude
+135 0 61987 61992 Move above the small road
+135 1 61993 62011 Descend to cruise altitude
+135 2 62012 62030 Adjust heading
+135 3 62031 62213 Inspect along the small road
+135 4 62214 62232 Ascend back to the original altitude
+136 0 62233 62235 Move above the small road
+136 1 62236 62249 Descend to cruise altitude
+136 2 62250 62275 Adjust heading
+136 3 62276 62458 Inspect along the small road
+136 4 62459 62472 Ascend back to the original altitude
+137 0 62473 62478 Move above the small road
+137 1 62479 62493 Descend to cruise altitude
+137 2 62494 62524 Adjust heading
+137 3 62525 62707 Inspect along the small road
+137 4 62708 62722 Ascend back to the original altitude
+138 0 62723 62726 Move above the small road
+138 1 62727 62737 Descend to cruise altitude
+138 2 62738 62771 Adjust heading
+138 3 62772 62954 Inspect along the small road
+138 4 62955 62965 Ascend back to the original altitude
+139 0 62966 62969 Move above the small road
+139 1 62970 62985 Descend to cruise altitude
+139 2 62986 63001 Adjust heading
+139 3 63002 63184 Inspect along the small road
+139 4 63185 63200 Ascend back to the original altitude
+140 0 63201 63203 Move above the small road
+140 1 63204 63222 Descend to cruise altitude
+140 2 63223 63227 Adjust heading
+140 3 63228 63410 Inspect along the small road
+140 4 63411 63429 Ascend back to the original altitude
+141 0 63430 63435 Move above the small road
+141 1 63436 63453 Descend to cruise altitude
+141 2 63454 63477 Adjust heading
+141 3 63478 63660 Inspect along the small road
+141 4 63661 63678 Ascend back to the original altitude
+142 0 63679 63683 Move above the small road
+142 1 63684 63697 Descend to cruise altitude
+142 2 63698 63706 Adjust heading
+142 3 63707 63889 Inspect along the small road
+142 4 63890 63903 Ascend back to the original altitude
+143 0 63904 63908 Move above the small road
+143 1 63909 63927 Descend to cruise altitude
+143 2 63928 63942 Adjust heading
+143 3 63943 64125 Inspect along the small road
+143 4 64126 64144 Ascend back to the original altitude
+144 0 64145 64150 Move above the small road
+144 1 64151 64169 Descend to cruise altitude
+144 2 64170 64196 Adjust heading
+144 3 64197 64379 Inspect along the small road
+144 4 64380 64398 Ascend back to the original altitude
+145 0 64399 64403 Move above the small road
+145 1 64404 64415 Descend to cruise altitude
+145 2 64416 64437 Adjust heading
+145 3 64438 64620 Inspect along the small road
+145 4 64621 64632 Ascend back to the original altitude
+146 0 64633 64638 Move above the small road
+146 1 64639 64650 Descend to cruise altitude
+146 2 64651 64677 Adjust heading
+146 3 64678 64860 Inspect along the small road
+146 4 64861 64872 Ascend back to the original altitude
+147 0 64873 64876 Move above the small road
+147 1 64877 64896 Descend to cruise altitude
+147 2 64897 64915 Adjust heading
+147 3 64916 65098 Inspect along the small road
+147 4 65099 65118 Ascend back to the original altitude
+148 0 65119 65122 Move above the small road
+148 1 65123 65133 Descend to cruise altitude
+148 2 65134 65164 Adjust heading
+148 3 65165 65347 Inspect along the small road
+148 4 65348 65358 Ascend back to the original altitude
+149 0 65359 65364 Move above the small road
+149 1 65365 65384 Descend to cruise altitude
+149 2 65385 65390 Adjust heading
+149 3 65391 65573 Inspect along the small road
+149 4 65574 65593 Ascend back to the original altitude
+150 0 65594 65598 Move above the small road
+150 1 65599 65618 Descend to cruise altitude
+150 2 65619 65619 Adjust heading
+150 3 65620 65823 Inspect along the small road
+150 4 65824 65843 Ascend back to the original altitude
+151 0 65844 65849 Move above the small road
+151 1 65850 65868 Descend to cruise altitude
+151 2 65869 65896 Adjust heading
+151 3 65897 66100 Inspect along the small road
+151 4 66101 66119 Ascend back to the original altitude
+152 0 66120 66125 Move above the small road
+152 1 66126 66141 Descend to cruise altitude
+152 2 66142 66145 Adjust heading
+152 3 66146 66349 Inspect along the small road
+152 4 66350 66365 Ascend back to the original altitude
+153 0 66366 66371 Move above the small road
+153 1 66372 66384 Descend to cruise altitude
+153 2 66385 66385 Adjust heading
+153 3 66386 66589 Inspect along the small road
+153 4 66590 66602 Ascend back to the original altitude
+154 0 66603 66608 Move above the small road
+154 1 66609 66620 Descend to cruise altitude
+154 2 66621 66643 Adjust heading
+154 3 66644 66847 Inspect along the small road
+154 4 66848 66859 Ascend back to the original altitude
+155 0 66860 66865 Move above the small road
+155 1 66866 66885 Descend to cruise altitude
+155 2 66886 66903 Adjust heading
+155 3 66904 67107 Inspect along the small road
+155 4 67108 67127 Ascend back to the original altitude
+156 0 67128 67133 Move above the small road
+156 1 67134 67151 Descend to cruise altitude
+156 2 67152 67177 Adjust heading
+156 3 67178 67381 Inspect along the small road
+156 4 67382 67399 Ascend back to the original altitude
+157 0 67400 67404 Move above the small road
+157 1 67405 67424 Descend to cruise altitude
+157 2 67425 67431 Adjust heading
+157 3 67432 67635 Inspect along the small road
+157 4 67636 67655 Ascend back to the original altitude
+158 0 67656 67657 Move above the small road
+158 1 67658 67668 Descend to cruise altitude
+158 2 67669 67696 Adjust heading
+158 3 67697 67900 Inspect along the small road
+158 4 67901 67911 Ascend back to the original altitude
+159 0 67912 67917 Move above the small road
+159 1 67918 67935 Descend to cruise altitude
+159 2 67936 67945 Adjust heading
+159 3 67946 68149 Inspect along the small road
+159 4 68150 68167 Ascend back to the original altitude
+160 0 68168 68173 Move above the small road
+160 1 68174 68184 Descend to cruise altitude
+160 2 68185 68218 Adjust heading
+160 3 68219 68422 Inspect along the small road
+160 4 68423 68433 Ascend back to the original altitude
+161 0 68434 68438 Move above the small road
+161 1 68439 68449 Descend to cruise altitude
+161 2 68450 68463 Adjust heading
+161 3 68464 68667 Inspect along the small road
+161 4 68668 68678 Ascend back to the original altitude
+162 0 68679 68684 Move above the small road
+162 1 68685 68699 Descend to cruise altitude
+162 2 68700 68711 Adjust heading
+162 3 68712 68915 Inspect along the small road
+162 4 68916 68930 Ascend back to the original altitude
+163 0 68931 68936 Move above the small road
+163 1 68937 68955 Descend to cruise altitude
+163 2 68956 68981 Adjust heading
+163 3 68982 69185 Inspect along the small road
+163 4 69186 69204 Ascend back to the original altitude
+164 0 69205 69210 Move above the small road
+164 1 69211 69226 Descend to cruise altitude
+164 2 69227 69249 Adjust heading
+164 3 69250 69453 Inspect along the small road
+164 4 69454 69469 Ascend back to the original altitude
+165 0 69470 69473 Move above the small road
+165 1 69474 69485 Descend to cruise altitude
+165 2 69486 69493 Adjust heading
+165 3 69494 69696 Inspect along the small road
+165 4 69697 69708 Ascend back to the original altitude
+166 0 69709 69712 Move above the small road
+166 1 69713 69731 Descend to cruise altitude
+166 2 69732 69745 Adjust heading
+166 3 69746 69948 Inspect along the small road
+166 4 69949 69967 Ascend back to the original altitude
+167 0 69968 69971 Move above the small road
+167 1 69972 69983 Descend to cruise altitude
+167 2 69984 70009 Adjust heading
+167 3 70010 70212 Inspect along the small road
+167 4 70213 70224 Ascend back to the original altitude
+168 0 70225 70230 Move above the small road
+168 1 70231 70246 Descend to cruise altitude
+168 2 70247 70259 Adjust heading
+168 3 70260 70462 Inspect along the small road
+168 4 70463 70478 Ascend back to the original altitude
+169 0 70479 70484 Move above the small road
+169 1 70485 70496 Descend to cruise altitude
+169 2 70497 70507 Adjust heading
+169 3 70508 70710 Inspect along the small road
+169 4 70711 70722 Ascend back to the original altitude
+170 0 70723 70725 Move above the small road
+170 1 70726 70736 Descend to cruise altitude
+170 2 70737 70753 Adjust heading
+170 3 70754 70956 Inspect along the small road
+170 4 70957 70967 Ascend back to the original altitude
+171 0 70968 70972 Move above the small road
+171 1 70973 70987 Descend to cruise altitude
+171 2 70988 71004 Adjust heading
+171 3 71005 71207 Inspect along the small road
+171 4 71208 71222 Ascend back to the original altitude
+172 0 71223 71228 Move above the small road
+172 1 71229 71241 Descend to cruise altitude
+172 2 71242 71263 Adjust heading
+172 3 71264 71466 Inspect along the small road
+172 4 71467 71479 Ascend back to the original altitude
+173 0 71480 71483 Move above the small road
+173 1 71484 71503 Descend to cruise altitude
+173 2 71504 71526 Adjust heading
+173 3 71527 71729 Inspect along the small road
+173 4 71730 71749 Ascend back to the original altitude
+174 0 71750 71755 Move above the small road
+174 1 71756 71772 Descend to cruise altitude
+174 2 71773 71778 Adjust heading
+174 3 71779 71981 Inspect along the small road
+174 4 71982 71998 Ascend back to the original altitude
+175 0 71999 72002 Move above the small road
+175 1 72003 72014 Descend to cruise altitude
+175 2 72015 72037 Adjust heading
+175 3 72038 72240 Inspect along the small road
+175 4 72241 72252 Ascend back to the original altitude
+176 0 72253 72256 Move above the small road
+176 1 72257 72274 Descend to cruise altitude
+176 2 72275 72304 Adjust heading
+176 3 72305 72507 Inspect along the small road
+176 4 72508 72525 Ascend back to the original altitude
+177 0 72526 72530 Move above the small road
+177 1 72531 72550 Descend to cruise altitude
+177 2 72551 72583 Adjust heading
+177 3 72584 72786 Inspect along the small road
+177 4 72787 72806 Ascend back to the original altitude
+178 0 72807 72812 Move above the small road
+178 1 72813 72830 Descend to cruise altitude
+178 2 72831 72831 Adjust heading
+178 3 72832 73034 Inspect along the small road
+178 4 73035 73052 Ascend back to the original altitude
+179 0 73053 73057 Move above the small road
+179 1 73058 73074 Descend to cruise altitude
+179 2 73075 73092 Adjust heading
+179 3 73093 73295 Inspect along the small road
+179 4 73296 73312 Ascend back to the original altitude
+180 0 73313 73317 Move above the small road
+180 1 73318 73328 Descend to cruise altitude
+180 2 73329 73343 Adjust heading
+180 3 73344 73570 Inspect along the small road
+180 4 73571 73581 Ascend back to the original altitude
+181 0 73582 73584 Move above the small road
+181 1 73585 73597 Descend to cruise altitude
+181 2 73598 73604 Adjust heading
+181 3 73605 73831 Inspect along the small road
+181 4 73832 73844 Ascend back to the original altitude
+182 0 73845 73849 Move above the small road
+182 1 73850 73863 Descend to cruise altitude
+182 2 73864 73871 Adjust heading
+182 3 73872 74098 Inspect along the small road
+182 4 74099 74112 Ascend back to the original altitude
+183 0 74113 74115 Move above the small road
+183 1 74116 74126 Descend to cruise altitude
+183 2 74127 74160 Adjust heading
+183 3 74161 74387 Inspect along the small road
+183 4 74388 74398 Ascend back to the original altitude
+184 0 74399 74402 Move above the small road
+184 1 74403 74416 Descend to cruise altitude
+184 2 74417 74433 Adjust heading
+184 3 74434 74660 Inspect along the small road
+184 4 74661 74674 Ascend back to the original altitude
+185 0 74675 74676 Move above the small road
+185 1 74677 74695 Descend to cruise altitude
+185 2 74696 74707 Adjust heading
+185 3 74708 74934 Inspect along the small road
+185 4 74935 74953 Ascend back to the original altitude
+186 0 74954 74958 Move above the small road
+186 1 74959 74972 Descend to cruise altitude
+186 2 74973 74990 Adjust heading
+186 3 74991 75217 Inspect along the small road
+186 4 75218 75231 Ascend back to the original altitude
+187 0 75232 75237 Move above the small road
+187 1 75238 75250 Descend to cruise altitude
+187 2 75251 75260 Adjust heading
+187 3 75261 75487 Inspect along the small road
+187 4 75488 75500 Ascend back to the original altitude
+188 0 75501 75504 Move above the small road
+188 1 75505 75521 Descend to cruise altitude
+188 2 75522 75525 Adjust heading
+188 3 75526 75752 Inspect along the small road
+188 4 75753 75769 Ascend back to the original altitude
+189 0 75770 75773 Move above the small road
+189 1 75774 75784 Descend to cruise altitude
+189 2 75785 75804 Adjust heading
+189 3 75805 76031 Inspect along the small road
+189 4 76032 76042 Ascend back to the original altitude
+190 0 76043 76048 Move above the small road
+190 1 76049 76059 Descend to cruise altitude
+190 2 76060 76061 Adjust heading
+190 3 76062 76288 Inspect along the small road
+190 4 76289 76299 Ascend back to the original altitude
+191 0 76300 76305 Move above the small road
+191 1 76306 76317 Descend to cruise altitude
+191 2 76318 76327 Adjust heading
+191 3 76328 76554 Inspect along the small road
+191 4 76555 76566 Ascend back to the original altitude
+192 0 76567 76569 Move above the small road
+192 1 76570 76582 Descend to cruise altitude
+192 2 76583 76610 Adjust heading
+192 3 76611 76837 Inspect along the small road
+192 4 76838 76850 Ascend back to the original altitude
+193 0 76851 76855 Move above the small road
+193 1 76856 76866 Descend to cruise altitude
+193 2 76867 76888 Adjust heading
+193 3 76889 77115 Inspect along the small road
+193 4 77116 77126 Ascend back to the original altitude
+194 0 77127 77131 Move above the small road
+194 1 77132 77149 Descend to cruise altitude
+194 2 77150 77171 Adjust heading
+194 3 77172 77398 Inspect along the small road
+194 4 77399 77416 Ascend back to the original altitude
+195 0 77417 77420 Move above the small road
+195 1 77421 77435 Descend to cruise altitude
+195 2 77436 77436 Adjust heading
+195 3 77437 77663 Inspect along the small road
+195 4 77664 77678 Ascend back to the original altitude
+196 0 77679 77684 Move above the small road
+196 1 77685 77703 Descend to cruise altitude
+196 2 77704 77723 Adjust heading
+196 3 77724 77950 Inspect along the small road
+196 4 77951 77969 Ascend back to the original altitude
+197 0 77970 77975 Move above the small road
+197 1 77976 77988 Descend to cruise altitude
+197 2 77989 78001 Adjust heading
+197 3 78002 78228 Inspect along the small road
+197 4 78229 78241 Ascend back to the original altitude
+198 0 78242 78245 Move above the small road
+198 1 78246 78256 Descend to cruise altitude
+198 2 78257 78274 Adjust heading
+198 3 78275 78501 Inspect along the small road
+198 4 78502 78512 Ascend back to the original altitude
+199 0 78513 78514 Move above the small road
+199 1 78515 78532 Descend to cruise altitude
+199 2 78533 78539 Adjust heading
+199 3 78540 78766 Inspect along the small road
+199 4 78767 78784 Ascend back to the original altitude
+200 0 78785 78790 Move above the small road
+200 1 78791 78809 Descend to cruise altitude
+200 2 78810 78810 Adjust heading
+200 3 78811 79037 Inspect along the small road
+200 4 79038 79056 Ascend back to the original altitude
+201 0 79057 79059 Move above the small road
+201 1 79060 79076 Descend to cruise altitude
+201 2 79077 79107 Adjust heading
+201 3 79108 79334 Inspect along the small road
+201 4 79335 79351 Ascend back to the original altitude
+202 0 79352 79356 Move above the small road
+202 1 79357 79367 Descend to cruise altitude
+202 2 79368 79396 Adjust heading
+202 3 79397 79623 Inspect along the small road
+202 4 79624 79634 Ascend back to the original altitude
+203 0 79635 79640 Move above the small road
+203 1 79641 79652 Descend to cruise altitude
+203 2 79653 79672 Adjust heading
+203 3 79673 79899 Inspect along the small road
+203 4 79900 79911 Ascend back to the original altitude
+204 0 79912 79917 Move above the small road
+204 1 79918 79934 Descend to cruise altitude
+204 2 79935 79958 Adjust heading
+204 3 79959 80185 Inspect along the small road
+204 4 80186 80202 Ascend back to the original altitude
+205 0 80203 80205 Move above the small road
+205 1 80206 80218 Descend to cruise altitude
+205 2 80219 80221 Adjust heading
+205 3 80222 80448 Inspect along the small road
+205 4 80449 80461 Ascend back to the original altitude
+206 0 80462 80467 Move above the small road
+206 1 80468 80483 Descend to cruise altitude
+206 2 80484 80510 Adjust heading
+206 3 80511 80737 Inspect along the small road
+206 4 80738 80753 Ascend back to the original altitude
+207 0 80754 80759 Move above the small road
+207 1 80760 80776 Descend to cruise altitude
+207 2 80777 80779 Adjust heading
+207 3 80780 81006 Inspect along the small road
+207 4 81007 81023 Ascend back to the original altitude
+208 0 81024 81028 Move above the small road
+208 1 81029 81046 Descend to cruise altitude
+208 2 81047 81048 Adjust heading
+208 3 81049 81275 Inspect along the small road
+208 4 81276 81293 Ascend back to the original altitude
+209 0 81294 81299 Move above the small road
+209 1 81300 81314 Descend to cruise altitude
+209 2 81315 81320 Adjust heading
+209 3 81321 81547 Inspect along the small road
+209 4 81548 81562 Ascend back to the original altitude
+210 0 81563 81564 Move above the small road
+210 1 81565 81580 Descend to cruise altitude
+210 2 81581 81594 Adjust heading
+210 3 81595 81827 Inspect along the small road
+210 4 81828 81843 Ascend back to the original altitude
+211 0 81844 81846 Move above the small road
+211 1 81847 81860 Descend to cruise altitude
+211 2 81861 81865 Adjust heading
+211 3 81866 82098 Inspect along the small road
+211 4 82099 82112 Ascend back to the original altitude
+212 0 82113 82115 Move above the small road
+212 1 82116 82127 Descend to cruise altitude
+212 2 82128 82156 Adjust heading
+212 3 82157 82389 Inspect along the small road
+212 4 82390 82401 Ascend back to the original altitude
+213 0 82402 82407 Move above the small road
+213 1 82408 82420 Descend to cruise altitude
+213 2 82421 82429 Adjust heading
+213 3 82430 82662 Inspect along the small road
+213 4 82663 82675 Ascend back to the original altitude
+214 0 82676 82681 Move above the small road
+214 1 82682 82695 Descend to cruise altitude
+214 2 82696 82701 Adjust heading
+214 3 82702 82934 Inspect along the small road
+214 4 82935 82948 Ascend back to the original altitude
+215 0 82949 82954 Move above the small road
+215 1 82955 82972 Descend to cruise altitude
+215 2 82973 82974 Adjust heading
+215 3 82975 83207 Inspect along the small road
+215 4 83208 83225 Ascend back to the original altitude
+216 0 83226 83228 Move above the small road
+216 1 83229 83247 Descend to cruise altitude
+216 2 83248 83260 Adjust heading
+216 3 83261 83493 Inspect along the small road
+216 4 83494 83512 Ascend back to the original altitude
+217 0 83513 83515 Move above the small road
+217 1 83516 83533 Descend to cruise altitude
+217 2 83534 83563 Adjust heading
+217 3 83564 83796 Inspect along the small road
+217 4 83797 83814 Ascend back to the original altitude
+218 0 83815 83820 Move above the small road
+218 1 83821 83838 Descend to cruise altitude
+218 2 83839 83858 Adjust heading
+218 3 83859 84091 Inspect along the small road
+218 4 84092 84109 Ascend back to the original altitude
+219 0 84110 84114 Move above the small road
+219 1 84115 84131 Descend to cruise altitude
+219 2 84132 84132 Adjust heading
+219 3 84133 84365 Inspect along the small road
+219 4 84366 84382 Ascend back to the original altitude
+220 0 84383 84387 Move above the small road
+220 1 84388 84407 Descend to cruise altitude
+220 2 84408 84416 Adjust heading
+220 3 84417 84649 Inspect along the small road
+220 4 84650 84669 Ascend back to the original altitude
+221 0 84670 84673 Move above the small road
+221 1 84674 84687 Descend to cruise altitude
+221 2 84688 84721 Adjust heading
+221 3 84722 84954 Inspect along the small road
+221 4 84955 84968 Ascend back to the original altitude
+222 0 84969 84972 Move above the small road
+222 1 84973 84986 Descend to cruise altitude
+222 2 84987 85011 Adjust heading
+222 3 85012 85244 Inspect along the small road
+222 4 85245 85258 Ascend back to the original altitude
+223 0 85259 85262 Move above the small road
+223 1 85263 85280 Descend to cruise altitude
+223 2 85281 85299 Adjust heading
+223 3 85300 85532 Inspect along the small road
+223 4 85533 85550 Ascend back to the original altitude
+224 0 85551 85554 Move above the small road
+224 1 85555 85566 Descend to cruise altitude
+224 2 85567 85571 Adjust heading
+224 3 85572 85804 Inspect along the small road
+224 4 85805 85816 Ascend back to the original altitude
+225 0 85817 85821 Move above the small road
+225 1 85822 85832 Descend to cruise altitude
+225 2 85833 85854 Adjust heading
+225 3 85855 86087 Inspect along the small road
+225 4 86088 86098 Ascend back to the original altitude
+226 0 86099 86104 Move above the small road
+226 1 86105 86119 Descend to cruise altitude
+226 2 86120 86123 Adjust heading
+226 3 86124 86356 Inspect along the small road
+226 4 86357 86371 Ascend back to the original altitude
+227 0 86372 86375 Move above the small road
+227 1 86376 86393 Descend to cruise altitude
+227 2 86394 86414 Adjust heading
+227 3 86415 86647 Inspect along the small road
+227 4 86648 86665 Ascend back to the original altitude
+228 0 86666 86671 Move above the small road
+228 1 86672 86691 Descend to cruise altitude
+228 2 86692 86706 Adjust heading
+228 3 86707 86939 Inspect along the small road
+228 4 86940 86959 Ascend back to the original altitude
+229 0 86960 86962 Move above the small road
+229 1 86963 86976 Descend to cruise altitude
+229 2 86977 87003 Adjust heading
+229 3 87004 87236 Inspect along the small road
+229 4 87237 87250 Ascend back to the original altitude
+230 0 87251 87253 Move above the small road
+230 1 87254 87270 Descend to cruise altitude
+230 2 87271 87296 Adjust heading
+230 3 87297 87529 Inspect along the small road
+230 4 87530 87546 Ascend back to the original altitude
+231 0 87547 87550 Move above the small road
+231 1 87551 87562 Descend to cruise altitude
+231 2 87563 87585 Adjust heading
+231 3 87586 87818 Inspect along the small road
+231 4 87819 87830 Ascend back to the original altitude
+232 0 87831 87835 Move above the small road
+232 1 87836 87848 Descend to cruise altitude
+232 2 87849 87862 Adjust heading
+232 3 87863 88095 Inspect along the small road
+232 4 88096 88108 Ascend back to the original altitude
+233 0 88109 88113 Move above the small road
+233 1 88114 88131 Descend to cruise altitude
+233 2 88132 88133 Adjust heading
+233 3 88134 88366 Inspect along the small road
+233 4 88367 88384 Ascend back to the original altitude
+234 0 88385 88390 Move above the small road
+234 1 88391 88409 Descend to cruise altitude
+234 2 88410 88414 Adjust heading
+234 3 88415 88647 Inspect along the small road
+234 4 88648 88666 Ascend back to the original altitude
+235 0 88667 88670 Move above the small road
+235 1 88671 88682 Descend to cruise altitude
+235 2 88683 88699 Adjust heading
+235 3 88700 88932 Inspect along the small road
+235 4 88933 88944 Ascend back to the original altitude
+236 0 88945 88949 Move above the small road
+236 1 88950 88967 Descend to cruise altitude
+236 2 88968 88990 Adjust heading
+236 3 88991 89223 Inspect along the small road
+236 4 89224 89241 Ascend back to the original altitude
+237 0 89242 89247 Move above the small road
+237 1 89248 89263 Descend to cruise altitude
+237 2 89264 89268 Adjust heading
+237 3 89269 89501 Inspect along the small road
+237 4 89502 89517 Ascend back to the original altitude
+238 0 89518 89521 Move above the small road
+238 1 89522 89541 Descend to cruise altitude
+238 2 89542 89561 Adjust heading
+238 3 89562 89794 Inspect along the small road
+238 4 89795 89814 Ascend back to the original altitude
+239 0 89815 89820 Move above the small road
+239 1 89821 89835 Descend to cruise altitude
+239 2 89836 89860 Adjust heading
+239 3 89861 90093 Inspect along the small road
+239 4 90094 90108 Ascend back to the original altitude
+240 0 90109 90113 Move above the small road
+240 1 90114 90125 Descend to cruise altitude
+240 2 90126 90126 Adjust heading
+240 3 90127 91495 Inspect along the small road
+240 4 91496 91507 Ascend back to the original altitude
+241 0 91508 91513 Move above the small road
+241 1 91514 91533 Descend to cruise altitude
+241 2 91534 91535 Adjust heading
+241 3 91536 92904 Inspect along the small road
+241 4 92905 92924 Ascend back to the original altitude
+242 0 92925 92929 Move above the small road
+242 1 92930 92942 Descend to cruise altitude
+242 2 92943 92948 Adjust heading
+242 3 92949 94317 Inspect along the small road
+242 4 94318 94330 Ascend back to the original altitude
+243 0 94331 94333 Move above the small road
+243 1 94334 94347 Descend to cruise altitude
+243 2 94348 94381 Adjust heading
+243 3 94382 95750 Inspect along the small road
+243 4 95751 95764 Ascend back to the original altitude
+244 0 95765 95769 Move above the small road
+244 1 95770 95785 Descend to cruise altitude
+244 2 95786 95789 Adjust heading
+244 3 95790 97158 Inspect along the small road
+244 4 97159 97174 Ascend back to the original altitude
+245 0 97175 97180 Move above the small road
+245 1 97181 97198 Descend to cruise altitude
+245 2 97199 97222 Adjust heading
+245 3 97223 98591 Inspect along the small road
+245 4 98592 98609 Ascend back to the original altitude
+246 0 98610 98612 Move above the small road
+246 1 98613 98626 Descend to cruise altitude
+246 2 98627 98631 Adjust heading
+246 3 98632 100000 Inspect along the small road
+246 4 100001 100014 Ascend back to the original altitude
+247 0 100015 100018 Move above the small road
+247 1 100019 100035 Descend to cruise altitude
+247 2 100036 100061 Adjust heading
+247 3 100062 101430 Inspect along the small road
+247 4 101431 101447 Ascend back to the original altitude
+248 0 101448 101453 Move above the small road
+248 1 101454 101473 Descend to cruise altitude
+248 2 101474 101495 Adjust heading
+248 3 101496 102864 Inspect along the small road
+248 4 102865 102884 Ascend back to the original altitude
+249 0 102885 102889 Move above the small road
+249 1 102890 102909 Descend to cruise altitude
+249 2 102910 102920 Adjust heading
+249 3 102921 104289 Inspect along the small road
+249 4 104290 104309 Ascend back to the original altitude
+250 0 104310 104312 Move above the small road
+250 1 104313 104324 Descend to cruise altitude
+250 2 104325 104326 Adjust heading
+250 3 104327 105695 Inspect along the small road
+250 4 105696 105707 Ascend back to the original altitude
+251 0 105708 105712 Move above the small road
+251 1 105713 105732 Descend to cruise altitude
+251 2 105733 105746 Adjust heading
+251 3 105747 107115 Inspect along the small road
+251 4 107116 107135 Ascend back to the original altitude
+252 0 107136 107141 Move above the small road
+252 1 107142 107158 Descend to cruise altitude
+252 2 107159 107192 Adjust heading
+252 3 107193 108561 Inspect along the small road
+252 4 108562 108578 Ascend back to the original altitude
+253 0 108579 108583 Move above the small road
+253 1 108584 108597 Descend to cruise altitude
+253 2 108598 108600 Adjust heading
+253 3 108601 109969 Inspect along the small road
+253 4 109970 109983 Ascend back to the original altitude
+254 0 109984 109989 Move above the small road
+254 1 109990 110000 Descend to cruise altitude
+254 2 110001 110023 Adjust heading
+254 3 110024 111392 Inspect along the small road
+254 4 111393 111403 Ascend back to the original altitude
+255 0 111404 111409 Move above the small road
+255 1 111410 111429 Descend to cruise altitude
+255 2 111430 111435 Adjust heading
+255 3 111436 112804 Inspect along the small road
+255 4 112805 112824 Ascend back to the original altitude
+256 0 112825 112830 Move above the small road
+256 1 112831 112850 Descend to cruise altitude
+256 2 112851 112868 Adjust heading
+256 3 112869 114237 Inspect along the small road
+256 4 114238 114257 Ascend back to the original altitude
+257 0 114258 114263 Move above the small road
+257 1 114264 114279 Descend to cruise altitude
+257 2 114280 114285 Adjust heading
+257 3 114286 115654 Inspect along the small road
+257 4 115655 115670 Ascend back to the original altitude
+258 0 115671 115675 Move above the small road
+258 1 115676 115690 Descend to cruise altitude
+258 2 115691 115691 Adjust heading
+258 3 115692 117060 Inspect along the small road
+258 4 117061 117075 Ascend back to the original altitude
+259 0 117076 117079 Move above the small road
+259 1 117080 117094 Descend to cruise altitude
+259 2 117095 117129 Adjust heading
+259 3 117130 118498 Inspect along the small road
+259 4 118499 118513 Ascend back to the original altitude
+260 0 118514 118516 Move above the small road
+260 1 118517 118533 Descend to cruise altitude
+260 2 118534 118535 Adjust heading
+260 3 118536 119904 Inspect along the small road
+260 4 119905 119921 Ascend back to the original altitude
+261 0 119922 119923 Move above the small road
+261 1 119924 119935 Descend to cruise altitude
+261 2 119936 119946 Adjust heading
+261 3 119947 121315 Inspect along the small road
+261 4 121316 121327 Ascend back to the original altitude
+262 0 121328 121333 Move above the small road
+262 1 121334 121350 Descend to cruise altitude
+262 2 121351 121385 Adjust heading
+262 3 121386 122754 Inspect along the small road
+262 4 122755 122771 Ascend back to the original altitude
+263 0 122772 122775 Move above the small road
+263 1 122776 122788 Descend to cruise altitude
+263 2 122789 122791 Adjust heading
+263 3 122792 124160 Inspect along the small road
+263 4 124161 124173 Ascend back to the original altitude
+264 0 124174 124179 Move above the small road
+264 1 124180 124195 Descend to cruise altitude
+264 2 124196 124200 Adjust heading
+264 3 124201 125569 Inspect along the small road
+264 4 125570 125585 Ascend back to the original altitude
+265 0 125586 125591 Move above the small road
+265 1 125592 125604 Descend to cruise altitude
+265 2 125605 125605 Adjust heading
+265 3 125606 126974 Inspect along the small road
+265 4 126975 126987 Ascend back to the original altitude
+266 0 126988 126991 Move above the small road
+266 1 126992 127005 Descend to cruise altitude
+266 2 127006 127009 Adjust heading
+266 3 127010 128378 Inspect along the small road
+266 4 128379 128392 Ascend back to the original altitude
+267 0 128393 128394 Move above the small road
+267 1 128395 128413 Descend to cruise altitude
+267 2 128414 128414 Adjust heading
+267 3 128415 129783 Inspect along the small road
+267 4 129784 129802 Ascend back to the original altitude
+268 0 129803 129807 Move above the small road
+268 1 129808 129826 Descend to cruise altitude
+268 2 129827 129847 Adjust heading
+268 3 129848 131216 Inspect along the small road
+268 4 131217 131235 Ascend back to the original altitude
+269 0 131236 131240 Move above the small road
+269 1 131241 131257 Descend to cruise altitude
+269 2 131258 131277 Adjust heading
+269 3 131278 132646 Inspect along the small road
+269 4 132647 132663 Ascend back to the original altitude
+270 0 132664 132667 Move above the small road
+270 1 132668 132687 Descend to cruise altitude
+270 2 132688 132702 Adjust heading
+270 3 132703 134066 Inspect along the small road
+270 4 134067 134086 Ascend back to the original altitude
+271 0 134087 134092 Move above the small road
+271 1 134093 134110 Descend to cruise altitude
+271 2 134111 134119 Adjust heading
+271 3 134120 135483 Inspect along the small road
+271 4 135484 135501 Ascend back to the original altitude
+272 0 135502 135506 Move above the small road
+272 1 135507 135519 Descend to cruise altitude
+272 2 135520 135520 Adjust heading
+272 3 135521 136884 Inspect along the small road
+272 4 136885 136897 Ascend back to the original altitude
+273 0 136898 136901 Move above the small road
+273 1 136902 136917 Descend to cruise altitude
+273 2 136918 136932 Adjust heading
+273 3 136933 138296 Inspect along the small road
+273 4 138297 138312 Ascend back to the original altitude
+274 0 138313 138316 Move above the small road
+274 1 138317 138335 Descend to cruise altitude
+274 2 138336 138368 Adjust heading
+274 3 138369 139732 Inspect along the small road
+274 4 139733 139751 Ascend back to the original altitude
+275 0 139752 139753 Move above the small road
+275 1 139754 139771 Descend to cruise altitude
+275 2 139772 139786 Adjust heading
+275 3 139787 141150 Inspect along the small road
+275 4 141151 141168 Ascend back to the original altitude
+276 0 141169 141171 Move above the small road
+276 1 141172 141183 Descend to cruise altitude
+276 2 141184 141200 Adjust heading
+276 3 141201 142564 Inspect along the small road
+276 4 142565 142576 Ascend back to the original altitude
+277 0 142577 142582 Move above the small road
+277 1 142583 142594 Descend to cruise altitude
+277 2 142595 142608 Adjust heading
+277 3 142609 143972 Inspect along the small road
+277 4 143973 143984 Ascend back to the original altitude
+278 0 143985 143989 Move above the small road
+278 1 143990 144009 Descend to cruise altitude
+278 2 144010 144040 Adjust heading
+278 3 144041 145404 Inspect along the small road
+278 4 145405 145424 Ascend back to the original altitude
+279 0 145425 145427 Move above the small road
+279 1 145428 145440 Descend to cruise altitude
+279 2 145441 145458 Adjust heading
+279 3 145459 146822 Inspect along the small road
+279 4 146823 146835 Ascend back to the original altitude
+280 0 146836 146841 Move above the small road
+280 1 146842 146860 Descend to cruise altitude
+280 2 146861 146892 Adjust heading
+280 3 146893 148256 Inspect along the small road
+280 4 148257 148275 Ascend back to the original altitude
+281 0 148276 148280 Move above the small road
+281 1 148281 148296 Descend to cruise altitude
+281 2 148297 148300 Adjust heading
+281 3 148301 149664 Inspect along the small road
+281 4 149665 149680 Ascend back to the original altitude
+282 0 149681 149686 Move above the small road
+282 1 149687 149706 Descend to cruise altitude
+282 2 149707 149713 Adjust heading
+282 3 149714 151077 Inspect along the small road
+282 4 151078 151097 Ascend back to the original altitude
+283 0 151098 151100 Move above the small road
+283 1 151101 151120 Descend to cruise altitude
+283 2 151121 151142 Adjust heading
+283 3 151143 152506 Inspect along the small road
+283 4 152507 152526 Ascend back to the original altitude
+284 0 152527 152531 Move above the small road
+284 1 152532 152542 Descend to cruise altitude
+284 2 152543 152545 Adjust heading
+284 3 152546 153909 Inspect along the small road
+284 4 153910 153920 Ascend back to the original altitude
+285 0 153921 153924 Move above the small road
+285 1 153925 153943 Descend to cruise altitude
+285 2 153944 153964 Adjust heading
+285 3 153965 155327 Inspect along the small road
+285 4 155328 155346 Ascend back to the original altitude
+286 0 155347 155351 Move above the small road
+286 1 155352 155369 Descend to cruise altitude
+286 2 155370 155391 Adjust heading
+286 3 155392 156754 Inspect along the small road
+286 4 156755 156772 Ascend back to the original altitude
+287 0 156773 156777 Move above the small road
+287 1 156778 156789 Descend to cruise altitude
+287 2 156790 156806 Adjust heading
+287 3 156807 158169 Inspect along the small road
+287 4 158170 158181 Ascend back to the original altitude
+288 0 158182 158184 Move above the small road
+288 1 158185 158200 Descend to cruise altitude
+288 2 158201 158203 Adjust heading
+288 3 158204 159566 Inspect along the small road
+288 4 159567 159582 Ascend back to the original altitude
+289 0 159583 159585 Move above the small road
+289 1 159586 159600 Descend to cruise altitude
+289 2 159601 159624 Adjust heading
+289 3 159625 160987 Inspect along the small road
+289 4 160988 161002 Ascend back to the original altitude
+290 0 161003 161004 Move above the small road
+290 1 161005 161023 Descend to cruise altitude
+290 2 161024 161026 Adjust heading
+290 3 161027 162389 Inspect along the small road
+290 4 162390 162408 Ascend back to the original altitude
+291 0 162409 162411 Move above the small road
+291 1 162412 162430 Descend to cruise altitude
+291 2 162431 162460 Adjust heading
+291 3 162461 163823 Inspect along the small road
+291 4 163824 163842 Ascend back to the original altitude
+292 0 163843 163848 Move above the small road
+292 1 163849 163862 Descend to cruise altitude
+292 2 163863 163889 Adjust heading
+292 3 163890 165252 Inspect along the small road
+292 4 165253 165266 Ascend back to the original altitude
+293 0 165267 165270 Move above the small road
+293 1 165271 165286 Descend to cruise altitude
+293 2 165287 165312 Adjust heading
+293 3 165313 166675 Inspect along the small road
+293 4 166676 166691 Ascend back to the original altitude
+294 0 166692 166696 Move above the small road
+294 1 166697 166709 Descend to cruise altitude
+294 2 166710 166715 Adjust heading
+294 3 166716 168078 Inspect along the small road
+294 4 168079 168091 Ascend back to the original altitude
+295 0 168092 168097 Move above the small road
+295 1 168098 168108 Descend to cruise altitude
+295 2 168109 168112 Adjust heading
+295 3 168113 169475 Inspect along the small road
+295 4 169476 169486 Ascend back to the original altitude
+296 0 169487 169490 Move above the small road
+296 1 169491 169504 Descend to cruise altitude
+296 2 169505 169513 Adjust heading
+296 3 169514 170876 Inspect along the small road
+296 4 170877 170890 Ascend back to the original altitude
+297 0 170891 170893 Move above the small road
+297 1 170894 170908 Descend to cruise altitude
+297 2 170909 170927 Adjust heading
+297 3 170928 172290 Inspect along the small road
+297 4 172291 172305 Ascend back to the original altitude
+298 0 172306 172311 Move above the small road
+298 1 172312 172330 Descend to cruise altitude
+298 2 172331 172335 Adjust heading
+298 3 172336 173698 Inspect along the small road
+298 4 173699 173717 Ascend back to the original altitude
+299 0 173718 173721 Move above the small road
+299 1 173722 173734 Descend to cruise altitude
+299 2 173735 173761 Adjust heading
+299 3 173762 175124 Inspect along the small road
+299 4 175125 175137 Ascend back to the original altitude
+300 0 175138 175142 Move above the small road
+300 1 175143 175161 Descend to cruise altitude
+300 2 175162 175179 Adjust heading
+300 3 175180 175372 Inspect along the small road
+300 4 175373 175391 Ascend back to the original altitude
+301 0 175392 175393 Move above the small road
+301 1 175394 175410 Descend to cruise altitude
+301 2 175411 175444 Adjust heading
+301 3 175445 175637 Inspect along the small road
+301 4 175638 175654 Ascend back to the original altitude
+302 0 175655 175658 Move above the small road
+302 1 175659 175676 Descend to cruise altitude
+302 2 175677 175685 Adjust heading
+302 3 175686 175878 Inspect along the small road
+302 4 175879 175896 Ascend back to the original altitude
+303 0 175897 175901 Move above the small road
+303 1 175902 175914 Descend to cruise altitude
+303 2 175915 175945 Adjust heading
+303 3 175946 176138 Inspect along the small road
+303 4 176139 176151 Ascend back to the original altitude
+304 0 176152 176155 Move above the small road
+304 1 176156 176172 Descend to cruise altitude
+304 2 176173 176179 Adjust heading
+304 3 176180 176372 Inspect along the small road
+304 4 176373 176389 Ascend back to the original altitude
+305 0 176390 176391 Move above the small road
+305 1 176392 176410 Descend to cruise altitude
+305 2 176411 176432 Adjust heading
+305 3 176433 176625 Inspect along the small road
+305 4 176626 176644 Ascend back to the original altitude
+306 0 176645 176648 Move above the small road
+306 1 176649 176663 Descend to cruise altitude
+306 2 176664 176697 Adjust heading
+306 3 176698 176890 Inspect along the small road
+306 4 176891 176905 Ascend back to the original altitude
+307 0 176906 176911 Move above the small road
+307 1 176912 176924 Descend to cruise altitude
+307 2 176925 176951 Adjust heading
+307 3 176952 177144 Inspect along the small road
+307 4 177145 177157 Ascend back to the original altitude
+308 0 177158 177161 Move above the small road
+308 1 177162 177174 Descend to cruise altitude
+308 2 177175 177183 Adjust heading
+308 3 177184 177376 Inspect along the small road
+308 4 177377 177389 Ascend back to the original altitude
+309 0 177390 177393 Move above the small road
+309 1 177394 177405 Descend to cruise altitude
+309 2 177406 177417 Adjust heading
+309 3 177418 177610 Inspect along the small road
+309 4 177611 177622 Ascend back to the original altitude
+310 0 177623 177628 Move above the small road
+310 1 177629 177642 Descend to cruise altitude
+310 2 177643 177648 Adjust heading
+310 3 177649 177841 Inspect along the small road
+310 4 177842 177855 Ascend back to the original altitude
+311 0 177856 177859 Move above the small road
+311 1 177860 177876 Descend to cruise altitude
+311 2 177877 177893 Adjust heading
+311 3 177894 178086 Inspect along the small road
+311 4 178087 178103 Ascend back to the original altitude
+312 0 178104 178109 Move above the small road
+312 1 178110 178120 Descend to cruise altitude
+312 2 178121 178130 Adjust heading
+312 3 178131 178323 Inspect along the small road
+312 4 178324 178334 Ascend back to the original altitude
+313 0 178335 178337 Move above the small road
+313 1 178338 178349 Descend to cruise altitude
+313 2 178350 178356 Adjust heading
+313 3 178357 178549 Inspect along the small road
+313 4 178550 178561 Ascend back to the original altitude
+314 0 178562 178567 Move above the small road
+314 1 178568 178583 Descend to cruise altitude
+314 2 178584 178585 Adjust heading
+314 3 178586 178778 Inspect along the small road
+314 4 178779 178794 Ascend back to the original altitude
+315 0 178795 178797 Move above the small road
+315 1 178798 178811 Descend to cruise altitude
+315 2 178812 178843 Adjust heading
+315 3 178844 179037 Inspect along the small road
+315 4 179038 179051 Ascend back to the original altitude
+316 0 179052 179056 Move above the small road
+316 1 179057 179068 Descend to cruise altitude
+316 2 179069 179098 Adjust heading
+316 3 179099 179292 Inspect along the small road
+316 4 179293 179304 Ascend back to the original altitude
+317 0 179305 179309 Move above the small road
+317 1 179310 179329 Descend to cruise altitude
+317 2 179330 179330 Adjust heading
+317 3 179331 179524 Inspect along the small road
+317 4 179525 179544 Ascend back to the original altitude
+318 0 179545 179549 Move above the small road
+318 1 179550 179561 Descend to cruise altitude
+318 2 179562 179566 Adjust heading
+318 3 179567 179760 Inspect along the small road
+318 4 179761 179772 Ascend back to the original altitude
+319 0 179773 179776 Move above the small road
+319 1 179777 179795 Descend to cruise altitude
+319 2 179796 179808 Adjust heading
+319 3 179809 180002 Inspect along the small road
+319 4 180003 180021 Ascend back to the original altitude
+320 0 180022 180025 Move above the small road
+320 1 180026 180040 Descend to cruise altitude
+320 2 180041 180056 Adjust heading
+320 3 180057 180250 Inspect along the small road
+320 4 180251 180265 Ascend back to the original altitude
+321 0 180266 180271 Move above the small road
+321 1 180272 180285 Descend to cruise altitude
+321 2 180286 180289 Adjust heading
+321 3 180290 180483 Inspect along the small road
+321 4 180484 180497 Ascend back to the original altitude
+322 0 180498 180502 Move above the small road
+322 1 180503 180517 Descend to cruise altitude
+322 2 180518 180535 Adjust heading
+322 3 180536 180729 Inspect along the small road
+322 4 180730 180744 Ascend back to the original altitude
+323 0 180745 180749 Move above the small road
+323 1 180750 180763 Descend to cruise altitude
+323 2 180764 180764 Adjust heading
+323 3 180765 180958 Inspect along the small road
+323 4 180959 180972 Ascend back to the original altitude
+324 0 180973 180975 Move above the small road
+324 1 180976 180993 Descend to cruise altitude
+324 2 180994 180994 Adjust heading
+324 3 180995 181188 Inspect along the small road
+324 4 181189 181206 Ascend back to the original altitude
+325 0 181207 181210 Move above the small road
+325 1 181211 181228 Descend to cruise altitude
+325 2 181229 181238 Adjust heading
+325 3 181239 181432 Inspect along the small road
+325 4 181433 181450 Ascend back to the original altitude
+326 0 181451 181456 Move above the small road
+326 1 181457 181472 Descend to cruise altitude
+326 2 181473 181491 Adjust heading
+326 3 181492 181685 Inspect along the small road
+326 4 181686 181701 Ascend back to the original altitude
+327 0 181702 181704 Move above the small road
+327 1 181705 181718 Descend to cruise altitude
+327 2 181719 181752 Adjust heading
+327 3 181753 181946 Inspect along the small road
+327 4 181947 181960 Ascend back to the original altitude
+328 0 181961 181965 Move above the small road
+328 1 181966 181976 Descend to cruise altitude
+328 2 181977 181996 Adjust heading
+328 3 181997 182190 Inspect along the small road
+328 4 182191 182201 Ascend back to the original altitude
+329 0 182202 182206 Move above the small road
+329 1 182207 182224 Descend to cruise altitude
+329 2 182225 182256 Adjust heading
+329 3 182257 182450 Inspect along the small road
+329 4 182451 182468 Ascend back to the original altitude
+330 0 182469 182473 Move above the small road
+330 1 182474 182484 Descend to cruise altitude
+330 2 182485 182512 Adjust heading
+330 3 182513 182688 Inspect along the small road
+330 4 182689 182699 Ascend back to the original altitude
+331 0 182700 182703 Move above the small road
+331 1 182704 182717 Descend to cruise altitude
+331 2 182718 182729 Adjust heading
+331 3 182730 182905 Inspect along the small road
+331 4 182906 182919 Ascend back to the original altitude
+332 0 182920 182923 Move above the small road
+332 1 182924 182941 Descend to cruise altitude
+332 2 182942 182948 Adjust heading
+332 3 182949 183124 Inspect along the small road
+332 4 183125 183142 Ascend back to the original altitude
+333 0 183143 183147 Move above the small road
+333 1 183148 183167 Descend to cruise altitude
+333 2 183168 183200 Adjust heading
+333 3 183201 183376 Inspect along the small road
+333 4 183377 183396 Ascend back to the original altitude
+334 0 183397 183400 Move above the small road
+334 1 183401 183419 Descend to cruise altitude
+334 2 183420 183420 Adjust heading
+334 3 183421 183596 Inspect along the small road
+334 4 183597 183615 Ascend back to the original altitude
+335 0 183616 183618 Move above the small road
+335 1 183619 183633 Descend to cruise altitude
+335 2 183634 183645 Adjust heading
+335 3 183646 183821 Inspect along the small road
+335 4 183822 183836 Ascend back to the original altitude
+336 0 183837 183842 Move above the small road
+336 1 183843 183857 Descend to cruise altitude
+336 2 183858 183858 Adjust heading
+336 3 183859 184034 Inspect along the small road
+336 4 184035 184049 Ascend back to the original altitude
+337 0 184050 184054 Move above the small road
+337 1 184055 184072 Descend to cruise altitude
+337 2 184073 184103 Adjust heading
+337 3 184104 184279 Inspect along the small road
+337 4 184280 184297 Ascend back to the original altitude
+338 0 184298 184301 Move above the small road
+338 1 184302 184320 Descend to cruise altitude
+338 2 184321 184346 Adjust heading
+338 3 184347 184522 Inspect along the small road
+338 4 184523 184541 Ascend back to the original altitude
+339 0 184542 184546 Move above the small road
+339 1 184547 184563 Descend to cruise altitude
+339 2 184564 184579 Adjust heading
+339 3 184580 184755 Inspect along the small road
+339 4 184756 184772 Ascend back to the original altitude
+340 0 184773 184778 Move above the small road
+340 1 184779 184795 Descend to cruise altitude
+340 2 184796 184820 Adjust heading
+340 3 184821 184996 Inspect along the small road
+340 4 184997 185013 Ascend back to the original altitude
+341 0 185014 185018 Move above the small road
+341 1 185019 185031 Descend to cruise altitude
+341 2 185032 185049 Adjust heading
+341 3 185050 185225 Inspect along the small road
+341 4 185226 185238 Ascend back to the original altitude
+342 0 185239 185242 Move above the small road
+342 1 185243 185253 Descend to cruise altitude
+342 2 185254 185285 Adjust heading
+342 3 185286 185461 Inspect along the small road
+342 4 185462 185472 Ascend back to the original altitude
+343 0 185473 185477 Move above the small road
+343 1 185478 185497 Descend to cruise altitude
+343 2 185498 185519 Adjust heading
+343 3 185520 185695 Inspect along the small road
+343 4 185696 185715 Ascend back to the original altitude
+344 0 185716 185721 Move above the small road
+344 1 185722 185738 Descend to cruise altitude
+344 2 185739 185740 Adjust heading
+344 3 185741 185916 Inspect along the small road
+344 4 185917 185933 Ascend back to the original altitude
+345 0 185934 185938 Move above the small road
+345 1 185939 185954 Descend to cruise altitude
+345 2 185955 185957 Adjust heading
+345 3 185958 186133 Inspect along the small road
+345 4 186134 186149 Ascend back to the original altitude
+346 0 186150 186155 Move above the small road
+346 1 186156 186173 Descend to cruise altitude
+346 2 186174 186198 Adjust heading
+346 3 186199 186374 Inspect along the small road
+346 4 186375 186392 Ascend back to the original altitude
+347 0 186393 186398 Move above the small road
+347 1 186399 186418 Descend to cruise altitude
+347 2 186419 186425 Adjust heading
+347 3 186426 186601 Inspect along the small road
+347 4 186602 186621 Ascend back to the original altitude
+348 0 186622 186624 Move above the small road
+348 1 186625 186643 Descend to cruise altitude
+348 2 186644 186658 Adjust heading
+348 3 186659 186834 Inspect along the small road
+348 4 186835 186853 Ascend back to the original altitude
+349 0 186854 186858 Move above the small road
+349 1 186859 186874 Descend to cruise altitude
+349 2 186875 186906 Adjust heading
+349 3 186907 187082 Inspect along the small road
+349 4 187083 187098 Ascend back to the original altitude
+350 0 187099 187103 Move above the small road
+350 1 187104 187123 Descend to cruise altitude
+350 2 187124 187149 Adjust heading
+350 3 187150 187325 Inspect along the small road
+350 4 187326 187345 Ascend back to the original altitude
+351 0 187346 187349 Move above the small road
+351 1 187350 187369 Descend to cruise altitude
+351 2 187370 187379 Adjust heading
+351 3 187380 187555 Inspect along the small road
+351 4 187556 187575 Ascend back to the original altitude
+352 0 187576 187581 Move above the small road
+352 1 187582 187600 Descend to cruise altitude
+352 2 187601 187602 Adjust heading
+352 3 187603 187778 Inspect along the small road
+352 4 187779 187797 Ascend back to the original altitude
+353 0 187798 187803 Move above the small road
+353 1 187804 187815 Descend to cruise altitude
+353 2 187816 187825 Adjust heading
+353 3 187826 188001 Inspect along the small road
+353 4 188002 188013 Ascend back to the original altitude
+354 0 188014 188018 Move above the small road
+354 1 188019 188037 Descend to cruise altitude
+354 2 188038 188039 Adjust heading
+354 3 188040 188215 Inspect along the small road
+354 4 188216 188234 Ascend back to the original altitude
+355 0 188235 188240 Move above the small road
+355 1 188241 188255 Descend to cruise altitude
+355 2 188256 188286 Adjust heading
+355 3 188287 188462 Inspect along the small road
+355 4 188463 188477 Ascend back to the original altitude
+356 0 188478 188482 Move above the small road
+356 1 188483 188493 Descend to cruise altitude
+356 2 188494 188502 Adjust heading
+356 3 188503 188678 Inspect along the small road
+356 4 188679 188689 Ascend back to the original altitude
+357 0 188690 188695 Move above the small road
+357 1 188696 188715 Descend to cruise altitude
+357 2 188716 188738 Adjust heading
+357 3 188739 188914 Inspect along the small road
+357 4 188915 188934 Ascend back to the original altitude
+358 0 188935 188936 Move above the small road
+358 1 188937 188949 Descend to cruise altitude
+358 2 188950 188951 Adjust heading
+358 3 188952 189127 Inspect along the small road
+358 4 189128 189140 Ascend back to the original altitude
+359 0 189141 189144 Move above the small road
+359 1 189145 189164 Descend to cruise altitude
+359 2 189165 189166 Adjust heading
+359 3 189167 189342 Inspect along the small road
+359 4 189343 189362 Ascend back to the original altitude
+360 0 189363 189366 Move above the small road
+360 1 189367 189378 Descend to cruise altitude
+360 2 189379 189404 Adjust heading
+360 3 189405 189535 Inspect along the small road
+360 4 189536 189547 Ascend back to the original altitude
+361 0 189548 189551 Move above the small road
+361 1 189552 189571 Descend to cruise altitude
+361 2 189572 189582 Adjust heading
+361 3 189583 189713 Inspect along the small road
+361 4 189714 189733 Ascend back to the original altitude
+362 0 189734 189738 Move above the small road
+362 1 189739 189757 Descend to cruise altitude
+362 2 189758 189762 Adjust heading
+362 3 189763 189893 Inspect along the small road
+362 4 189894 189912 Ascend back to the original altitude
+363 0 189913 189918 Move above the small road
+363 1 189919 189932 Descend to cruise altitude
+363 2 189933 189960 Adjust heading
+363 3 189961 190091 Inspect along the small road
+363 4 190092 190105 Ascend back to the original altitude
+364 0 190106 190109 Move above the small road
+364 1 190110 190129 Descend to cruise altitude
+364 2 190130 190152 Adjust heading
+364 3 190153 190283 Inspect along the small road
+364 4 190284 190303 Ascend back to the original altitude
+365 0 190304 190309 Move above the small road
+365 1 190310 190321 Descend to cruise altitude
+365 2 190322 190348 Adjust heading
+365 3 190349 190479 Inspect along the small road
+365 4 190480 190491 Ascend back to the original altitude
+366 0 190492 190497 Move above the small road
+366 1 190498 190512 Descend to cruise altitude
+366 2 190513 190545 Adjust heading
+366 3 190546 190676 Inspect along the small road
+366 4 190677 190691 Ascend back to the original altitude
+367 0 190692 190697 Move above the small road
+367 1 190698 190717 Descend to cruise altitude
+367 2 190718 190752 Adjust heading
+367 3 190753 190883 Inspect along the small road
+367 4 190884 190903 Ascend back to the original altitude
+368 0 190904 190906 Move above the small road
+368 1 190907 190922 Descend to cruise altitude
+368 2 190923 190935 Adjust heading
+368 3 190936 191066 Inspect along the small road
+368 4 191067 191082 Ascend back to the original altitude
+369 0 191083 191087 Move above the small road
+369 1 191088 191102 Descend to cruise altitude
+369 2 191103 191117 Adjust heading
+369 3 191118 191248 Inspect along the small road
+369 4 191249 191263 Ascend back to the original altitude
+370 0 191264 191268 Move above the small road
+370 1 191269 191284 Descend to cruise altitude
+370 2 191285 191317 Adjust heading
+370 3 191318 191448 Inspect along the small road
+370 4 191449 191464 Ascend back to the original altitude
+371 0 191465 191469 Move above the small road
+371 1 191470 191489 Descend to cruise altitude
+371 2 191490 191505 Adjust heading
+371 3 191506 191636 Inspect along the small road
+371 4 191637 191656 Ascend back to the original altitude
+372 0 191657 191662 Move above the small road
+372 1 191663 191673 Descend to cruise altitude
+372 2 191674 191681 Adjust heading
+372 3 191682 191812 Inspect along the small road
+372 4 191813 191823 Ascend back to the original altitude
+373 0 191824 191829 Move above the small road
+373 1 191830 191844 Descend to cruise altitude
+373 2 191845 191848 Adjust heading
+373 3 191849 191979 Inspect along the small road
+373 4 191980 191994 Ascend back to the original altitude
+374 0 191995 192000 Move above the small road
+374 1 192001 192014 Descend to cruise altitude
+374 2 192015 192016 Adjust heading
+374 3 192017 192147 Inspect along the small road
+374 4 192148 192161 Ascend back to the original altitude
+375 0 192162 192167 Move above the small road
+375 1 192168 192181 Descend to cruise altitude
+375 2 192182 192193 Adjust heading
+375 3 192194 192324 Inspect along the small road
+375 4 192325 192338 Ascend back to the original altitude
+376 0 192339 192344 Move above the small road
+376 1 192345 192362 Descend to cruise altitude
+376 2 192363 192377 Adjust heading
+376 3 192378 192508 Inspect along the small road
+376 4 192509 192526 Ascend back to the original altitude
+377 0 192527 192530 Move above the small road
+377 1 192531 192542 Descend to cruise altitude
+377 2 192543 192545 Adjust heading
+377 3 192546 192676 Inspect along the small road
+377 4 192677 192688 Ascend back to the original altitude
+378 0 192689 192693 Move above the small road
+378 1 192694 192712 Descend to cruise altitude
+378 2 192713 192713 Adjust heading
+378 3 192714 192844 Inspect along the small road
+378 4 192845 192863 Ascend back to the original altitude
+379 0 192864 192866 Move above the small road
+379 1 192867 192878 Descend to cruise altitude
+379 2 192879 192881 Adjust heading
+379 3 192882 193012 Inspect along the small road
+379 4 193013 193024 Ascend back to the original altitude
+380 0 193025 193028 Move above the small road
+380 1 193029 193047 Descend to cruise altitude
+380 2 193048 193081 Adjust heading
+380 3 193082 193212 Inspect along the small road
+380 4 193213 193231 Ascend back to the original altitude
+381 0 193232 193237 Move above the small road
+381 1 193238 193251 Descend to cruise altitude
+381 2 193252 193267 Adjust heading
+381 3 193268 193398 Inspect along the small road
+381 4 193399 193412 Ascend back to the original altitude
+382 0 193413 193415 Move above the small road
+382 1 193416 193429 Descend to cruise altitude
+382 2 193430 193437 Adjust heading
+382 3 193438 193568 Inspect along the small road
+382 4 193569 193582 Ascend back to the original altitude
+383 0 193583 193587 Move above the small road
+383 1 193588 193598 Descend to cruise altitude
+383 2 193599 193614 Adjust heading
+383 3 193615 193745 Inspect along the small road
+383 4 193746 193756 Ascend back to the original altitude
+384 0 193757 193762 Move above the small road
+384 1 193763 193781 Descend to cruise altitude
+384 2 193782 193795 Adjust heading
+384 3 193796 193926 Inspect along the small road
+384 4 193927 193945 Ascend back to the original altitude
+385 0 193946 193951 Move above the small road
+385 1 193952 193965 Descend to cruise altitude
+385 2 193966 193970 Adjust heading
+385 3 193971 194101 Inspect along the small road
+385 4 194102 194115 Ascend back to the original altitude
+386 0 194116 194120 Move above the small road
+386 1 194121 194133 Descend to cruise altitude
+386 2 194134 194168 Adjust heading
+386 3 194169 194299 Inspect along the small road
+386 4 194300 194312 Ascend back to the original altitude
+387 0 194313 194316 Move above the small road
+387 1 194317 194328 Descend to cruise altitude
+387 2 194329 194341 Adjust heading
+387 3 194342 194472 Inspect along the small road
+387 4 194473 194484 Ascend back to the original altitude
+388 0 194485 194488 Move above the small road
+388 1 194489 194501 Descend to cruise altitude
+388 2 194502 194535 Adjust heading
+388 3 194536 194666 Inspect along the small road
+388 4 194667 194679 Ascend back to the original altitude
+389 0 194680 194685 Move above the small road
+389 1 194686 194702 Descend to cruise altitude
+389 2 194703 194729 Adjust heading
+389 3 194730 194860 Inspect along the small road
+389 4 194861 194877 Ascend back to the original altitude
+390 0 194878 194883 Move above the road
+390 1 194884 194902 Descend to cruise altitude
+390 2 194903 194915 Adjust heading
+390 3 194916 195246 Inspect along the road
+390 4 195247 195265 Ascend back to the original altitude
+391 0 195266 195271 Move above the road
+391 1 195272 195282 Descend to cruise altitude
+391 2 195283 195303 Adjust heading
+391 3 195304 195634 Inspect along the road
+391 4 195635 195645 Ascend back to the original altitude
+392 0 195646 195650 Move above the road
+392 1 195651 195665 Descend to cruise altitude
+392 2 195666 195675 Adjust heading
+392 3 195676 196006 Inspect along the road
+392 4 196007 196021 Ascend back to the original altitude
+393 0 196022 196026 Move above the road
+393 1 196027 196038 Descend to cruise altitude
+393 2 196039 196073 Adjust heading
+393 3 196074 196404 Inspect along the road
+393 4 196405 196416 Ascend back to the original altitude
+394 0 196417 196422 Move above the road
+394 1 196423 196442 Descend to cruise altitude
+394 2 196443 196453 Adjust heading
+394 3 196454 196784 Inspect along the road
+394 4 196785 196804 Ascend back to the original altitude
+395 0 196805 196810 Move above the road
+395 1 196811 196825 Descend to cruise altitude
+395 2 196826 196857 Adjust heading
+395 3 196858 197188 Inspect along the road
+395 4 197189 197203 Ascend back to the original altitude
+396 0 197204 197208 Move above the road
+396 1 197209 197222 Descend to cruise altitude
+396 2 197223 197233 Adjust heading
+396 3 197234 197564 Inspect along the road
+396 4 197565 197578 Ascend back to the original altitude
+397 0 197579 197582 Move above the road
+397 1 197583 197594 Descend to cruise altitude
+397 2 197595 197618 Adjust heading
+397 3 197619 197949 Inspect along the road
+397 4 197950 197961 Ascend back to the original altitude
+398 0 197962 197967 Move above the road
+398 1 197968 197986 Descend to cruise altitude
+398 2 197987 197988 Adjust heading
+398 3 197989 198319 Inspect along the road
+398 4 198320 198338 Ascend back to the original altitude
+399 0 198339 198342 Move above the road
+399 1 198343 198361 Descend to cruise altitude
+399 2 198362 198393 Adjust heading
+399 3 198394 198724 Inspect along the road
+399 4 198725 198743 Ascend back to the original altitude
+400 0 198744 198749 Move above the road
+400 1 198750 198766 Descend to cruise altitude
+400 2 198767 198773 Adjust heading
+400 3 198774 199104 Inspect along the road
+400 4 199105 199121 Ascend back to the original altitude
+401 0 199122 199125 Move above the road
+401 1 199126 199145 Descend to cruise altitude
+401 2 199146 199177 Adjust heading
+401 3 199178 199508 Inspect along the road
+401 4 199509 199528 Ascend back to the original altitude
+402 0 199529 199533 Move above the road
+402 1 199534 199546 Descend to cruise altitude
+402 2 199547 199550 Adjust heading
+402 3 199551 199881 Inspect along the road
+402 4 199882 199894 Ascend back to the original altitude
+403 0 199895 199900 Move above the road
+403 1 199901 199919 Descend to cruise altitude
+403 2 199920 199954 Adjust heading
+403 3 199955 200285 Inspect along the road
+403 4 200286 200304 Ascend back to the original altitude
+404 0 200305 200306 Move above the road
+404 1 200307 200326 Descend to cruise altitude
+404 2 200327 200349 Adjust heading
+404 3 200350 200680 Inspect along the road
+404 4 200681 200700 Ascend back to the original altitude
+405 0 200701 200704 Move above the road
+405 1 200705 200723 Descend to cruise altitude
+405 2 200724 200732 Adjust heading
+405 3 200733 201063 Inspect along the road
+405 4 201064 201082 Ascend back to the original altitude
+406 0 201083 201087 Move above the road
+406 1 201088 201101 Descend to cruise altitude
+406 2 201102 201102 Adjust heading
+406 3 201103 201433 Inspect along the road
+406 4 201434 201447 Ascend back to the original altitude
+407 0 201448 201451 Move above the road
+407 1 201452 201466 Descend to cruise altitude
+407 2 201467 201491 Adjust heading
+407 3 201492 201822 Inspect along the road
+407 4 201823 201837 Ascend back to the original altitude
+408 0 201838 201843 Move above the road
+408 1 201844 201863 Descend to cruise altitude
+408 2 201864 201877 Adjust heading
+408 3 201878 202208 Inspect along the road
+408 4 202209 202228 Ascend back to the original altitude
+409 0 202229 202233 Move above the road
+409 1 202234 202246 Descend to cruise altitude
+409 2 202247 202280 Adjust heading
+409 3 202281 202611 Inspect along the road
+409 4 202612 202624 Ascend back to the original altitude
+410 0 202625 202630 Move above the road
+410 1 202631 202645 Descend to cruise altitude
+410 2 202646 202646 Adjust heading
+410 3 202647 202977 Inspect along the road
+410 4 202978 202992 Ascend back to the original altitude
+411 0 202993 202996 Move above the road
+411 1 202997 203009 Descend to cruise altitude
+411 2 203010 203039 Adjust heading
+411 3 203040 203370 Inspect along the road
+411 4 203371 203383 Ascend back to the original altitude
+412 0 203384 203389 Move above the road
+412 1 203390 203402 Descend to cruise altitude
+412 2 203403 203406 Adjust heading
+412 3 203407 203737 Inspect along the road
+412 4 203738 203750 Ascend back to the original altitude
+413 0 203751 203754 Move above the road
+413 1 203755 203774 Descend to cruise altitude
+413 2 203775 203787 Adjust heading
+413 3 203788 204118 Inspect along the road
+413 4 204119 204138 Ascend back to the original altitude
+414 0 204139 204142 Move above the road
+414 1 204143 204156 Descend to cruise altitude
+414 2 204157 204168 Adjust heading
+414 3 204169 204499 Inspect along the road
+414 4 204500 204513 Ascend back to the original altitude
+415 0 204514 204517 Move above the road
+415 1 204518 204535 Descend to cruise altitude
+415 2 204536 204536 Adjust heading
+415 3 204537 204867 Inspect along the road
+415 4 204868 204885 Ascend back to the original altitude
+416 0 204886 204891 Move above the road
+416 1 204892 204910 Descend to cruise altitude
+416 2 204911 204911 Adjust heading
+416 3 204912 205242 Inspect along the road
+416 4 205243 205261 Ascend back to the original altitude
+417 0 205262 205264 Move above the road
+417 1 205265 205278 Descend to cruise altitude
+417 2 205279 205307 Adjust heading
+417 3 205308 205638 Inspect along the road
+417 4 205639 205652 Ascend back to the original altitude
+418 0 205653 205658 Move above the road
+418 1 205659 205676 Descend to cruise altitude
+418 2 205677 205695 Adjust heading
+418 3 205696 206026 Inspect along the road
+418 4 206027 206044 Ascend back to the original altitude
+419 0 206045 206050 Move above the road
+419 1 206051 206069 Descend to cruise altitude
+419 2 206070 206091 Adjust heading
+419 3 206092 206422 Inspect along the road
+419 4 206423 206441 Ascend back to the original altitude
+420 0 206442 206447 Move above the road
+420 1 206448 206465 Descend to cruise altitude
+420 2 206466 206470 Adjust heading
+420 3 206471 206802 Inspect along the road
+420 4 206803 206820 Ascend back to the original altitude
+421 0 206821 206823 Move above the road
+421 1 206824 206839 Descend to cruise altitude
+421 2 206840 206859 Adjust heading
+421 3 206860 207191 Inspect along the road
+421 4 207192 207207 Ascend back to the original altitude
+422 0 207208 207212 Move above the road
+422 1 207213 207230 Descend to cruise altitude
+422 2 207231 207251 Adjust heading
+422 3 207252 207583 Inspect along the road
+422 4 207584 207601 Ascend back to the original altitude
+423 0 207602 207605 Move above the road
+423 1 207606 207622 Descend to cruise altitude
+423 2 207623 207644 Adjust heading
+423 3 207645 207976 Inspect along the road
+423 4 207977 207993 Ascend back to the original altitude
+424 0 207994 207997 Move above the road
+424 1 207998 208017 Descend to cruise altitude
+424 2 208018 208052 Adjust heading
+424 3 208053 208384 Inspect along the road
+424 4 208385 208404 Ascend back to the original altitude
+425 0 208405 208410 Move above the road
+425 1 208411 208424 Descend to cruise altitude
+425 2 208425 208454 Adjust heading
+425 3 208455 208786 Inspect along the road
+425 4 208787 208800 Ascend back to the original altitude
+426 0 208801 208805 Move above the road
+426 1 208806 208816 Descend to cruise altitude
+426 2 208817 208830 Adjust heading
+426 3 208831 209162 Inspect along the road
+426 4 209163 209173 Ascend back to the original altitude
+427 0 209174 209179 Move above the road
+427 1 209180 209197 Descend to cruise altitude
+427 2 209198 209209 Adjust heading
+427 3 209210 209541 Inspect along the road
+427 4 209542 209559 Ascend back to the original altitude
+428 0 209560 209565 Move above the road
+428 1 209566 209579 Descend to cruise altitude
+428 2 209580 209610 Adjust heading
+428 3 209611 209942 Inspect along the road
+428 4 209943 209956 Ascend back to the original altitude
+429 0 209957 209960 Move above the road
+429 1 209961 209977 Descend to cruise altitude
+429 2 209978 210004 Adjust heading
+429 3 210005 210336 Inspect along the road
+429 4 210337 210353 Ascend back to the original altitude
+430 0 210354 210355 Move above the road
+430 1 210356 210373 Descend to cruise altitude
+430 2 210374 210398 Adjust heading
+430 3 210399 210730 Inspect along the road
+430 4 210731 210748 Ascend back to the original altitude
+431 0 210749 210753 Move above the road
+431 1 210754 210767 Descend to cruise altitude
+431 2 210768 210792 Adjust heading
+431 3 210793 211124 Inspect along the road
+431 4 211125 211138 Ascend back to the original altitude
+432 0 211139 211140 Move above the road
+432 1 211141 211160 Descend to cruise altitude
+432 2 211161 211171 Adjust heading
+432 3 211172 211503 Inspect along the road
+432 4 211504 211523 Ascend back to the original altitude
+433 0 211524 211529 Move above the road
+433 1 211530 211548 Descend to cruise altitude
+433 2 211549 211581 Adjust heading
+433 3 211582 211913 Inspect along the road
+433 4 211914 211932 Ascend back to the original altitude
+434 0 211933 211938 Move above the road
+434 1 211939 211954 Descend to cruise altitude
+434 2 211955 211985 Adjust heading
+434 3 211986 212317 Inspect along the road
+434 4 212318 212333 Ascend back to the original altitude
+435 0 212334 212337 Move above the road
+435 1 212338 212348 Descend to cruise altitude
+435 2 212349 212365 Adjust heading
+435 3 212366 212697 Inspect along the road
+435 4 212698 212708 Ascend back to the original altitude
+436 0 212709 212714 Move above the road
+436 1 212715 212732 Descend to cruise altitude
+436 2 212733 212744 Adjust heading
+436 3 212745 213076 Inspect along the road
+436 4 213077 213094 Ascend back to the original altitude
+437 0 213095 213099 Move above the road
+437 1 213100 213116 Descend to cruise altitude
+437 2 213117 213151 Adjust heading
+437 3 213152 213483 Inspect along the road
+437 4 213484 213500 Ascend back to the original altitude
+438 0 213501 213506 Move above the road
+438 1 213507 213520 Descend to cruise altitude
+438 2 213521 213529 Adjust heading
+438 3 213530 213861 Inspect along the road
+438 4 213862 213875 Ascend back to the original altitude
+439 0 213876 213878 Move above the road
+439 1 213879 213898 Descend to cruise altitude
+439 2 213899 213913 Adjust heading
+439 3 213914 214245 Inspect along the road
+439 4 214246 214265 Ascend back to the original altitude
+440 0 214266 214269 Move above the road
+440 1 214270 214282 Descend to cruise altitude
+440 2 214283 214309 Adjust heading
+440 3 214310 214641 Inspect along the road
+440 4 214642 214654 Ascend back to the original altitude
+441 0 214655 214657 Move above the road
+441 1 214658 214677 Descend to cruise altitude
+441 2 214678 214703 Adjust heading
+441 3 214704 215035 Inspect along the road
+441 4 215036 215055 Ascend back to the original altitude
+442 0 215056 215058 Move above the road
+442 1 215059 215074 Descend to cruise altitude
+442 2 215075 215078 Adjust heading
+442 3 215079 215410 Inspect along the road
+442 4 215411 215426 Ascend back to the original altitude
+443 0 215427 215431 Move above the road
+443 1 215432 215448 Descend to cruise altitude
+443 2 215449 215461 Adjust heading
+443 3 215462 215793 Inspect along the road
+443 4 215794 215810 Ascend back to the original altitude
+444 0 215811 215816 Move above the road
+444 1 215817 215830 Descend to cruise altitude
+444 2 215831 215847 Adjust heading
+444 3 215848 216179 Inspect along the road
+444 4 216180 216193 Ascend back to the original altitude
+445 0 216194 216197 Move above the road
+445 1 216198 216210 Descend to cruise altitude
+445 2 216211 216241 Adjust heading
+445 3 216242 216573 Inspect along the road
+445 4 216574 216586 Ascend back to the original altitude
+446 0 216587 216590 Move above the road
+446 1 216591 216604 Descend to cruise altitude
+446 2 216605 216605 Adjust heading
+446 3 216606 216937 Inspect along the road
+446 4 216938 216951 Ascend back to the original altitude
+447 0 216952 216957 Move above the road
+447 1 216958 216975 Descend to cruise altitude
+447 2 216976 217004 Adjust heading
+447 3 217005 217336 Inspect along the road
+447 4 217337 217354 Ascend back to the original altitude
+448 0 217355 217358 Move above the road
+448 1 217359 217378 Descend to cruise altitude
+448 2 217379 217408 Adjust heading
+448 3 217409 217740 Inspect along the road
+448 4 217741 217760 Ascend back to the original altitude
+449 0 217761 217765 Move above the road
+449 1 217766 217781 Descend to cruise altitude
+449 2 217782 217787 Adjust heading
+449 3 217788 218119 Inspect along the road
+449 4 218120 218135 Ascend back to the original altitude
+450 0 218136 218140 Move above the road
+450 1 218141 218152 Descend to cruise altitude
+450 2 218153 218167 Adjust heading
+450 3 218168 218617 Inspect along the road
+450 4 218618 218629 Ascend back to the original altitude
+451 0 218630 218635 Move above the road
+451 1 218636 218646 Descend to cruise altitude
+451 2 218647 218648 Adjust heading
+451 3 218649 219098 Inspect along the road
+451 4 219099 219109 Ascend back to the original altitude
+452 0 219110 219114 Move above the road
+452 1 219115 219127 Descend to cruise altitude
+452 2 219128 219129 Adjust heading
+452 3 219130 219579 Inspect along the road
+452 4 219580 219592 Ascend back to the original altitude
+453 0 219593 219598 Move above the road
+453 1 219599 219617 Descend to cruise altitude
+453 2 219618 219622 Adjust heading
+453 3 219623 220072 Inspect along the road
+453 4 220073 220091 Ascend back to the original altitude
+454 0 220092 220097 Move above the road
+454 1 220098 220112 Descend to cruise altitude
+454 2 220113 220122 Adjust heading
+454 3 220123 220572 Inspect along the road
+454 4 220573 220587 Ascend back to the original altitude
+455 0 220588 220593 Move above the road
+455 1 220594 220609 Descend to cruise altitude
+455 2 220610 220618 Adjust heading
+455 3 220619 221068 Inspect along the road
+455 4 221069 221084 Ascend back to the original altitude
+456 0 221085 221090 Move above the road
+456 1 221091 221106 Descend to cruise altitude
+456 2 221107 221107 Adjust heading
+456 3 221108 221557 Inspect along the road
+456 4 221558 221573 Ascend back to the original altitude
+457 0 221574 221579 Move above the road
+457 1 221580 221594 Descend to cruise altitude
+457 2 221595 221629 Adjust heading
+457 3 221630 222079 Inspect along the road
+457 4 222080 222094 Ascend back to the original altitude
+458 0 222095 222099 Move above the road
+458 1 222100 222112 Descend to cruise altitude
+458 2 222113 222139 Adjust heading
+458 3 222140 222589 Inspect along the road
+458 4 222590 222602 Ascend back to the original altitude
+459 0 222603 222604 Move above the road
+459 1 222605 222622 Descend to cruise altitude
+459 2 222623 222640 Adjust heading
+459 3 222641 223090 Inspect along the road
+459 4 223091 223108 Ascend back to the original altitude
+460 0 223109 223110 Move above the road
+460 1 223111 223122 Descend to cruise altitude
+460 2 223123 223155 Adjust heading
+460 3 223156 223605 Inspect along the road
+460 4 223606 223617 Ascend back to the original altitude
+461 0 223618 223621 Move above the road
+461 1 223622 223635 Descend to cruise altitude
+461 2 223636 223646 Adjust heading
+461 3 223647 224096 Inspect along the road
+461 4 224097 224110 Ascend back to the original altitude
+462 0 224111 224115 Move above the road
+462 1 224116 224128 Descend to cruise altitude
+462 2 224129 224158 Adjust heading
+462 3 224159 224608 Inspect along the road
+462 4 224609 224621 Ascend back to the original altitude
+463 0 224622 224626 Move above the road
+463 1 224627 224645 Descend to cruise altitude
+463 2 224646 224679 Adjust heading
+463 3 224680 225129 Inspect along the road
+463 4 225130 225148 Ascend back to the original altitude
+464 0 225149 225152 Move above the road
+464 1 225153 225165 Descend to cruise altitude
+464 2 225166 225180 Adjust heading
+464 3 225181 225630 Inspect along the road
+464 4 225631 225643 Ascend back to the original altitude
+465 0 225644 225648 Move above the road
+465 1 225649 225668 Descend to cruise altitude
+465 2 225669 225699 Adjust heading
+465 3 225700 226149 Inspect along the road
+465 4 226150 226169 Ascend back to the original altitude
+466 0 226170 226174 Move above the road
+466 1 226175 226194 Descend to cruise altitude
+466 2 226195 226211 Adjust heading
+466 3 226212 226661 Inspect along the road
+466 4 226662 226681 Ascend back to the original altitude
+467 0 226682 226686 Move above the road
+467 1 226687 226700 Descend to cruise altitude
+467 2 226701 226734 Adjust heading
+467 3 226735 227184 Inspect along the road
+467 4 227185 227198 Ascend back to the original altitude
+468 0 227199 227204 Move above the road
+468 1 227205 227224 Descend to cruise altitude
+468 2 227225 227235 Adjust heading
+468 3 227236 227685 Inspect along the road
+468 4 227686 227705 Ascend back to the original altitude
+469 0 227706 227709 Move above the road
+469 1 227710 227725 Descend to cruise altitude
+469 2 227726 227753 Adjust heading
+469 3 227754 228203 Inspect along the road
+469 4 228204 228219 Ascend back to the original altitude
+470 0 228220 228224 Move above the road
+470 1 228225 228239 Descend to cruise altitude
+470 2 228240 228254 Adjust heading
+470 3 228255 228704 Inspect along the road
+470 4 228705 228719 Ascend back to the original altitude
+471 0 228720 228723 Move above the road
+471 1 228724 228735 Descend to cruise altitude
+471 2 228736 228751 Adjust heading
+471 3 228752 229201 Inspect along the road
+471 4 229202 229213 Ascend back to the original altitude
+472 0 229214 229219 Move above the road
+472 1 229220 229232 Descend to cruise altitude
+472 2 229233 229246 Adjust heading
+472 3 229247 229696 Inspect along the road
+472 4 229697 229709 Ascend back to the original altitude
+473 0 229710 229714 Move above the road
+473 1 229715 229728 Descend to cruise altitude
+473 2 229729 229743 Adjust heading
+473 3 229744 230193 Inspect along the road
+473 4 230194 230207 Ascend back to the original altitude
+474 0 230208 230213 Move above the road
+474 1 230214 230224 Descend to cruise altitude
+474 2 230225 230230 Adjust heading
+474 3 230231 230680 Inspect along the road
+474 4 230681 230691 Ascend back to the original altitude
+475 0 230692 230696 Move above the road
+475 1 230697 230715 Descend to cruise altitude
+475 2 230716 230728 Adjust heading
+475 3 230729 231178 Inspect along the road
+475 4 231179 231197 Ascend back to the original altitude
+476 0 231198 231202 Move above the road
+476 1 231203 231217 Descend to cruise altitude
+476 2 231218 231224 Adjust heading
+476 3 231225 231674 Inspect along the road
+476 4 231675 231689 Ascend back to the original altitude
+477 0 231690 231695 Move above the road
+477 1 231696 231706 Descend to cruise altitude
+477 2 231707 231721 Adjust heading
+477 3 231722 232171 Inspect along the road
+477 4 232172 232182 Ascend back to the original altitude
+478 0 232183 232188 Move above the road
+478 1 232189 232200 Descend to cruise altitude
+478 2 232201 232217 Adjust heading
+478 3 232218 232667 Inspect along the road
+478 4 232668 232679 Ascend back to the original altitude
+479 0 232680 232685 Move above the road
+479 1 232686 232701 Descend to cruise altitude
+479 2 232702 232702 Adjust heading
+479 3 232703 233152 Inspect along the road
+479 4 233153 233168 Ascend back to the original altitude
+480 0 233169 233173 Move above the road
+480 1 233174 233188 Descend to cruise altitude
+480 2 233189 233215 Adjust heading
+480 3 233216 233607 Inspect along the road
+480 4 233608 233622 Ascend back to the original altitude
+481 0 233623 233626 Move above the road
+481 1 233627 233640 Descend to cruise altitude
+481 2 233641 233658 Adjust heading
+481 3 233659 234050 Inspect along the road
+481 4 234051 234064 Ascend back to the original altitude
+482 0 234065 234066 Move above the road
+482 1 234067 234083 Descend to cruise altitude
+482 2 234084 234108 Adjust heading
+482 3 234109 234500 Inspect along the road
+482 4 234501 234517 Ascend back to the original altitude
+483 0 234518 234523 Move above the road
+483 1 234524 234541 Descend to cruise altitude
+483 2 234542 234550 Adjust heading
+483 3 234551 234942 Inspect along the road
+483 4 234943 234960 Ascend back to the original altitude
+484 0 234961 234965 Move above the road
+484 1 234966 234978 Descend to cruise altitude
+484 2 234979 234983 Adjust heading
+484 3 234984 235375 Inspect along the road
+484 4 235376 235388 Ascend back to the original altitude
+485 0 235389 235392 Move above the road
+485 1 235393 235407 Descend to cruise altitude
+485 2 235408 235421 Adjust heading
+485 3 235422 235813 Inspect along the road
+485 4 235814 235828 Ascend back to the original altitude
+486 0 235829 235834 Move above the road
+486 1 235835 235847 Descend to cruise altitude
+486 2 235848 235849 Adjust heading
+486 3 235850 236241 Inspect along the road
+486 4 236242 236254 Ascend back to the original altitude
+487 0 236255 236256 Move above the road
+487 1 236257 236276 Descend to cruise altitude
+487 2 236277 236278 Adjust heading
+487 3 236279 236670 Inspect along the road
+487 4 236671 236690 Ascend back to the original altitude
+488 0 236691 236696 Move above the road
+488 1 236697 236716 Descend to cruise altitude
+488 2 236717 236717 Adjust heading
+488 3 236718 237109 Inspect along the road
+488 4 237110 237129 Ascend back to the original altitude
+489 0 237130 237134 Move above the road
+489 1 237135 237153 Descend to cruise altitude
+489 2 237154 237178 Adjust heading
+489 3 237179 237570 Inspect along the road
+489 4 237571 237589 Ascend back to the original altitude
+490 0 237590 237594 Move above the road
+490 1 237595 237610 Descend to cruise altitude
+490 2 237611 237623 Adjust heading
+490 3 237624 238015 Inspect along the road
+490 4 238016 238031 Ascend back to the original altitude
+491 0 238032 238037 Move above the road
+491 1 238038 238055 Descend to cruise altitude
+491 2 238056 238063 Adjust heading
+491 3 238064 238455 Inspect along the road
+491 4 238456 238473 Ascend back to the original altitude
+492 0 238474 238478 Move above the road
+492 1 238479 238492 Descend to cruise altitude
+492 2 238493 238493 Adjust heading
+492 3 238494 238885 Inspect along the road
+492 4 238886 238899 Ascend back to the original altitude
+493 0 238900 238905 Move above the road
+493 1 238906 238917 Descend to cruise altitude
+493 2 238918 238934 Adjust heading
+493 3 238935 239326 Inspect along the road
+493 4 239327 239338 Ascend back to the original altitude
+494 0 239339 239343 Move above the road
+494 1 239344 239361 Descend to cruise altitude
+494 2 239362 239378 Adjust heading
+494 3 239379 239770 Inspect along the road
+494 4 239771 239788 Ascend back to the original altitude
+495 0 239789 239794 Move above the road
+495 1 239795 239813 Descend to cruise altitude
+495 2 239814 239829 Adjust heading
+495 3 239830 240221 Inspect along the road
+495 4 240222 240240 Ascend back to the original altitude
+496 0 240241 240245 Move above the road
+496 1 240246 240258 Descend to cruise altitude
+496 2 240259 240274 Adjust heading
+496 3 240275 240666 Inspect along the road
+496 4 240667 240679 Ascend back to the original altitude
+497 0 240680 240685 Move above the road
+497 1 240686 240696 Descend to cruise altitude
+497 2 240697 240710 Adjust heading
+497 3 240711 241102 Inspect along the road
+497 4 241103 241113 Ascend back to the original altitude
+498 0 241114 241117 Move above the road
+498 1 241118 241132 Descend to cruise altitude
+498 2 241133 241152 Adjust heading
+498 3 241153 241544 Inspect along the road
+498 4 241545 241559 Ascend back to the original altitude
+499 0 241560 241563 Move above the road
+499 1 241564 241582 Descend to cruise altitude
+499 2 241583 241585 Adjust heading
+499 3 241586 241977 Inspect along the road
+499 4 241978 241996 Ascend back to the original altitude
+500 0 241997 242002 Move above the road
+500 1 242003 242022 Descend to cruise altitude
+500 2 242023 242035 Adjust heading
+500 3 242036 242427 Inspect along the road
+500 4 242428 242447 Ascend back to the original altitude
+501 0 242448 242450 Move above the road
+501 1 242451 242465 Descend to cruise altitude
+501 2 242466 242488 Adjust heading
+501 3 242489 242880 Inspect along the road
+501 4 242881 242895 Ascend back to the original altitude
+502 0 242896 242898 Move above the road
+502 1 242899 242909 Descend to cruise altitude
+502 2 242910 242921 Adjust heading
+502 3 242922 243313 Inspect along the road
+502 4 243314 243324 Ascend back to the original altitude
+503 0 243325 243327 Move above the road
+503 1 243328 243342 Descend to cruise altitude
+503 2 243343 243346 Adjust heading
+503 3 243347 243738 Inspect along the road
+503 4 243739 243753 Ascend back to the original altitude
+504 0 243754 243757 Move above the road
+504 1 243758 243774 Descend to cruise altitude
+504 2 243775 243780 Adjust heading
+504 3 243781 244172 Inspect along the road
+504 4 244173 244189 Ascend back to the original altitude
+505 0 244190 244195 Move above the road
+505 1 244196 244206 Descend to cruise altitude
+505 2 244207 244221 Adjust heading
+505 3 244222 244613 Inspect along the road
+505 4 244614 244624 Ascend back to the original altitude
+506 0 244625 244629 Move above the road
+506 1 244630 244648 Descend to cruise altitude
+506 2 244649 244654 Adjust heading
+506 3 244655 245046 Inspect along the road
+506 4 245047 245065 Ascend back to the original altitude
+507 0 245066 245070 Move above the road
+507 1 245071 245081 Descend to cruise altitude
+507 2 245082 245084 Adjust heading
+507 3 245085 245476 Inspect along the road
+507 4 245477 245487 Ascend back to the original altitude
+508 0 245488 245491 Move above the road
+508 1 245492 245503 Descend to cruise altitude
+508 2 245504 245525 Adjust heading
+508 3 245526 245917 Inspect along the road
+508 4 245918 245929 Ascend back to the original altitude
+509 0 245930 245935 Move above the road
+509 1 245936 245952 Descend to cruise altitude
+509 2 245953 245973 Adjust heading
+509 3 245974 246365 Inspect along the road
+509 4 246366 246382 Ascend back to the original altitude
+510 0 246383 246386 Move above the road
+510 1 246387 246403 Descend to cruise altitude
+510 2 246404 246423 Adjust heading
+510 3 246424 247549 Inspect along the road
+510 4 247550 247566 Ascend back to the original altitude
+511 0 247567 247572 Move above the road
+511 1 247573 247587 Descend to cruise altitude
+511 2 247588 247610 Adjust heading
+511 3 247611 248736 Inspect along the road
+511 4 248737 248751 Ascend back to the original altitude
+512 0 248752 248754 Move above the road
+512 1 248755 248774 Descend to cruise altitude
+512 2 248775 248788 Adjust heading
+512 3 248789 249914 Inspect along the road
+512 4 249915 249934 Ascend back to the original altitude
+513 0 249935 249939 Move above the road
+513 1 249940 249953 Descend to cruise altitude
+513 2 249954 249972 Adjust heading
+513 3 249973 251098 Inspect along the road
+513 4 251099 251112 Ascend back to the original altitude
+514 0 251113 251118 Move above the road
+514 1 251119 251130 Descend to cruise altitude
+514 2 251131 251141 Adjust heading
+514 3 251142 252267 Inspect along the road
+514 4 252268 252279 Ascend back to the original altitude
+515 0 252280 252285 Move above the road
+515 1 252286 252301 Descend to cruise altitude
+515 2 252302 252309 Adjust heading
+515 3 252310 253435 Inspect along the road
+515 4 253436 253451 Ascend back to the original altitude
+516 0 253452 253456 Move above the road
+516 1 253457 253472 Descend to cruise altitude
+516 2 253473 253489 Adjust heading
+516 3 253490 254615 Inspect along the road
+516 4 254616 254631 Ascend back to the original altitude
+517 0 254632 254635 Move above the road
+517 1 254636 254654 Descend to cruise altitude
+517 2 254655 254670 Adjust heading
+517 3 254671 255796 Inspect along the road
+517 4 255797 255815 Ascend back to the original altitude
+518 0 255816 255819 Move above the road
+518 1 255820 255833 Descend to cruise altitude
+518 2 255834 255855 Adjust heading
+518 3 255856 256981 Inspect along the road
+518 4 256982 256995 Ascend back to the original altitude
+519 0 256996 257001 Move above the road
+519 1 257002 257015 Descend to cruise altitude
+519 2 257016 257028 Adjust heading
+519 3 257029 258154 Inspect along the road
+519 4 258155 258168 Ascend back to the original altitude
+520 0 258169 258173 Move above the road
+520 1 258174 258190 Descend to cruise altitude
+520 2 258191 258192 Adjust heading
+520 3 258193 259318 Inspect along the road
+520 4 259319 259335 Ascend back to the original altitude
+521 0 259336 259341 Move above the road
+521 1 259342 259355 Descend to cruise altitude
+521 2 259356 259364 Adjust heading
+521 3 259365 260490 Inspect along the road
+521 4 260491 260504 Ascend back to the original altitude
+522 0 260505 260510 Move above the road
+522 1 260511 260524 Descend to cruise altitude
+522 2 260525 260550 Adjust heading
+522 3 260551 261676 Inspect along the road
+522 4 261677 261690 Ascend back to the original altitude
+523 0 261691 261695 Move above the road
+523 1 261696 261715 Descend to cruise altitude
+523 2 261716 261724 Adjust heading
+523 3 261725 262850 Inspect along the road
+523 4 262851 262870 Ascend back to the original altitude
+524 0 262871 262872 Move above the road
+524 1 262873 262884 Descend to cruise altitude
+524 2 262885 262885 Adjust heading
+524 3 262886 264011 Inspect along the road
+524 4 264012 264023 Ascend back to the original altitude
+525 0 264024 264029 Move above the road
+525 1 264030 264048 Descend to cruise altitude
+525 2 264049 264070 Adjust heading
+525 3 264071 265196 Inspect along the road
+525 4 265197 265215 Ascend back to the original altitude
+526 0 265216 265220 Move above the road
+526 1 265221 265238 Descend to cruise altitude
+526 2 265239 265264 Adjust heading
+526 3 265265 266390 Inspect along the road
+526 4 266391 266408 Ascend back to the original altitude
+527 0 266409 266412 Move above the road
+527 1 266413 266428 Descend to cruise altitude
+527 2 266429 266434 Adjust heading
+527 3 266435 267560 Inspect along the road
+527 4 267561 267576 Ascend back to the original altitude
+528 0 267577 267580 Move above the road
+528 1 267581 267591 Descend to cruise altitude
+528 2 267592 267612 Adjust heading
+528 3 267613 268738 Inspect along the road
+528 4 268739 268749 Ascend back to the original altitude
+529 0 268750 268753 Move above the road
+529 1 268754 268765 Descend to cruise altitude
+529 2 268766 268792 Adjust heading
+529 3 268793 269918 Inspect along the road
+529 4 269919 269930 Ascend back to the original altitude
+530 0 269931 269934 Move above the road
+530 1 269935 269947 Descend to cruise altitude
+530 2 269948 269978 Adjust heading
+530 3 269979 271104 Inspect along the road
+530 4 271105 271117 Ascend back to the original altitude
+531 0 271118 271122 Move above the road
+531 1 271123 271136 Descend to cruise altitude
+531 2 271137 271157 Adjust heading
+531 3 271158 272283 Inspect along the road
+531 4 272284 272297 Ascend back to the original altitude
+532 0 272298 272300 Move above the road
+532 1 272301 272313 Descend to cruise altitude
+532 2 272314 272322 Adjust heading
+532 3 272323 273448 Inspect along the road
+532 4 273449 273461 Ascend back to the original altitude
+533 0 273462 273467 Move above the road
+533 1 273468 273483 Descend to cruise altitude
+533 2 273484 273489 Adjust heading
+533 3 273490 274615 Inspect along the road
+533 4 274616 274631 Ascend back to the original altitude
+534 0 274632 274635 Move above the road
+534 1 274636 274653 Descend to cruise altitude
+534 2 274654 274668 Adjust heading
+534 3 274669 275794 Inspect along the road
+534 4 275795 275812 Ascend back to the original altitude
+535 0 275813 275818 Move above the road
+535 1 275819 275836 Descend to cruise altitude
+535 2 275837 275848 Adjust heading
+535 3 275849 276974 Inspect along the road
+535 4 276975 276992 Ascend back to the original altitude
+536 0 276993 276996 Move above the road
+536 1 276997 277007 Descend to cruise altitude
+536 2 277008 277033 Adjust heading
+536 3 277034 278159 Inspect along the road
+536 4 278160 278170 Ascend back to the original altitude
+537 0 278171 278176 Move above the road
+537 1 278177 278193 Descend to cruise altitude
+537 2 278194 278222 Adjust heading
+537 3 278223 279348 Inspect along the road
+537 4 279349 279365 Ascend back to the original altitude
+538 0 279366 279371 Move above the road
+538 1 279372 279388 Descend to cruise altitude
+538 2 279389 279404 Adjust heading
+538 3 279405 280530 Inspect along the road
+538 4 280531 280547 Ascend back to the original altitude
+539 0 280548 280550 Move above the road
+539 1 280551 280565 Descend to cruise altitude
+539 2 280566 280594 Adjust heading
+539 3 280595 281720 Inspect along the road
+539 4 281721 281735 Ascend back to the original altitude
+540 0 281736 281740 Move above the road
+540 1 281741 281754 Descend to cruise altitude
+540 2 281755 281768 Adjust heading
+540 3 281769 282650 Inspect along the road
+540 4 282651 282664 Ascend back to the original altitude
+541 0 282665 282670 Move above the road
+541 1 282671 282689 Descend to cruise altitude
+541 2 282690 282703 Adjust heading
+541 3 282704 283585 Inspect along the road
+541 4 283586 283604 Ascend back to the original altitude
+542 0 283605 283608 Move above the road
+542 1 283609 283623 Descend to cruise altitude
+542 2 283624 283650 Adjust heading
+542 3 283651 284532 Inspect along the road
+542 4 284533 284547 Ascend back to the original altitude
+543 0 284548 284552 Move above the road
+543 1 284553 284566 Descend to cruise altitude
+543 2 284567 284570 Adjust heading
+543 3 284571 285452 Inspect along the road
+543 4 285453 285466 Ascend back to the original altitude
+544 0 285467 285471 Move above the road
+544 1 285472 285484 Descend to cruise altitude
+544 2 285485 285508 Adjust heading
+544 3 285509 286390 Inspect along the road
+544 4 286391 286403 Ascend back to the original altitude
+545 0 286404 286409 Move above the road
+545 1 286410 286428 Descend to cruise altitude
+545 2 286429 286463 Adjust heading
+545 3 286464 287345 Inspect along the road
+545 4 287346 287364 Ascend back to the original altitude
+546 0 287365 287369 Move above the road
+546 1 287370 287388 Descend to cruise altitude
+546 2 287389 287391 Adjust heading
+546 3 287392 288273 Inspect along the road
+546 4 288274 288292 Ascend back to the original altitude
+547 0 288293 288296 Move above the road
+547 1 288297 288308 Descend to cruise altitude
+547 2 288309 288312 Adjust heading
+547 3 288313 289194 Inspect along the road
+547 4 289195 289206 Ascend back to the original altitude
+548 0 289207 289212 Move above the road
+548 1 289213 289228 Descend to cruise altitude
+548 2 289229 289241 Adjust heading
+548 3 289242 290123 Inspect along the road
+548 4 290124 290139 Ascend back to the original altitude
+549 0 290140 290142 Move above the road
+549 1 290143 290155 Descend to cruise altitude
+549 2 290156 290157 Adjust heading
+549 3 290158 291039 Inspect along the road
+549 4 291040 291052 Ascend back to the original altitude
+550 0 291053 291055 Move above the road
+550 1 291056 291074 Descend to cruise altitude
+550 2 291075 291106 Adjust heading
+550 3 291107 291988 Inspect along the road
+550 4 291989 292007 Ascend back to the original altitude
+551 0 292008 292011 Move above the road
+551 1 292012 292029 Descend to cruise altitude
+551 2 292030 292042 Adjust heading
+551 3 292043 292924 Inspect along the road
+551 4 292925 292942 Ascend back to the original altitude
+552 0 292943 292945 Move above the road
+552 1 292946 292965 Descend to cruise altitude
+552 2 292966 292977 Adjust heading
+552 3 292978 293859 Inspect along the road
+552 4 293860 293879 Ascend back to the original altitude
+553 0 293880 293885 Move above the road
+553 1 293886 293905 Descend to cruise altitude
+553 2 293906 293937 Adjust heading
+553 3 293938 294819 Inspect along the road
+553 4 294820 294839 Ascend back to the original altitude
+554 0 294840 294842 Move above the road
+554 1 294843 294862 Descend to cruise altitude
+554 2 294863 294884 Adjust heading
+554 3 294885 295766 Inspect along the road
+554 4 295767 295786 Ascend back to the original altitude
+555 0 295787 295790 Move above the road
+555 1 295791 295805 Descend to cruise altitude
+555 2 295806 295806 Adjust heading
+555 3 295807 296687 Inspect along the road
+555 4 296688 296702 Ascend back to the original altitude
+556 0 296703 296708 Move above the road
+556 1 296709 296726 Descend to cruise altitude
+556 2 296727 296736 Adjust heading
+556 3 296737 297617 Inspect along the road
+556 4 297618 297635 Ascend back to the original altitude
+557 0 297636 297637 Move above the road
+557 1 297638 297651 Descend to cruise altitude
+557 2 297652 297683 Adjust heading
+557 3 297684 298564 Inspect along the road
+557 4 298565 298578 Ascend back to the original altitude
+558 0 298579 298581 Move above the road
+558 1 298582 298599 Descend to cruise altitude
+558 2 298600 298623 Adjust heading
+558 3 298624 299504 Inspect along the road
+558 4 299505 299522 Ascend back to the original altitude
+559 0 299523 299525 Move above the road
+559 1 299526 299539 Descend to cruise altitude
+559 2 299540 299562 Adjust heading
+559 3 299563 300443 Inspect along the road
+559 4 300444 300457 Ascend back to the original altitude
+560 0 300458 300461 Move above the road
+560 1 300462 300475 Descend to cruise altitude
+560 2 300476 300478 Adjust heading
+560 3 300479 301359 Inspect along the road
+560 4 301360 301373 Ascend back to the original altitude
+561 0 301374 301378 Move above the road
+561 1 301379 301391 Descend to cruise altitude
+561 2 301392 301421 Adjust heading
+561 3 301422 302302 Inspect along the road
+561 4 302303 302315 Ascend back to the original altitude
+562 0 302316 302320 Move above the road
+562 1 302321 302336 Descend to cruise altitude
+562 2 302337 302367 Adjust heading
+562 3 302368 303248 Inspect along the road
+562 4 303249 303264 Ascend back to the original altitude
+563 0 303265 303269 Move above the road
+563 1 303270 303289 Descend to cruise altitude
+563 2 303290 303311 Adjust heading
+563 3 303312 304192 Inspect along the road
+563 4 304193 304212 Ascend back to the original altitude
+564 0 304213 304218 Move above the road
+564 1 304219 304229 Descend to cruise altitude
+564 2 304230 304244 Adjust heading
+564 3 304245 305125 Inspect along the road
+564 4 305126 305136 Ascend back to the original altitude
+565 0 305137 305142 Move above the road
+565 1 305143 305157 Descend to cruise altitude
+565 2 305158 305165 Adjust heading
+565 3 305166 306046 Inspect along the road
+565 4 306047 306061 Ascend back to the original altitude
+566 0 306062 306066 Move above the road
+566 1 306067 306084 Descend to cruise altitude
+566 2 306085 306105 Adjust heading
+566 3 306106 306986 Inspect along the road
+566 4 306987 307004 Ascend back to the original altitude
+567 0 307005 307010 Move above the road
+567 1 307011 307027 Descend to cruise altitude
+567 2 307028 307055 Adjust heading
+567 3 307056 307936 Inspect along the road
+567 4 307937 307953 Ascend back to the original altitude
+568 0 307954 307959 Move above the road
+568 1 307960 307978 Descend to cruise altitude
+568 2 307979 307990 Adjust heading
+568 3 307991 308871 Inspect along the road
+568 4 308872 308890 Ascend back to the original altitude
+569 0 308891 308895 Move above the road
+569 1 308896 308914 Descend to cruise altitude
+569 2 308915 308945 Adjust heading
+569 3 308946 309826 Inspect along the road
+569 4 309827 309845 Ascend back to the original altitude
+570 0 309846 309850 Move above the road
+570 1 309851 309864 Descend to cruise altitude
+570 2 309865 309883 Adjust heading
+570 3 309884 310252 Inspect along the road
+570 4 310253 310266 Ascend back to the original altitude
+571 0 310267 310270 Move above the road
+571 1 310271 310289 Descend to cruise altitude
+571 2 310290 310303 Adjust heading
+571 3 310304 310672 Inspect along the road
+571 4 310673 310691 Ascend back to the original altitude
+572 0 310692 310695 Move above the road
+572 1 310696 310715 Descend to cruise altitude
+572 2 310716 310733 Adjust heading
+572 3 310734 311102 Inspect along the road
+572 4 311103 311122 Ascend back to the original altitude
+573 0 311123 311127 Move above the road
+573 1 311128 311140 Descend to cruise altitude
+573 2 311141 311144 Adjust heading
+573 3 311145 311513 Inspect along the road
+573 4 311514 311526 Ascend back to the original altitude
+574 0 311527 311532 Move above the road
+574 1 311533 311543 Descend to cruise altitude
+574 2 311544 311560 Adjust heading
+574 3 311561 311929 Inspect along the road
+574 4 311930 311940 Ascend back to the original altitude
+575 0 311941 311946 Move above the road
+575 1 311947 311961 Descend to cruise altitude
+575 2 311962 311995 Adjust heading
+575 3 311996 312364 Inspect along the road
+575 4 312365 312379 Ascend back to the original altitude
+576 0 312380 312384 Move above the road
+576 1 312385 312400 Descend to cruise altitude
+576 2 312401 312433 Adjust heading
+576 3 312434 312802 Inspect along the road
+576 4 312803 312818 Ascend back to the original altitude
+577 0 312819 312823 Move above the road
+577 1 312824 312843 Descend to cruise altitude
+577 2 312844 312850 Adjust heading
+577 3 312851 313219 Inspect along the road
+577 4 313220 313239 Ascend back to the original altitude
+578 0 313240 313244 Move above the road
+578 1 313245 313258 Descend to cruise altitude
+578 2 313259 313280 Adjust heading
+578 3 313281 313649 Inspect along the road
+578 4 313650 313663 Ascend back to the original altitude
+579 0 313664 313667 Move above the road
+579 1 313668 313682 Descend to cruise altitude
+579 2 313683 313685 Adjust heading
+579 3 313686 314054 Inspect along the road
+579 4 314055 314069 Ascend back to the original altitude
+580 0 314070 314071 Move above the road
+580 1 314072 314086 Descend to cruise altitude
+580 2 314087 314093 Adjust heading
+580 3 314094 314462 Inspect along the road
+580 4 314463 314477 Ascend back to the original altitude
+581 0 314478 314481 Move above the road
+581 1 314482 314494 Descend to cruise altitude
+581 2 314495 314510 Adjust heading
+581 3 314511 314879 Inspect along the road
+581 4 314880 314892 Ascend back to the original altitude
+582 0 314893 314897 Move above the road
+582 1 314898 314913 Descend to cruise altitude
+582 2 314914 314942 Adjust heading
+582 3 314943 315311 Inspect along the road
+582 4 315312 315327 Ascend back to the original altitude
+583 0 315328 315333 Move above the road
+583 1 315334 315348 Descend to cruise altitude
+583 2 315349 315368 Adjust heading
+583 3 315369 315737 Inspect along the road
+583 4 315738 315752 Ascend back to the original altitude
+584 0 315753 315758 Move above the road
+584 1 315759 315774 Descend to cruise altitude
+584 2 315775 315781 Adjust heading
+584 3 315782 316150 Inspect along the road
+584 4 316151 316166 Ascend back to the original altitude
+585 0 316167 316170 Move above the road
+585 1 316171 316188 Descend to cruise altitude
+585 2 316189 316199 Adjust heading
+585 3 316200 316567 Inspect along the road
+585 4 316568 316585 Ascend back to the original altitude
+586 0 316586 316591 Move above the road
+586 1 316592 316610 Descend to cruise altitude
+586 2 316611 316637 Adjust heading
+586 3 316638 317005 Inspect along the road
+586 4 317006 317024 Ascend back to the original altitude
+587 0 317025 317027 Move above the road
+587 1 317028 317038 Descend to cruise altitude
+587 2 317039 317066 Adjust heading
+587 3 317067 317434 Inspect along the road
+587 4 317435 317445 Ascend back to the original altitude
+588 0 317446 317449 Move above the road
+588 1 317450 317464 Descend to cruise altitude
+588 2 317465 317488 Adjust heading
+588 3 317489 317856 Inspect along the road
+588 4 317857 317871 Ascend back to the original altitude
+589 0 317872 317876 Move above the road
+589 1 317877 317896 Descend to cruise altitude
+589 2 317897 317917 Adjust heading
+589 3 317918 318285 Inspect along the road
+589 4 318286 318305 Ascend back to the original altitude
+590 0 318306 318311 Move above the road
+590 1 318312 318326 Descend to cruise altitude
+590 2 318327 318357 Adjust heading
+590 3 318358 318725 Inspect along the road
+590 4 318726 318740 Ascend back to the original altitude
+591 0 318741 318746 Move above the road
+591 1 318747 318759 Descend to cruise altitude
+591 2 318760 318761 Adjust heading
+591 3 318762 319129 Inspect along the road
+591 4 319130 319142 Ascend back to the original altitude
+592 0 319143 319147 Move above the road
+592 1 319148 319162 Descend to cruise altitude
+592 2 319163 319171 Adjust heading
+592 3 319172 319539 Inspect along the road
+592 4 319540 319554 Ascend back to the original altitude
+593 0 319555 319558 Move above the road
+593 1 319559 319572 Descend to cruise altitude
+593 2 319573 319593 Adjust heading
+593 3 319594 319961 Inspect along the road
+593 4 319962 319975 Ascend back to the original altitude
+594 0 319976 319981 Move above the road
+594 1 319982 319993 Descend to cruise altitude
+594 2 319994 320010 Adjust heading
+594 3 320011 320378 Inspect along the road
+594 4 320379 320390 Ascend back to the original altitude
+595 0 320391 320396 Move above the road
+595 1 320397 320408 Descend to cruise altitude
+595 2 320409 320440 Adjust heading
+595 3 320441 320808 Inspect along the road
+595 4 320809 320820 Ascend back to the original altitude
+596 0 320821 320823 Move above the road
+596 1 320824 320843 Descend to cruise altitude
+596 2 320844 320872 Adjust heading
+596 3 320873 321240 Inspect along the road
+596 4 321241 321260 Ascend back to the original altitude
+597 0 321261 321266 Move above the road
+597 1 321267 321282 Descend to cruise altitude
+597 2 321283 321303 Adjust heading
+597 3 321304 321671 Inspect along the road
+597 4 321672 321687 Ascend back to the original altitude
+598 0 321688 321691 Move above the road
+598 1 321692 321707 Descend to cruise altitude
+598 2 321708 321740 Adjust heading
+598 3 321741 322108 Inspect along the road
+598 4 322109 322124 Ascend back to the original altitude
+599 0 322125 322128 Move above the road
+599 1 322129 322140 Descend to cruise altitude
+599 2 322141 322147 Adjust heading
+599 3 322148 322515 Inspect along the road
+599 4 322516 322527 Ascend back to the original altitude
+600 0 322528 322532 Move above the road
+600 1 322533 322550 Descend to cruise altitude
+600 2 322551 322581 Adjust heading
+600 3 322582 322927 Inspect along the road
+600 4 322928 322945 Ascend back to the original altitude
+601 0 322946 322951 Move above the road
+601 1 322952 322967 Descend to cruise altitude
+601 2 322968 322978 Adjust heading
+601 3 322979 323324 Inspect along the road
+601 4 323325 323340 Ascend back to the original altitude
+602 0 323341 323344 Move above the road
+602 1 323345 323361 Descend to cruise altitude
+602 2 323362 323395 Adjust heading
+602 3 323396 323741 Inspect along the road
+602 4 323742 323758 Ascend back to the original altitude
+603 0 323759 323763 Move above the road
+603 1 323764 323778 Descend to cruise altitude
+603 2 323779 323803 Adjust heading
+603 3 323804 324149 Inspect along the road
+603 4 324150 324164 Ascend back to the original altitude
+604 0 324165 324168 Move above the road
+604 1 324169 324179 Descend to cruise altitude
+604 2 324180 324213 Adjust heading
+604 3 324214 324559 Inspect along the road
+604 4 324560 324570 Ascend back to the original altitude
+605 0 324571 324573 Move above the road
+605 1 324574 324591 Descend to cruise altitude
+605 2 324592 324616 Adjust heading
+605 3 324617 324962 Inspect along the road
+605 4 324963 324980 Ascend back to the original altitude
+606 0 324981 324986 Move above the road
+606 1 324987 324997 Descend to cruise altitude
+606 2 324998 325013 Adjust heading
+606 3 325014 325359 Inspect along the road
+606 4 325360 325370 Ascend back to the original altitude
+607 0 325371 325375 Move above the road
+607 1 325376 325394 Descend to cruise altitude
+607 2 325395 325412 Adjust heading
+607 3 325413 325758 Inspect along the road
+607 4 325759 325777 Ascend back to the original altitude
+608 0 325778 325782 Move above the road
+608 1 325783 325799 Descend to cruise altitude
+608 2 325800 325834 Adjust heading
+608 3 325835 326180 Inspect along the road
+608 4 326181 326197 Ascend back to the original altitude
+609 0 326198 326202 Move above the road
+609 1 326203 326217 Descend to cruise altitude
+609 2 326218 326238 Adjust heading
+609 3 326239 326584 Inspect along the road
+609 4 326585 326599 Ascend back to the original altitude
+610 0 326600 326605 Move above the road
+610 1 326606 326618 Descend to cruise altitude
+610 2 326619 326623 Adjust heading
+610 3 326624 326969 Inspect along the road
+610 4 326970 326982 Ascend back to the original altitude
+611 0 326983 326987 Move above the road
+611 1 326988 326998 Descend to cruise altitude
+611 2 326999 327001 Adjust heading
+611 3 327002 327347 Inspect along the road
+611 4 327348 327358 Ascend back to the original altitude
+612 0 327359 327363 Move above the road
+612 1 327364 327380 Descend to cruise altitude
+612 2 327381 327398 Adjust heading
+612 3 327399 327744 Inspect along the road
+612 4 327745 327761 Ascend back to the original altitude
+613 0 327762 327767 Move above the road
+613 1 327768 327784 Descend to cruise altitude
+613 2 327785 327789 Adjust heading
+613 3 327790 328135 Inspect along the road
+613 4 328136 328152 Ascend back to the original altitude
+614 0 328153 328157 Move above the road
+614 1 328158 328170 Descend to cruise altitude
+614 2 328171 328175 Adjust heading
+614 3 328176 328521 Inspect along the road
+614 4 328522 328534 Ascend back to the original altitude
+615 0 328535 328540 Move above the road
+615 1 328541 328551 Descend to cruise altitude
+615 2 328552 328578 Adjust heading
+615 3 328579 328924 Inspect along the road
+615 4 328925 328935 Ascend back to the original altitude
+616 0 328936 328939 Move above the road
+616 1 328940 328958 Descend to cruise altitude
+616 2 328959 328985 Adjust heading
+616 3 328986 329331 Inspect along the road
+616 4 329332 329350 Ascend back to the original altitude
+617 0 329351 329355 Move above the road
+617 1 329356 329370 Descend to cruise altitude
+617 2 329371 329377 Adjust heading
+617 3 329378 329723 Inspect along the road
+617 4 329724 329738 Ascend back to the original altitude
+618 0 329739 329744 Move above the road
+618 1 329745 329758 Descend to cruise altitude
+618 2 329759 329763 Adjust heading
+618 3 329764 330109 Inspect along the road
+618 4 330110 330123 Ascend back to the original altitude
+619 0 330124 330126 Move above the road
+619 1 330127 330140 Descend to cruise altitude
+619 2 330141 330142 Adjust heading
+619 3 330143 330488 Inspect along the road
+619 4 330489 330502 Ascend back to the original altitude
+620 0 330503 330507 Move above the road
+620 1 330508 330519 Descend to cruise altitude
+620 2 330520 330545 Adjust heading
+620 3 330546 330891 Inspect along the road
+620 4 330892 330903 Ascend back to the original altitude
+621 0 330904 330909 Move above the road
+621 1 330910 330927 Descend to cruise altitude
+621 2 330928 330939 Adjust heading
+621 3 330940 331285 Inspect along the road
+621 4 331286 331303 Ascend back to the original altitude
+622 0 331304 331306 Move above the road
+622 1 331307 331326 Descend to cruise altitude
+622 2 331327 331356 Adjust heading
+622 3 331357 331702 Inspect along the road
+622 4 331703 331722 Ascend back to the original altitude
+623 0 331723 331725 Move above the road
+623 1 331726 331744 Descend to cruise altitude
+623 2 331745 331776 Adjust heading
+623 3 331777 332122 Inspect along the road
+623 4 332123 332141 Ascend back to the original altitude
+624 0 332142 332146 Move above the road
+624 1 332147 332165 Descend to cruise altitude
+624 2 332166 332199 Adjust heading
+624 3 332200 332545 Inspect along the road
+624 4 332546 332564 Ascend back to the original altitude
+625 0 332565 332566 Move above the road
+625 1 332567 332586 Descend to cruise altitude
+625 2 332587 332596 Adjust heading
+625 3 332597 332942 Inspect along the road
+625 4 332943 332962 Ascend back to the original altitude
+626 0 332963 332966 Move above the road
+626 1 332967 332986 Descend to cruise altitude
+626 2 332987 332988 Adjust heading
+626 3 332989 333334 Inspect along the road
+626 4 333335 333354 Ascend back to the original altitude
+627 0 333355 333359 Move above the road
+627 1 333360 333374 Descend to cruise altitude
+627 2 333375 333406 Adjust heading
+627 3 333407 333752 Inspect along the road
+627 4 333753 333767 Ascend back to the original altitude
+628 0 333768 333770 Move above the road
+628 1 333771 333783 Descend to cruise altitude
+628 2 333784 333792 Adjust heading
+628 3 333793 334138 Inspect along the road
+628 4 334139 334151 Ascend back to the original altitude
+629 0 334152 334154 Move above the road
+629 1 334155 334170 Descend to cruise altitude
+629 2 334171 334187 Adjust heading
+629 3 334188 334533 Inspect along the road
+629 4 334534 334549 Ascend back to the original altitude
+630 0 334550 334553 Move above the road
+630 1 334554 334567 Descend to cruise altitude
+630 2 334568 334588 Adjust heading
+630 3 334589 334790 Inspect along the road
+630 4 334791 334804 Ascend back to the original altitude
+631 0 334805 334810 Move above the road
+631 1 334811 334830 Descend to cruise altitude
+631 2 334831 334831 Adjust heading
+631 3 334832 335033 Inspect along the road
+631 4 335034 335053 Ascend back to the original altitude
+632 0 335054 335059 Move above the road
+632 1 335060 335076 Descend to cruise altitude
+632 2 335077 335096 Adjust heading
+632 3 335097 335298 Inspect along the road
+632 4 335299 335315 Ascend back to the original altitude
+633 0 335316 335321 Move above the road
+633 1 335322 335341 Descend to cruise altitude
+633 2 335342 335365 Adjust heading
+633 3 335366 335567 Inspect along the road
+633 4 335568 335587 Ascend back to the original altitude
+634 0 335588 335593 Move above the road
+634 1 335594 335604 Descend to cruise altitude
+634 2 335605 335633 Adjust heading
+634 3 335634 335835 Inspect along the road
+634 4 335836 335846 Ascend back to the original altitude
+635 0 335847 335851 Move above the road
+635 1 335852 335865 Descend to cruise altitude
+635 2 335866 335888 Adjust heading
+635 3 335889 336090 Inspect along the road
+635 4 336091 336104 Ascend back to the original altitude
+636 0 336105 336109 Move above the road
+636 1 336110 336129 Descend to cruise altitude
+636 2 336130 336147 Adjust heading
+636 3 336148 336349 Inspect along the road
+636 4 336350 336369 Ascend back to the original altitude
+637 0 336370 336373 Move above the road
+637 1 336374 336389 Descend to cruise altitude
+637 2 336390 336419 Adjust heading
+637 3 336420 336621 Inspect along the road
+637 4 336622 336637 Ascend back to the original altitude
+638 0 336638 336643 Move above the road
+638 1 336644 336656 Descend to cruise altitude
+638 2 336657 336672 Adjust heading
+638 3 336673 336874 Inspect along the road
+638 4 336875 336887 Ascend back to the original altitude
+639 0 336888 336889 Move above the road
+639 1 336890 336904 Descend to cruise altitude
+639 2 336905 336912 Adjust heading
+639 3 336913 337114 Inspect along the road
+639 4 337115 337129 Ascend back to the original altitude
+640 0 337130 337134 Move above the road
+640 1 337135 337152 Descend to cruise altitude
+640 2 337153 337180 Adjust heading
+640 3 337181 337382 Inspect along the road
+640 4 337383 337400 Ascend back to the original altitude
+641 0 337401 337405 Move above the road
+641 1 337406 337416 Descend to cruise altitude
+641 2 337417 337429 Adjust heading
+641 3 337430 337631 Inspect along the road
+641 4 337632 337642 Ascend back to the original altitude
+642 0 337643 337648 Move above the road
+642 1 337649 337659 Descend to cruise altitude
+642 2 337660 337685 Adjust heading
+642 3 337686 337887 Inspect along the road
+642 4 337888 337898 Ascend back to the original altitude
+643 0 337899 337904 Move above the road
+643 1 337905 337920 Descend to cruise altitude
+643 2 337921 337941 Adjust heading
+643 3 337942 338143 Inspect along the road
+643 4 338144 338159 Ascend back to the original altitude
+644 0 338160 338165 Move above the road
+644 1 338166 338177 Descend to cruise altitude
+644 2 338178 338178 Adjust heading
+644 3 338179 338380 Inspect along the road
+644 4 338381 338392 Ascend back to the original altitude
+645 0 338393 338394 Move above the road
+645 1 338395 338405 Descend to cruise altitude
+645 2 338406 338420 Adjust heading
+645 3 338421 338622 Inspect along the road
+645 4 338623 338633 Ascend back to the original altitude
+646 0 338634 338635 Move above the road
+646 1 338636 338649 Descend to cruise altitude
+646 2 338650 338666 Adjust heading
+646 3 338667 338868 Inspect along the road
+646 4 338869 338882 Ascend back to the original altitude
+647 0 338883 338887 Move above the road
+647 1 338888 338905 Descend to cruise altitude
+647 2 338906 338940 Adjust heading
+647 3 338941 339142 Inspect along the road
+647 4 339143 339160 Ascend back to the original altitude
+648 0 339161 339166 Move above the road
+648 1 339167 339179 Descend to cruise altitude
+648 2 339180 339214 Adjust heading
+648 3 339215 339416 Inspect along the road
+648 4 339417 339429 Ascend back to the original altitude
+649 0 339430 339432 Move above the road
+649 1 339433 339452 Descend to cruise altitude
+649 2 339453 339484 Adjust heading
+649 3 339485 339686 Inspect along the road
+649 4 339687 339706 Ascend back to the original altitude
+650 0 339707 339711 Move above the road
+650 1 339712 339726 Descend to cruise altitude
+650 2 339727 339751 Adjust heading
+650 3 339752 339953 Inspect along the road
+650 4 339954 339968 Ascend back to the original altitude
+651 0 339969 339970 Move above the road
+651 1 339971 339987 Descend to cruise altitude
+651 2 339988 339999 Adjust heading
+651 3 340000 340201 Inspect along the road
+651 4 340202 340218 Ascend back to the original altitude
+652 0 340219 340224 Move above the road
+652 1 340225 340243 Descend to cruise altitude
+652 2 340244 340272 Adjust heading
+652 3 340273 340474 Inspect along the road
+652 4 340475 340493 Ascend back to the original altitude
+653 0 340494 340498 Move above the road
+653 1 340499 340511 Descend to cruise altitude
+653 2 340512 340517 Adjust heading
+653 3 340518 340719 Inspect along the road
+653 4 340720 340732 Ascend back to the original altitude
+654 0 340733 340736 Move above the road
+654 1 340737 340755 Descend to cruise altitude
+654 2 340756 340790 Adjust heading
+654 3 340791 340992 Inspect along the road
+654 4 340993 341011 Ascend back to the original altitude
+655 0 341012 341017 Move above the road
+655 1 341018 341030 Descend to cruise altitude
+655 2 341031 341063 Adjust heading
+655 3 341064 341265 Inspect along the road
+655 4 341266 341278 Ascend back to the original altitude
+656 0 341279 341283 Move above the road
+656 1 341284 341299 Descend to cruise altitude
+656 2 341300 341303 Adjust heading
+656 3 341304 341505 Inspect along the road
+656 4 341506 341521 Ascend back to the original altitude
+657 0 341522 341525 Move above the road
+657 1 341526 341536 Descend to cruise altitude
+657 2 341537 341542 Adjust heading
+657 3 341543 341744 Inspect along the road
+657 4 341745 341755 Ascend back to the original altitude
+658 0 341756 341761 Move above the road
+658 1 341762 341777 Descend to cruise altitude
+658 2 341778 341778 Adjust heading
+658 3 341779 341980 Inspect along the road
+658 4 341981 341996 Ascend back to the original altitude
+659 0 341997 342001 Move above the road
+659 1 342002 342020 Descend to cruise altitude
+659 2 342021 342034 Adjust heading
+659 3 342035 342236 Inspect along the road
+659 4 342237 342255 Ascend back to the original altitude
+660 0 342256 342261 Move above the road
+660 1 342262 342277 Descend to cruise altitude
+660 2 342278 342310 Adjust heading
+660 3 342311 342464 Inspect along the road
+660 4 342465 342480 Ascend back to the original altitude
+661 0 342481 342484 Move above the road
+661 1 342485 342502 Descend to cruise altitude
+661 2 342503 342531 Adjust heading
+661 3 342532 342685 Inspect along the road
+661 4 342686 342703 Ascend back to the original altitude
+662 0 342704 342709 Move above the road
+662 1 342710 342729 Descend to cruise altitude
+662 2 342730 342730 Adjust heading
+662 3 342731 342884 Inspect along the road
+662 4 342885 342904 Ascend back to the original altitude
+663 0 342905 342910 Move above the road
+663 1 342911 342925 Descend to cruise altitude
+663 2 342926 342958 Adjust heading
+663 3 342959 343112 Inspect along the road
+663 4 343113 343127 Ascend back to the original altitude
+664 0 343128 343132 Move above the road
+664 1 343133 343144 Descend to cruise altitude
+664 2 343145 343156 Adjust heading
+664 3 343157 343310 Inspect along the road
+664 4 343311 343322 Ascend back to the original altitude
+665 0 343323 343328 Move above the road
+665 1 343329 343342 Descend to cruise altitude
+665 2 343343 343352 Adjust heading
+665 3 343353 343506 Inspect along the road
+665 4 343507 343520 Ascend back to the original altitude
+666 0 343521 343525 Move above the road
+666 1 343526 343544 Descend to cruise altitude
+666 2 343545 343567 Adjust heading
+666 3 343568 343721 Inspect along the road
+666 4 343722 343740 Ascend back to the original altitude
+667 0 343741 343745 Move above the road
+667 1 343746 343762 Descend to cruise altitude
+667 2 343763 343765 Adjust heading
+667 3 343766 343919 Inspect along the road
+667 4 343920 343936 Ascend back to the original altitude
+668 0 343937 343941 Move above the road
+668 1 343942 343957 Descend to cruise altitude
+668 2 343958 343964 Adjust heading
+668 3 343965 344118 Inspect along the road
+668 4 344119 344134 Ascend back to the original altitude
+669 0 344135 344139 Move above the road
+669 1 344140 344157 Descend to cruise altitude
+669 2 344158 344160 Adjust heading
+669 3 344161 344314 Inspect along the road
+669 4 344315 344332 Ascend back to the original altitude
+670 0 344333 344338 Move above the road
+670 1 344339 344350 Descend to cruise altitude
+670 2 344351 344363 Adjust heading
+670 3 344364 344517 Inspect along the road
+670 4 344518 344529 Ascend back to the original altitude
+671 0 344530 344533 Move above the road
+671 1 344534 344546 Descend to cruise altitude
+671 2 344547 344566 Adjust heading
+671 3 344567 344720 Inspect along the road
+671 4 344721 344733 Ascend back to the original altitude
+672 0 344734 344737 Move above the road
+672 1 344738 344757 Descend to cruise altitude
+672 2 344758 344758 Adjust heading
+672 3 344759 344912 Inspect along the road
+672 4 344913 344932 Ascend back to the original altitude
+673 0 344933 344938 Move above the road
+673 1 344939 344957 Descend to cruise altitude
+673 2 344958 344973 Adjust heading
+673 3 344974 345127 Inspect along the road
+673 4 345128 345146 Ascend back to the original altitude
+674 0 345147 345152 Move above the road
+674 1 345153 345166 Descend to cruise altitude
+674 2 345167 345200 Adjust heading
+674 3 345201 345354 Inspect along the road
+674 4 345355 345368 Ascend back to the original altitude
+675 0 345369 345374 Move above the road
+675 1 345375 345388 Descend to cruise altitude
+675 2 345389 345395 Adjust heading
+675 3 345396 345549 Inspect along the road
+675 4 345550 345563 Ascend back to the original altitude
+676 0 345564 345569 Move above the road
+676 1 345570 345588 Descend to cruise altitude
+676 2 345589 345610 Adjust heading
+676 3 345611 345764 Inspect along the road
+676 4 345765 345783 Ascend back to the original altitude
+677 0 345784 345787 Move above the road
+677 1 345788 345807 Descend to cruise altitude
+677 2 345808 345830 Adjust heading
+677 3 345831 345984 Inspect along the road
+677 4 345985 346004 Ascend back to the original altitude
+678 0 346005 346008 Move above the road
+678 1 346009 346027 Descend to cruise altitude
+678 2 346028 346049 Adjust heading
+678 3 346050 346203 Inspect along the road
+678 4 346204 346222 Ascend back to the original altitude
+679 0 346223 346227 Move above the road
+679 1 346228 346238 Descend to cruise altitude
+679 2 346239 346263 Adjust heading
+679 3 346264 346417 Inspect along the road
+679 4 346418 346428 Ascend back to the original altitude
+680 0 346429 346433 Move above the road
+680 1 346434 346447 Descend to cruise altitude
+680 2 346448 346482 Adjust heading
+680 3 346483 346636 Inspect along the road
+680 4 346637 346650 Ascend back to the original altitude
+681 0 346651 346654 Move above the road
+681 1 346655 346672 Descend to cruise altitude
+681 2 346673 346687 Adjust heading
+681 3 346688 346841 Inspect along the road
+681 4 346842 346859 Ascend back to the original altitude
+682 0 346860 346864 Move above the road
+682 1 346865 346875 Descend to cruise altitude
+682 2 346876 346902 Adjust heading
+682 3 346903 347056 Inspect along the road
+682 4 347057 347067 Ascend back to the original altitude
+683 0 347068 347072 Move above the road
+683 1 347073 347085 Descend to cruise altitude
+683 2 347086 347117 Adjust heading
+683 3 347118 347271 Inspect along the road
+683 4 347272 347284 Ascend back to the original altitude
+684 0 347285 347288 Move above the road
+684 1 347289 347306 Descend to cruise altitude
+684 2 347307 347330 Adjust heading
+684 3 347331 347484 Inspect along the road
+684 4 347485 347502 Ascend back to the original altitude
+685 0 347503 347505 Move above the road
+685 1 347506 347517 Descend to cruise altitude
+685 2 347518 347527 Adjust heading
+685 3 347528 347681 Inspect along the road
+685 4 347682 347693 Ascend back to the original altitude
+686 0 347694 347698 Move above the road
+686 1 347699 347711 Descend to cruise altitude
+686 2 347712 347730 Adjust heading
+686 3 347731 347884 Inspect along the road
+686 4 347885 347897 Ascend back to the original altitude
+687 0 347898 347902 Move above the road
+687 1 347903 347915 Descend to cruise altitude
+687 2 347916 347928 Adjust heading
+687 3 347929 348082 Inspect along the road
+687 4 348083 348095 Ascend back to the original altitude
+688 0 348096 348101 Move above the road
+688 1 348102 348120 Descend to cruise altitude
+688 2 348121 348128 Adjust heading
+688 3 348129 348282 Inspect along the road
+688 4 348283 348301 Ascend back to the original altitude
+689 0 348302 348307 Move above the road
+689 1 348308 348324 Descend to cruise altitude
+689 2 348325 348352 Adjust heading
+689 3 348353 348506 Inspect along the road
+689 4 348507 348523 Ascend back to the original altitude

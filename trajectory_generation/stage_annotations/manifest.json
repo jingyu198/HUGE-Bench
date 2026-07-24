@@ -1,0 +1,167 @@
+{
+  "format_version": 1,
+  "source_dataset": "yu781986168/HUGE_Dataset_v0",
+  "task_order": [
+    "0",
+    "hl",
+    "building",
+    "farm",
+    "obstacle",
+    "orbit",
+    "road",
+    "orbit_multi"
+  ],
+  "splits": {
+    "train": {
+      "episodes": 5175,
+      "stage_segments": 23115
+    },
+    "test_seen": {
+      "episodes": 576,
+      "stage_segments": 2573
+    },
+    "test_unseen": {
+      "episodes": 417,
+      "stage_segments": 1851
+    }
+  },
+  "total_episodes": 6168,
+  "total_stage_segments": 27539,
+  "raw_subtask_files": 20,
+  "provenance": {
+    "original_raw": "All non-obstacle tasks.",
+    "recovered_from_released_actions": "Obstacle turn/fly boundaries recovered from released actions."
+  },
+  "files": [
+    {
+      "path": "episode_mapping/test_seen.jsonl",
+      "size_bytes": 190820,
+      "sha256": "649de3762a4a77a041945523ae82350012310e90b32c3ae223e044d9a6793baf"
+    },
+    {
+      "path": "episode_mapping/test_unseen.jsonl",
+      "size_bytes": 138739,
+      "sha256": "c3bface625f39795f48b621f5d95b49739ac48cbc49e3f77cd58b73928f3eab7"
+    },
+    {
+      "path": "episode_mapping/train.jsonl",
+      "size_bytes": 1721621,
+      "sha256": "9da7675d37732ab948d72030fd8d684c6625fd8edae1ced8b914858b4c9986a5"
+    },
+    {
+      "path": "raw_subtasks/task_0/1_office/subtask.txt",
+      "size_bytes": 152519,
+      "sha256": "a583aefba8fb2a0ab58f0ddab312b6760cdec19c4d5be159514936f64920c908"
+    },
+    {
+      "path": "raw_subtasks/task_0/2_city/subtask.txt",
+      "size_bytes": 148694,
+      "sha256": "11443db2c0c088a3f72658af2ed9acabae7b86f7aed82cdabf831435ab578df3"
+    },
+    {
+      "path": "raw_subtasks/task_0/3_road/subtask.txt",
+      "size_bytes": 145949,
+      "sha256": "9ce76e0c436531b382ab29329244a787f10b93d43e85c7c17a2f92f16fd56776"
+    },
+    {
+      "path": "raw_subtasks/task_0/4_lake/subtask.txt",
+      "size_bytes": 143924,
+      "sha256": "f8605bbc13f48bad72f959403e7d265cef2d84ea4d35be214251aabb33b7195a"
+    },
+    {
+      "path": "raw_subtasks/task_building/1_office/subtask.txt",
+      "size_bytes": 84719,
+      "sha256": "279122077038763153d8bab8f0c7c10860d029fbc5cec6a3854d22e6c6025e53"
+    },
+    {
+      "path": "raw_subtasks/task_building/2_city/subtask.txt",
+      "size_bytes": 107291,
+      "sha256": "d1461d42c8dd4b30e53a590e6f6965f8926ad67d5cd44cd18b57259020de25b4"
+    },
+    {
+      "path": "raw_subtasks/task_farm/3_road/subtask.txt",
+      "size_bytes": 131962,
+      "sha256": "4654d243a0279d9c1d3a3c7978d4204ae3dad56b6754b9928e35a984512740a0"
+    },
+    {
+      "path": "raw_subtasks/task_hl/1_office/subtask.txt",
+      "size_bytes": 111625,
+      "sha256": "e53ffdd372ebbac55673d2750bf12ef3e122f38cbd2275344286f69134844e9b"
+    },
+    {
+      "path": "raw_subtasks/task_hl/2_city/subtask.txt",
+      "size_bytes": 109069,
+      "sha256": "2af12654ebc670be6e3170f959b7be1635977eea91dee2db5d2b2068301cb725"
+    },
+    {
+      "path": "raw_subtasks/task_hl/3_road/subtask.txt",
+      "size_bytes": 107521,
+      "sha256": "2927dfb2d4ba6f4d7726613ec8dfc8fcc53051870732bd37bfa59427cb759b18"
+    },
+    {
+      "path": "raw_subtasks/task_hl/4_lake/subtask.txt",
+      "size_bytes": 106477,
+      "sha256": "1ceedc98bc9aa45333bf1fc851b2670dd13a03d1176210e67fea950e513accf4"
+    },
+    {
+      "path": "raw_subtasks/task_orbit/1_office/subtask.txt",
+      "size_bytes": 121649,
+      "sha256": "13f97d3f4b7683e991aa030850f04596ba2b91acb2467af6670df61aae57ef91"
+    },
+    {
+      "path": "raw_subtasks/task_orbit/2_city/subtask.txt",
+      "size_bytes": 119093,
+      "sha256": "fc5560b934573cecf95956034a6ccf19066f490dad5d41a4d909be4fc208ed8e"
+    },
+    {
+      "path": "raw_subtasks/task_orbit/3_road/subtask.txt",
+      "size_bytes": 117545,
+      "sha256": "4c4153fd59af955fdf6b4a8cf9a288f50adf4b541437ee6b78fd3dedfd3f25ba"
+    },
+    {
+      "path": "raw_subtasks/task_orbit/4_lake/subtask.txt",
+      "size_bytes": 116501,
+      "sha256": "a22827ac88732a042ca31579d2c710c79b8b5d33153f9d858a2a1d67ed968ebf"
+    },
+    {
+      "path": "raw_subtasks/task_orbit_multi/1_office/subtask.txt",
+      "size_bytes": 76311,
+      "sha256": "60e85201534240311b4255fb4775eb3045c200ed90138de53f346d1342497f5f"
+    },
+    {
+      "path": "raw_subtasks/task_orbit_multi/2_city/subtask.txt",
+      "size_bytes": 74896,
+      "sha256": "cb1ff3bf89fcc9b77193b1055a327005e717a8839bfd473ccc3323b816bb4d84"
+    },
+    {
+      "path": "raw_subtasks/task_orbit_multi/3_road/subtask.txt",
+      "size_bytes": 74033,
+      "sha256": "a87d97859eaab9e7b6239e3023ed0ab582b6d67d0f233a8f23f955486d99768d"
+    },
+    {
+      "path": "raw_subtasks/task_orbit_multi/4_lake/subtask.txt",
+      "size_bytes": 73455,
+      "sha256": "1804a8008aed36c64413e3dc2ea5a38ebe64118015b4ceb544955333a2b539b2"
+    },
+    {
+      "path": "raw_subtasks/task_road/3_road/subtask.txt",
+      "size_bytes": 154558,
+      "sha256": "369b087f2514689b109311a28d0d15a06eea813d8bbd3ee2439fad0a785b7094"
+    },
+    {
+      "path": "stage_segments/test_seen.jsonl",
+      "size_bytes": 664553,
+      "sha256": "8d1ed24c9bbaba8cb48fba568457206d2f0e003f1abdc0da0192e0bfb8394a8e"
+    },
+    {
+      "path": "stage_segments/test_unseen.jsonl",
+      "size_bytes": 476311,
+      "sha256": "21ed014d91ba0de91d3f69666fb8c5e062adfeac0defd4c0e9c77c9aae7ea448"
+    },
+    {
+      "path": "stage_segments/train.jsonl",
+      "size_bytes": 5981548,
+      "sha256": "3be8a07c400368dc99475c0f05e9501c208e91377cdbba982416205f20d6b42c"
+    }
+  ]
+}

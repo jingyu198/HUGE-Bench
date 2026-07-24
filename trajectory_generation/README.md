@@ -12,6 +12,12 @@ The scripts are adapted from the internal data-generation workspace and are kept
 close to the original task logic. Paths are configurable through environment
 variables and command-line arguments.
 
+The original multi-stage `subtask.txt` files and their mapping to the released
+`HUGE_Dataset_v0` LeRobot episode indices are available under
+[`stage_annotations/`](stage_annotations/README.md). They are released as
+sidecar annotations because the current parquet files do not contain a
+`subtask_phase` column.
+
 ## Data Layout
 
 Expected dataset root:

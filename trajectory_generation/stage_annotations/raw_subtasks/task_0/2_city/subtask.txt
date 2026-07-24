@@ -1,0 +1,2251 @@
+# traj_id  subtask_id  pose_id_start  pose_id_end  subtask
+0 0 0 18 Turn to face the highway toll gate structure.
+0 1 19 58 Fly to above the highway toll gate structure.
+0 2 59 112 Descend to 40 meters above the highway toll gate structure.
+1 0 113 121 Turn to face the highway toll gate structure.
+1 1 122 181 Fly to above the highway toll gate structure.
+1 2 182 217 Descend to 60 meters above the highway toll gate structure.
+2 0 218 245 Turn to face the highway toll gate structure.
+2 1 246 282 Fly to above the highway toll gate structure.
+2 2 283 315 Descend to 60 meters above the highway toll gate structure.
+3 0 316 339 Turn to face the highway toll gate structure.
+3 1 340 379 Fly to above the highway toll gate structure.
+3 2 380 421 Descend to 50 meters above the highway toll gate structure.
+4 0 422 441 Turn to face the highway toll gate structure.
+4 1 442 489 Fly to above the highway toll gate structure.
+4 2 490 517 Descend to 60 meters above the highway toll gate structure.
+5 0 518 530 Turn to face the highway toll gate structure.
+5 1 531 587 Fly to above the highway toll gate structure.
+5 2 588 611 Descend to 60 meters above the highway toll gate structure.
+6 0 612 626 Turn to face the highway toll gate structure.
+6 1 627 650 Fly to above the highway toll gate structure.
+6 2 651 695 Descend to 50 meters above the highway toll gate structure.
+7 0 696 717 Turn to face the highway toll gate structure.
+7 1 718 752 Fly to above the highway toll gate structure.
+7 2 753 802 Descend to 40 meters above the highway toll gate structure.
+8 0 803 822 Turn to face the highway toll gate structure.
+8 1 823 864 Fly to above the highway toll gate structure.
+8 2 865 908 Descend to 50 meters above the highway toll gate structure.
+9 0 909 934 Turn to face the highway toll gate structure.
+9 1 935 989 Fly to above the highway toll gate structure.
+9 2 990 1036 Descend to 40 meters above the highway toll gate structure.
+10 0 1037 1061 Turn to face the highway toll gate structure.
+10 1 1062 1099 Fly to above the highway toll gate structure.
+10 2 1100 1143 Descend to 50 meters above the highway toll gate structure.
+11 0 1144 1154 Turn to face the highway toll gate structure.
+11 1 1155 1181 Fly to above the highway toll gate structure.
+11 2 1182 1217 Descend to 60 meters above the highway toll gate structure.
+12 0 1218 1230 Turn to face the highway toll gate structure.
+12 1 1231 1284 Fly to above the highway toll gate structure.
+12 2 1285 1326 Descend to 50 meters above the highway toll gate structure.
+13 0 1327 1354 Turn to face the highway toll gate structure.
+13 1 1355 1375 Fly to above the highway toll gate structure.
+13 2 1376 1405 Descend to 60 meters above the highway toll gate structure.
+14 0 1406 1423 Turn to face the highway toll gate structure.
+14 1 1424 1471 Fly to above the highway toll gate structure.
+14 2 1472 1523 Descend to 40 meters above the highway toll gate structure.
+15 0 1524 1556 Turn to face the multi-lane bridge roadway.
+15 1 1557 1567 Fly to above the multi-lane bridge roadway.
+15 2 1568 1592 Descend to 60 meters above the multi-lane bridge roadway.
+16 0 1593 1611 Turn to face the multi-lane bridge roadway.
+16 1 1612 1641 Fly to above the multi-lane bridge roadway.
+16 2 1642 1667 Descend to 60 meters above the multi-lane bridge roadway.
+17 0 1668 1695 Turn to face the multi-lane bridge roadway.
+17 1 1696 1744 Fly to above the multi-lane bridge roadway.
+17 2 1745 1780 Descend to 60 meters above the multi-lane bridge roadway.
+18 0 1781 1810 Turn to face the multi-lane bridge roadway.
+18 1 1811 1865 Fly to above the multi-lane bridge roadway.
+18 2 1866 1896 Descend to 50 meters above the multi-lane bridge roadway.
+19 0 1897 1929 Turn to face the multi-lane bridge roadway.
+19 1 1930 1980 Fly to above the multi-lane bridge roadway.
+19 2 1981 2014 Descend to 50 meters above the multi-lane bridge roadway.
+20 0 2015 2039 Turn to face the multi-lane bridge roadway.
+20 1 2040 2090 Fly to above the multi-lane bridge roadway.
+20 2 2091 2118 Descend to 60 meters above the multi-lane bridge roadway.
+21 0 2119 2136 Turn to face the multi-lane bridge roadway.
+21 1 2137 2184 Fly to above the multi-lane bridge roadway.
+21 2 2185 2226 Descend to 40 meters above the multi-lane bridge roadway.
+22 0 2227 2242 Turn to face the multi-lane bridge roadway.
+22 1 2243 2300 Fly to above the multi-lane bridge roadway.
+22 2 2301 2336 Descend to 50 meters above the multi-lane bridge roadway.
+23 0 2337 2339 Turn to face the multi-lane bridge roadway.
+23 1 2340 2392 Fly to above the multi-lane bridge roadway.
+23 2 2393 2421 Descend to 60 meters above the multi-lane bridge roadway.
+24 0 2422 2446 Turn to face the multi-lane bridge roadway.
+24 1 2447 2504 Fly to above the multi-lane bridge roadway.
+24 2 2505 2549 Descend to 40 meters above the multi-lane bridge roadway.
+25 0 2550 2554 Turn to face the multi-lane bridge roadway.
+25 1 2555 2600 Fly to above the multi-lane bridge roadway.
+25 2 2601 2658 Descend to 40 meters above the multi-lane bridge roadway.
+26 0 2659 2692 Turn to face the multi-lane bridge roadway.
+26 1 2693 2732 Fly to above the multi-lane bridge roadway.
+26 2 2733 2774 Descend to 50 meters above the multi-lane bridge roadway.
+27 0 2775 2804 Turn to face the multi-lane bridge roadway.
+27 1 2805 2822 Fly to above the multi-lane bridge roadway.
+27 2 2823 2843 Descend to 60 meters above the multi-lane bridge roadway.
+28 0 2844 2874 Turn to face the multi-lane bridge roadway.
+28 1 2875 2897 Fly to above the multi-lane bridge roadway.
+28 2 2898 2949 Descend to 40 meters above the multi-lane bridge roadway.
+29 0 2950 2984 Turn to face the multi-lane bridge roadway.
+29 1 2985 3042 Fly to above the multi-lane bridge roadway.
+29 2 3043 3089 Descend to 40 meters above the multi-lane bridge roadway.
+30 0 3090 3096 Turn to face the elevated skybridge walkway.
+30 1 3097 3155 Fly to above the elevated skybridge walkway.
+30 2 3156 3211 Descend to 40 meters above the elevated skybridge walkway.
+31 0 3212 3241 Turn to face the elevated skybridge walkway.
+31 1 3242 3283 Fly to above the elevated skybridge walkway.
+31 2 3284 3342 Descend to 40 meters above the elevated skybridge walkway.
+32 0 3343 3370 Turn to face the elevated skybridge walkway.
+32 1 3371 3402 Fly to above the elevated skybridge walkway.
+32 2 3403 3443 Descend to 50 meters above the elevated skybridge walkway.
+33 0 3444 3456 Turn to face the elevated skybridge walkway.
+33 1 3457 3465 Fly to above the elevated skybridge walkway.
+33 2 3466 3513 Descend to 50 meters above the elevated skybridge walkway.
+34 0 3514 3548 Turn to face the elevated skybridge walkway.
+34 1 3549 3568 Fly to above the elevated skybridge walkway.
+34 2 3569 3614 Descend to 40 meters above the elevated skybridge walkway.
+35 0 3615 3639 Turn to face the elevated skybridge walkway.
+35 1 3640 3691 Fly to above the elevated skybridge walkway.
+35 2 3692 3724 Descend to 50 meters above the elevated skybridge walkway.
+36 0 3725 3740 Turn to face the elevated skybridge walkway.
+36 1 3741 3752 Fly to above the elevated skybridge walkway.
+36 2 3753 3780 Descend to 60 meters above the elevated skybridge walkway.
+37 0 3781 3814 Turn to face the elevated skybridge walkway.
+37 1 3815 3868 Fly to above the elevated skybridge walkway.
+37 2 3869 3928 Descend to 40 meters above the elevated skybridge walkway.
+38 0 3929 3956 Turn to face the elevated skybridge walkway.
+38 1 3957 3987 Fly to above the elevated skybridge walkway.
+38 2 3988 4021 Descend to 50 meters above the elevated skybridge walkway.
+39 0 4022 4039 Turn to face the elevated skybridge walkway.
+39 1 4040 4079 Fly to above the elevated skybridge walkway.
+39 2 4080 4127 Descend to 50 meters above the elevated skybridge walkway.
+40 0 4128 4144 Turn to face the elevated skybridge walkway.
+40 1 4145 4201 Fly to above the elevated skybridge walkway.
+40 2 4202 4228 Descend to 60 meters above the elevated skybridge walkway.
+41 0 4229 4237 Turn to face the elevated skybridge walkway.
+41 1 4238 4286 Fly to above the elevated skybridge walkway.
+41 2 4287 4308 Descend to 60 meters above the elevated skybridge walkway.
+42 0 4309 4314 Turn to face the elevated skybridge walkway.
+42 1 4315 4373 Fly to above the elevated skybridge walkway.
+42 2 4374 4406 Descend to 50 meters above the elevated skybridge walkway.
+43 0 4407 4420 Turn to face the elevated skybridge walkway.
+43 1 4421 4444 Fly to above the elevated skybridge walkway.
+43 2 4445 4496 Descend to 40 meters above the elevated skybridge walkway.
+44 0 4497 4512 Turn to face the elevated skybridge walkway.
+44 1 4513 4546 Fly to above the elevated skybridge walkway.
+44 2 4547 4606 Descend to 40 meters above the elevated skybridge walkway.
+45 0 4607 4633 Turn to face the signalized road intersection with zebra crosswalks.
+45 1 4634 4656 Fly to above the signalized road intersection with zebra crosswalks.
+45 2 4657 4701 Descend to 40 meters above the signalized road intersection with zebra crosswalks.
+46 0 4702 4731 Turn to face the signalized road intersection with zebra crosswalks.
+46 1 4732 4752 Fly to above the signalized road intersection with zebra crosswalks.
+46 2 4753 4806 Descend to 40 meters above the signalized road intersection with zebra crosswalks.
+47 0 4807 4837 Turn to face the signalized road intersection with zebra crosswalks.
+47 1 4838 4864 Fly to above the signalized road intersection with zebra crosswalks.
+47 2 4865 4899 Descend to 60 meters above the signalized road intersection with zebra crosswalks.
+48 0 4900 4908 Turn to face the signalized road intersection with zebra crosswalks.
+48 1 4909 4930 Fly to above the signalized road intersection with zebra crosswalks.
+48 2 4931 4958 Descend to 60 meters above the signalized road intersection with zebra crosswalks.
+49 0 4959 4966 Turn to face the signalized road intersection with zebra crosswalks.
+49 1 4967 5008 Fly to above the signalized road intersection with zebra crosswalks.
+49 2 5009 5068 Descend to 40 meters above the signalized road intersection with zebra crosswalks.
+50 0 5069 5071 Turn to face the signalized road intersection with zebra crosswalks.
+50 1 5072 5081 Fly to above the signalized road intersection with zebra crosswalks.
+50 2 5082 5114 Descend to 60 meters above the signalized road intersection with zebra crosswalks.
+51 0 5115 5137 Turn to face the signalized road intersection with zebra crosswalks.
+51 1 5138 5160 Fly to above the signalized road intersection with zebra crosswalks.
+51 2 5161 5200 Descend to 60 meters above the signalized road intersection with zebra crosswalks.
+52 0 5201 5203 Turn to face the signalized road intersection with zebra crosswalks.
+52 1 5204 5257 Fly to above the signalized road intersection with zebra crosswalks.
+52 2 5258 5313 Descend to 40 meters above the signalized road intersection with zebra crosswalks.
+53 0 5314 5319 Turn to face the signalized road intersection with zebra crosswalks.
+53 1 5320 5339 Fly to above the signalized road intersection with zebra crosswalks.
+53 2 5340 5375 Descend to 60 meters above the signalized road intersection with zebra crosswalks.
+54 0 5376 5378 Turn to face the signalized road intersection with zebra crosswalks.
+54 1 5379 5425 Fly to above the signalized road intersection with zebra crosswalks.
+54 2 5426 5468 Descend to 50 meters above the signalized road intersection with zebra crosswalks.
+55 0 5469 5472 Turn to face the signalized road intersection with zebra crosswalks.
+55 1 5473 5509 Fly to above the signalized road intersection with zebra crosswalks.
+55 2 5510 5553 Descend to 50 meters above the signalized road intersection with zebra crosswalks.
+56 0 5554 5558 Turn to face the signalized road intersection with zebra crosswalks.
+56 1 5559 5588 Fly to above the signalized road intersection with zebra crosswalks.
+56 2 5589 5643 Descend to 40 meters above the signalized road intersection with zebra crosswalks.
+57 0 5644 5673 Turn to face the signalized road intersection with zebra crosswalks.
+57 1 5674 5693 Fly to above the signalized road intersection with zebra crosswalks.
+57 2 5694 5735 Descend to 50 meters above the signalized road intersection with zebra crosswalks.
+58 0 5736 5769 Turn to face the signalized road intersection with zebra crosswalks.
+58 1 5770 5803 Fly to above the signalized road intersection with zebra crosswalks.
+58 2 5804 5862 Descend to 40 meters above the signalized road intersection with zebra crosswalks.
+59 0 5863 5888 Turn to face the signalized road intersection with zebra crosswalks.
+59 1 5889 5921 Fly to above the signalized road intersection with zebra crosswalks.
+59 2 5922 5944 Descend to 60 meters above the signalized road intersection with zebra crosswalks.
+60 0 5945 5953 Turn to face the tree-lined arterial road.
+60 1 5954 5979 Fly to above the tree-lined arterial road.
+60 2 5980 6011 Descend to 60 meters above the tree-lined arterial road.
+61 0 6012 6015 Turn to face the tree-lined arterial road.
+61 1 6016 6053 Fly to above the tree-lined arterial road.
+61 2 6054 6104 Descend to 40 meters above the tree-lined arterial road.
+62 0 6105 6135 Turn to face the tree-lined arterial road.
+62 1 6136 6148 Fly to above the tree-lined arterial road.
+62 2 6149 6173 Descend to 60 meters above the tree-lined arterial road.
+63 0 6174 6205 Turn to face the tree-lined arterial road.
+63 1 6206 6251 Fly to above the tree-lined arterial road.
+63 2 6252 6272 Descend to 60 meters above the tree-lined arterial road.
+64 0 6273 6301 Turn to face the tree-lined arterial road.
+64 1 6302 6321 Fly to above the tree-lined arterial road.
+64 2 6322 6343 Descend to 60 meters above the tree-lined arterial road.
+65 0 6344 6369 Turn to face the tree-lined arterial road.
+65 1 6370 6388 Fly to above the tree-lined arterial road.
+65 2 6389 6437 Descend to 50 meters above the tree-lined arterial road.
+66 0 6438 6438 Turn to face the tree-lined arterial road.
+66 1 6439 6491 Fly to above the tree-lined arterial road.
+66 2 6492 6547 Descend to 40 meters above the tree-lined arterial road.
+67 0 6548 6579 Turn to face the tree-lined arterial road.
+67 1 6580 6623 Fly to above the tree-lined arterial road.
+67 2 6624 6661 Descend to 60 meters above the tree-lined arterial road.
+68 0 6662 6681 Turn to face the tree-lined arterial road.
+68 1 6682 6729 Fly to above the tree-lined arterial road.
+68 2 6730 6752 Descend to 60 meters above the tree-lined arterial road.
+69 0 6753 6778 Turn to face the tree-lined arterial road.
+69 1 6779 6817 Fly to above the tree-lined arterial road.
+69 2 6818 6855 Descend to 50 meters above the tree-lined arterial road.
+70 0 6856 6872 Turn to face the tree-lined arterial road.
+70 1 6873 6909 Fly to above the tree-lined arterial road.
+70 2 6910 6935 Descend to 60 meters above the tree-lined arterial road.
+71 0 6936 6967 Turn to face the tree-lined arterial road.
+71 1 6968 7025 Fly to above the tree-lined arterial road.
+71 2 7026 7072 Descend to 40 meters above the tree-lined arterial road.
+72 0 7073 7095 Turn to face the tree-lined arterial road.
+72 1 7096 7144 Fly to above the tree-lined arterial road.
+72 2 7145 7175 Descend to 60 meters above the tree-lined arterial road.
+73 0 7176 7208 Turn to face the tree-lined arterial road.
+73 1 7209 7241 Fly to above the tree-lined arterial road.
+73 2 7242 7266 Descend to 60 meters above the tree-lined arterial road.
+74 0 7267 7293 Turn to face the tree-lined arterial road.
+74 1 7294 7315 Fly to above the tree-lined arterial road.
+74 2 7316 7347 Descend to 50 meters above the tree-lined arterial road.
+75 0 7348 7381 Turn to face the concrete drainage canal.
+75 1 7382 7399 Fly to above the concrete drainage canal.
+75 2 7400 7422 Descend to 60 meters above the concrete drainage canal.
+76 0 7423 7446 Turn to face the concrete drainage canal.
+76 1 7447 7493 Fly to above the concrete drainage canal.
+76 2 7494 7549 Descend to 40 meters above the concrete drainage canal.
+77 0 7550 7583 Turn to face the concrete drainage canal.
+77 1 7584 7614 Fly to above the concrete drainage canal.
+77 2 7615 7636 Descend to 60 meters above the concrete drainage canal.
+78 0 7637 7668 Turn to face the concrete drainage canal.
+78 1 7669 7714 Fly to above the concrete drainage canal.
+78 2 7715 7764 Descend to 40 meters above the concrete drainage canal.
+79 0 7765 7785 Turn to face the concrete drainage canal.
+79 1 7786 7838 Fly to above the concrete drainage canal.
+79 2 7839 7888 Descend to 40 meters above the concrete drainage canal.
+80 0 7889 7890 Turn to face the concrete drainage canal.
+80 1 7891 7911 Fly to above the concrete drainage canal.
+80 2 7912 7953 Descend to 40 meters above the concrete drainage canal.
+81 0 7954 7957 Turn to face the concrete drainage canal.
+81 1 7958 7996 Fly to above the concrete drainage canal.
+81 2 7997 8030 Descend to 60 meters above the concrete drainage canal.
+82 0 8031 8062 Turn to face the concrete drainage canal.
+82 1 8063 8115 Fly to above the concrete drainage canal.
+82 2 8116 8143 Descend to 60 meters above the concrete drainage canal.
+83 0 8144 8158 Turn to face the concrete drainage canal.
+83 1 8159 8182 Fly to above the concrete drainage canal.
+83 2 8183 8221 Descend to 60 meters above the concrete drainage canal.
+84 0 8222 8240 Turn to face the concrete drainage canal.
+84 1 8241 8292 Fly to above the concrete drainage canal.
+84 2 8293 8331 Descend to 60 meters above the concrete drainage canal.
+85 0 8332 8342 Turn to face the concrete drainage canal.
+85 1 8343 8384 Fly to above the concrete drainage canal.
+85 2 8385 8434 Descend to 50 meters above the concrete drainage canal.
+86 0 8435 8450 Turn to face the concrete drainage canal.
+86 1 8451 8471 Fly to above the concrete drainage canal.
+86 2 8472 8504 Descend to 60 meters above the concrete drainage canal.
+87 0 8505 8523 Turn to face the concrete drainage canal.
+87 1 8524 8570 Fly to above the concrete drainage canal.
+87 2 8571 8591 Descend to 60 meters above the concrete drainage canal.
+88 0 8592 8615 Turn to face the concrete drainage canal.
+88 1 8616 8648 Fly to above the concrete drainage canal.
+88 2 8649 8677 Descend to 60 meters above the concrete drainage canal.
+89 0 8678 8697 Turn to face the concrete drainage canal.
+89 1 8698 8755 Fly to above the concrete drainage canal.
+89 2 8756 8778 Descend to 60 meters above the concrete drainage canal.
+90 0 8779 8802 Turn to face the concrete culvert outlet.
+90 1 8803 8834 Fly to above the concrete culvert outlet.
+90 2 8835 8877 Descend to 40 meters above the concrete culvert outlet.
+91 0 8878 8895 Turn to face the concrete culvert outlet.
+91 1 8896 8944 Fly to above the concrete culvert outlet.
+91 2 8945 8966 Descend to 60 meters above the concrete culvert outlet.
+92 0 8967 8998 Turn to face the concrete culvert outlet.
+92 1 8999 9028 Fly to above the concrete culvert outlet.
+92 2 9029 9064 Descend to 60 meters above the concrete culvert outlet.
+93 0 9065 9074 Turn to face the concrete culvert outlet.
+93 1 9075 9132 Fly to above the concrete culvert outlet.
+93 2 9133 9173 Descend to 40 meters above the concrete culvert outlet.
+94 0 9174 9205 Turn to face the concrete culvert outlet.
+94 1 9206 9252 Fly to above the concrete culvert outlet.
+94 2 9253 9297 Descend to 40 meters above the concrete culvert outlet.
+95 0 9298 9330 Turn to face the concrete culvert outlet.
+95 1 9331 9345 Fly to above the concrete culvert outlet.
+95 2 9346 9404 Descend to 40 meters above the concrete culvert outlet.
+96 0 9405 9433 Turn to face the concrete culvert outlet.
+96 1 9434 9488 Fly to above the concrete culvert outlet.
+96 2 9489 9513 Descend to 60 meters above the concrete culvert outlet.
+97 0 9514 9541 Turn to face the concrete culvert outlet.
+97 1 9542 9584 Fly to above the concrete culvert outlet.
+97 2 9585 9617 Descend to 60 meters above the concrete culvert outlet.
+98 0 9618 9618 Turn to face the concrete culvert outlet.
+98 1 9619 9670 Fly to above the concrete culvert outlet.
+98 2 9671 9706 Descend to 50 meters above the concrete culvert outlet.
+99 0 9707 9741 Turn to face the concrete culvert outlet.
+99 1 9742 9801 Fly to above the concrete culvert outlet.
+99 2 9802 9843 Descend to 40 meters above the concrete culvert outlet.
+100 0 9844 9851 Turn to face the concrete culvert outlet.
+100 1 9852 9908 Fly to above the concrete culvert outlet.
+100 2 9909 9952 Descend to 40 meters above the concrete culvert outlet.
+101 0 9953 9973 Turn to face the concrete culvert outlet.
+101 1 9974 9999 Fly to above the concrete culvert outlet.
+101 2 10000 10049 Descend to 40 meters above the concrete culvert outlet.
+102 0 10050 10073 Turn to face the concrete culvert outlet.
+102 1 10074 10119 Fly to above the concrete culvert outlet.
+102 2 10120 10178 Descend to 40 meters above the concrete culvert outlet.
+103 0 10179 10196 Turn to face the concrete culvert outlet.
+103 1 10197 10242 Fly to above the concrete culvert outlet.
+103 2 10243 10285 Descend to 50 meters above the concrete culvert outlet.
+104 0 10286 10300 Turn to face the concrete culvert outlet.
+104 1 10301 10343 Fly to above the concrete culvert outlet.
+104 2 10344 10393 Descend to 40 meters above the concrete culvert outlet.
+105 0 10394 10418 Turn to face the river channel.
+105 1 10419 10440 Fly to above the river channel.
+105 2 10441 10487 Descend to 40 meters above the river channel.
+106 0 10488 10509 Turn to face the river channel.
+106 1 10510 10557 Fly to above the river channel.
+106 2 10558 10586 Descend to 60 meters above the river channel.
+107 0 10587 10614 Turn to face the river channel.
+107 1 10615 10661 Fly to above the river channel.
+107 2 10662 10692 Descend to 50 meters above the river channel.
+108 0 10693 10718 Turn to face the river channel.
+108 1 10719 10747 Fly to above the river channel.
+108 2 10748 10789 Descend to 50 meters above the river channel.
+109 0 10790 10815 Turn to face the river channel.
+109 1 10816 10864 Fly to above the river channel.
+109 2 10865 10901 Descend to 50 meters above the river channel.
+110 0 10902 10928 Turn to face the river channel.
+110 1 10929 10968 Fly to above the river channel.
+110 2 10969 11006 Descend to 50 meters above the river channel.
+111 0 11007 11014 Turn to face the river channel.
+111 1 11015 11066 Fly to above the river channel.
+111 2 11067 11115 Descend to 50 meters above the river channel.
+112 0 11116 11138 Turn to face the river channel.
+112 1 11139 11192 Fly to above the river channel.
+112 2 11193 11229 Descend to 60 meters above the river channel.
+113 0 11230 11263 Turn to face the river channel.
+113 1 11264 11284 Fly to above the river channel.
+113 2 11285 11331 Descend to 50 meters above the river channel.
+114 0 11332 11336 Turn to face the river channel.
+114 1 11337 11371 Fly to above the river channel.
+114 2 11372 11418 Descend to 40 meters above the river channel.
+115 0 11419 11421 Turn to face the river channel.
+115 1 11422 11429 Fly to above the river channel.
+115 2 11430 11487 Descend to 40 meters above the river channel.
+116 0 11488 11511 Turn to face the river channel.
+116 1 11512 11558 Fly to above the river channel.
+116 2 11559 11586 Descend to 60 meters above the river channel.
+117 0 11587 11615 Turn to face the river channel.
+117 1 11616 11675 Fly to above the river channel.
+117 2 11676 11722 Descend to 40 meters above the river channel.
+118 0 11723 11726 Turn to face the river channel.
+118 1 11727 11764 Fly to above the river channel.
+118 2 11765 11805 Descend to 40 meters above the river channel.
+119 0 11806 11817 Turn to face the river channel.
+119 1 11818 11861 Fly to above the river channel.
+119 2 11862 11885 Descend to 60 meters above the river channel.
+120 0 11886 11899 Turn to face the muddy pond shoreline.
+120 1 11900 11944 Fly to above the muddy pond shoreline.
+120 2 11945 11984 Descend to 60 meters above the muddy pond shoreline.
+121 0 11985 11993 Turn to face the muddy pond shoreline.
+121 1 11994 12034 Fly to above the muddy pond shoreline.
+121 2 12035 12056 Descend to 60 meters above the muddy pond shoreline.
+122 0 12057 12074 Turn to face the muddy pond shoreline.
+122 1 12075 12116 Fly to above the muddy pond shoreline.
+122 2 12117 12160 Descend to 40 meters above the muddy pond shoreline.
+123 0 12161 12177 Turn to face the muddy pond shoreline.
+123 1 12178 12190 Fly to above the muddy pond shoreline.
+123 2 12191 12226 Descend to 50 meters above the muddy pond shoreline.
+124 0 12227 12244 Turn to face the muddy pond shoreline.
+124 1 12245 12287 Fly to above the muddy pond shoreline.
+124 2 12288 12312 Descend to 60 meters above the muddy pond shoreline.
+125 0 12313 12339 Turn to face the muddy pond shoreline.
+125 1 12340 12387 Fly to above the muddy pond shoreline.
+125 2 12388 12431 Descend to 50 meters above the muddy pond shoreline.
+126 0 12432 12445 Turn to face the muddy pond shoreline.
+126 1 12446 12482 Fly to above the muddy pond shoreline.
+126 2 12483 12519 Descend to 50 meters above the muddy pond shoreline.
+127 0 12520 12536 Turn to face the muddy pond shoreline.
+127 1 12537 12578 Fly to above the muddy pond shoreline.
+127 2 12579 12636 Descend to 40 meters above the muddy pond shoreline.
+128 0 12637 12646 Turn to face the muddy pond shoreline.
+128 1 12647 12692 Fly to above the muddy pond shoreline.
+128 2 12693 12729 Descend to 50 meters above the muddy pond shoreline.
+129 0 12730 12751 Turn to face the muddy pond shoreline.
+129 1 12752 12795 Fly to above the muddy pond shoreline.
+129 2 12796 12823 Descend to 60 meters above the muddy pond shoreline.
+130 0 12824 12836 Turn to face the muddy pond shoreline.
+130 1 12837 12862 Fly to above the muddy pond shoreline.
+130 2 12863 12896 Descend to 50 meters above the muddy pond shoreline.
+131 0 12897 12921 Turn to face the muddy pond shoreline.
+131 1 12922 12979 Fly to above the muddy pond shoreline.
+131 2 12980 13016 Descend to 50 meters above the muddy pond shoreline.
+132 0 13017 13031 Turn to face the muddy pond shoreline.
+132 1 13032 13063 Fly to above the muddy pond shoreline.
+132 2 13064 13106 Descend to 50 meters above the muddy pond shoreline.
+133 0 13107 13111 Turn to face the muddy pond shoreline.
+133 1 13112 13159 Fly to above the muddy pond shoreline.
+133 2 13160 13215 Descend to 40 meters above the muddy pond shoreline.
+134 0 13216 13227 Turn to face the muddy pond shoreline.
+134 1 13228 13286 Fly to above the muddy pond shoreline.
+134 2 13287 13334 Descend to 50 meters above the muddy pond shoreline.
+135 0 13335 13354 Turn to face the solar canopy parking structure.
+135 1 13355 13406 Fly to above the solar canopy parking structure.
+135 2 13407 13438 Descend to 60 meters above the solar canopy parking structure.
+136 0 13439 13440 Turn to face the solar canopy parking structure.
+136 1 13441 13500 Fly to above the solar canopy parking structure.
+136 2 13501 13545 Descend to 50 meters above the solar canopy parking structure.
+137 0 13546 13556 Turn to face the solar canopy parking structure.
+137 1 13557 13592 Fly to above the solar canopy parking structure.
+137 2 13593 13613 Descend to 60 meters above the solar canopy parking structure.
+138 0 13614 13645 Turn to face the solar canopy parking structure.
+138 1 13646 13705 Fly to above the solar canopy parking structure.
+138 2 13706 13745 Descend to 60 meters above the solar canopy parking structure.
+139 0 13746 13760 Turn to face the solar canopy parking structure.
+139 1 13761 13814 Fly to above the solar canopy parking structure.
+139 2 13815 13856 Descend to 50 meters above the solar canopy parking structure.
+140 0 13857 13891 Turn to face the solar canopy parking structure.
+140 1 13892 13946 Fly to above the solar canopy parking structure.
+140 2 13947 13994 Descend to 40 meters above the solar canopy parking structure.
+141 0 13995 14022 Turn to face the solar canopy parking structure.
+141 1 14023 14042 Fly to above the solar canopy parking structure.
+141 2 14043 14077 Descend to 60 meters above the solar canopy parking structure.
+142 0 14078 14081 Turn to face the solar canopy parking structure.
+142 1 14082 14133 Fly to above the solar canopy parking structure.
+142 2 14134 14174 Descend to 40 meters above the solar canopy parking structure.
+143 0 14175 14185 Turn to face the solar canopy parking structure.
+143 1 14186 14233 Fly to above the solar canopy parking structure.
+143 2 14234 14254 Descend to 60 meters above the solar canopy parking structure.
+144 0 14255 14270 Turn to face the solar canopy parking structure.
+144 1 14271 14281 Fly to above the solar canopy parking structure.
+144 2 14282 14339 Descend to 40 meters above the solar canopy parking structure.
+145 0 14340 14374 Turn to face the solar canopy parking structure.
+145 1 14375 14404 Fly to above the solar canopy parking structure.
+145 2 14405 14431 Descend to 60 meters above the solar canopy parking structure.
+146 0 14432 14432 Turn to face the solar canopy parking structure.
+146 1 14433 14479 Fly to above the solar canopy parking structure.
+146 2 14480 14505 Descend to 60 meters above the solar canopy parking structure.
+147 0 14506 14514 Turn to face the solar canopy parking structure.
+147 1 14515 14540 Fly to above the solar canopy parking structure.
+147 2 14541 14587 Descend to 40 meters above the solar canopy parking structure.
+148 0 14588 14611 Turn to face the solar canopy parking structure.
+148 1 14612 14671 Fly to above the solar canopy parking structure.
+148 2 14672 14710 Descend to 50 meters above the solar canopy parking structure.
+149 0 14711 14717 Turn to face the solar canopy parking structure.
+149 1 14718 14763 Fly to above the solar canopy parking structure.
+149 2 14764 14798 Descend to 60 meters above the solar canopy parking structure.
+150 0 14799 14824 Turn to face the marked parking lot.
+150 1 14825 14882 Fly to above the marked parking lot.
+150 2 14883 14925 Descend to 40 meters above the marked parking lot.
+151 0 14926 14942 Turn to face the marked parking lot.
+151 1 14943 14958 Fly to above the marked parking lot.
+151 2 14959 14989 Descend to 50 meters above the marked parking lot.
+152 0 14990 15001 Turn to face the marked parking lot.
+152 1 15002 15037 Fly to above the marked parking lot.
+152 2 15038 15077 Descend to 60 meters above the marked parking lot.
+153 0 15078 15109 Turn to face the marked parking lot.
+153 1 15110 15154 Fly to above the marked parking lot.
+153 2 15155 15202 Descend to 50 meters above the marked parking lot.
+154 0 15203 15233 Turn to face the marked parking lot.
+154 1 15234 15291 Fly to above the marked parking lot.
+154 2 15292 15336 Descend to 50 meters above the marked parking lot.
+155 0 15337 15370 Turn to face the marked parking lot.
+155 1 15371 15419 Fly to above the marked parking lot.
+155 2 15420 15464 Descend to 40 meters above the marked parking lot.
+156 0 15465 15465 Turn to face the marked parking lot.
+156 1 15466 15522 Fly to above the marked parking lot.
+156 2 15523 15574 Descend to 40 meters above the marked parking lot.
+157 0 15575 15578 Turn to face the marked parking lot.
+157 1 15579 15632 Fly to above the marked parking lot.
+157 2 15633 15682 Descend to 40 meters above the marked parking lot.
+158 0 15683 15697 Turn to face the marked parking lot.
+158 1 15698 15752 Fly to above the marked parking lot.
+158 2 15753 15798 Descend to 50 meters above the marked parking lot.
+159 0 15799 15823 Turn to face the marked parking lot.
+159 1 15824 15868 Fly to above the marked parking lot.
+159 2 15869 15902 Descend to 60 meters above the marked parking lot.
+160 0 15903 15933 Turn to face the marked parking lot.
+160 1 15934 15973 Fly to above the marked parking lot.
+160 2 15974 16013 Descend to 60 meters above the marked parking lot.
+161 0 16014 16033 Turn to face the marked parking lot.
+161 1 16034 16046 Fly to above the marked parking lot.
+161 2 16047 16078 Descend to 50 meters above the marked parking lot.
+162 0 16079 16089 Turn to face the marked parking lot.
+162 1 16090 16123 Fly to above the marked parking lot.
+162 2 16124 16166 Descend to 40 meters above the marked parking lot.
+163 0 16167 16173 Turn to face the marked parking lot.
+163 1 16174 16188 Fly to above the marked parking lot.
+163 2 16189 16223 Descend to 50 meters above the marked parking lot.
+164 0 16224 16248 Turn to face the marked parking lot.
+164 1 16249 16287 Fly to above the marked parking lot.
+164 2 16288 16320 Descend to 50 meters above the marked parking lot.
+165 0 16321 16343 Turn to face the office building with rooftop solar panels.
+165 1 16344 16346 Fly to above the office building with rooftop solar panels.
+165 2 16347 16386 Descend to 50 meters above the office building with rooftop solar panels.
+166 0 16387 16387 Turn to face the office building with rooftop solar panels.
+166 1 16388 16441 Fly to above the office building with rooftop solar panels.
+166 2 16442 16477 Descend to 50 meters above the office building with rooftop solar panels.
+167 0 16478 16494 Turn to face the office building with rooftop solar panels.
+167 1 16495 16524 Fly to above the office building with rooftop solar panels.
+167 2 16525 16568 Descend to 50 meters above the office building with rooftop solar panels.
+168 0 16569 16579 Turn to face the office building with rooftop solar panels.
+168 1 16580 16637 Fly to above the office building with rooftop solar panels.
+168 2 16638 16667 Descend to 60 meters above the office building with rooftop solar panels.
+169 0 16668 16693 Turn to face the office building with rooftop solar panels.
+169 1 16694 16717 Fly to above the office building with rooftop solar panels.
+169 2 16718 16760 Descend to 40 meters above the office building with rooftop solar panels.
+170 0 16761 16766 Turn to face the office building with rooftop solar panels.
+170 1 16767 16793 Fly to above the office building with rooftop solar panels.
+170 2 16794 16836 Descend to 40 meters above the office building with rooftop solar panels.
+171 0 16837 16851 Turn to face the office building with rooftop solar panels.
+171 1 16852 16881 Fly to above the office building with rooftop solar panels.
+171 2 16882 16933 Descend to 40 meters above the office building with rooftop solar panels.
+172 0 16934 16957 Turn to face the office building with rooftop solar panels.
+172 1 16958 17013 Fly to above the office building with rooftop solar panels.
+172 2 17014 17047 Descend to 50 meters above the office building with rooftop solar panels.
+173 0 17048 17068 Turn to face the office building with rooftop solar panels.
+173 1 17069 17124 Fly to above the office building with rooftop solar panels.
+173 2 17125 17183 Descend to 40 meters above the office building with rooftop solar panels.
+174 0 17184 17215 Turn to face the office building with rooftop solar panels.
+174 1 17216 17275 Fly to above the office building with rooftop solar panels.
+174 2 17276 17312 Descend to 60 meters above the office building with rooftop solar panels.
+175 0 17313 17334 Turn to face the office building with rooftop solar panels.
+175 1 17335 17388 Fly to above the office building with rooftop solar panels.
+175 2 17389 17423 Descend to 50 meters above the office building with rooftop solar panels.
+176 0 17424 17458 Turn to face the office building with rooftop solar panels.
+176 1 17459 17475 Fly to above the office building with rooftop solar panels.
+176 2 17476 17512 Descend to 50 meters above the office building with rooftop solar panels.
+177 0 17513 17547 Turn to face the office building with rooftop solar panels.
+177 1 17548 17572 Fly to above the office building with rooftop solar panels.
+177 2 17573 17627 Descend to 40 meters above the office building with rooftop solar panels.
+178 0 17628 17630 Turn to face the office building with rooftop solar panels.
+178 1 17631 17687 Fly to above the office building with rooftop solar panels.
+178 2 17688 17710 Descend to 60 meters above the office building with rooftop solar panels.
+179 0 17711 17732 Turn to face the office building with rooftop solar panels.
+179 1 17733 17782 Fly to above the office building with rooftop solar panels.
+179 2 17783 17833 Descend to 40 meters above the office building with rooftop solar panels.
+180 0 17834 17859 Turn to face the high-rise office tower.
+180 1 17860 17867 Fly to above the high-rise office tower.
+180 2 17868 17919 Descend to 40 meters above the high-rise office tower.
+181 0 17920 17936 Turn to face the high-rise office tower.
+181 1 17937 17993 Fly to above the high-rise office tower.
+181 2 17994 18044 Descend to 40 meters above the high-rise office tower.
+182 0 18045 18075 Turn to face the high-rise office tower.
+182 1 18076 18089 Fly to above the high-rise office tower.
+182 2 18090 18135 Descend to 40 meters above the high-rise office tower.
+183 0 18136 18155 Turn to face the high-rise office tower.
+183 1 18156 18210 Fly to above the high-rise office tower.
+183 2 18211 18262 Descend to 40 meters above the high-rise office tower.
+184 0 18263 18282 Turn to face the high-rise office tower.
+184 1 18283 18313 Fly to above the high-rise office tower.
+184 2 18314 18345 Descend to 60 meters above the high-rise office tower.
+185 0 18346 18378 Turn to face the high-rise office tower.
+185 1 18379 18428 Fly to above the high-rise office tower.
+185 2 18429 18460 Descend to 60 meters above the high-rise office tower.
+186 0 18461 18475 Turn to face the high-rise office tower.
+186 1 18476 18514 Fly to above the high-rise office tower.
+186 2 18515 18535 Descend to 60 meters above the high-rise office tower.
+187 0 18536 18536 Turn to face the high-rise office tower.
+187 1 18537 18580 Fly to above the high-rise office tower.
+187 2 18581 18602 Descend to 60 meters above the high-rise office tower.
+188 0 18603 18635 Turn to face the high-rise office tower.
+188 1 18636 18685 Fly to above the high-rise office tower.
+188 2 18686 18735 Descend to 50 meters above the high-rise office tower.
+189 0 18736 18745 Turn to face the high-rise office tower.
+189 1 18746 18772 Fly to above the high-rise office tower.
+189 2 18773 18821 Descend to 50 meters above the high-rise office tower.
+190 0 18822 18830 Turn to face the high-rise office tower.
+190 1 18831 18882 Fly to above the high-rise office tower.
+190 2 18883 18920 Descend to 50 meters above the high-rise office tower.
+191 0 18921 18944 Turn to face the high-rise office tower.
+191 1 18945 18996 Fly to above the high-rise office tower.
+191 2 18997 19042 Descend to 50 meters above the high-rise office tower.
+192 0 19043 19061 Turn to face the high-rise office tower.
+192 1 19062 19119 Fly to above the high-rise office tower.
+192 2 19120 19165 Descend to 50 meters above the high-rise office tower.
+193 0 19166 19184 Turn to face the high-rise office tower.
+193 1 19185 19212 Fly to above the high-rise office tower.
+193 2 19213 19253 Descend to 40 meters above the high-rise office tower.
+194 0 19254 19257 Turn to face the high-rise office tower.
+194 1 19258 19308 Fly to above the high-rise office tower.
+194 2 19309 19336 Descend to 60 meters above the high-rise office tower.
+195 0 19337 19370 Turn to face the high-rise residential tower.
+195 1 19371 19417 Fly to above the high-rise residential tower.
+195 2 19418 19456 Descend to 50 meters above the high-rise residential tower.
+196 0 19457 19477 Turn to face the high-rise residential tower.
+196 1 19478 19519 Fly to above the high-rise residential tower.
+196 2 19520 19557 Descend to 50 meters above the high-rise residential tower.
+197 0 19558 19580 Turn to face the high-rise residential tower.
+197 1 19581 19602 Fly to above the high-rise residential tower.
+197 2 19603 19636 Descend to 60 meters above the high-rise residential tower.
+198 0 19637 19656 Turn to face the high-rise residential tower.
+198 1 19657 19686 Fly to above the high-rise residential tower.
+198 2 19687 19742 Descend to 40 meters above the high-rise residential tower.
+199 0 19743 19754 Turn to face the high-rise residential tower.
+199 1 19755 19786 Fly to above the high-rise residential tower.
+199 2 19787 19810 Descend to 60 meters above the high-rise residential tower.
+200 0 19811 19839 Turn to face the high-rise residential tower.
+200 1 19840 19870 Fly to above the high-rise residential tower.
+200 2 19871 19920 Descend to 40 meters above the high-rise residential tower.
+201 0 19921 19938 Turn to face the high-rise residential tower.
+201 1 19939 19987 Fly to above the high-rise residential tower.
+201 2 19988 20020 Descend to 50 meters above the high-rise residential tower.
+202 0 20021 20048 Turn to face the high-rise residential tower.
+202 1 20049 20101 Fly to above the high-rise residential tower.
+202 2 20102 20160 Descend to 40 meters above the high-rise residential tower.
+203 0 20161 20182 Turn to face the high-rise residential tower.
+203 1 20183 20242 Fly to above the high-rise residential tower.
+203 2 20243 20284 Descend to 40 meters above the high-rise residential tower.
+204 0 20285 20285 Turn to face the high-rise residential tower.
+204 1 20286 20330 Fly to above the high-rise residential tower.
+204 2 20331 20367 Descend to 60 meters above the high-rise residential tower.
+205 0 20368 20402 Turn to face the high-rise residential tower.
+205 1 20403 20447 Fly to above the high-rise residential tower.
+205 2 20448 20493 Descend to 40 meters above the high-rise residential tower.
+206 0 20494 20502 Turn to face the high-rise residential tower.
+206 1 20503 20548 Fly to above the high-rise residential tower.
+206 2 20549 20594 Descend to 40 meters above the high-rise residential tower.
+207 0 20595 20597 Turn to face the high-rise residential tower.
+207 1 20598 20636 Fly to above the high-rise residential tower.
+207 2 20637 20672 Descend to 60 meters above the high-rise residential tower.
+208 0 20673 20681 Turn to face the high-rise residential tower.
+208 1 20682 20702 Fly to above the high-rise residential tower.
+208 2 20703 20735 Descend to 50 meters above the high-rise residential tower.
+209 0 20736 20751 Turn to face the high-rise residential tower.
+209 1 20752 20807 Fly to above the high-rise residential tower.
+209 2 20808 20836 Descend to 60 meters above the high-rise residential tower.
+210 0 20837 20837 Turn to face the residential apartment block.
+210 1 20838 20888 Fly to above the residential apartment block.
+210 2 20889 20946 Descend to 40 meters above the residential apartment block.
+211 0 20947 20975 Turn to face the residential apartment block.
+211 1 20976 21019 Fly to above the residential apartment block.
+211 2 21020 21064 Descend to 40 meters above the residential apartment block.
+212 0 21065 21079 Turn to face the residential apartment block.
+212 1 21080 21136 Fly to above the residential apartment block.
+212 2 21137 21187 Descend to 40 meters above the residential apartment block.
+213 0 21188 21193 Turn to face the residential apartment block.
+213 1 21194 21237 Fly to above the residential apartment block.
+213 2 21238 21266 Descend to 60 meters above the residential apartment block.
+214 0 21267 21279 Turn to face the residential apartment block.
+214 1 21280 21338 Fly to above the residential apartment block.
+214 2 21339 21388 Descend to 50 meters above the residential apartment block.
+215 0 21389 21411 Turn to face the residential apartment block.
+215 1 21412 21456 Fly to above the residential apartment block.
+215 2 21457 21502 Descend to 40 meters above the residential apartment block.
+216 0 21503 21527 Turn to face the residential apartment block.
+216 1 21528 21585 Fly to above the residential apartment block.
+216 2 21586 21628 Descend to 50 meters above the residential apartment block.
+217 0 21629 21631 Turn to face the residential apartment block.
+217 1 21632 21669 Fly to above the residential apartment block.
+217 2 21670 21713 Descend to 40 meters above the residential apartment block.
+218 0 21714 21716 Turn to face the residential apartment block.
+218 1 21717 21768 Fly to above the residential apartment block.
+218 2 21769 21812 Descend to 40 meters above the residential apartment block.
+219 0 21813 21829 Turn to face the residential apartment block.
+219 1 21830 21865 Fly to above the residential apartment block.
+219 2 21866 21892 Descend to 60 meters above the residential apartment block.
+220 0 21893 21918 Turn to face the residential apartment block.
+220 1 21919 21970 Fly to above the residential apartment block.
+220 2 21971 22005 Descend to 50 meters above the residential apartment block.
+221 0 22006 22015 Turn to face the residential apartment block.
+221 1 22016 22055 Fly to above the residential apartment block.
+221 2 22056 22086 Descend to 50 meters above the residential apartment block.
+222 0 22087 22099 Turn to face the residential apartment block.
+222 1 22100 22114 Fly to above the residential apartment block.
+222 2 22115 22157 Descend to 40 meters above the residential apartment block.
+223 0 22158 22187 Turn to face the residential apartment block.
+223 1 22188 22235 Fly to above the residential apartment block.
+223 2 22236 22294 Descend to 40 meters above the residential apartment block.
+224 0 22295 22316 Turn to face the residential apartment block.
+224 1 22317 22357 Fly to above the residential apartment block.
+224 2 22358 22399 Descend to 50 meters above the residential apartment block.
+225 0 22400 22410 Turn to face the warehouse building roof.
+225 1 22411 22469 Fly to above the warehouse building roof.
+225 2 22470 22493 Descend to 60 meters above the warehouse building roof.
+226 0 22494 22507 Turn to face the warehouse building roof.
+226 1 22508 22520 Fly to above the warehouse building roof.
+226 2 22521 22558 Descend to 60 meters above the warehouse building roof.
+227 0 22559 22577 Turn to face the warehouse building roof.
+227 1 22578 22637 Fly to above the warehouse building roof.
+227 2 22638 22671 Descend to 60 meters above the warehouse building roof.
+228 0 22672 22694 Turn to face the warehouse building roof.
+228 1 22695 22731 Fly to above the warehouse building roof.
+228 2 22732 22770 Descend to 50 meters above the warehouse building roof.
+229 0 22771 22799 Turn to face the warehouse building roof.
+229 1 22800 22850 Fly to above the warehouse building roof.
+229 2 22851 22889 Descend to 60 meters above the warehouse building roof.
+230 0 22890 22904 Turn to face the warehouse building roof.
+230 1 22905 22940 Fly to above the warehouse building roof.
+230 2 22941 22989 Descend to 40 meters above the warehouse building roof.
+231 0 22990 23024 Turn to face the warehouse building roof.
+231 1 23025 23043 Fly to above the warehouse building roof.
+231 2 23044 23087 Descend to 50 meters above the warehouse building roof.
+232 0 23088 23098 Turn to face the warehouse building roof.
+232 1 23099 23133 Fly to above the warehouse building roof.
+232 2 23134 23189 Descend to 40 meters above the warehouse building roof.
+233 0 23190 23196 Turn to face the warehouse building roof.
+233 1 23197 23226 Fly to above the warehouse building roof.
+233 2 23227 23269 Descend to 40 meters above the warehouse building roof.
+234 0 23270 23271 Turn to face the warehouse building roof.
+234 1 23272 23303 Fly to above the warehouse building roof.
+234 2 23304 23342 Descend to 60 meters above the warehouse building roof.
+235 0 23343 23371 Turn to face the warehouse building roof.
+235 1 23372 23416 Fly to above the warehouse building roof.
+235 2 23417 23476 Descend to 40 meters above the warehouse building roof.
+236 0 23477 23506 Turn to face the warehouse building roof.
+236 1 23507 23554 Fly to above the warehouse building roof.
+236 2 23555 23594 Descend to 60 meters above the warehouse building roof.
+237 0 23595 23619 Turn to face the warehouse building roof.
+237 1 23620 23669 Fly to above the warehouse building roof.
+237 2 23670 23718 Descend to 40 meters above the warehouse building roof.
+238 0 23719 23726 Turn to face the warehouse building roof.
+238 1 23727 23766 Fly to above the warehouse building roof.
+238 2 23767 23804 Descend to 60 meters above the warehouse building roof.
+239 0 23805 23828 Turn to face the warehouse building roof.
+239 1 23829 23873 Fly to above the warehouse building roof.
+239 2 23874 23916 Descend to 50 meters above the warehouse building roof.
+240 0 23917 23948 Turn to face the tile-roof utility building.
+240 1 23949 24006 Fly to above the tile-roof utility building.
+240 2 24007 24043 Descend to 60 meters above the tile-roof utility building.
+241 0 24044 24058 Turn to face the tile-roof utility building.
+241 1 24059 24110 Fly to above the tile-roof utility building.
+241 2 24111 24166 Descend to 40 meters above the tile-roof utility building.
+242 0 24167 24174 Turn to face the tile-roof utility building.
+242 1 24175 24204 Fly to above the tile-roof utility building.
+242 2 24205 24240 Descend to 50 meters above the tile-roof utility building.
+243 0 24241 24246 Turn to face the tile-roof utility building.
+243 1 24247 24292 Fly to above the tile-roof utility building.
+243 2 24293 24327 Descend to 50 meters above the tile-roof utility building.
+244 0 24328 24347 Turn to face the tile-roof utility building.
+244 1 24348 24372 Fly to above the tile-roof utility building.
+244 2 24373 24419 Descend to 40 meters above the tile-roof utility building.
+245 0 24420 24453 Turn to face the tile-roof utility building.
+245 1 24454 24508 Fly to above the tile-roof utility building.
+245 2 24509 24544 Descend to 60 meters above the tile-roof utility building.
+246 0 24545 24563 Turn to face the tile-roof utility building.
+246 1 24564 24623 Fly to above the tile-roof utility building.
+246 2 24624 24667 Descend to 40 meters above the tile-roof utility building.
+247 0 24668 24693 Turn to face the tile-roof utility building.
+247 1 24694 24741 Fly to above the tile-roof utility building.
+247 2 24742 24791 Descend to 50 meters above the tile-roof utility building.
+248 0 24792 24798 Turn to face the tile-roof utility building.
+248 1 24799 24852 Fly to above the tile-roof utility building.
+248 2 24853 24890 Descend to 60 meters above the tile-roof utility building.
+249 0 24891 24896 Turn to face the tile-roof utility building.
+249 1 24897 24917 Fly to above the tile-roof utility building.
+249 2 24918 24961 Descend to 40 meters above the tile-roof utility building.
+250 0 24962 24974 Turn to face the tile-roof utility building.
+250 1 24975 25017 Fly to above the tile-roof utility building.
+250 2 25018 25061 Descend to 50 meters above the tile-roof utility building.
+251 0 25062 25081 Turn to face the tile-roof utility building.
+251 1 25082 25141 Fly to above the tile-roof utility building.
+251 2 25142 25173 Descend to 50 meters above the tile-roof utility building.
+252 0 25174 25179 Turn to face the tile-roof utility building.
+252 1 25180 25213 Fly to above the tile-roof utility building.
+252 2 25214 25262 Descend to 40 meters above the tile-roof utility building.
+253 0 25263 25263 Turn to face the tile-roof utility building.
+253 1 25264 25313 Fly to above the tile-roof utility building.
+253 2 25314 25349 Descend to 60 meters above the tile-roof utility building.
+254 0 25350 25350 Turn to face the tile-roof utility building.
+254 1 25351 25389 Fly to above the tile-roof utility building.
+254 2 25390 25424 Descend to 60 meters above the tile-roof utility building.
+255 0 25425 25458 Turn to face the flat-roof building complex.
+255 1 25459 25501 Fly to above the flat-roof building complex.
+255 2 25502 25524 Descend to 60 meters above the flat-roof building complex.
+256 0 25525 25525 Turn to face the flat-roof building complex.
+256 1 25526 25549 Fly to above the flat-roof building complex.
+256 2 25550 25571 Descend to 60 meters above the flat-roof building complex.
+257 0 25572 25578 Turn to face the flat-roof building complex.
+257 1 25579 25580 Fly to above the flat-roof building complex.
+257 2 25581 25636 Descend to 40 meters above the flat-roof building complex.
+258 0 25637 25649 Turn to face the flat-roof building complex.
+258 1 25650 25704 Fly to above the flat-roof building complex.
+258 2 25705 25737 Descend to 50 meters above the flat-roof building complex.
+259 0 25738 25740 Turn to face the flat-roof building complex.
+259 1 25741 25795 Fly to above the flat-roof building complex.
+259 2 25796 25842 Descend to 50 meters above the flat-roof building complex.
+260 0 25843 25860 Turn to face the flat-roof building complex.
+260 1 25861 25912 Fly to above the flat-roof building complex.
+260 2 25913 25958 Descend to 50 meters above the flat-roof building complex.
+261 0 25959 25976 Turn to face the flat-roof building complex.
+261 1 25977 26028 Fly to above the flat-roof building complex.
+261 2 26029 26066 Descend to 50 meters above the flat-roof building complex.
+262 0 26067 26097 Turn to face the flat-roof building complex.
+262 1 26098 26150 Fly to above the flat-roof building complex.
+262 2 26151 26182 Descend to 50 meters above the flat-roof building complex.
+263 0 26183 26205 Turn to face the flat-roof building complex.
+263 1 26206 26231 Fly to above the flat-roof building complex.
+263 2 26232 26279 Descend to 40 meters above the flat-roof building complex.
+264 0 26280 26284 Turn to face the flat-roof building complex.
+264 1 26285 26333 Fly to above the flat-roof building complex.
+264 2 26334 26361 Descend to 60 meters above the flat-roof building complex.
+265 0 26362 26371 Turn to face the flat-roof building complex.
+265 1 26372 26431 Fly to above the flat-roof building complex.
+265 2 26432 26475 Descend to 40 meters above the flat-roof building complex.
+266 0 26476 26497 Turn to face the flat-roof building complex.
+266 1 26498 26530 Fly to above the flat-roof building complex.
+266 2 26531 26572 Descend to 50 meters above the flat-roof building complex.
+267 0 26573 26583 Turn to face the flat-roof building complex.
+267 1 26584 26638 Fly to above the flat-roof building complex.
+267 2 26639 26669 Descend to 50 meters above the flat-roof building complex.
+268 0 26670 26670 Turn to face the flat-roof building complex.
+268 1 26671 26712 Fly to above the flat-roof building complex.
+268 2 26713 26741 Descend to 60 meters above the flat-roof building complex.
+269 0 26742 26756 Turn to face the flat-roof building complex.
+269 1 26757 26811 Fly to above the flat-roof building complex.
+269 2 26812 26849 Descend to 50 meters above the flat-roof building complex.
+270 0 26850 26850 Turn to face the landscaped courtyard with paved walkways.
+270 1 26851 26884 Fly to above the landscaped courtyard with paved walkways.
+270 2 26885 26938 Descend to 40 meters above the landscaped courtyard with paved walkways.
+271 0 26939 26942 Turn to face the landscaped courtyard with paved walkways.
+271 1 26943 26944 Fly to above the landscaped courtyard with paved walkways.
+271 2 26945 26992 Descend to 50 meters above the landscaped courtyard with paved walkways.
+272 0 26993 26994 Turn to face the landscaped courtyard with paved walkways.
+272 1 26995 27051 Fly to above the landscaped courtyard with paved walkways.
+272 2 27052 27081 Descend to 60 meters above the landscaped courtyard with paved walkways.
+273 0 27082 27115 Turn to face the landscaped courtyard with paved walkways.
+273 1 27116 27130 Fly to above the landscaped courtyard with paved walkways.
+273 2 27131 27182 Descend to 40 meters above the landscaped courtyard with paved walkways.
+274 0 27183 27194 Turn to face the landscaped courtyard with paved walkways.
+274 1 27195 27222 Fly to above the landscaped courtyard with paved walkways.
+274 2 27223 27267 Descend to 40 meters above the landscaped courtyard with paved walkways.
+275 0 27268 27289 Turn to face the landscaped courtyard with paved walkways.
+275 1 27290 27315 Fly to above the landscaped courtyard with paved walkways.
+275 2 27316 27353 Descend to 60 meters above the landscaped courtyard with paved walkways.
+276 0 27354 27370 Turn to face the landscaped courtyard with paved walkways.
+276 1 27371 27385 Fly to above the landscaped courtyard with paved walkways.
+276 2 27386 27421 Descend to 50 meters above the landscaped courtyard with paved walkways.
+277 0 27422 27441 Turn to face the landscaped courtyard with paved walkways.
+277 1 27442 27469 Fly to above the landscaped courtyard with paved walkways.
+277 2 27470 27518 Descend to 50 meters above the landscaped courtyard with paved walkways.
+278 0 27519 27537 Turn to face the landscaped courtyard with paved walkways.
+278 1 27538 27558 Fly to above the landscaped courtyard with paved walkways.
+278 2 27559 27581 Descend to 60 meters above the landscaped courtyard with paved walkways.
+279 0 27582 27604 Turn to face the landscaped courtyard with paved walkways.
+279 1 27605 27657 Fly to above the landscaped courtyard with paved walkways.
+279 2 27658 27708 Descend to 40 meters above the landscaped courtyard with paved walkways.
+280 0 27709 27725 Turn to face the landscaped courtyard with paved walkways.
+280 1 27726 27764 Fly to above the landscaped courtyard with paved walkways.
+280 2 27765 27813 Descend to 50 meters above the landscaped courtyard with paved walkways.
+281 0 27814 27825 Turn to face the landscaped courtyard with paved walkways.
+281 1 27826 27879 Fly to above the landscaped courtyard with paved walkways.
+281 2 27880 27939 Descend to 40 meters above the landscaped courtyard with paved walkways.
+282 0 27940 27960 Turn to face the landscaped courtyard with paved walkways.
+282 1 27961 28020 Fly to above the landscaped courtyard with paved walkways.
+282 2 28021 28058 Descend to 50 meters above the landscaped courtyard with paved walkways.
+283 0 28059 28078 Turn to face the landscaped courtyard with paved walkways.
+283 1 28079 28100 Fly to above the landscaped courtyard with paved walkways.
+283 2 28101 28134 Descend to 50 meters above the landscaped courtyard with paved walkways.
+284 0 28135 28164 Turn to face the landscaped courtyard with paved walkways.
+284 1 28165 28211 Fly to above the landscaped courtyard with paved walkways.
+284 2 28212 28240 Descend to 60 meters above the landscaped courtyard with paved walkways.
+285 0 28241 28242 Turn to face the paved courtyard with yellow markings.
+285 1 28243 28290 Fly to above the paved courtyard with yellow markings.
+285 2 28291 28329 Descend to 60 meters above the paved courtyard with yellow markings.
+286 0 28330 28358 Turn to face the paved courtyard with yellow markings.
+286 1 28359 28399 Fly to above the paved courtyard with yellow markings.
+286 2 28400 28429 Descend to 60 meters above the paved courtyard with yellow markings.
+287 0 28430 28460 Turn to face the paved courtyard with yellow markings.
+287 1 28461 28505 Fly to above the paved courtyard with yellow markings.
+287 2 28506 28552 Descend to 40 meters above the paved courtyard with yellow markings.
+288 0 28553 28553 Turn to face the paved courtyard with yellow markings.
+288 1 28554 28578 Fly to above the paved courtyard with yellow markings.
+288 2 28579 28616 Descend to 50 meters above the paved courtyard with yellow markings.
+289 0 28617 28646 Turn to face the paved courtyard with yellow markings.
+289 1 28647 28692 Fly to above the paved courtyard with yellow markings.
+289 2 28693 28738 Descend to 40 meters above the paved courtyard with yellow markings.
+290 0 28739 28754 Turn to face the paved courtyard with yellow markings.
+290 1 28755 28801 Fly to above the paved courtyard with yellow markings.
+290 2 28802 28823 Descend to 60 meters above the paved courtyard with yellow markings.
+291 0 28824 28853 Turn to face the paved courtyard with yellow markings.
+291 1 28854 28891 Fly to above the paved courtyard with yellow markings.
+291 2 28892 28923 Descend to 60 meters above the paved courtyard with yellow markings.
+292 0 28924 28945 Turn to face the paved courtyard with yellow markings.
+292 1 28946 28995 Fly to above the paved courtyard with yellow markings.
+292 2 28996 29026 Descend to 50 meters above the paved courtyard with yellow markings.
+293 0 29027 29027 Turn to face the paved courtyard with yellow markings.
+293 1 29028 29083 Fly to above the paved courtyard with yellow markings.
+293 2 29084 29133 Descend to 40 meters above the paved courtyard with yellow markings.
+294 0 29134 29146 Turn to face the paved courtyard with yellow markings.
+294 1 29147 29181 Fly to above the paved courtyard with yellow markings.
+294 2 29182 29219 Descend to 50 meters above the paved courtyard with yellow markings.
+295 0 29220 29230 Turn to face the paved courtyard with yellow markings.
+295 1 29231 29262 Fly to above the paved courtyard with yellow markings.
+295 2 29263 29298 Descend to 60 meters above the paved courtyard with yellow markings.
+296 0 29299 29317 Turn to face the paved courtyard with yellow markings.
+296 1 29318 29376 Fly to above the paved courtyard with yellow markings.
+296 2 29377 29434 Descend to 40 meters above the paved courtyard with yellow markings.
+297 0 29435 29453 Turn to face the paved courtyard with yellow markings.
+297 1 29454 29500 Fly to above the paved courtyard with yellow markings.
+297 2 29501 29538 Descend to 50 meters above the paved courtyard with yellow markings.
+298 0 29539 29570 Turn to face the paved courtyard with yellow markings.
+298 1 29571 29612 Fly to above the paved courtyard with yellow markings.
+298 2 29613 29662 Descend to 50 meters above the paved courtyard with yellow markings.
+299 0 29663 29679 Turn to face the paved courtyard with yellow markings.
+299 1 29680 29719 Fly to above the paved courtyard with yellow markings.
+299 2 29720 29748 Descend to 60 meters above the paved courtyard with yellow markings.
+300 0 29749 29754 Turn to face the curved pedestrian plaza walkway.
+300 1 29755 29809 Fly to above the curved pedestrian plaza walkway.
+300 2 29810 29836 Descend to 60 meters above the curved pedestrian plaza walkway.
+301 0 29837 29859 Turn to face the curved pedestrian plaza walkway.
+301 1 29860 29869 Fly to above the curved pedestrian plaza walkway.
+301 2 29870 29899 Descend to 60 meters above the curved pedestrian plaza walkway.
+302 0 29900 29910 Turn to face the curved pedestrian plaza walkway.
+302 1 29911 29960 Fly to above the curved pedestrian plaza walkway.
+302 2 29961 30003 Descend to 50 meters above the curved pedestrian plaza walkway.
+303 0 30004 30011 Turn to face the curved pedestrian plaza walkway.
+303 1 30012 30052 Fly to above the curved pedestrian plaza walkway.
+303 2 30053 30097 Descend to 40 meters above the curved pedestrian plaza walkway.
+304 0 30098 30110 Turn to face the curved pedestrian plaza walkway.
+304 1 30111 30146 Fly to above the curved pedestrian plaza walkway.
+304 2 30147 30195 Descend to 50 meters above the curved pedestrian plaza walkway.
+305 0 30196 30207 Turn to face the curved pedestrian plaza walkway.
+305 1 30208 30261 Fly to above the curved pedestrian plaza walkway.
+305 2 30262 30303 Descend to 40 meters above the curved pedestrian plaza walkway.
+306 0 30304 30310 Turn to face the curved pedestrian plaza walkway.
+306 1 30311 30358 Fly to above the curved pedestrian plaza walkway.
+306 2 30359 30387 Descend to 60 meters above the curved pedestrian plaza walkway.
+307 0 30388 30419 Turn to face the curved pedestrian plaza walkway.
+307 1 30420 30463 Fly to above the curved pedestrian plaza walkway.
+307 2 30464 30503 Descend to 60 meters above the curved pedestrian plaza walkway.
+308 0 30504 30536 Turn to face the curved pedestrian plaza walkway.
+308 1 30537 30569 Fly to above the curved pedestrian plaza walkway.
+308 2 30570 30610 Descend to 40 meters above the curved pedestrian plaza walkway.
+309 0 30611 30625 Turn to face the curved pedestrian plaza walkway.
+309 1 30626 30680 Fly to above the curved pedestrian plaza walkway.
+309 2 30681 30702 Descend to 60 meters above the curved pedestrian plaza walkway.
+310 0 30703 30703 Turn to face the curved pedestrian plaza walkway.
+310 1 30704 30747 Fly to above the curved pedestrian plaza walkway.
+310 2 30748 30779 Descend to 60 meters above the curved pedestrian plaza walkway.
+311 0 30780 30797 Turn to face the curved pedestrian plaza walkway.
+311 1 30798 30838 Fly to above the curved pedestrian plaza walkway.
+311 2 30839 30898 Descend to 40 meters above the curved pedestrian plaza walkway.
+312 0 30899 30927 Turn to face the curved pedestrian plaza walkway.
+312 1 30928 30960 Fly to above the curved pedestrian plaza walkway.
+312 2 30961 30982 Descend to 60 meters above the curved pedestrian plaza walkway.
+313 0 30983 31017 Turn to face the curved pedestrian plaza walkway.
+313 1 31018 31068 Fly to above the curved pedestrian plaza walkway.
+313 2 31069 31128 Descend to 40 meters above the curved pedestrian plaza walkway.
+314 0 31129 31145 Turn to face the curved pedestrian plaza walkway.
+314 1 31146 31167 Fly to above the curved pedestrian plaza walkway.
+314 2 31168 31208 Descend to 50 meters above the curved pedestrian plaza walkway.
+315 0 31209 31209 Turn to face the riverside boardwalk path.
+315 1 31210 31266 Fly to above the riverside boardwalk path.
+315 2 31267 31301 Descend to 60 meters above the riverside boardwalk path.
+316 0 31302 31317 Turn to face the riverside boardwalk path.
+316 1 31318 31355 Fly to above the riverside boardwalk path.
+316 2 31356 31393 Descend to 50 meters above the riverside boardwalk path.
+317 0 31394 31418 Turn to face the riverside boardwalk path.
+317 1 31419 31435 Fly to above the riverside boardwalk path.
+317 2 31436 31474 Descend to 50 meters above the riverside boardwalk path.
+318 0 31475 31496 Turn to face the riverside boardwalk path.
+318 1 31497 31508 Fly to above the riverside boardwalk path.
+318 2 31509 31533 Descend to 60 meters above the riverside boardwalk path.
+319 0 31534 31535 Turn to face the riverside boardwalk path.
+319 1 31536 31564 Fly to above the riverside boardwalk path.
+319 2 31565 31613 Descend to 50 meters above the riverside boardwalk path.
+320 0 31614 31646 Turn to face the riverside boardwalk path.
+320 1 31647 31660 Fly to above the riverside boardwalk path.
+320 2 31661 31702 Descend to 40 meters above the riverside boardwalk path.
+321 0 31703 31717 Turn to face the riverside boardwalk path.
+321 1 31718 31763 Fly to above the riverside boardwalk path.
+321 2 31764 31814 Descend to 40 meters above the riverside boardwalk path.
+322 0 31815 31826 Turn to face the riverside boardwalk path.
+322 1 31827 31880 Fly to above the riverside boardwalk path.
+322 2 31881 31918 Descend to 60 meters above the riverside boardwalk path.
+323 0 31919 31928 Turn to face the riverside boardwalk path.
+323 1 31929 31964 Fly to above the riverside boardwalk path.
+323 2 31965 32009 Descend to 40 meters above the riverside boardwalk path.
+324 0 32010 32015 Turn to face the riverside boardwalk path.
+324 1 32016 32052 Fly to above the riverside boardwalk path.
+324 2 32053 32093 Descend to 50 meters above the riverside boardwalk path.
+325 0 32094 32113 Turn to face the riverside boardwalk path.
+325 1 32114 32147 Fly to above the riverside boardwalk path.
+325 2 32148 32181 Descend to 60 meters above the riverside boardwalk path.
+326 0 32182 32215 Turn to face the riverside boardwalk path.
+326 1 32216 32266 Fly to above the riverside boardwalk path.
+326 2 32267 32305 Descend to 60 meters above the riverside boardwalk path.
+327 0 32306 32340 Turn to face the riverside boardwalk path.
+327 1 32341 32360 Fly to above the riverside boardwalk path.
+327 2 32361 32411 Descend to 40 meters above the riverside boardwalk path.
+328 0 32412 32442 Turn to face the riverside boardwalk path.
+328 1 32443 32502 Fly to above the riverside boardwalk path.
+328 2 32503 32532 Descend to 60 meters above the riverside boardwalk path.
+329 0 32533 32564 Turn to face the riverside boardwalk path.
+329 1 32565 32580 Fly to above the riverside boardwalk path.
+329 2 32581 32615 Descend to 50 meters above the riverside boardwalk path.
+330 0 32616 32650 Turn to face the red pedestrian path.
+330 1 32651 32710 Fly to above the red pedestrian path.
+330 2 32711 32758 Descend to 50 meters above the red pedestrian path.
+331 0 32759 32791 Turn to face the red pedestrian path.
+331 1 32792 32806 Fly to above the red pedestrian path.
+331 2 32807 32859 Descend to 40 meters above the red pedestrian path.
+332 0 32860 32860 Turn to face the red pedestrian path.
+332 1 32861 32908 Fly to above the red pedestrian path.
+332 2 32909 32941 Descend to 60 meters above the red pedestrian path.
+333 0 32942 32955 Turn to face the red pedestrian path.
+333 1 32956 33004 Fly to above the red pedestrian path.
+333 2 33005 33054 Descend to 50 meters above the red pedestrian path.
+334 0 33055 33086 Turn to face the red pedestrian path.
+334 1 33087 33141 Fly to above the red pedestrian path.
+334 2 33142 33186 Descend to 50 meters above the red pedestrian path.
+335 0 33187 33189 Turn to face the red pedestrian path.
+335 1 33190 33217 Fly to above the red pedestrian path.
+335 2 33218 33250 Descend to 50 meters above the red pedestrian path.
+336 0 33251 33270 Turn to face the red pedestrian path.
+336 1 33271 33322 Fly to above the red pedestrian path.
+336 2 33323 33358 Descend to 50 meters above the red pedestrian path.
+337 0 33359 33384 Turn to face the red pedestrian path.
+337 1 33385 33443 Fly to above the red pedestrian path.
+337 2 33444 33477 Descend to 50 meters above the red pedestrian path.
+338 0 33478 33483 Turn to face the red pedestrian path.
+338 1 33484 33540 Fly to above the red pedestrian path.
+338 2 33541 33595 Descend to 40 meters above the red pedestrian path.
+339 0 33596 33616 Turn to face the red pedestrian path.
+339 1 33617 33652 Fly to above the red pedestrian path.
+339 2 33653 33685 Descend to 50 meters above the red pedestrian path.
+340 0 33686 33686 Turn to face the red pedestrian path.
+340 1 33687 33708 Fly to above the red pedestrian path.
+340 2 33709 33763 Descend to 40 meters above the red pedestrian path.
+341 0 33764 33796 Turn to face the red pedestrian path.
+341 1 33797 33838 Fly to above the red pedestrian path.
+341 2 33839 33893 Descend to 40 meters above the red pedestrian path.
+342 0 33894 33924 Turn to face the red pedestrian path.
+342 1 33925 33979 Fly to above the red pedestrian path.
+342 2 33980 34027 Descend to 40 meters above the red pedestrian path.
+343 0 34028 34037 Turn to face the red pedestrian path.
+343 1 34038 34079 Fly to above the red pedestrian path.
+343 2 34080 34114 Descend to 50 meters above the red pedestrian path.
+344 0 34115 34137 Turn to face the red pedestrian path.
+344 1 34138 34169 Fly to above the red pedestrian path.
+344 2 34170 34218 Descend to 40 meters above the red pedestrian path.
+345 0 34219 34231 Turn to face the colorful playground splash pad.
+345 1 34232 34268 Fly to above the colorful playground splash pad.
+345 2 34269 34324 Descend to 40 meters above the colorful playground splash pad.
+346 0 34325 34341 Turn to face the colorful playground splash pad.
+346 1 34342 34390 Fly to above the colorful playground splash pad.
+346 2 34391 34440 Descend to 50 meters above the colorful playground splash pad.
+347 0 34441 34443 Turn to face the colorful playground splash pad.
+347 1 34444 34500 Fly to above the colorful playground splash pad.
+347 2 34501 34546 Descend to 50 meters above the colorful playground splash pad.
+348 0 34547 34576 Turn to face the colorful playground splash pad.
+348 1 34577 34584 Fly to above the colorful playground splash pad.
+348 2 34585 34614 Descend to 60 meters above the colorful playground splash pad.
+349 0 34615 34618 Turn to face the colorful playground splash pad.
+349 1 34619 34664 Fly to above the colorful playground splash pad.
+349 2 34665 34721 Descend to 40 meters above the colorful playground splash pad.
+350 0 34722 34755 Turn to face the colorful playground splash pad.
+350 1 34756 34809 Fly to above the colorful playground splash pad.
+350 2 34810 34849 Descend to 60 meters above the colorful playground splash pad.
+351 0 34850 34881 Turn to face the colorful playground splash pad.
+351 1 34882 34938 Fly to above the colorful playground splash pad.
+351 2 34939 34987 Descend to 40 meters above the colorful playground splash pad.
+352 0 34988 35019 Turn to face the colorful playground splash pad.
+352 1 35020 35078 Fly to above the colorful playground splash pad.
+352 2 35079 35110 Descend to 60 meters above the colorful playground splash pad.
+353 0 35111 35128 Turn to face the colorful playground splash pad.
+353 1 35129 35153 Fly to above the colorful playground splash pad.
+353 2 35154 35185 Descend to 50 meters above the colorful playground splash pad.
+354 0 35186 35186 Turn to face the colorful playground splash pad.
+354 1 35187 35241 Fly to above the colorful playground splash pad.
+354 2 35242 35265 Descend to 60 meters above the colorful playground splash pad.
+355 0 35266 35292 Turn to face the colorful playground splash pad.
+355 1 35293 35347 Fly to above the colorful playground splash pad.
+355 2 35348 35396 Descend to 50 meters above the colorful playground splash pad.
+356 0 35397 35412 Turn to face the colorful playground splash pad.
+356 1 35413 35467 Fly to above the colorful playground splash pad.
+356 2 35468 35513 Descend to 40 meters above the colorful playground splash pad.
+357 0 35514 35536 Turn to face the colorful playground splash pad.
+357 1 35537 35567 Fly to above the colorful playground splash pad.
+357 2 35568 35596 Descend to 60 meters above the colorful playground splash pad.
+358 0 35597 35620 Turn to face the colorful playground splash pad.
+358 1 35621 35673 Fly to above the colorful playground splash pad.
+358 2 35674 35710 Descend to 60 meters above the colorful playground splash pad.
+359 0 35711 35712 Turn to face the colorful playground splash pad.
+359 1 35713 35716 Fly to above the colorful playground splash pad.
+359 2 35717 35756 Descend to 60 meters above the colorful playground splash pad.
+360 0 35757 35762 Turn to face the garden pavilion shelter.
+360 1 35763 35806 Fly to above the garden pavilion shelter.
+360 2 35807 35848 Descend to 40 meters above the garden pavilion shelter.
+361 0 35849 35871 Turn to face the garden pavilion shelter.
+361 1 35872 35923 Fly to above the garden pavilion shelter.
+361 2 35924 35967 Descend to 40 meters above the garden pavilion shelter.
+362 0 35968 35990 Turn to face the garden pavilion shelter.
+362 1 35991 36032 Fly to above the garden pavilion shelter.
+362 2 36033 36075 Descend to 50 meters above the garden pavilion shelter.
+363 0 36076 36076 Turn to face the garden pavilion shelter.
+363 1 36077 36136 Fly to above the garden pavilion shelter.
+363 2 36137 36175 Descend to 50 meters above the garden pavilion shelter.
+364 0 36176 36190 Turn to face the garden pavilion shelter.
+364 1 36191 36242 Fly to above the garden pavilion shelter.
+364 2 36243 36284 Descend to 40 meters above the garden pavilion shelter.
+365 0 36285 36312 Turn to face the garden pavilion shelter.
+365 1 36313 36339 Fly to above the garden pavilion shelter.
+365 2 36340 36389 Descend to 40 meters above the garden pavilion shelter.
+366 0 36390 36391 Turn to face the garden pavilion shelter.
+366 1 36392 36449 Fly to above the garden pavilion shelter.
+366 2 36450 36495 Descend to 40 meters above the garden pavilion shelter.
+367 0 36496 36511 Turn to face the garden pavilion shelter.
+367 1 36512 36542 Fly to above the garden pavilion shelter.
+367 2 36543 36581 Descend to 60 meters above the garden pavilion shelter.
+368 0 36582 36599 Turn to face the garden pavilion shelter.
+368 1 36600 36655 Fly to above the garden pavilion shelter.
+368 2 36656 36676 Descend to 60 meters above the garden pavilion shelter.
+369 0 36677 36702 Turn to face the garden pavilion shelter.
+369 1 36703 36750 Fly to above the garden pavilion shelter.
+369 2 36751 36795 Descend to 40 meters above the garden pavilion shelter.
+370 0 36796 36805 Turn to face the garden pavilion shelter.
+370 1 36806 36861 Fly to above the garden pavilion shelter.
+370 2 36862 36893 Descend to 50 meters above the garden pavilion shelter.
+371 0 36894 36894 Turn to face the garden pavilion shelter.
+371 1 36895 36928 Fly to above the garden pavilion shelter.
+371 2 36929 36964 Descend to 60 meters above the garden pavilion shelter.
+372 0 36965 36989 Turn to face the garden pavilion shelter.
+372 1 36990 37048 Fly to above the garden pavilion shelter.
+372 2 37049 37097 Descend to 40 meters above the garden pavilion shelter.
+373 0 37098 37132 Turn to face the garden pavilion shelter.
+373 1 37133 37176 Fly to above the garden pavilion shelter.
+373 2 37177 37213 Descend to 60 meters above the garden pavilion shelter.
+374 0 37214 37229 Turn to face the garden pavilion shelter.
+374 1 37230 37250 Fly to above the garden pavilion shelter.
+374 2 37251 37291 Descend to 50 meters above the garden pavilion shelter.
+375 0 37292 37292 Turn to face the community garden plots.
+375 1 37293 37338 Fly to above the community garden plots.
+375 2 37339 37394 Descend to 40 meters above the community garden plots.
+376 0 37395 37395 Turn to face the community garden plots.
+376 1 37396 37447 Fly to above the community garden plots.
+376 2 37448 37478 Descend to 60 meters above the community garden plots.
+377 0 37479 37510 Turn to face the community garden plots.
+377 1 37511 37564 Fly to above the community garden plots.
+377 2 37565 37619 Descend to 40 meters above the community garden plots.
+378 0 37620 37629 Turn to face the community garden plots.
+378 1 37630 37665 Fly to above the community garden plots.
+378 2 37666 37715 Descend to 40 meters above the community garden plots.
+379 0 37716 37741 Turn to face the community garden plots.
+379 1 37742 37760 Fly to above the community garden plots.
+379 2 37761 37798 Descend to 60 meters above the community garden plots.
+380 0 37799 37810 Turn to face the community garden plots.
+380 1 37811 37848 Fly to above the community garden plots.
+380 2 37849 37896 Descend to 50 meters above the community garden plots.
+381 0 37897 37908 Turn to face the community garden plots.
+381 1 37909 37961 Fly to above the community garden plots.
+381 2 37962 37994 Descend to 60 meters above the community garden plots.
+382 0 37995 38005 Turn to face the community garden plots.
+382 1 38006 38015 Fly to above the community garden plots.
+382 2 38016 38050 Descend to 60 meters above the community garden plots.
+383 0 38051 38072 Turn to face the community garden plots.
+383 1 38073 38115 Fly to above the community garden plots.
+383 2 38116 38142 Descend to 60 meters above the community garden plots.
+384 0 38143 38163 Turn to face the community garden plots.
+384 1 38164 38201 Fly to above the community garden plots.
+384 2 38202 38223 Descend to 60 meters above the community garden plots.
+385 0 38224 38257 Turn to face the community garden plots.
+385 1 38258 38288 Fly to above the community garden plots.
+385 2 38289 38343 Descend to 40 meters above the community garden plots.
+386 0 38344 38346 Turn to face the community garden plots.
+386 1 38347 38390 Fly to above the community garden plots.
+386 2 38391 38435 Descend to 40 meters above the community garden plots.
+387 0 38436 38447 Turn to face the community garden plots.
+387 1 38448 38457 Fly to above the community garden plots.
+387 2 38458 38512 Descend to 40 meters above the community garden plots.
+388 0 38513 38536 Turn to face the community garden plots.
+388 1 38537 38580 Fly to above the community garden plots.
+388 2 38581 38619 Descend to 50 meters above the community garden plots.
+389 0 38620 38621 Turn to face the community garden plots.
+389 1 38622 38648 Fly to above the community garden plots.
+389 2 38649 38685 Descend to 60 meters above the community garden plots.
+390 0 38686 38717 Turn to face the basketball court.
+390 1 38718 38740 Fly to above the basketball court.
+390 2 38741 38779 Descend to 60 meters above the basketball court.
+391 0 38780 38809 Turn to face the basketball court.
+391 1 38810 38844 Fly to above the basketball court.
+391 2 38845 38879 Descend to 50 meters above the basketball court.
+392 0 38880 38904 Turn to face the basketball court.
+392 1 38905 38921 Fly to above the basketball court.
+392 2 38922 38963 Descend to 40 meters above the basketball court.
+393 0 38964 38995 Turn to face the basketball court.
+393 1 38996 39050 Fly to above the basketball court.
+393 2 39051 39106 Descend to 40 meters above the basketball court.
+394 0 39107 39136 Turn to face the basketball court.
+394 1 39137 39184 Fly to above the basketball court.
+394 2 39185 39229 Descend to 50 meters above the basketball court.
+395 0 39230 39241 Turn to face the basketball court.
+395 1 39242 39277 Fly to above the basketball court.
+395 2 39278 39301 Descend to 60 meters above the basketball court.
+396 0 39302 39330 Turn to face the basketball court.
+396 1 39331 39354 Fly to above the basketball court.
+396 2 39355 39391 Descend to 60 meters above the basketball court.
+397 0 39392 39420 Turn to face the basketball court.
+397 1 39421 39470 Fly to above the basketball court.
+397 2 39471 39512 Descend to 40 meters above the basketball court.
+398 0 39513 39519 Turn to face the basketball court.
+398 1 39520 39547 Fly to above the basketball court.
+398 2 39548 39606 Descend to 40 meters above the basketball court.
+399 0 39607 39618 Turn to face the basketball court.
+399 1 39619 39664 Fly to above the basketball court.
+399 2 39665 39716 Descend to 40 meters above the basketball court.
+400 0 39717 39718 Turn to face the basketball court.
+400 1 39719 39766 Fly to above the basketball court.
+400 2 39767 39810 Descend to 50 meters above the basketball court.
+401 0 39811 39821 Turn to face the basketball court.
+401 1 39822 39871 Fly to above the basketball court.
+401 2 39872 39910 Descend to 50 meters above the basketball court.
+402 0 39911 39931 Turn to face the basketball court.
+402 1 39932 39960 Fly to above the basketball court.
+402 2 39961 40005 Descend to 50 meters above the basketball court.
+403 0 40006 40035 Turn to face the basketball court.
+403 1 40036 40090 Fly to above the basketball court.
+403 2 40091 40146 Descend to 40 meters above the basketball court.
+404 0 40147 40153 Turn to face the basketball court.
+404 1 40154 40201 Fly to above the basketball court.
+404 2 40202 40241 Descend to 50 meters above the basketball court.
+405 0 40242 40261 Turn to face the running track curve.
+405 1 40262 40308 Fly to above the running track curve.
+405 2 40309 40340 Descend to 50 meters above the running track curve.
+406 0 40341 40342 Turn to face the running track curve.
+406 1 40343 40400 Fly to above the running track curve.
+406 2 40401 40430 Descend to 60 meters above the running track curve.
+407 0 40431 40459 Turn to face the running track curve.
+407 1 40460 40500 Fly to above the running track curve.
+407 2 40501 40535 Descend to 50 meters above the running track curve.
+408 0 40536 40552 Turn to face the running track curve.
+408 1 40553 40592 Fly to above the running track curve.
+408 2 40593 40637 Descend to 50 meters above the running track curve.
+409 0 40638 40672 Turn to face the running track curve.
+409 1 40673 40718 Fly to above the running track curve.
+409 2 40719 40777 Descend to 40 meters above the running track curve.
+410 0 40778 40804 Turn to face the running track curve.
+410 1 40805 40839 Fly to above the running track curve.
+410 2 40840 40878 Descend to 50 meters above the running track curve.
+411 0 40879 40903 Turn to face the running track curve.
+411 1 40904 40932 Fly to above the running track curve.
+411 2 40933 40973 Descend to 50 meters above the running track curve.
+412 0 40974 41007 Turn to face the running track curve.
+412 1 41008 41067 Fly to above the running track curve.
+412 2 41068 41103 Descend to 50 meters above the running track curve.
+413 0 41104 41109 Turn to face the running track curve.
+413 1 41110 41140 Fly to above the running track curve.
+413 2 41141 41180 Descend to 60 meters above the running track curve.
+414 0 41181 41191 Turn to face the running track curve.
+414 1 41192 41239 Fly to above the running track curve.
+414 2 41240 41298 Descend to 40 meters above the running track curve.
+415 0 41299 41305 Turn to face the running track curve.
+415 1 41306 41349 Fly to above the running track curve.
+415 2 41350 41386 Descend to 50 meters above the running track curve.
+416 0 41387 41395 Turn to face the running track curve.
+416 1 41396 41455 Fly to above the running track curve.
+416 2 41456 41511 Descend to 40 meters above the running track curve.
+417 0 41512 41543 Turn to face the running track curve.
+417 1 41544 41577 Fly to above the running track curve.
+417 2 41578 41609 Descend to 60 meters above the running track curve.
+418 0 41610 41614 Turn to face the running track curve.
+418 1 41615 41653 Fly to above the running track curve.
+418 2 41654 41690 Descend to 50 meters above the running track curve.
+419 0 41691 41707 Turn to face the running track curve.
+419 1 41708 41729 Fly to above the running track curve.
+419 2 41730 41777 Descend to 50 meters above the running track curve.
+420 0 41778 41795 Turn to face the construction excavator.
+420 1 41796 41848 Fly to above the construction excavator.
+420 2 41849 41889 Descend to 40 meters above the construction excavator.
+421 0 41890 41895 Turn to face the construction excavator.
+421 1 41896 41921 Fly to above the construction excavator.
+421 2 41922 41967 Descend to 40 meters above the construction excavator.
+422 0 41968 41993 Turn to face the construction excavator.
+422 1 41994 42039 Fly to above the construction excavator.
+422 2 42040 42096 Descend to 40 meters above the construction excavator.
+423 0 42097 42105 Turn to face the construction excavator.
+423 1 42106 42152 Fly to above the construction excavator.
+423 2 42153 42201 Descend to 40 meters above the construction excavator.
+424 0 42202 42229 Turn to face the construction excavator.
+424 1 42230 42286 Fly to above the construction excavator.
+424 2 42287 42320 Descend to 50 meters above the construction excavator.
+425 0 42321 42321 Turn to face the construction excavator.
+425 1 42322 42366 Fly to above the construction excavator.
+425 2 42367 42391 Descend to 60 meters above the construction excavator.
+426 0 42392 42402 Turn to face the construction excavator.
+426 1 42403 42449 Fly to above the construction excavator.
+426 2 42450 42499 Descend to 40 meters above the construction excavator.
+427 0 42500 42512 Turn to face the construction excavator.
+427 1 42513 42554 Fly to above the construction excavator.
+427 2 42555 42579 Descend to 60 meters above the construction excavator.
+428 0 42580 42588 Turn to face the construction excavator.
+428 1 42589 42639 Fly to above the construction excavator.
+428 2 42640 42688 Descend to 40 meters above the construction excavator.
+429 0 42689 42719 Turn to face the construction excavator.
+429 1 42720 42766 Fly to above the construction excavator.
+429 2 42767 42813 Descend to 50 meters above the construction excavator.
+430 0 42814 42817 Turn to face the construction excavator.
+430 1 42818 42859 Fly to above the construction excavator.
+430 2 42860 42904 Descend to 40 meters above the construction excavator.
+431 0 42905 42919 Turn to face the construction excavator.
+431 1 42920 42948 Fly to above the construction excavator.
+431 2 42949 42997 Descend to 40 meters above the construction excavator.
+432 0 42998 43019 Turn to face the construction excavator.
+432 1 43020 43077 Fly to above the construction excavator.
+432 2 43078 43136 Descend to 40 meters above the construction excavator.
+433 0 43137 43158 Turn to face the construction excavator.
+433 1 43159 43216 Fly to above the construction excavator.
+433 2 43217 43237 Descend to 60 meters above the construction excavator.
+434 0 43238 43265 Turn to face the construction excavator.
+434 1 43266 43323 Fly to above the construction excavator.
+434 2 43324 43355 Descend to 60 meters above the construction excavator.
+435 0 43356 43376 Turn to face the bridge construction work zone.
+435 1 43377 43432 Fly to above the bridge construction work zone.
+435 2 43433 43465 Descend to 60 meters above the bridge construction work zone.
+436 0 43466 43500 Turn to face the bridge construction work zone.
+436 1 43501 43524 Fly to above the bridge construction work zone.
+436 2 43525 43556 Descend to 50 meters above the bridge construction work zone.
+437 0 43557 43580 Turn to face the bridge construction work zone.
+437 1 43581 43636 Fly to above the bridge construction work zone.
+437 2 43637 43677 Descend to 50 meters above the bridge construction work zone.
+438 0 43678 43702 Turn to face the bridge construction work zone.
+438 1 43703 43754 Fly to above the bridge construction work zone.
+438 2 43755 43778 Descend to 60 meters above the bridge construction work zone.
+439 0 43779 43794 Turn to face the bridge construction work zone.
+439 1 43795 43835 Fly to above the bridge construction work zone.
+439 2 43836 43870 Descend to 60 meters above the bridge construction work zone.
+440 0 43871 43889 Turn to face the bridge construction work zone.
+440 1 43890 43926 Fly to above the bridge construction work zone.
+440 2 43927 43951 Descend to 60 meters above the bridge construction work zone.
+441 0 43952 43967 Turn to face the bridge construction work zone.
+441 1 43968 44025 Fly to above the bridge construction work zone.
+441 2 44026 44059 Descend to 60 meters above the bridge construction work zone.
+442 0 44060 44066 Turn to face the bridge construction work zone.
+442 1 44067 44084 Fly to above the bridge construction work zone.
+442 2 44085 44121 Descend to 50 meters above the bridge construction work zone.
+443 0 44122 44126 Turn to face the bridge construction work zone.
+443 1 44127 44168 Fly to above the bridge construction work zone.
+443 2 44169 44214 Descend to 40 meters above the bridge construction work zone.
+444 0 44215 44242 Turn to face the bridge construction work zone.
+444 1 44243 44286 Fly to above the bridge construction work zone.
+444 2 44287 44335 Descend to 40 meters above the bridge construction work zone.
+445 0 44336 44344 Turn to face the bridge construction work zone.
+445 1 44345 44393 Fly to above the bridge construction work zone.
+445 2 44394 44431 Descend to 60 meters above the bridge construction work zone.
+446 0 44432 44438 Turn to face the bridge construction work zone.
+446 1 44439 44462 Fly to above the bridge construction work zone.
+446 2 44463 44503 Descend to 40 meters above the bridge construction work zone.
+447 0 44504 44533 Turn to face the bridge construction work zone.
+447 1 44534 44556 Fly to above the bridge construction work zone.
+447 2 44557 44605 Descend to 40 meters above the bridge construction work zone.
+448 0 44606 44638 Turn to face the bridge construction work zone.
+448 1 44639 44649 Fly to above the bridge construction work zone.
+448 2 44650 44697 Descend to 40 meters above the bridge construction work zone.
+449 0 44698 44701 Turn to face the bridge construction work zone.
+449 1 44702 44721 Fly to above the bridge construction work zone.
+449 2 44722 44766 Descend to 40 meters above the bridge construction work zone.
+450 0 44767 44786 Turn to face the construction dirt clearing.
+450 1 44787 44841 Fly to above the construction dirt clearing.
+450 2 44842 44892 Descend to 40 meters above the construction dirt clearing.
+451 0 44893 44921 Turn to face the construction dirt clearing.
+451 1 44922 44930 Fly to above the construction dirt clearing.
+451 2 44931 44967 Descend to 50 meters above the construction dirt clearing.
+452 0 44968 44978 Turn to face the construction dirt clearing.
+452 1 44979 45032 Fly to above the construction dirt clearing.
+452 2 45033 45053 Descend to 60 meters above the construction dirt clearing.
+453 0 45054 45063 Turn to face the construction dirt clearing.
+453 1 45064 45116 Fly to above the construction dirt clearing.
+453 2 45117 45172 Descend to 40 meters above the construction dirt clearing.
+454 0 45173 45173 Turn to face the construction dirt clearing.
+454 1 45174 45233 Fly to above the construction dirt clearing.
+454 2 45234 45282 Descend to 40 meters above the construction dirt clearing.
+455 0 45283 45294 Turn to face the construction dirt clearing.
+455 1 45295 45317 Fly to above the construction dirt clearing.
+455 2 45318 45357 Descend to 60 meters above the construction dirt clearing.
+456 0 45358 45368 Turn to face the construction dirt clearing.
+456 1 45369 45424 Fly to above the construction dirt clearing.
+456 2 45425 45474 Descend to 40 meters above the construction dirt clearing.
+457 0 45475 45496 Turn to face the construction dirt clearing.
+457 1 45497 45538 Fly to above the construction dirt clearing.
+457 2 45539 45570 Descend to 50 meters above the construction dirt clearing.
+458 0 45571 45594 Turn to face the construction dirt clearing.
+458 1 45595 45637 Fly to above the construction dirt clearing.
+458 2 45638 45666 Descend to 60 meters above the construction dirt clearing.
+459 0 45667 45668 Turn to face the construction dirt clearing.
+459 1 45669 45711 Fly to above the construction dirt clearing.
+459 2 45712 45757 Descend to 40 meters above the construction dirt clearing.
+460 0 45758 45785 Turn to face the construction dirt clearing.
+460 1 45786 45826 Fly to above the construction dirt clearing.
+460 2 45827 45864 Descend to 60 meters above the construction dirt clearing.
+461 0 45865 45876 Turn to face the construction dirt clearing.
+461 1 45877 45920 Fly to above the construction dirt clearing.
+461 2 45921 45944 Descend to 60 meters above the construction dirt clearing.
+462 0 45945 45978 Turn to face the construction dirt clearing.
+462 1 45979 46016 Fly to above the construction dirt clearing.
+462 2 46017 46070 Descend to 40 meters above the construction dirt clearing.
+463 0 46071 46099 Turn to face the construction dirt clearing.
+463 1 46100 46149 Fly to above the construction dirt clearing.
+463 2 46150 46197 Descend to 40 meters above the construction dirt clearing.
+464 0 46198 46217 Turn to face the construction dirt clearing.
+464 1 46218 46258 Fly to above the construction dirt clearing.
+464 2 46259 46316 Descend to 40 meters above the construction dirt clearing.
+465 0 46317 46342 Turn to face the dirt service road.
+465 1 46343 46370 Fly to above the dirt service road.
+465 2 46371 46397 Descend to 60 meters above the dirt service road.
+466 0 46398 46425 Turn to face the dirt service road.
+466 1 46426 46447 Fly to above the dirt service road.
+466 2 46448 46492 Descend to 50 meters above the dirt service road.
+467 0 46493 46511 Turn to face the dirt service road.
+467 1 46512 46565 Fly to above the dirt service road.
+467 2 46566 46608 Descend to 50 meters above the dirt service road.
+468 0 46609 46631 Turn to face the dirt service road.
+468 1 46632 46691 Fly to above the dirt service road.
+468 2 46692 46725 Descend to 50 meters above the dirt service road.
+469 0 46726 46749 Turn to face the dirt service road.
+469 1 46750 46793 Fly to above the dirt service road.
+469 2 46794 46826 Descend to 60 meters above the dirt service road.
+470 0 46827 46847 Turn to face the dirt service road.
+470 1 46848 46878 Fly to above the dirt service road.
+470 2 46879 46921 Descend to 40 meters above the dirt service road.
+471 0 46922 46945 Turn to face the dirt service road.
+471 1 46946 46977 Fly to above the dirt service road.
+471 2 46978 47003 Descend to 60 meters above the dirt service road.
+472 0 47004 47021 Turn to face the dirt service road.
+472 1 47022 47059 Fly to above the dirt service road.
+472 2 47060 47086 Descend to 60 meters above the dirt service road.
+473 0 47087 47106 Turn to face the dirt service road.
+473 1 47107 47116 Fly to above the dirt service road.
+473 2 47117 47162 Descend to 50 meters above the dirt service road.
+474 0 47163 47180 Turn to face the dirt service road.
+474 1 47181 47223 Fly to above the dirt service road.
+474 2 47224 47260 Descend to 50 meters above the dirt service road.
+475 0 47261 47266 Turn to face the dirt service road.
+475 1 47267 47319 Fly to above the dirt service road.
+475 2 47320 47357 Descend to 60 meters above the dirt service road.
+476 0 47358 47377 Turn to face the dirt service road.
+476 1 47378 47431 Fly to above the dirt service road.
+476 2 47432 47490 Descend to 40 meters above the dirt service road.
+477 0 47491 47517 Turn to face the dirt service road.
+477 1 47518 47577 Fly to above the dirt service road.
+477 2 47578 47599 Descend to 60 meters above the dirt service road.
+478 0 47600 47630 Turn to face the dirt service road.
+478 1 47631 47683 Fly to above the dirt service road.
+478 2 47684 47736 Descend to 40 meters above the dirt service road.
+479 0 47737 47755 Turn to face the dirt service road.
+479 1 47756 47774 Fly to above the dirt service road.
+479 2 47775 47823 Descend to 40 meters above the dirt service road.
+480 0 47824 47824 Turn to face the paved road with guardrail.
+480 1 47825 47855 Fly to above the paved road with guardrail.
+480 2 47856 47894 Descend to 50 meters above the paved road with guardrail.
+481 0 47895 47898 Turn to face the paved road with guardrail.
+481 1 47899 47930 Fly to above the paved road with guardrail.
+481 2 47931 47969 Descend to 50 meters above the paved road with guardrail.
+482 0 47970 47997 Turn to face the paved road with guardrail.
+482 1 47998 48036 Fly to above the paved road with guardrail.
+482 2 48037 48067 Descend to 60 meters above the paved road with guardrail.
+483 0 48068 48084 Turn to face the paved road with guardrail.
+483 1 48085 48120 Fly to above the paved road with guardrail.
+483 2 48121 48159 Descend to 50 meters above the paved road with guardrail.
+484 0 48160 48191 Turn to face the paved road with guardrail.
+484 1 48192 48251 Fly to above the paved road with guardrail.
+484 2 48252 48291 Descend to 60 meters above the paved road with guardrail.
+485 0 48292 48305 Turn to face the paved road with guardrail.
+485 1 48306 48328 Fly to above the paved road with guardrail.
+485 2 48329 48372 Descend to 40 meters above the paved road with guardrail.
+486 0 48373 48381 Turn to face the paved road with guardrail.
+486 1 48382 48412 Fly to above the paved road with guardrail.
+486 2 48413 48455 Descend to 40 meters above the paved road with guardrail.
+487 0 48456 48473 Turn to face the paved road with guardrail.
+487 1 48474 48524 Fly to above the paved road with guardrail.
+487 2 48525 48566 Descend to 50 meters above the paved road with guardrail.
+488 0 48567 48591 Turn to face the paved road with guardrail.
+488 1 48592 48634 Fly to above the paved road with guardrail.
+488 2 48635 48688 Descend to 40 meters above the paved road with guardrail.
+489 0 48689 48693 Turn to face the paved road with guardrail.
+489 1 48694 48752 Fly to above the paved road with guardrail.
+489 2 48753 48796 Descend to 40 meters above the paved road with guardrail.
+490 0 48797 48807 Turn to face the paved road with guardrail.
+490 1 48808 48858 Fly to above the paved road with guardrail.
+490 2 48859 48902 Descend to 40 meters above the paved road with guardrail.
+491 0 48903 48936 Turn to face the paved road with guardrail.
+491 1 48937 48996 Fly to above the paved road with guardrail.
+491 2 48997 49044 Descend to 50 meters above the paved road with guardrail.
+492 0 49045 49068 Turn to face the paved road with guardrail.
+492 1 49069 49086 Fly to above the paved road with guardrail.
+492 2 49087 49125 Descend to 60 meters above the paved road with guardrail.
+493 0 49126 49156 Turn to face the paved road with guardrail.
+493 1 49157 49190 Fly to above the paved road with guardrail.
+493 2 49191 49220 Descend to 60 meters above the paved road with guardrail.
+494 0 49221 49242 Turn to face the paved road with guardrail.
+494 1 49243 49299 Fly to above the paved road with guardrail.
+494 2 49300 49354 Descend to 40 meters above the paved road with guardrail.
+495 0 49355 49389 Turn to face the curved asphalt road.
+495 1 49390 49401 Fly to above the curved asphalt road.
+495 2 49402 49448 Descend to 40 meters above the curved asphalt road.
+496 0 49449 49456 Turn to face the curved asphalt road.
+496 1 49457 49515 Fly to above the curved asphalt road.
+496 2 49516 49563 Descend to 50 meters above the curved asphalt road.
+497 0 49564 49593 Turn to face the curved asphalt road.
+497 1 49594 49627 Fly to above the curved asphalt road.
+497 2 49628 49678 Descend to 40 meters above the curved asphalt road.
+498 0 49679 49709 Turn to face the curved asphalt road.
+498 1 49710 49746 Fly to above the curved asphalt road.
+498 2 49747 49774 Descend to 60 meters above the curved asphalt road.
+499 0 49775 49789 Turn to face the curved asphalt road.
+499 1 49790 49820 Fly to above the curved asphalt road.
+499 2 49821 49868 Descend to 40 meters above the curved asphalt road.
+500 0 49869 49874 Turn to face the curved asphalt road.
+500 1 49875 49927 Fly to above the curved asphalt road.
+500 2 49928 49959 Descend to 60 meters above the curved asphalt road.
+501 0 49960 49984 Turn to face the curved asphalt road.
+501 1 49985 50028 Fly to above the curved asphalt road.
+501 2 50029 50074 Descend to 50 meters above the curved asphalt road.
+502 0 50075 50102 Turn to face the curved asphalt road.
+502 1 50103 50153 Fly to above the curved asphalt road.
+502 2 50154 50183 Descend to 60 meters above the curved asphalt road.
+503 0 50184 50191 Turn to face the curved asphalt road.
+503 1 50192 50236 Fly to above the curved asphalt road.
+503 2 50237 50282 Descend to 50 meters above the curved asphalt road.
+504 0 50283 50308 Turn to face the curved asphalt road.
+504 1 50309 50364 Fly to above the curved asphalt road.
+504 2 50365 50417 Descend to 40 meters above the curved asphalt road.
+505 0 50418 50430 Turn to face the curved asphalt road.
+505 1 50431 50486 Fly to above the curved asphalt road.
+505 2 50487 50507 Descend to 60 meters above the curved asphalt road.
+506 0 50508 50509 Turn to face the curved asphalt road.
+506 1 50510 50565 Fly to above the curved asphalt road.
+506 2 50566 50594 Descend to 60 meters above the curved asphalt road.
+507 0 50595 50601 Turn to face the curved asphalt road.
+507 1 50602 50636 Fly to above the curved asphalt road.
+507 2 50637 50681 Descend to 40 meters above the curved asphalt road.
+508 0 50682 50700 Turn to face the curved asphalt road.
+508 1 50701 50753 Fly to above the curved asphalt road.
+508 2 50754 50789 Descend to 50 meters above the curved asphalt road.
+509 0 50790 50802 Turn to face the curved asphalt road.
+509 1 50803 50853 Fly to above the curved asphalt road.
+509 2 50854 50880 Descend to 60 meters above the curved asphalt road.
+510 0 50881 50893 Turn to face the access road with marked parking bays.
+510 1 50894 50945 Fly to above the access road with marked parking bays.
+510 2 50946 50966 Descend to 60 meters above the access road with marked parking bays.
+511 0 50967 50982 Turn to face the access road with marked parking bays.
+511 1 50983 51041 Fly to above the access road with marked parking bays.
+511 2 51042 51091 Descend to 40 meters above the access road with marked parking bays.
+512 0 51092 51121 Turn to face the access road with marked parking bays.
+512 1 51122 51156 Fly to above the access road with marked parking bays.
+512 2 51157 51185 Descend to 60 meters above the access road with marked parking bays.
+513 0 51186 51192 Turn to face the access road with marked parking bays.
+513 1 51193 51249 Fly to above the access road with marked parking bays.
+513 2 51250 51281 Descend to 50 meters above the access road with marked parking bays.
+514 0 51282 51282 Turn to face the access road with marked parking bays.
+514 1 51283 51318 Fly to above the access road with marked parking bays.
+514 2 51319 51362 Descend to 40 meters above the access road with marked parking bays.
+515 0 51363 51387 Turn to face the access road with marked parking bays.
+515 1 51388 51430 Fly to above the access road with marked parking bays.
+515 2 51431 51471 Descend to 40 meters above the access road with marked parking bays.
+516 0 51472 51503 Turn to face the access road with marked parking bays.
+516 1 51504 51520 Fly to above the access road with marked parking bays.
+516 2 51521 51580 Descend to 40 meters above the access road with marked parking bays.
+517 0 51581 51615 Turn to face the access road with marked parking bays.
+517 1 51616 51642 Fly to above the access road with marked parking bays.
+517 2 51643 51682 Descend to 50 meters above the access road with marked parking bays.
+518 0 51683 51685 Turn to face the access road with marked parking bays.
+518 1 51686 51740 Fly to above the access road with marked parking bays.
+518 2 51741 51789 Descend to 40 meters above the access road with marked parking bays.
+519 0 51790 51803 Turn to face the access road with marked parking bays.
+519 1 51804 51859 Fly to above the access road with marked parking bays.
+519 2 51860 51901 Descend to 50 meters above the access road with marked parking bays.
+520 0 51902 51936 Turn to face the access road with marked parking bays.
+520 1 51937 51952 Fly to above the access road with marked parking bays.
+520 2 51953 51998 Descend to 40 meters above the access road with marked parking bays.
+521 0 51999 52017 Turn to face the access road with marked parking bays.
+521 1 52018 52033 Fly to above the access road with marked parking bays.
+521 2 52034 52090 Descend to 40 meters above the access road with marked parking bays.
+522 0 52091 52104 Turn to face the access road with marked parking bays.
+522 1 52105 52119 Fly to above the access road with marked parking bays.
+522 2 52120 52164 Descend to 40 meters above the access road with marked parking bays.
+523 0 52165 52178 Turn to face the access road with marked parking bays.
+523 1 52179 52218 Fly to above the access road with marked parking bays.
+523 2 52219 52268 Descend to 40 meters above the access road with marked parking bays.
+524 0 52269 52278 Turn to face the access road with marked parking bays.
+524 1 52279 52302 Fly to above the access road with marked parking bays.
+524 2 52303 52324 Descend to 60 meters above the access road with marked parking bays.
+525 0 52325 52331 Turn to face the curved residential road junction.
+525 1 52332 52388 Fly to above the curved residential road junction.
+525 2 52389 52422 Descend to 60 meters above the curved residential road junction.
+526 0 52423 52443 Turn to face the curved residential road junction.
+526 1 52444 52480 Fly to above the curved residential road junction.
+526 2 52481 52510 Descend to 60 meters above the curved residential road junction.
+527 0 52511 52538 Turn to face the curved residential road junction.
+527 1 52539 52572 Fly to above the curved residential road junction.
+527 2 52573 52610 Descend to 50 meters above the curved residential road junction.
+528 0 52611 52625 Turn to face the curved residential road junction.
+528 1 52626 52672 Fly to above the curved residential road junction.
+528 2 52673 52706 Descend to 60 meters above the curved residential road junction.
+529 0 52707 52734 Turn to face the curved residential road junction.
+529 1 52735 52764 Fly to above the curved residential road junction.
+529 2 52765 52785 Descend to 60 meters above the curved residential road junction.
+530 0 52786 52819 Turn to face the curved residential road junction.
+530 1 52820 52879 Fly to above the curved residential road junction.
+530 2 52880 52934 Descend to 40 meters above the curved residential road junction.
+531 0 52935 52951 Turn to face the curved residential road junction.
+531 1 52952 52998 Fly to above the curved residential road junction.
+531 2 52999 53026 Descend to 60 meters above the curved residential road junction.
+532 0 53027 53052 Turn to face the curved residential road junction.
+532 1 53053 53112 Fly to above the curved residential road junction.
+532 2 53113 53156 Descend to 40 meters above the curved residential road junction.
+533 0 53157 53180 Turn to face the curved residential road junction.
+533 1 53181 53225 Fly to above the curved residential road junction.
+533 2 53226 53271 Descend to 50 meters above the curved residential road junction.
+534 0 53272 53303 Turn to face the curved residential road junction.
+534 1 53304 53357 Fly to above the curved residential road junction.
+534 2 53358 53399 Descend to 50 meters above the curved residential road junction.
+535 0 53400 53431 Turn to face the curved residential road junction.
+535 1 53432 53466 Fly to above the curved residential road junction.
+535 2 53467 53500 Descend to 60 meters above the curved residential road junction.
+536 0 53501 53517 Turn to face the curved residential road junction.
+536 1 53518 53561 Fly to above the curved residential road junction.
+536 2 53562 53594 Descend to 50 meters above the curved residential road junction.
+537 0 53595 53625 Turn to face the curved residential road junction.
+537 1 53626 53669 Fly to above the curved residential road junction.
+537 2 53670 53718 Descend to 50 meters above the curved residential road junction.
+538 0 53719 53727 Turn to face the curved residential road junction.
+538 1 53728 53780 Fly to above the curved residential road junction.
+538 2 53781 53839 Descend to 40 meters above the curved residential road junction.
+539 0 53840 53870 Turn to face the curved residential road junction.
+539 1 53871 53886 Fly to above the curved residential road junction.
+539 2 53887 53939 Descend to 40 meters above the curved residential road junction.
+540 0 53940 53967 Turn to face the multi-lane highway.
+540 1 53968 54018 Fly to above the multi-lane highway.
+540 2 54019 54065 Descend to 40 meters above the multi-lane highway.
+541 0 54066 54090 Turn to face the multi-lane highway.
+541 1 54091 54149 Fly to above the multi-lane highway.
+541 2 54150 54183 Descend to 60 meters above the multi-lane highway.
+542 0 54184 54191 Turn to face the multi-lane highway.
+542 1 54192 54251 Fly to above the multi-lane highway.
+542 2 54252 54276 Descend to 60 meters above the multi-lane highway.
+543 0 54277 54299 Turn to face the multi-lane highway.
+543 1 54300 54341 Fly to above the multi-lane highway.
+543 2 54342 54362 Descend to 60 meters above the multi-lane highway.
+544 0 54363 54396 Turn to face the multi-lane highway.
+544 1 54397 54442 Fly to above the multi-lane highway.
+544 2 54443 54477 Descend to 60 meters above the multi-lane highway.
+545 0 54478 54511 Turn to face the multi-lane highway.
+545 1 54512 54565 Fly to above the multi-lane highway.
+545 2 54566 54606 Descend to 50 meters above the multi-lane highway.
+546 0 54607 54631 Turn to face the multi-lane highway.
+546 1 54632 54663 Fly to above the multi-lane highway.
+546 2 54664 54701 Descend to 60 meters above the multi-lane highway.
+547 0 54702 54726 Turn to face the multi-lane highway.
+547 1 54727 54745 Fly to above the multi-lane highway.
+547 2 54746 54790 Descend to 40 meters above the multi-lane highway.
+548 0 54791 54815 Turn to face the multi-lane highway.
+548 1 54816 54862 Fly to above the multi-lane highway.
+548 2 54863 54889 Descend to 60 meters above the multi-lane highway.
+549 0 54890 54899 Turn to face the multi-lane highway.
+549 1 54900 54955 Fly to above the multi-lane highway.
+549 2 54956 54986 Descend to 60 meters above the multi-lane highway.
+550 0 54987 55004 Turn to face the multi-lane highway.
+550 1 55005 55027 Fly to above the multi-lane highway.
+550 2 55028 55075 Descend to 40 meters above the multi-lane highway.
+551 0 55076 55103 Turn to face the multi-lane highway.
+551 1 55104 55146 Fly to above the multi-lane highway.
+551 2 55147 55189 Descend to 40 meters above the multi-lane highway.
+552 0 55190 55200 Turn to face the multi-lane highway.
+552 1 55201 55238 Fly to above the multi-lane highway.
+552 2 55239 55295 Descend to 40 meters above the multi-lane highway.
+553 0 55296 55324 Turn to face the multi-lane highway.
+553 1 55325 55371 Fly to above the multi-lane highway.
+553 2 55372 55400 Descend to 60 meters above the multi-lane highway.
+554 0 55401 55413 Turn to face the multi-lane highway.
+554 1 55414 55470 Fly to above the multi-lane highway.
+554 2 55471 55502 Descend to 60 meters above the multi-lane highway.
+555 0 55503 55524 Turn to face the narrow canal waterway.
+555 1 55525 55579 Fly to above the narrow canal waterway.
+555 2 55580 55600 Descend to 60 meters above the narrow canal waterway.
+556 0 55601 55611 Turn to face the narrow canal waterway.
+556 1 55612 55666 Fly to above the narrow canal waterway.
+556 2 55667 55688 Descend to 60 meters above the narrow canal waterway.
+557 0 55689 55718 Turn to face the narrow canal waterway.
+557 1 55719 55777 Fly to above the narrow canal waterway.
+557 2 55778 55810 Descend to 60 meters above the narrow canal waterway.
+558 0 55811 55827 Turn to face the narrow canal waterway.
+558 1 55828 55848 Fly to above the narrow canal waterway.
+558 2 55849 55873 Descend to 60 meters above the narrow canal waterway.
+559 0 55874 55908 Turn to face the narrow canal waterway.
+559 1 55909 55931 Fly to above the narrow canal waterway.
+559 2 55932 55972 Descend to 50 meters above the narrow canal waterway.
+560 0 55973 55975 Turn to face the narrow canal waterway.
+560 1 55976 56021 Fly to above the narrow canal waterway.
+560 2 56022 56064 Descend to 50 meters above the narrow canal waterway.
+561 0 56065 56093 Turn to face the narrow canal waterway.
+561 1 56094 56117 Fly to above the narrow canal waterway.
+561 2 56118 56176 Descend to 40 meters above the narrow canal waterway.
+562 0 56177 56184 Turn to face the narrow canal waterway.
+562 1 56185 56232 Fly to above the narrow canal waterway.
+562 2 56233 56286 Descend to 40 meters above the narrow canal waterway.
+563 0 56287 56307 Turn to face the narrow canal waterway.
+563 1 56308 56366 Fly to above the narrow canal waterway.
+563 2 56367 56412 Descend to 50 meters above the narrow canal waterway.
+564 0 56413 56435 Turn to face the narrow canal waterway.
+564 1 56436 56478 Fly to above the narrow canal waterway.
+564 2 56479 56527 Descend to 40 meters above the narrow canal waterway.
+565 0 56528 56531 Turn to face the narrow canal waterway.
+565 1 56532 56561 Fly to above the narrow canal waterway.
+565 2 56562 56609 Descend to 40 meters above the narrow canal waterway.
+566 0 56610 56630 Turn to face the narrow canal waterway.
+566 1 56631 56664 Fly to above the narrow canal waterway.
+566 2 56665 56705 Descend to 50 meters above the narrow canal waterway.
+567 0 56706 56722 Turn to face the narrow canal waterway.
+567 1 56723 56771 Fly to above the narrow canal waterway.
+567 2 56772 56817 Descend to 40 meters above the narrow canal waterway.
+568 0 56818 56841 Turn to face the narrow canal waterway.
+568 1 56842 56872 Fly to above the narrow canal waterway.
+568 2 56873 56893 Descend to 60 meters above the narrow canal waterway.
+569 0 56894 56918 Turn to face the narrow canal waterway.
+569 1 56919 56968 Fly to above the narrow canal waterway.
+569 2 56969 57019 Descend to 40 meters above the narrow canal waterway.
+570 0 57020 57047 Turn to face the small irrigation pond.
+570 1 57048 57060 Fly to above the small irrigation pond.
+570 2 57061 57114 Descend to 40 meters above the small irrigation pond.
+571 0 57115 57130 Turn to face the small irrigation pond.
+571 1 57131 57138 Fly to above the small irrigation pond.
+571 2 57139 57184 Descend to 50 meters above the small irrigation pond.
+572 0 57185 57189 Turn to face the small irrigation pond.
+572 1 57190 57237 Fly to above the small irrigation pond.
+572 2 57238 57285 Descend to 50 meters above the small irrigation pond.
+573 0 57286 57317 Turn to face the small irrigation pond.
+573 1 57318 57375 Fly to above the small irrigation pond.
+573 2 57376 57422 Descend to 50 meters above the small irrigation pond.
+574 0 57423 57437 Turn to face the small irrigation pond.
+574 1 57438 57441 Fly to above the small irrigation pond.
+574 2 57442 57468 Descend to 60 meters above the small irrigation pond.
+575 0 57469 57469 Turn to face the small irrigation pond.
+575 1 57470 57510 Fly to above the small irrigation pond.
+575 2 57511 57566 Descend to 40 meters above the small irrigation pond.
+576 0 57567 57587 Turn to face the small irrigation pond.
+576 1 57588 57609 Fly to above the small irrigation pond.
+576 2 57610 57648 Descend to 60 meters above the small irrigation pond.
+577 0 57649 57650 Turn to face the small irrigation pond.
+577 1 57651 57689 Fly to above the small irrigation pond.
+577 2 57690 57739 Descend to 50 meters above the small irrigation pond.
+578 0 57740 57746 Turn to face the small irrigation pond.
+578 1 57747 57787 Fly to above the small irrigation pond.
+578 2 57788 57808 Descend to 60 meters above the small irrigation pond.
+579 0 57809 57835 Turn to face the small irrigation pond.
+579 1 57836 57883 Fly to above the small irrigation pond.
+579 2 57884 57917 Descend to 60 meters above the small irrigation pond.
+580 0 57918 57937 Turn to face the small irrigation pond.
+580 1 57938 57992 Fly to above the small irrigation pond.
+580 2 57993 58048 Descend to 40 meters above the small irrigation pond.
+581 0 58049 58057 Turn to face the small irrigation pond.
+581 1 58058 58100 Fly to above the small irrigation pond.
+581 2 58101 58138 Descend to 60 meters above the small irrigation pond.
+582 0 58139 58172 Turn to face the small irrigation pond.
+582 1 58173 58229 Fly to above the small irrigation pond.
+582 2 58230 58254 Descend to 60 meters above the small irrigation pond.
+583 0 58255 58284 Turn to face the small irrigation pond.
+583 1 58285 58330 Fly to above the small irrigation pond.
+583 2 58331 58362 Descend to 60 meters above the small irrigation pond.
+584 0 58363 58383 Turn to face the small irrigation pond.
+584 1 58384 58413 Fly to above the small irrigation pond.
+584 2 58414 58463 Descend to 40 meters above the small irrigation pond.
+585 0 58464 58494 Turn to face the oval fountain basin.
+585 1 58495 58542 Fly to above the oval fountain basin.
+585 2 58543 58591 Descend to 40 meters above the oval fountain basin.
+586 0 58592 58595 Turn to face the oval fountain basin.
+586 1 58596 58650 Fly to above the oval fountain basin.
+586 2 58651 58695 Descend to 50 meters above the oval fountain basin.
+587 0 58696 58729 Turn to face the oval fountain basin.
+587 1 58730 58775 Fly to above the oval fountain basin.
+587 2 58776 58821 Descend to 40 meters above the oval fountain basin.
+588 0 58822 58833 Turn to face the oval fountain basin.
+588 1 58834 58887 Fly to above the oval fountain basin.
+588 2 58888 58934 Descend to 50 meters above the oval fountain basin.
+589 0 58935 58944 Turn to face the oval fountain basin.
+589 1 58945 58983 Fly to above the oval fountain basin.
+589 2 58984 59018 Descend to 60 meters above the oval fountain basin.
+590 0 59019 59029 Turn to face the oval fountain basin.
+590 1 59030 59067 Fly to above the oval fountain basin.
+590 2 59068 59090 Descend to 60 meters above the oval fountain basin.
+591 0 59091 59115 Turn to face the oval fountain basin.
+591 1 59116 59171 Fly to above the oval fountain basin.
+591 2 59172 59199 Descend to 60 meters above the oval fountain basin.
+592 0 59200 59211 Turn to face the oval fountain basin.
+592 1 59212 59265 Fly to above the oval fountain basin.
+592 2 59266 59307 Descend to 40 meters above the oval fountain basin.
+593 0 59308 59327 Turn to face the oval fountain basin.
+593 1 59328 59369 Fly to above the oval fountain basin.
+593 2 59370 59408 Descend to 50 meters above the oval fountain basin.
+594 0 59409 59421 Turn to face the oval fountain basin.
+594 1 59422 59467 Fly to above the oval fountain basin.
+594 2 59468 59507 Descend to 50 meters above the oval fountain basin.
+595 0 59508 59508 Turn to face the oval fountain basin.
+595 1 59509 59560 Fly to above the oval fountain basin.
+595 2 59561 59607 Descend to 50 meters above the oval fountain basin.
+596 0 59608 59639 Turn to face the oval fountain basin.
+596 1 59640 59685 Fly to above the oval fountain basin.
+596 2 59686 59740 Descend to 40 meters above the oval fountain basin.
+597 0 59741 59753 Turn to face the oval fountain basin.
+597 1 59754 59803 Fly to above the oval fountain basin.
+597 2 59804 59854 Descend to 40 meters above the oval fountain basin.
+598 0 59855 59877 Turn to face the oval fountain basin.
+598 1 59878 59934 Fly to above the oval fountain basin.
+598 2 59935 59982 Descend to 50 meters above the oval fountain basin.
+599 0 59983 60006 Turn to face the oval fountain basin.
+599 1 60007 60061 Fly to above the oval fountain basin.
+599 2 60062 60099 Descend to 50 meters above the oval fountain basin.
+600 0 60100 60111 Turn to face the square pavilion roof.
+600 1 60112 60155 Fly to above the square pavilion roof.
+600 2 60156 60192 Descend to 60 meters above the square pavilion roof.
+601 0 60193 60207 Turn to face the square pavilion roof.
+601 1 60208 60249 Fly to above the square pavilion roof.
+601 2 60250 60274 Descend to 60 meters above the square pavilion roof.
+602 0 60275 60302 Turn to face the square pavilion roof.
+602 1 60303 60362 Fly to above the square pavilion roof.
+602 2 60363 60397 Descend to 50 meters above the square pavilion roof.
+603 0 60398 60416 Turn to face the square pavilion roof.
+603 1 60417 60472 Fly to above the square pavilion roof.
+603 2 60473 60513 Descend to 50 meters above the square pavilion roof.
+604 0 60514 60537 Turn to face the square pavilion roof.
+604 1 60538 60582 Fly to above the square pavilion roof.
+604 2 60583 60629 Descend to 50 meters above the square pavilion roof.
+605 0 60630 60637 Turn to face the square pavilion roof.
+605 1 60638 60676 Fly to above the square pavilion roof.
+605 2 60677 60731 Descend to 40 meters above the square pavilion roof.
+606 0 60732 60737 Turn to face the square pavilion roof.
+606 1 60738 60775 Fly to above the square pavilion roof.
+606 2 60776 60816 Descend to 40 meters above the square pavilion roof.
+607 0 60817 60842 Turn to face the square pavilion roof.
+607 1 60843 60887 Fly to above the square pavilion roof.
+607 2 60888 60933 Descend to 40 meters above the square pavilion roof.
+608 0 60934 60941 Turn to face the square pavilion roof.
+608 1 60942 60985 Fly to above the square pavilion roof.
+608 2 60986 61017 Descend to 60 meters above the square pavilion roof.
+609 0 61018 61039 Turn to face the square pavilion roof.
+609 1 61040 61095 Fly to above the square pavilion roof.
+609 2 61096 61151 Descend to 40 meters above the square pavilion roof.
+610 0 61152 61175 Turn to face the square pavilion roof.
+610 1 61176 61203 Fly to above the square pavilion roof.
+610 2 61204 61243 Descend to 50 meters above the square pavilion roof.
+611 0 61244 61253 Turn to face the square pavilion roof.
+611 1 61254 61282 Fly to above the square pavilion roof.
+611 2 61283 61319 Descend to 60 meters above the square pavilion roof.
+612 0 61320 61340 Turn to face the square pavilion roof.
+612 1 61341 61394 Fly to above the square pavilion roof.
+612 2 61395 61438 Descend to 50 meters above the square pavilion roof.
+613 0 61439 61441 Turn to face the square pavilion roof.
+613 1 61442 61485 Fly to above the square pavilion roof.
+613 2 61486 61524 Descend to 60 meters above the square pavilion roof.
+614 0 61525 61540 Turn to face the square pavilion roof.
+614 1 61541 61557 Fly to above the square pavilion roof.
+614 2 61558 61596 Descend to 50 meters above the square pavilion roof.
+615 0 61597 61618 Turn to face the tall rectangular building.
+615 1 61619 61674 Fly to above the tall rectangular building.
+615 2 61675 61718 Descend to 40 meters above the tall rectangular building.
+616 0 61719 61746 Turn to face the tall rectangular building.
+616 1 61747 61760 Fly to above the tall rectangular building.
+616 2 61761 61808 Descend to 40 meters above the tall rectangular building.
+617 0 61809 61833 Turn to face the tall rectangular building.
+617 1 61834 61877 Fly to above the tall rectangular building.
+617 2 61878 61900 Descend to 60 meters above the tall rectangular building.
+618 0 61901 61911 Turn to face the tall rectangular building.
+618 1 61912 61959 Fly to above the tall rectangular building.
+618 2 61960 61984 Descend to 60 meters above the tall rectangular building.
+619 0 61985 62008 Turn to face the tall rectangular building.
+619 1 62009 62058 Fly to above the tall rectangular building.
+619 2 62059 62117 Descend to 40 meters above the tall rectangular building.
+620 0 62118 62145 Turn to face the tall rectangular building.
+620 1 62146 62162 Fly to above the tall rectangular building.
+620 2 62163 62212 Descend to 50 meters above the tall rectangular building.
+621 0 62213 62244 Turn to face the tall rectangular building.
+621 1 62245 62290 Fly to above the tall rectangular building.
+621 2 62291 62318 Descend to 60 meters above the tall rectangular building.
+622 0 62319 62346 Turn to face the tall rectangular building.
+622 1 62347 62406 Fly to above the tall rectangular building.
+622 2 62407 62428 Descend to 60 meters above the tall rectangular building.
+623 0 62429 62429 Turn to face the tall rectangular building.
+623 1 62430 62450 Fly to above the tall rectangular building.
+623 2 62451 62477 Descend to 60 meters above the tall rectangular building.
+624 0 62478 62487 Turn to face the tall rectangular building.
+624 1 62488 62512 Fly to above the tall rectangular building.
+624 2 62513 62550 Descend to 60 meters above the tall rectangular building.
+625 0 62551 62567 Turn to face the tall rectangular building.
+625 1 62568 62579 Fly to above the tall rectangular building.
+625 2 62580 62631 Descend to 40 meters above the tall rectangular building.
+626 0 62632 62649 Turn to face the tall rectangular building.
+626 1 62650 62689 Fly to above the tall rectangular building.
+626 2 62690 62715 Descend to 60 meters above the tall rectangular building.
+627 0 62716 62735 Turn to face the tall rectangular building.
+627 1 62736 62749 Fly to above the tall rectangular building.
+627 2 62750 62799 Descend to 50 meters above the tall rectangular building.
+628 0 62800 62805 Turn to face the tall rectangular building.
+628 1 62806 62834 Fly to above the tall rectangular building.
+628 2 62835 62889 Descend to 40 meters above the tall rectangular building.
+629 0 62890 62909 Turn to face the tall rectangular building.
+629 1 62910 62950 Fly to above the tall rectangular building.
+629 2 62951 62997 Descend to 50 meters above the tall rectangular building.
+630 0 62998 63016 Turn to face the large concrete building.
+630 1 63017 63065 Fly to above the large concrete building.
+630 2 63066 63103 Descend to 50 meters above the large concrete building.
+631 0 63104 63125 Turn to face the large concrete building.
+631 1 63126 63179 Fly to above the large concrete building.
+631 2 63180 63218 Descend to 50 meters above the large concrete building.
+632 0 63219 63220 Turn to face the large concrete building.
+632 1 63221 63267 Fly to above the large concrete building.
+632 2 63268 63289 Descend to 60 meters above the large concrete building.
+633 0 63290 63293 Turn to face the large concrete building.
+633 1 63294 63330 Fly to above the large concrete building.
+633 2 63331 63379 Descend to 40 meters above the large concrete building.
+634 0 63380 63380 Turn to face the large concrete building.
+634 1 63381 63433 Fly to above the large concrete building.
+634 2 63434 63477 Descend to 50 meters above the large concrete building.
+635 0 63478 63508 Turn to face the large concrete building.
+635 1 63509 63560 Fly to above the large concrete building.
+635 2 63561 63609 Descend to 40 meters above the large concrete building.
+636 0 63610 63644 Turn to face the large concrete building.
+636 1 63645 63664 Fly to above the large concrete building.
+636 2 63665 63707 Descend to 40 meters above the large concrete building.
+637 0 63708 63720 Turn to face the large concrete building.
+637 1 63721 63765 Fly to above the large concrete building.
+637 2 63766 63806 Descend to 40 meters above the large concrete building.
+638 0 63807 63839 Turn to face the large concrete building.
+638 1 63840 63848 Fly to above the large concrete building.
+638 2 63849 63871 Descend to 60 meters above the large concrete building.
+639 0 63872 63878 Turn to face the large concrete building.
+639 1 63879 63910 Fly to above the large concrete building.
+639 2 63911 63951 Descend to 50 meters above the large concrete building.
+640 0 63952 63986 Turn to face the large concrete building.
+640 1 63987 64005 Fly to above the large concrete building.
+640 2 64006 64052 Descend to 40 meters above the large concrete building.
+641 0 64053 64081 Turn to face the large concrete building.
+641 1 64082 64110 Fly to above the large concrete building.
+641 2 64111 64169 Descend to 40 meters above the large concrete building.
+642 0 64170 64178 Turn to face the large concrete building.
+642 1 64179 64201 Fly to above the large concrete building.
+642 2 64202 64234 Descend to 60 meters above the large concrete building.
+643 0 64235 64261 Turn to face the large concrete building.
+643 1 64262 64321 Fly to above the large concrete building.
+643 2 64322 64381 Descend to 40 meters above the large concrete building.
+644 0 64382 64400 Turn to face the large concrete building.
+644 1 64401 64439 Fly to above the large concrete building.
+644 2 64440 64478 Descend to 60 meters above the large concrete building.
+645 0 64479 64484 Turn to face the long rooftop building.
+645 1 64485 64544 Fly to above the long rooftop building.
+645 2 64545 64587 Descend to 50 meters above the long rooftop building.
+646 0 64588 64592 Turn to face the long rooftop building.
+646 1 64593 64650 Fly to above the long rooftop building.
+646 2 64651 64695 Descend to 50 meters above the long rooftop building.
+647 0 64696 64696 Turn to face the long rooftop building.
+647 1 64697 64740 Fly to above the long rooftop building.
+647 2 64741 64790 Descend to 40 meters above the long rooftop building.
+648 0 64791 64823 Turn to face the long rooftop building.
+648 1 64824 64879 Fly to above the long rooftop building.
+648 2 64880 64914 Descend to 60 meters above the long rooftop building.
+649 0 64915 64942 Turn to face the long rooftop building.
+649 1 64943 64948 Fly to above the long rooftop building.
+649 2 64949 65002 Descend to 40 meters above the long rooftop building.
+650 0 65003 65030 Turn to face the long rooftop building.
+650 1 65031 65080 Fly to above the long rooftop building.
+650 2 65081 65128 Descend to 40 meters above the long rooftop building.
+651 0 65129 65140 Turn to face the long rooftop building.
+651 1 65141 65187 Fly to above the long rooftop building.
+651 2 65188 65229 Descend to 50 meters above the long rooftop building.
+652 0 65230 65259 Turn to face the long rooftop building.
+652 1 65260 65301 Fly to above the long rooftop building.
+652 2 65302 65323 Descend to 60 meters above the long rooftop building.
+653 0 65324 65346 Turn to face the long rooftop building.
+653 1 65347 65353 Fly to above the long rooftop building.
+653 2 65354 65378 Descend to 60 meters above the long rooftop building.
+654 0 65379 65386 Turn to face the long rooftop building.
+654 1 65387 65418 Fly to above the long rooftop building.
+654 2 65419 65445 Descend to 60 meters above the long rooftop building.
+655 0 65446 65473 Turn to face the long rooftop building.
+655 1 65474 65532 Fly to above the long rooftop building.
+655 2 65533 65576 Descend to 40 meters above the long rooftop building.
+656 0 65577 65586 Turn to face the long rooftop building.
+656 1 65587 65644 Fly to above the long rooftop building.
+656 2 65645 65691 Descend to 40 meters above the long rooftop building.
+657 0 65692 65694 Turn to face the long rooftop building.
+657 1 65695 65701 Fly to above the long rooftop building.
+657 2 65702 65760 Descend to 40 meters above the long rooftop building.
+658 0 65761 65792 Turn to face the long rooftop building.
+658 1 65793 65812 Fly to above the long rooftop building.
+658 2 65813 65848 Descend to 50 meters above the long rooftop building.
+659 0 65849 65876 Turn to face the long rooftop building.
+659 1 65877 65910 Fly to above the long rooftop building.
+659 2 65911 65942 Descend to 60 meters above the long rooftop building.
+660 0 65943 65950 Turn to face the white utility building.
+660 1 65951 65999 Fly to above the white utility building.
+660 2 66000 66058 Descend to 40 meters above the white utility building.
+661 0 66059 66089 Turn to face the white utility building.
+661 1 66090 66144 Fly to above the white utility building.
+661 2 66145 66189 Descend to 50 meters above the white utility building.
+662 0 66190 66201 Turn to face the white utility building.
+662 1 66202 66248 Fly to above the white utility building.
+662 2 66249 66280 Descend to 50 meters above the white utility building.
+663 0 66281 66293 Turn to face the white utility building.
+663 1 66294 66309 Fly to above the white utility building.
+663 2 66310 66331 Descend to 60 meters above the white utility building.
+664 0 66332 66332 Turn to face the white utility building.
+664 1 66333 66379 Fly to above the white utility building.
+664 2 66380 66416 Descend to 60 meters above the white utility building.
+665 0 66417 66445 Turn to face the white utility building.
+665 1 66446 66490 Fly to above the white utility building.
+665 2 66491 66540 Descend to 40 meters above the white utility building.
+666 0 66541 66541 Turn to face the white utility building.
+666 1 66542 66601 Fly to above the white utility building.
+666 2 66602 66658 Descend to 40 meters above the white utility building.
+667 0 66659 66691 Turn to face the white utility building.
+667 1 66692 66721 Fly to above the white utility building.
+667 2 66722 66763 Descend to 40 meters above the white utility building.
+668 0 66764 66783 Turn to face the white utility building.
+668 1 66784 66803 Fly to above the white utility building.
+668 2 66804 66849 Descend to 50 meters above the white utility building.
+669 0 66850 66850 Turn to face the white utility building.
+669 1 66851 66907 Fly to above the white utility building.
+669 2 66908 66951 Descend to 50 meters above the white utility building.
+670 0 66952 66976 Turn to face the white utility building.
+670 1 66977 67035 Fly to above the white utility building.
+670 2 67036 67062 Descend to 60 meters above the white utility building.
+671 0 67063 67085 Turn to face the white utility building.
+671 1 67086 67123 Fly to above the white utility building.
+671 2 67124 67153 Descend to 60 meters above the white utility building.
+672 0 67154 67164 Turn to face the white utility building.
+672 1 67165 67187 Fly to above the white utility building.
+672 2 67188 67245 Descend to 40 meters above the white utility building.
+673 0 67246 67247 Turn to face the white utility building.
+673 1 67248 67284 Fly to above the white utility building.
+673 2 67285 67326 Descend to 40 meters above the white utility building.
+674 0 67327 67340 Turn to face the white utility building.
+674 1 67341 67400 Fly to above the white utility building.
+674 2 67401 67443 Descend to 50 meters above the white utility building.
+675 0 67444 67458 Turn to face the paved courtyard plaza with square garden.
+675 1 67459 67484 Fly to above the paved courtyard plaza with square garden.
+675 2 67485 67532 Descend to 40 meters above the paved courtyard plaza with square garden.
+676 0 67533 67547 Turn to face the paved courtyard plaza with square garden.
+676 1 67548 67588 Fly to above the paved courtyard plaza with square garden.
+676 2 67589 67628 Descend to 60 meters above the paved courtyard plaza with square garden.
+677 0 67629 67661 Turn to face the paved courtyard plaza with square garden.
+677 1 67662 67710 Fly to above the paved courtyard plaza with square garden.
+677 2 67711 67735 Descend to 60 meters above the paved courtyard plaza with square garden.
+678 0 67736 67750 Turn to face the paved courtyard plaza with square garden.
+678 1 67751 67799 Fly to above the paved courtyard plaza with square garden.
+678 2 67800 67842 Descend to 50 meters above the paved courtyard plaza with square garden.
+679 0 67843 67869 Turn to face the paved courtyard plaza with square garden.
+679 1 67870 67917 Fly to above the paved courtyard plaza with square garden.
+679 2 67918 67962 Descend to 40 meters above the paved courtyard plaza with square garden.
+680 0 67963 67988 Turn to face the paved courtyard plaza with square garden.
+680 1 67989 68028 Fly to above the paved courtyard plaza with square garden.
+680 2 68029 68086 Descend to 40 meters above the paved courtyard plaza with square garden.
+681 0 68087 68098 Turn to face the paved courtyard plaza with square garden.
+681 1 68099 68139 Fly to above the paved courtyard plaza with square garden.
+681 2 68140 68173 Descend to 50 meters above the paved courtyard plaza with square garden.
+682 0 68174 68191 Turn to face the paved courtyard plaza with square garden.
+682 1 68192 68199 Fly to above the paved courtyard plaza with square garden.
+682 2 68200 68256 Descend to 40 meters above the paved courtyard plaza with square garden.
+683 0 68257 68270 Turn to face the paved courtyard plaza with square garden.
+683 1 68271 68326 Fly to above the paved courtyard plaza with square garden.
+683 2 68327 68363 Descend to 50 meters above the paved courtyard plaza with square garden.
+684 0 68364 68367 Turn to face the paved courtyard plaza with square garden.
+684 1 68368 68399 Fly to above the paved courtyard plaza with square garden.
+684 2 68400 68442 Descend to 40 meters above the paved courtyard plaza with square garden.
+685 0 68443 68446 Turn to face the paved courtyard plaza with square garden.
+685 1 68447 68500 Fly to above the paved courtyard plaza with square garden.
+685 2 68501 68537 Descend to 50 meters above the paved courtyard plaza with square garden.
+686 0 68538 68572 Turn to face the paved courtyard plaza with square garden.
+686 1 68573 68617 Fly to above the paved courtyard plaza with square garden.
+686 2 68618 68665 Descend to 50 meters above the paved courtyard plaza with square garden.
+687 0 68666 68695 Turn to face the paved courtyard plaza with square garden.
+687 1 68696 68751 Fly to above the paved courtyard plaza with square garden.
+687 2 68752 68791 Descend to 50 meters above the paved courtyard plaza with square garden.
+688 0 68792 68805 Turn to face the paved courtyard plaza with square garden.
+688 1 68806 68843 Fly to above the paved courtyard plaza with square garden.
+688 2 68844 68887 Descend to 40 meters above the paved courtyard plaza with square garden.
+689 0 68888 68900 Turn to face the paved courtyard plaza with square garden.
+689 1 68901 68927 Fly to above the paved courtyard plaza with square garden.
+689 2 68928 68983 Descend to 40 meters above the paved courtyard plaza with square garden.
+690 0 68984 68998 Turn to face the paved access road.
+690 1 68999 69033 Fly to above the paved access road.
+690 2 69034 69077 Descend to 40 meters above the paved access road.
+691 0 69078 69084 Turn to face the paved access road.
+691 1 69085 69117 Fly to above the paved access road.
+691 2 69118 69152 Descend to 60 meters above the paved access road.
+692 0 69153 69179 Turn to face the paved access road.
+692 1 69180 69227 Fly to above the paved access road.
+692 2 69228 69281 Descend to 40 meters above the paved access road.
+693 0 69282 69304 Turn to face the paved access road.
+693 1 69305 69336 Fly to above the paved access road.
+693 2 69337 69373 Descend to 50 meters above the paved access road.
+694 0 69374 69404 Turn to face the paved access road.
+694 1 69405 69431 Fly to above the paved access road.
+694 2 69432 69462 Descend to 60 meters above the paved access road.
+695 0 69463 69494 Turn to face the paved access road.
+695 1 69495 69544 Fly to above the paved access road.
+695 2 69545 69583 Descend to 50 meters above the paved access road.
+696 0 69584 69610 Turn to face the paved access road.
+696 1 69611 69623 Fly to above the paved access road.
+696 2 69624 69669 Descend to 50 meters above the paved access road.
+697 0 69670 69670 Turn to face the paved access road.
+697 1 69671 69685 Fly to above the paved access road.
+697 2 69686 69733 Descend to 40 meters above the paved access road.
+698 0 69734 69738 Turn to face the paved access road.
+698 1 69739 69798 Fly to above the paved access road.
+698 2 69799 69845 Descend to 50 meters above the paved access road.
+699 0 69846 69847 Turn to face the paved access road.
+699 1 69848 69899 Fly to above the paved access road.
+699 2 69900 69957 Descend to 40 meters above the paved access road.
+700 0 69958 69980 Turn to face the paved access road.
+700 1 69981 70027 Fly to above the paved access road.
+700 2 70028 70060 Descend to 50 meters above the paved access road.
+701 0 70061 70084 Turn to face the paved access road.
+701 1 70085 70119 Fly to above the paved access road.
+701 2 70120 70161 Descend to 40 meters above the paved access road.
+702 0 70162 70179 Turn to face the paved access road.
+702 1 70180 70239 Fly to above the paved access road.
+702 2 70240 70272 Descend to 50 meters above the paved access road.
+703 0 70273 70273 Turn to face the paved access road.
+703 1 70274 70320 Fly to above the paved access road.
+703 2 70321 70362 Descend to 40 meters above the paved access road.
+704 0 70363 70378 Turn to face the paved access road.
+704 1 70379 70425 Fly to above the paved access road.
+704 2 70426 70469 Descend to 50 meters above the paved access road.
+705 0 70470 70491 Turn to face the asphalt road intersection.
+705 1 70492 70551 Fly to above the asphalt road intersection.
+705 2 70552 70592 Descend to 40 meters above the asphalt road intersection.
+706 0 70593 70610 Turn to face the asphalt road intersection.
+706 1 70611 70614 Fly to above the asphalt road intersection.
+706 2 70615 70653 Descend to 60 meters above the asphalt road intersection.
+707 0 70654 70682 Turn to face the asphalt road intersection.
+707 1 70683 70725 Fly to above the asphalt road intersection.
+707 2 70726 70757 Descend to 50 meters above the asphalt road intersection.
+708 0 70758 70789 Turn to face the asphalt road intersection.
+708 1 70790 70845 Fly to above the asphalt road intersection.
+708 2 70846 70871 Descend to 60 meters above the asphalt road intersection.
+709 0 70872 70900 Turn to face the asphalt road intersection.
+709 1 70901 70910 Fly to above the asphalt road intersection.
+709 2 70911 70944 Descend to 60 meters above the asphalt road intersection.
+710 0 70945 70968 Turn to face the asphalt road intersection.
+710 1 70969 71013 Fly to above the asphalt road intersection.
+710 2 71014 71037 Descend to 60 meters above the asphalt road intersection.
+711 0 71038 71053 Turn to face the asphalt road intersection.
+711 1 71054 71106 Fly to above the asphalt road intersection.
+711 2 71107 71155 Descend to 50 meters above the asphalt road intersection.
+712 0 71156 71183 Turn to face the asphalt road intersection.
+712 1 71184 71222 Fly to above the asphalt road intersection.
+712 2 71223 71254 Descend to 50 meters above the asphalt road intersection.
+713 0 71255 71258 Turn to face the asphalt road intersection.
+713 1 71259 71277 Fly to above the asphalt road intersection.
+713 2 71278 71312 Descend to 60 meters above the asphalt road intersection.
+714 0 71313 71328 Turn to face the asphalt road intersection.
+714 1 71329 71351 Fly to above the asphalt road intersection.
+714 2 71352 71379 Descend to 60 meters above the asphalt road intersection.
+715 0 71380 71380 Turn to face the asphalt road intersection.
+715 1 71381 71412 Fly to above the asphalt road intersection.
+715 2 71413 71448 Descend to 50 meters above the asphalt road intersection.
+716 0 71449 71450 Turn to face the asphalt road intersection.
+716 1 71451 71501 Fly to above the asphalt road intersection.
+716 2 71502 71558 Descend to 40 meters above the asphalt road intersection.
+717 0 71559 71578 Turn to face the asphalt road intersection.
+717 1 71579 71605 Fly to above the asphalt road intersection.
+717 2 71606 71635 Descend to 60 meters above the asphalt road intersection.
+718 0 71636 71668 Turn to face the asphalt road intersection.
+718 1 71669 71712 Fly to above the asphalt road intersection.
+718 2 71713 71756 Descend to 40 meters above the asphalt road intersection.
+719 0 71757 71789 Turn to face the asphalt road intersection.
+719 1 71790 71848 Fly to above the asphalt road intersection.
+719 2 71849 71896 Descend to 40 meters above the asphalt road intersection.
+720 0 71897 71917 Turn to face the narrow canal pond.
+720 1 71918 71963 Fly to above the narrow canal pond.
+720 2 71964 71999 Descend to 50 meters above the narrow canal pond.
+721 0 72000 72001 Turn to face the narrow canal pond.
+721 1 72002 72046 Fly to above the narrow canal pond.
+721 2 72047 72083 Descend to 60 meters above the narrow canal pond.
+722 0 72084 72114 Turn to face the narrow canal pond.
+722 1 72115 72174 Fly to above the narrow canal pond.
+722 2 72175 72220 Descend to 40 meters above the narrow canal pond.
+723 0 72221 72221 Turn to face the narrow canal pond.
+723 1 72222 72233 Fly to above the narrow canal pond.
+723 2 72234 72266 Descend to 50 meters above the narrow canal pond.
+724 0 72267 72301 Turn to face the narrow canal pond.
+724 1 72302 72314 Fly to above the narrow canal pond.
+724 2 72315 72368 Descend to 40 meters above the narrow canal pond.
+725 0 72369 72393 Turn to face the narrow canal pond.
+725 1 72394 72435 Fly to above the narrow canal pond.
+725 2 72436 72470 Descend to 50 meters above the narrow canal pond.
+726 0 72471 72473 Turn to face the narrow canal pond.
+726 1 72474 72532 Fly to above the narrow canal pond.
+726 2 72533 72572 Descend to 60 meters above the narrow canal pond.
+727 0 72573 72600 Turn to face the narrow canal pond.
+727 1 72601 72649 Fly to above the narrow canal pond.
+727 2 72650 72684 Descend to 60 meters above the narrow canal pond.
+728 0 72685 72695 Turn to face the narrow canal pond.
+728 1 72696 72739 Fly to above the narrow canal pond.
+728 2 72740 72782 Descend to 40 meters above the narrow canal pond.
+729 0 72783 72811 Turn to face the narrow canal pond.
+729 1 72812 72822 Fly to above the narrow canal pond.
+729 2 72823 72854 Descend to 50 meters above the narrow canal pond.
+730 0 72855 72889 Turn to face the narrow canal pond.
+730 1 72890 72937 Fly to above the narrow canal pond.
+730 2 72938 72959 Descend to 60 meters above the narrow canal pond.
+731 0 72960 72978 Turn to face the narrow canal pond.
+731 1 72979 73014 Fly to above the narrow canal pond.
+731 2 73015 73056 Descend to 50 meters above the narrow canal pond.
+732 0 73057 73072 Turn to face the narrow canal pond.
+732 1 73073 73131 Fly to above the narrow canal pond.
+732 2 73132 73181 Descend to 40 meters above the narrow canal pond.
+733 0 73182 73194 Turn to face the narrow canal pond.
+733 1 73195 73204 Fly to above the narrow canal pond.
+733 2 73205 73241 Descend to 50 meters above the narrow canal pond.
+734 0 73242 73275 Turn to face the narrow canal pond.
+734 1 73276 73326 Fly to above the narrow canal pond.
+734 2 73327 73348 Descend to 60 meters above the narrow canal pond.
+735 0 73349 73374 Turn to face the parking lot area.
+735 1 73375 73421 Fly to above the parking lot area.
+735 2 73422 73460 Descend to 60 meters above the parking lot area.
+736 0 73461 73463 Turn to face the parking lot area.
+736 1 73464 73511 Fly to above the parking lot area.
+736 2 73512 73543 Descend to 50 meters above the parking lot area.
+737 0 73544 73573 Turn to face the parking lot area.
+737 1 73574 73593 Fly to above the parking lot area.
+737 2 73594 73630 Descend to 50 meters above the parking lot area.
+738 0 73631 73662 Turn to face the parking lot area.
+738 1 73663 73713 Fly to above the parking lot area.
+738 2 73714 73746 Descend to 60 meters above the parking lot area.
+739 0 73747 73755 Turn to face the parking lot area.
+739 1 73756 73794 Fly to above the parking lot area.
+739 2 73795 73835 Descend to 50 meters above the parking lot area.
+740 0 73836 73846 Turn to face the parking lot area.
+740 1 73847 73878 Fly to above the parking lot area.
+740 2 73879 73923 Descend to 40 meters above the parking lot area.
+741 0 73924 73942 Turn to face the parking lot area.
+741 1 73943 73978 Fly to above the parking lot area.
+741 2 73979 74016 Descend to 60 meters above the parking lot area.
+742 0 74017 74031 Turn to face the parking lot area.
+742 1 74032 74066 Fly to above the parking lot area.
+742 2 74067 74090 Descend to 60 meters above the parking lot area.
+743 0 74091 74120 Turn to face the parking lot area.
+743 1 74121 74163 Fly to above the parking lot area.
+743 2 74164 74209 Descend to 50 meters above the parking lot area.
+744 0 74210 74244 Turn to face the parking lot area.
+744 1 74245 74282 Fly to above the parking lot area.
+744 2 74283 74305 Descend to 60 meters above the parking lot area.
+745 0 74306 74336 Turn to face the parking lot area.
+745 1 74337 74371 Fly to above the parking lot area.
+745 2 74372 74399 Descend to 60 meters above the parking lot area.
+746 0 74400 74411 Turn to face the parking lot area.
+746 1 74412 74461 Fly to above the parking lot area.
+746 2 74462 74488 Descend to 60 meters above the parking lot area.
+747 0 74489 74504 Turn to face the parking lot area.
+747 1 74505 74550 Fly to above the parking lot area.
+747 2 74551 74587 Descend to 50 meters above the parking lot area.
+748 0 74588 74605 Turn to face the parking lot area.
+748 1 74606 74654 Fly to above the parking lot area.
+748 2 74655 74693 Descend to 50 meters above the parking lot area.
+749 0 74694 74703 Turn to face the parking lot area.
+749 1 74704 74715 Fly to above the parking lot area.
+749 2 74716 74739 Descend to 60 meters above the parking lot area.

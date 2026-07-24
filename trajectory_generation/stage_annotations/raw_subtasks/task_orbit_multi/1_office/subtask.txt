@@ -1,0 +1,901 @@
+# traj_id  subtask_id  pose_id_start  pose_id_end  subtask
+0 0 0 26 Turn to face the twin curved office building complex.
+0 1 27 62 Fly while descending to 80 meters above the twin curved office building complex.
+0 2 63 79 Turn to enter the descending spiral around the twin curved office building complex.
+0 3 80 458 Spiral down around the twin curved office building complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+0 4 459 476 Turn to face the starting point.
+0 5 477 539 Fly while ascending back to the starting point.
+1 0 540 553 Turn to face the twin curved office building complex.
+1 1 554 579 Fly while descending to 80 meters above the twin curved office building complex.
+1 2 580 597 Turn to enter the descending spiral around the twin curved office building complex.
+1 3 598 976 Spiral down around the twin curved office building complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+1 4 977 994 Turn to face the starting point.
+1 5 995 1047 Fly while ascending back to the starting point.
+2 0 1048 1067 Turn to face the twin curved office building complex.
+2 1 1068 1102 Fly while descending to 80 meters above the twin curved office building complex.
+2 2 1103 1120 Turn to enter the descending spiral around the twin curved office building complex.
+2 3 1121 1499 Spiral down around the twin curved office building complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+2 4 1500 1517 Turn to face the starting point.
+2 5 1518 1579 Fly while ascending back to the starting point.
+3 0 1580 1606 Turn to face the twin curved office building complex.
+3 1 1607 1644 Fly while descending to 80 meters above the twin curved office building complex.
+3 2 1645 1662 Turn to enter the descending spiral around the twin curved office building complex.
+3 3 1663 2041 Spiral down around the twin curved office building complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+3 4 2042 2059 Turn to face the starting point.
+3 5 2060 2125 Fly while ascending back to the starting point.
+4 0 2126 2147 Turn to face the twin curved office building complex.
+4 1 2148 2184 Fly while descending to 80 meters above the twin curved office building complex.
+4 2 2185 2202 Turn to enter the descending spiral around the twin curved office building complex.
+4 3 2203 2581 Spiral down around the twin curved office building complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+4 4 2582 2599 Turn to face the starting point.
+4 5 2600 2662 Fly while ascending back to the starting point.
+5 0 2663 2668 Turn to face the circular glass building.
+5 1 2669 2713 Fly while descending to 80 meters above the circular glass building.
+5 2 2714 2731 Turn to enter the descending spiral around the circular glass building.
+5 3 2732 3110 Spiral down around the circular glass building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+5 4 3111 3128 Turn to face the starting point.
+5 5 3129 3201 Fly while ascending back to the starting point.
+6 0 3202 3204 Turn to face the circular glass building.
+6 1 3205 3228 Fly while descending to 80 meters above the circular glass building.
+6 2 3229 3246 Turn to enter the descending spiral around the circular glass building.
+6 3 3247 3625 Spiral down around the circular glass building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+6 4 3626 3643 Turn to face the starting point.
+6 5 3644 3694 Fly while ascending back to the starting point.
+7 0 3695 3719 Turn to face the circular glass building.
+7 1 3720 3753 Fly while descending to 80 meters above the circular glass building.
+7 2 3754 3771 Turn to enter the descending spiral around the circular glass building.
+7 3 3772 4150 Spiral down around the circular glass building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+7 4 4151 4168 Turn to face the starting point.
+7 5 4169 4230 Fly while ascending back to the starting point.
+8 0 4231 4231 Turn to face the circular glass building.
+8 1 4232 4269 Fly while descending to 80 meters above the circular glass building.
+8 2 4270 4286 Turn to enter the descending spiral around the circular glass building.
+8 3 4287 4665 Spiral down around the circular glass building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+8 4 4666 4683 Turn to face the starting point.
+8 5 4684 4749 Fly while ascending back to the starting point.
+9 0 4750 4754 Turn to face the circular glass building.
+9 1 4755 4796 Fly while descending to 80 meters above the circular glass building.
+9 2 4797 4813 Turn to enter the descending spiral around the circular glass building.
+9 3 4814 5192 Spiral down around the circular glass building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+9 4 5193 5210 Turn to face the starting point.
+9 5 5211 5280 Fly while ascending back to the starting point.
+10 0 5281 5304 Turn to face the curved glass atrium building.
+10 1 5305 5332 Fly while descending to 80 meters above the curved glass atrium building.
+10 2 5333 5349 Turn to enter the descending spiral around the curved glass atrium building.
+10 3 5350 5728 Spiral down around the curved glass atrium building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+10 4 5729 5746 Turn to face the starting point.
+10 5 5747 5801 Fly while ascending back to the starting point.
+11 0 5802 5802 Turn to face the curved glass atrium building.
+11 1 5803 5842 Fly while descending to 80 meters above the curved glass atrium building.
+11 2 5843 5860 Turn to enter the descending spiral around the curved glass atrium building.
+11 3 5861 6239 Spiral down around the curved glass atrium building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+11 4 6240 6257 Turn to face the starting point.
+11 5 6258 6322 Fly while ascending back to the starting point.
+12 0 6323 6325 Turn to face the curved glass atrium building.
+12 1 6326 6347 Fly while descending to 80 meters above the curved glass atrium building.
+12 2 6348 6365 Turn to enter the descending spiral around the curved glass atrium building.
+12 3 6366 6744 Spiral down around the curved glass atrium building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+12 4 6745 6762 Turn to face the starting point.
+12 5 6763 6810 Fly while ascending back to the starting point.
+13 0 6811 6845 Turn to face the curved glass atrium building.
+13 1 6846 6870 Fly while descending to 80 meters above the curved glass atrium building.
+13 2 6871 6887 Turn to enter the descending spiral around the curved glass atrium building.
+13 3 6888 7266 Spiral down around the curved glass atrium building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+13 4 7267 7284 Turn to face the starting point.
+13 5 7285 7336 Fly while ascending back to the starting point.
+14 0 7337 7354 Turn to face the curved glass atrium building.
+14 1 7355 7389 Fly while descending to 80 meters above the curved glass atrium building.
+14 2 7390 7407 Turn to enter the descending spiral around the curved glass atrium building.
+14 3 7408 7786 Spiral down around the curved glass atrium building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+14 4 7787 7804 Turn to face the starting point.
+14 5 7805 7868 Fly while ascending back to the starting point.
+15 0 7869 7898 Turn to face the glass facade high-rise building.
+15 1 7899 7928 Fly while descending to 80 meters above the glass facade high-rise building.
+15 2 7929 7945 Turn to enter the descending spiral around the glass facade high-rise building.
+15 3 7946 8324 Spiral down around the glass facade high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+15 4 8325 8342 Turn to face the starting point.
+15 5 8343 8400 Fly while ascending back to the starting point.
+16 0 8401 8427 Turn to face the glass facade high-rise building.
+16 1 8428 8466 Fly while descending to 80 meters above the glass facade high-rise building.
+16 2 8467 8483 Turn to enter the descending spiral around the glass facade high-rise building.
+16 3 8484 8862 Spiral down around the glass facade high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+16 4 8863 8880 Turn to face the starting point.
+16 5 8881 8947 Fly while ascending back to the starting point.
+17 0 8948 8964 Turn to face the glass facade high-rise building.
+17 1 8965 8998 Fly while descending to 80 meters above the glass facade high-rise building.
+17 2 8999 9016 Turn to enter the descending spiral around the glass facade high-rise building.
+17 3 9017 9395 Spiral down around the glass facade high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+17 4 9396 9413 Turn to face the starting point.
+17 5 9414 9473 Fly while ascending back to the starting point.
+18 0 9474 9506 Turn to face the glass facade high-rise building.
+18 1 9507 9536 Fly while descending to 80 meters above the glass facade high-rise building.
+18 2 9537 9553 Turn to enter the descending spiral around the glass facade high-rise building.
+18 3 9554 9932 Spiral down around the glass facade high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+18 4 9933 9950 Turn to face the starting point.
+18 5 9951 10008 Fly while ascending back to the starting point.
+19 0 10009 10039 Turn to face the glass facade high-rise building.
+19 1 10040 10085 Fly while descending to 80 meters above the glass facade high-rise building.
+19 2 10086 10103 Turn to enter the descending spiral around the glass facade high-rise building.
+19 3 10104 10482 Spiral down around the glass facade high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+19 4 10483 10500 Turn to face the starting point.
+19 5 10501 10574 Fly while ascending back to the starting point.
+20 0 10575 10588 Turn to face the rectangular high-rise building.
+20 1 10589 10611 Fly while descending to 80 meters above the rectangular high-rise building.
+20 2 10612 10629 Turn to enter the descending spiral around the rectangular high-rise building.
+20 3 10630 11008 Spiral down around the rectangular high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+20 4 11009 11026 Turn to face the starting point.
+20 5 11027 11075 Fly while ascending back to the starting point.
+21 0 11076 11083 Turn to face the rectangular high-rise building.
+21 1 11084 11109 Fly while descending to 80 meters above the rectangular high-rise building.
+21 2 11110 11127 Turn to enter the descending spiral around the rectangular high-rise building.
+21 3 11128 11506 Spiral down around the rectangular high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+21 4 11507 11524 Turn to face the starting point.
+21 5 11525 11577 Fly while ascending back to the starting point.
+22 0 11578 11603 Turn to face the rectangular high-rise building.
+22 1 11604 11635 Fly while descending to 80 meters above the rectangular high-rise building.
+22 2 11636 11653 Turn to enter the descending spiral around the rectangular high-rise building.
+22 3 11654 12032 Spiral down around the rectangular high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+22 4 12033 12050 Turn to face the starting point.
+22 5 12051 12110 Fly while ascending back to the starting point.
+23 0 12111 12111 Turn to face the rectangular high-rise building.
+23 1 12112 12143 Fly while descending to 80 meters above the rectangular high-rise building.
+23 2 12144 12161 Turn to enter the descending spiral around the rectangular high-rise building.
+23 3 12162 12540 Spiral down around the rectangular high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+23 4 12541 12558 Turn to face the starting point.
+23 5 12559 12616 Fly while ascending back to the starting point.
+24 0 12617 12648 Turn to face the rectangular high-rise building.
+24 1 12649 12674 Fly while descending to 80 meters above the rectangular high-rise building.
+24 2 12675 12692 Turn to enter the descending spiral around the rectangular high-rise building.
+24 3 12693 13071 Spiral down around the rectangular high-rise building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+24 4 13072 13089 Turn to face the starting point.
+24 5 13090 13141 Fly while ascending back to the starting point.
+25 0 13142 13142 Turn to face the large warehouse complex.
+25 1 13143 13181 Fly while descending to 80 meters above the large warehouse complex.
+25 2 13182 13199 Turn to enter the descending spiral around the large warehouse complex.
+25 3 13200 13578 Spiral down around the large warehouse complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+25 4 13579 13596 Turn to face the starting point.
+25 5 13597 13662 Fly while ascending back to the starting point.
+26 0 13663 13674 Turn to face the large warehouse complex.
+26 1 13675 13712 Fly while descending to 80 meters above the large warehouse complex.
+26 2 13713 13730 Turn to enter the descending spiral around the large warehouse complex.
+26 3 13731 14109 Spiral down around the large warehouse complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+26 4 14110 14127 Turn to face the starting point.
+26 5 14128 14193 Fly while ascending back to the starting point.
+27 0 14194 14222 Turn to face the large warehouse complex.
+27 1 14223 14257 Fly while descending to 80 meters above the large warehouse complex.
+27 2 14258 14274 Turn to enter the descending spiral around the large warehouse complex.
+27 3 14275 14653 Spiral down around the large warehouse complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+27 4 14654 14671 Turn to face the starting point.
+27 5 14672 14731 Fly while ascending back to the starting point.
+28 0 14732 14763 Turn to face the large warehouse complex.
+28 1 14764 14797 Fly while descending to 80 meters above the large warehouse complex.
+28 2 14798 14815 Turn to enter the descending spiral around the large warehouse complex.
+28 3 14816 15194 Spiral down around the large warehouse complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+28 4 15195 15212 Turn to face the starting point.
+28 5 15213 15274 Fly while ascending back to the starting point.
+29 0 15275 15285 Turn to face the large warehouse complex.
+29 1 15286 15317 Fly while descending to 80 meters above the large warehouse complex.
+29 2 15318 15334 Turn to enter the descending spiral around the large warehouse complex.
+29 3 15335 15713 Spiral down around the large warehouse complex for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+29 4 15714 15731 Turn to face the starting point.
+29 5 15732 15790 Fly while ascending back to the starting point.
+30 0 15791 15822 Turn to face the mechanical utility building with rooftop fans.
+30 1 15823 15850 Fly while descending to 80 meters above the mechanical utility building with rooftop fans.
+30 2 15851 15868 Turn to enter the descending spiral around the mechanical utility building with rooftop fans.
+30 3 15869 16247 Spiral down around the mechanical utility building with rooftop fans for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+30 4 16248 16265 Turn to face the starting point.
+30 5 16266 16321 Fly while ascending back to the starting point.
+31 0 16322 16336 Turn to face the mechanical utility building with rooftop fans.
+31 1 16337 16377 Fly while descending to 80 meters above the mechanical utility building with rooftop fans.
+31 2 16378 16394 Turn to enter the descending spiral around the mechanical utility building with rooftop fans.
+31 3 16395 16773 Spiral down around the mechanical utility building with rooftop fans for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+31 4 16774 16791 Turn to face the starting point.
+31 5 16792 16860 Fly while ascending back to the starting point.
+32 0 16861 16892 Turn to face the mechanical utility building with rooftop fans.
+32 1 16893 16938 Fly while descending to 80 meters above the mechanical utility building with rooftop fans.
+32 2 16939 16956 Turn to enter the descending spiral around the mechanical utility building with rooftop fans.
+32 3 16957 17335 Spiral down around the mechanical utility building with rooftop fans for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+32 4 17336 17353 Turn to face the starting point.
+32 5 17354 17428 Fly while ascending back to the starting point.
+33 0 17429 17445 Turn to face the mechanical utility building with rooftop fans.
+33 1 17446 17490 Fly while descending to 80 meters above the mechanical utility building with rooftop fans.
+33 2 17491 17507 Turn to enter the descending spiral around the mechanical utility building with rooftop fans.
+33 3 17508 17886 Spiral down around the mechanical utility building with rooftop fans for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+33 4 17887 17904 Turn to face the starting point.
+33 5 17905 17978 Fly while ascending back to the starting point.
+34 0 17979 18013 Turn to face the mechanical utility building with rooftop fans.
+34 1 18014 18040 Fly while descending to 80 meters above the mechanical utility building with rooftop fans.
+34 2 18041 18057 Turn to enter the descending spiral around the mechanical utility building with rooftop fans.
+34 3 18058 18436 Spiral down around the mechanical utility building with rooftop fans for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+34 4 18437 18454 Turn to face the starting point.
+34 5 18455 18509 Fly while ascending back to the starting point.
+35 0 18510 18520 Turn to face the rooftop terrace with HVAC equipment.
+35 1 18521 18553 Fly while descending to 80 meters above the rooftop terrace with HVAC equipment.
+35 2 18554 18571 Turn to enter the descending spiral around the rooftop terrace with HVAC equipment.
+35 3 18572 18950 Spiral down around the rooftop terrace with HVAC equipment for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+35 4 18951 18968 Turn to face the starting point.
+35 5 18969 19028 Fly while ascending back to the starting point.
+36 0 19029 19044 Turn to face the rooftop terrace with HVAC equipment.
+36 1 19045 19080 Fly while descending to 80 meters above the rooftop terrace with HVAC equipment.
+36 2 19081 19097 Turn to enter the descending spiral around the rooftop terrace with HVAC equipment.
+36 3 19098 19476 Spiral down around the rooftop terrace with HVAC equipment for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+36 4 19477 19494 Turn to face the starting point.
+36 5 19495 19558 Fly while ascending back to the starting point.
+37 0 19559 19582 Turn to face the rooftop terrace with HVAC equipment.
+37 1 19583 19616 Fly while descending to 80 meters above the rooftop terrace with HVAC equipment.
+37 2 19617 19633 Turn to enter the descending spiral around the rooftop terrace with HVAC equipment.
+37 3 19634 20012 Spiral down around the rooftop terrace with HVAC equipment for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+37 4 20013 20030 Turn to face the starting point.
+37 5 20031 20092 Fly while ascending back to the starting point.
+38 0 20093 20096 Turn to face the rooftop terrace with HVAC equipment.
+38 1 20097 20136 Fly while descending to 80 meters above the rooftop terrace with HVAC equipment.
+38 2 20137 20154 Turn to enter the descending spiral around the rooftop terrace with HVAC equipment.
+38 3 20155 20533 Spiral down around the rooftop terrace with HVAC equipment for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+38 4 20534 20551 Turn to face the starting point.
+38 5 20552 20619 Fly while ascending back to the starting point.
+39 0 20620 20654 Turn to face the rooftop terrace with HVAC equipment.
+39 1 20655 20700 Fly while descending to 80 meters above the rooftop terrace with HVAC equipment.
+39 2 20701 20718 Turn to enter the descending spiral around the rooftop terrace with HVAC equipment.
+39 3 20719 21097 Spiral down around the rooftop terrace with HVAC equipment for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+39 4 21098 21115 Turn to face the starting point.
+39 5 21116 21189 Fly while ascending back to the starting point.
+40 0 21190 21194 Turn to face the glass greenhouse structure.
+40 1 21195 21231 Fly while descending to 80 meters above the glass greenhouse structure.
+40 2 21232 21248 Turn to enter the descending spiral around the glass greenhouse structure.
+40 3 21249 21627 Spiral down around the glass greenhouse structure for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+40 4 21628 21645 Turn to face the starting point.
+40 5 21646 21711 Fly while ascending back to the starting point.
+41 0 21712 21733 Turn to face the glass greenhouse structure.
+41 1 21734 21763 Fly while descending to 80 meters above the glass greenhouse structure.
+41 2 21764 21780 Turn to enter the descending spiral around the glass greenhouse structure.
+41 3 21781 22159 Spiral down around the glass greenhouse structure for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+41 4 22160 22177 Turn to face the starting point.
+41 5 22178 22234 Fly while ascending back to the starting point.
+42 0 22235 22265 Turn to face the glass greenhouse structure.
+42 1 22266 22303 Fly while descending to 80 meters above the glass greenhouse structure.
+42 2 22304 22320 Turn to enter the descending spiral around the glass greenhouse structure.
+42 3 22321 22699 Spiral down around the glass greenhouse structure for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+42 4 22700 22717 Turn to face the starting point.
+42 5 22718 22784 Fly while ascending back to the starting point.
+43 0 22785 22786 Turn to face the glass greenhouse structure.
+43 1 22787 22813 Fly while descending to 80 meters above the glass greenhouse structure.
+43 2 22814 22831 Turn to enter the descending spiral around the glass greenhouse structure.
+43 3 22832 23210 Spiral down around the glass greenhouse structure for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+43 4 23211 23228 Turn to face the starting point.
+43 5 23229 23281 Fly while ascending back to the starting point.
+44 0 23282 23286 Turn to face the glass greenhouse structure.
+44 1 23287 23317 Fly while descending to 80 meters above the glass greenhouse structure.
+44 2 23318 23334 Turn to enter the descending spiral around the glass greenhouse structure.
+44 3 23335 23713 Spiral down around the glass greenhouse structure for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+44 4 23714 23731 Turn to face the starting point.
+44 5 23732 23791 Fly while ascending back to the starting point.
+45 0 23792 23794 Turn to face the covered pedestrian walkway canopy.
+45 1 23795 23834 Fly while descending to 80 meters above the covered pedestrian walkway canopy.
+45 2 23835 23852 Turn to enter the descending spiral around the covered pedestrian walkway canopy.
+45 3 23853 24231 Spiral down around the covered pedestrian walkway canopy for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+45 4 24232 24249 Turn to face the starting point.
+45 5 24250 24317 Fly while ascending back to the starting point.
+46 0 24318 24333 Turn to face the covered pedestrian walkway canopy.
+46 1 24334 24375 Fly while descending to 80 meters above the covered pedestrian walkway canopy.
+46 2 24376 24392 Turn to enter the descending spiral around the covered pedestrian walkway canopy.
+46 3 24393 24771 Spiral down around the covered pedestrian walkway canopy for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+46 4 24772 24789 Turn to face the starting point.
+46 5 24790 24859 Fly while ascending back to the starting point.
+47 0 24860 24878 Turn to face the covered pedestrian walkway canopy.
+47 1 24879 24923 Fly while descending to 80 meters above the covered pedestrian walkway canopy.
+47 2 24924 24941 Turn to enter the descending spiral around the covered pedestrian walkway canopy.
+47 3 24942 25320 Spiral down around the covered pedestrian walkway canopy for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+47 4 25321 25338 Turn to face the starting point.
+47 5 25339 25410 Fly while ascending back to the starting point.
+48 0 25411 25432 Turn to face the covered pedestrian walkway canopy.
+48 1 25433 25470 Fly while descending to 80 meters above the covered pedestrian walkway canopy.
+48 2 25471 25487 Turn to enter the descending spiral around the covered pedestrian walkway canopy.
+48 3 25488 25866 Spiral down around the covered pedestrian walkway canopy for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+48 4 25867 25884 Turn to face the starting point.
+48 5 25885 25950 Fly while ascending back to the starting point.
+49 0 25951 25984 Turn to face the covered pedestrian walkway canopy.
+49 1 25985 26008 Fly while descending to 80 meters above the covered pedestrian walkway canopy.
+49 2 26009 26026 Turn to enter the descending spiral around the covered pedestrian walkway canopy.
+49 3 26027 26405 Spiral down around the covered pedestrian walkway canopy for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+49 4 26406 26423 Turn to face the starting point.
+49 5 26424 26474 Fly while ascending back to the starting point.
+50 0 26475 26495 Turn to face the pedestrian bridge walkway.
+50 1 26496 26539 Fly while descending to 80 meters above the pedestrian bridge walkway.
+50 2 26540 26557 Turn to enter the descending spiral around the pedestrian bridge walkway.
+50 3 26558 26936 Spiral down around the pedestrian bridge walkway for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+50 4 26937 26954 Turn to face the starting point.
+50 5 26955 27026 Fly while ascending back to the starting point.
+51 0 27027 27054 Turn to face the pedestrian bridge walkway.
+51 1 27055 27097 Fly while descending to 80 meters above the pedestrian bridge walkway.
+51 2 27098 27115 Turn to enter the descending spiral around the pedestrian bridge walkway.
+51 3 27116 27494 Spiral down around the pedestrian bridge walkway for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+51 4 27495 27512 Turn to face the starting point.
+51 5 27513 27582 Fly while ascending back to the starting point.
+52 0 27583 27595 Turn to face the pedestrian bridge walkway.
+52 1 27596 27632 Fly while descending to 80 meters above the pedestrian bridge walkway.
+52 2 27633 27650 Turn to enter the descending spiral around the pedestrian bridge walkway.
+52 3 27651 28029 Spiral down around the pedestrian bridge walkway for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+52 4 28030 28047 Turn to face the starting point.
+52 5 28048 28109 Fly while ascending back to the starting point.
+53 0 28110 28112 Turn to face the pedestrian bridge walkway.
+53 1 28113 28146 Fly while descending to 80 meters above the pedestrian bridge walkway.
+53 2 28147 28163 Turn to enter the descending spiral around the pedestrian bridge walkway.
+53 3 28164 28542 Spiral down around the pedestrian bridge walkway for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+53 4 28543 28560 Turn to face the starting point.
+53 5 28561 28622 Fly while ascending back to the starting point.
+54 0 28623 28633 Turn to face the pedestrian bridge walkway.
+54 1 28634 28668 Fly while descending to 80 meters above the pedestrian bridge walkway.
+54 2 28669 28686 Turn to enter the descending spiral around the pedestrian bridge walkway.
+54 3 28687 29065 Spiral down around the pedestrian bridge walkway for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+54 4 29066 29083 Turn to face the starting point.
+54 5 29084 29146 Fly while ascending back to the starting point.
+55 0 29147 29155 Turn to face the multi-lane arterial road.
+55 1 29156 29198 Fly while descending to 80 meters above the multi-lane arterial road.
+55 2 29199 29216 Turn to enter the descending spiral around the multi-lane arterial road.
+55 3 29217 29595 Spiral down around the multi-lane arterial road for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+55 4 29596 29613 Turn to face the starting point.
+55 5 29614 29684 Fly while ascending back to the starting point.
+56 0 29685 29708 Turn to face the multi-lane arterial road.
+56 1 29709 29750 Fly while descending to 80 meters above the multi-lane arterial road.
+56 2 29751 29767 Turn to enter the descending spiral around the multi-lane arterial road.
+56 3 29768 30146 Spiral down around the multi-lane arterial road for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+56 4 30147 30164 Turn to face the starting point.
+56 5 30165 30233 Fly while ascending back to the starting point.
+57 0 30234 30247 Turn to face the multi-lane arterial road.
+57 1 30248 30272 Fly while descending to 80 meters above the multi-lane arterial road.
+57 2 30273 30289 Turn to enter the descending spiral around the multi-lane arterial road.
+57 3 30290 30668 Spiral down around the multi-lane arterial road for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+57 4 30669 30686 Turn to face the starting point.
+57 5 30687 30738 Fly while ascending back to the starting point.
+58 0 30739 30765 Turn to face the multi-lane arterial road.
+58 1 30766 30805 Fly while descending to 80 meters above the multi-lane arterial road.
+58 2 30806 30823 Turn to enter the descending spiral around the multi-lane arterial road.
+58 3 30824 31202 Spiral down around the multi-lane arterial road for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+58 4 31203 31220 Turn to face the starting point.
+58 5 31221 31288 Fly while ascending back to the starting point.
+59 0 31289 31299 Turn to face the multi-lane arterial road.
+59 1 31300 31335 Fly while descending to 80 meters above the multi-lane arterial road.
+59 2 31336 31352 Turn to enter the descending spiral around the multi-lane arterial road.
+59 3 31353 31731 Spiral down around the multi-lane arterial road for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+59 4 31732 31749 Turn to face the starting point.
+59 5 31750 31813 Fly while ascending back to the starting point.
+60 0 31814 31826 Turn to face the divided boulevard with landscaped median.
+60 1 31827 31853 Fly while descending to 80 meters above the divided boulevard with landscaped median.
+60 2 31854 31871 Turn to enter the descending spiral around the divided boulevard with landscaped median.
+60 3 31872 32250 Spiral down around the divided boulevard with landscaped median for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+60 4 32251 32268 Turn to face the starting point.
+60 5 32269 32322 Fly while ascending back to the starting point.
+61 0 32323 32355 Turn to face the divided boulevard with landscaped median.
+61 1 32356 32397 Fly while descending to 80 meters above the divided boulevard with landscaped median.
+61 2 32398 32414 Turn to enter the descending spiral around the divided boulevard with landscaped median.
+61 3 32415 32793 Spiral down around the divided boulevard with landscaped median for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+61 4 32794 32811 Turn to face the starting point.
+61 5 32812 32881 Fly while ascending back to the starting point.
+62 0 32882 32897 Turn to face the divided boulevard with landscaped median.
+62 1 32898 32945 Fly while descending to 80 meters above the divided boulevard with landscaped median.
+62 2 32946 32963 Turn to enter the descending spiral around the divided boulevard with landscaped median.
+62 3 32964 33342 Spiral down around the divided boulevard with landscaped median for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+62 4 33343 33360 Turn to face the starting point.
+62 5 33361 33436 Fly while ascending back to the starting point.
+63 0 33437 33437 Turn to face the divided boulevard with landscaped median.
+63 1 33438 33472 Fly while descending to 80 meters above the divided boulevard with landscaped median.
+63 2 33473 33489 Turn to enter the descending spiral around the divided boulevard with landscaped median.
+63 3 33490 33868 Spiral down around the divided boulevard with landscaped median for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+63 4 33869 33886 Turn to face the starting point.
+63 5 33887 33949 Fly while ascending back to the starting point.
+64 0 33950 33969 Turn to face the divided boulevard with landscaped median.
+64 1 33970 33992 Fly while descending to 80 meters above the divided boulevard with landscaped median.
+64 2 33993 34009 Turn to enter the descending spiral around the divided boulevard with landscaped median.
+64 3 34010 34388 Spiral down around the divided boulevard with landscaped median for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+64 4 34389 34406 Turn to face the starting point.
+64 5 34407 34454 Fly while ascending back to the starting point.
+65 0 34455 34488 Turn to face the curved driveway loop.
+65 1 34489 34511 Fly while descending to 80 meters above the curved driveway loop.
+65 2 34512 34529 Turn to enter the descending spiral around the curved driveway loop.
+65 3 34530 34908 Spiral down around the curved driveway loop for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+65 4 34909 34926 Turn to face the starting point.
+65 5 34927 34975 Fly while ascending back to the starting point.
+66 0 34976 34987 Turn to face the curved driveway loop.
+66 1 34988 35026 Fly while descending to 80 meters above the curved driveway loop.
+66 2 35027 35044 Turn to enter the descending spiral around the curved driveway loop.
+66 3 35045 35423 Spiral down around the curved driveway loop for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+66 4 35424 35441 Turn to face the starting point.
+66 5 35442 35505 Fly while ascending back to the starting point.
+67 0 35506 35512 Turn to face the curved driveway loop.
+67 1 35513 35556 Fly while descending to 80 meters above the curved driveway loop.
+67 2 35557 35573 Turn to enter the descending spiral around the curved driveway loop.
+67 3 35574 35952 Spiral down around the curved driveway loop for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+67 4 35953 35970 Turn to face the starting point.
+67 5 35971 36042 Fly while ascending back to the starting point.
+68 0 36043 36067 Turn to face the curved driveway loop.
+68 1 36068 36096 Fly while descending to 80 meters above the curved driveway loop.
+68 2 36097 36114 Turn to enter the descending spiral around the curved driveway loop.
+68 3 36115 36493 Spiral down around the curved driveway loop for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+68 4 36494 36511 Turn to face the starting point.
+68 5 36512 36568 Fly while ascending back to the starting point.
+69 0 36569 36574 Turn to face the curved driveway loop.
+69 1 36575 36610 Fly while descending to 80 meters above the curved driveway loop.
+69 2 36611 36628 Turn to enter the descending spiral around the curved driveway loop.
+69 3 36629 37007 Spiral down around the curved driveway loop for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+69 4 37008 37025 Turn to face the starting point.
+69 5 37026 37089 Fly while ascending back to the starting point.
+70 0 37090 37101 Turn to face the street intersection crosswalk.
+70 1 37102 37145 Fly while descending to 80 meters above the street intersection crosswalk.
+70 2 37146 37162 Turn to enter the descending spiral around the street intersection crosswalk.
+70 3 37163 37541 Spiral down around the street intersection crosswalk for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+70 4 37542 37559 Turn to face the starting point.
+70 5 37560 37631 Fly while ascending back to the starting point.
+71 0 37632 37664 Turn to face the street intersection crosswalk.
+71 1 37665 37697 Fly while descending to 80 meters above the street intersection crosswalk.
+71 2 37698 37715 Turn to enter the descending spiral around the street intersection crosswalk.
+71 3 37716 38094 Spiral down around the street intersection crosswalk for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+71 4 38095 38112 Turn to face the starting point.
+71 5 38113 38171 Fly while ascending back to the starting point.
+72 0 38172 38200 Turn to face the street intersection crosswalk.
+72 1 38201 38228 Fly while descending to 80 meters above the street intersection crosswalk.
+72 2 38229 38246 Turn to enter the descending spiral around the street intersection crosswalk.
+72 3 38247 38625 Spiral down around the street intersection crosswalk for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+72 4 38626 38643 Turn to face the starting point.
+72 5 38644 38699 Fly while ascending back to the starting point.
+73 0 38700 38703 Turn to face the street intersection crosswalk.
+73 1 38704 38739 Fly while descending to 80 meters above the street intersection crosswalk.
+73 2 38740 38757 Turn to enter the descending spiral around the street intersection crosswalk.
+73 3 38758 39136 Spiral down around the street intersection crosswalk for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+73 4 39137 39154 Turn to face the starting point.
+73 5 39155 39218 Fly while ascending back to the starting point.
+74 0 39219 39252 Turn to face the street intersection crosswalk.
+74 1 39253 39289 Fly while descending to 80 meters above the street intersection crosswalk.
+74 2 39290 39306 Turn to enter the descending spiral around the street intersection crosswalk.
+74 3 39307 39685 Spiral down around the street intersection crosswalk for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+74 4 39686 39703 Turn to face the starting point.
+74 5 39704 39766 Fly while ascending back to the starting point.
+75 0 39767 39781 Turn to face the two-lane road bridge.
+75 1 39782 39813 Fly while descending to 80 meters above the two-lane road bridge.
+75 2 39814 39830 Turn to enter the descending spiral around the two-lane road bridge.
+75 3 39831 40209 Spiral down around the two-lane road bridge for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+75 4 40210 40227 Turn to face the starting point.
+75 5 40228 40286 Fly while ascending back to the starting point.
+76 0 40287 40301 Turn to face the two-lane road bridge.
+76 1 40302 40341 Fly while descending to 80 meters above the two-lane road bridge.
+76 2 40342 40358 Turn to enter the descending spiral around the two-lane road bridge.
+76 3 40359 40737 Spiral down around the two-lane road bridge for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+76 4 40738 40755 Turn to face the starting point.
+76 5 40756 40820 Fly while ascending back to the starting point.
+77 0 40821 40829 Turn to face the two-lane road bridge.
+77 1 40830 40865 Fly while descending to 80 meters above the two-lane road bridge.
+77 2 40866 40883 Turn to enter the descending spiral around the two-lane road bridge.
+77 3 40884 41262 Spiral down around the two-lane road bridge for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+77 4 41263 41280 Turn to face the starting point.
+77 5 41281 41341 Fly while ascending back to the starting point.
+78 0 41342 41358 Turn to face the two-lane road bridge.
+78 1 41359 41394 Fly while descending to 80 meters above the two-lane road bridge.
+78 2 41395 41411 Turn to enter the descending spiral around the two-lane road bridge.
+78 3 41412 41790 Spiral down around the two-lane road bridge for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+78 4 41791 41808 Turn to face the starting point.
+78 5 41809 41871 Fly while ascending back to the starting point.
+79 0 41872 41876 Turn to face the two-lane road bridge.
+79 1 41877 41907 Fly while descending to 80 meters above the two-lane road bridge.
+79 2 41908 41924 Turn to enter the descending spiral around the two-lane road bridge.
+79 3 41925 42303 Spiral down around the two-lane road bridge for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+79 4 42304 42321 Turn to face the starting point.
+79 5 42322 42380 Fly while ascending back to the starting point.
+80 0 42381 42410 Turn to face the narrow drainage canal.
+80 1 42411 42450 Fly while descending to 80 meters above the narrow drainage canal.
+80 2 42451 42468 Turn to enter the descending spiral around the narrow drainage canal.
+80 3 42469 42847 Spiral down around the narrow drainage canal for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+80 4 42848 42865 Turn to face the starting point.
+80 5 42866 42933 Fly while ascending back to the starting point.
+81 0 42934 42953 Turn to face the narrow drainage canal.
+81 1 42954 42981 Fly while descending to 80 meters above the narrow drainage canal.
+81 2 42982 42999 Turn to enter the descending spiral around the narrow drainage canal.
+81 3 43000 43378 Spiral down around the narrow drainage canal for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+81 4 43379 43396 Turn to face the starting point.
+81 5 43397 43452 Fly while ascending back to the starting point.
+82 0 43453 43461 Turn to face the narrow drainage canal.
+82 1 43462 43489 Fly while descending to 80 meters above the narrow drainage canal.
+82 2 43490 43506 Turn to enter the descending spiral around the narrow drainage canal.
+82 3 43507 43885 Spiral down around the narrow drainage canal for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+82 4 43886 43903 Turn to face the starting point.
+82 5 43904 43957 Fly while ascending back to the starting point.
+83 0 43958 43987 Turn to face the narrow drainage canal.
+83 1 43988 44017 Fly while descending to 80 meters above the narrow drainage canal.
+83 2 44018 44034 Turn to enter the descending spiral around the narrow drainage canal.
+83 3 44035 44413 Spiral down around the narrow drainage canal for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+83 4 44414 44431 Turn to face the starting point.
+83 5 44432 44490 Fly while ascending back to the starting point.
+84 0 44491 44516 Turn to face the narrow drainage canal.
+84 1 44517 44553 Fly while descending to 80 meters above the narrow drainage canal.
+84 2 44554 44570 Turn to enter the descending spiral around the narrow drainage canal.
+84 3 44571 44949 Spiral down around the narrow drainage canal for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+84 4 44950 44967 Turn to face the starting point.
+84 5 44968 45032 Fly while ascending back to the starting point.
+85 0 45033 45045 Turn to face the surface parking lot.
+85 1 45046 45082 Fly while descending to 80 meters above the surface parking lot.
+85 2 45083 45099 Turn to enter the descending spiral around the surface parking lot.
+85 3 45100 45478 Spiral down around the surface parking lot for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+85 4 45479 45496 Turn to face the starting point.
+85 5 45497 45562 Fly while ascending back to the starting point.
+86 0 45563 45579 Turn to face the surface parking lot.
+86 1 45580 45621 Fly while descending to 80 meters above the surface parking lot.
+86 2 45622 45638 Turn to enter the descending spiral around the surface parking lot.
+86 3 45639 46017 Spiral down around the surface parking lot for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+86 4 46018 46035 Turn to face the starting point.
+86 5 46036 46106 Fly while ascending back to the starting point.
+87 0 46107 46132 Turn to face the surface parking lot.
+87 1 46133 46170 Fly while descending to 80 meters above the surface parking lot.
+87 2 46171 46188 Turn to enter the descending spiral around the surface parking lot.
+87 3 46189 46567 Spiral down around the surface parking lot for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+87 4 46568 46585 Turn to face the starting point.
+87 5 46586 46649 Fly while ascending back to the starting point.
+88 0 46650 46673 Turn to face the surface parking lot.
+88 1 46674 46703 Fly while descending to 80 meters above the surface parking lot.
+88 2 46704 46720 Turn to enter the descending spiral around the surface parking lot.
+88 3 46721 47099 Spiral down around the surface parking lot for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+88 4 47100 47117 Turn to face the starting point.
+88 5 47118 47175 Fly while ascending back to the starting point.
+89 0 47176 47190 Turn to face the surface parking lot.
+89 1 47191 47216 Fly while descending to 80 meters above the surface parking lot.
+89 2 47217 47234 Turn to enter the descending spiral around the surface parking lot.
+89 3 47235 47613 Spiral down around the surface parking lot for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+89 4 47614 47631 Turn to face the starting point.
+89 5 47632 47684 Fly while ascending back to the starting point.
+90 0 47685 47695 Turn to face the marked helipad landing circle.
+90 1 47696 47740 Fly while descending to 80 meters above the marked helipad landing circle.
+90 2 47741 47757 Turn to enter the descending spiral around the marked helipad landing circle.
+90 3 47758 48136 Spiral down around the marked helipad landing circle for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+90 4 48137 48154 Turn to face the starting point.
+90 5 48155 48227 Fly while ascending back to the starting point.
+91 0 48228 48257 Turn to face the marked helipad landing circle.
+91 1 48258 48295 Fly while descending to 80 meters above the marked helipad landing circle.
+91 2 48296 48312 Turn to enter the descending spiral around the marked helipad landing circle.
+91 3 48313 48691 Spiral down around the marked helipad landing circle for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+91 4 48692 48709 Turn to face the starting point.
+91 5 48710 48775 Fly while ascending back to the starting point.
+92 0 48776 48790 Turn to face the marked helipad landing circle.
+92 1 48791 48834 Fly while descending to 80 meters above the marked helipad landing circle.
+92 2 48835 48851 Turn to enter the descending spiral around the marked helipad landing circle.
+92 3 48852 49230 Spiral down around the marked helipad landing circle for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+92 4 49231 49248 Turn to face the starting point.
+92 5 49249 49319 Fly while ascending back to the starting point.
+93 0 49320 49320 Turn to face the marked helipad landing circle.
+93 1 49321 49350 Fly while descending to 80 meters above the marked helipad landing circle.
+93 2 49351 49367 Turn to enter the descending spiral around the marked helipad landing circle.
+93 3 49368 49746 Spiral down around the marked helipad landing circle for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+93 4 49747 49764 Turn to face the starting point.
+93 5 49765 49821 Fly while ascending back to the starting point.
+94 0 49822 49843 Turn to face the marked helipad landing circle.
+94 1 49844 49886 Fly while descending to 80 meters above the marked helipad landing circle.
+94 2 49887 49904 Turn to enter the descending spiral around the marked helipad landing circle.
+94 3 49905 50283 Spiral down around the marked helipad landing circle for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+94 4 50284 50301 Turn to face the starting point.
+94 5 50302 50373 Fly while ascending back to the starting point.
+95 0 50374 50408 Turn to face the construction yard with concrete pipe stacks.
+95 1 50409 50451 Fly while descending to 80 meters above the construction yard with concrete pipe stacks.
+95 2 50452 50469 Turn to enter the descending spiral around the construction yard with concrete pipe stacks.
+95 3 50470 50848 Spiral down around the construction yard with concrete pipe stacks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+95 4 50849 50866 Turn to face the starting point.
+95 5 50867 50937 Fly while ascending back to the starting point.
+96 0 50938 50942 Turn to face the construction yard with concrete pipe stacks.
+96 1 50943 50971 Fly while descending to 80 meters above the construction yard with concrete pipe stacks.
+96 2 50972 50989 Turn to enter the descending spiral around the construction yard with concrete pipe stacks.
+96 3 50990 51368 Spiral down around the construction yard with concrete pipe stacks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+96 4 51369 51386 Turn to face the starting point.
+96 5 51387 51441 Fly while ascending back to the starting point.
+97 0 51442 51473 Turn to face the construction yard with concrete pipe stacks.
+97 1 51474 51514 Fly while descending to 80 meters above the construction yard with concrete pipe stacks.
+97 2 51515 51531 Turn to enter the descending spiral around the construction yard with concrete pipe stacks.
+97 3 51532 51910 Spiral down around the construction yard with concrete pipe stacks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+97 4 51911 51928 Turn to face the starting point.
+97 5 51929 51997 Fly while ascending back to the starting point.
+98 0 51998 52016 Turn to face the construction yard with concrete pipe stacks.
+98 1 52017 52055 Fly while descending to 80 meters above the construction yard with concrete pipe stacks.
+98 2 52056 52072 Turn to enter the descending spiral around the construction yard with concrete pipe stacks.
+98 3 52073 52451 Spiral down around the construction yard with concrete pipe stacks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+98 4 52452 52469 Turn to face the starting point.
+98 5 52470 52536 Fly while ascending back to the starting point.
+99 0 52537 52569 Turn to face the construction yard with concrete pipe stacks.
+99 1 52570 52615 Fly while descending to 80 meters above the construction yard with concrete pipe stacks.
+99 2 52616 52633 Turn to enter the descending spiral around the construction yard with concrete pipe stacks.
+99 3 52634 53012 Spiral down around the construction yard with concrete pipe stacks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+99 4 53013 53030 Turn to face the starting point.
+99 5 53031 53104 Fly while ascending back to the starting point.
+100 0 53105 53116 Turn to face the parked white trucks.
+100 1 53117 53150 Fly while descending to 80 meters above the parked white trucks.
+100 2 53151 53167 Turn to enter the descending spiral around the parked white trucks.
+100 3 53168 53546 Spiral down around the parked white trucks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+100 4 53547 53564 Turn to face the starting point.
+100 5 53565 53626 Fly while ascending back to the starting point.
+101 0 53627 53657 Turn to face the parked white trucks.
+101 1 53658 53690 Fly while descending to 80 meters above the parked white trucks.
+101 2 53691 53708 Turn to enter the descending spiral around the parked white trucks.
+101 3 53709 54087 Spiral down around the parked white trucks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+101 4 54088 54105 Turn to face the starting point.
+101 5 54106 54166 Fly while ascending back to the starting point.
+102 0 54167 54184 Turn to face the parked white trucks.
+102 1 54185 54221 Fly while descending to 80 meters above the parked white trucks.
+102 2 54222 54239 Turn to enter the descending spiral around the parked white trucks.
+102 3 54240 54618 Spiral down around the parked white trucks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+102 4 54619 54636 Turn to face the starting point.
+102 5 54637 54701 Fly while ascending back to the starting point.
+103 0 54702 54714 Turn to face the parked white trucks.
+103 1 54715 54745 Fly while descending to 80 meters above the parked white trucks.
+103 2 54746 54763 Turn to enter the descending spiral around the parked white trucks.
+103 3 54764 55142 Spiral down around the parked white trucks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+103 4 55143 55160 Turn to face the starting point.
+103 5 55161 55217 Fly while ascending back to the starting point.
+104 0 55218 55238 Turn to face the parked white trucks.
+104 1 55239 55273 Fly while descending to 80 meters above the parked white trucks.
+104 2 55274 55291 Turn to enter the descending spiral around the parked white trucks.
+104 3 55292 55670 Spiral down around the parked white trucks for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+104 4 55671 55688 Turn to face the starting point.
+104 5 55689 55749 Fly while ascending back to the starting point.
+105 0 55750 55750 Turn to face the outdoor basketball court.
+105 1 55751 55780 Fly while descending to 80 meters above the outdoor basketball court.
+105 2 55781 55798 Turn to enter the descending spiral around the outdoor basketball court.
+105 3 55799 56177 Spiral down around the outdoor basketball court for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+105 4 56178 56195 Turn to face the starting point.
+105 5 56196 56253 Fly while ascending back to the starting point.
+106 0 56254 56281 Turn to face the outdoor basketball court.
+106 1 56282 56331 Fly while descending to 80 meters above the outdoor basketball court.
+106 2 56332 56349 Turn to enter the descending spiral around the outdoor basketball court.
+106 3 56350 56728 Spiral down around the outdoor basketball court for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+106 4 56729 56746 Turn to face the starting point.
+106 5 56747 56824 Fly while ascending back to the starting point.
+107 0 56825 56846 Turn to face the outdoor basketball court.
+107 1 56847 56889 Fly while descending to 80 meters above the outdoor basketball court.
+107 2 56890 56907 Turn to enter the descending spiral around the outdoor basketball court.
+107 3 56908 57286 Spiral down around the outdoor basketball court for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+107 4 57287 57304 Turn to face the starting point.
+107 5 57305 57375 Fly while ascending back to the starting point.
+108 0 57376 57383 Turn to face the outdoor basketball court.
+108 1 57384 57426 Fly while descending to 80 meters above the outdoor basketball court.
+108 2 57427 57443 Turn to enter the descending spiral around the outdoor basketball court.
+108 3 57444 57822 Spiral down around the outdoor basketball court for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+108 4 57823 57840 Turn to face the starting point.
+108 5 57841 57911 Fly while ascending back to the starting point.
+109 0 57912 57936 Turn to face the outdoor basketball court.
+109 1 57937 57979 Fly while descending to 80 meters above the outdoor basketball court.
+109 2 57980 57996 Turn to enter the descending spiral around the outdoor basketball court.
+109 3 57997 58375 Spiral down around the outdoor basketball court for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+109 4 58376 58393 Turn to face the starting point.
+109 5 58394 58462 Fly while ascending back to the starting point.
+110 0 58463 58487 Turn to face the artificial turf soccer field.
+110 1 58488 58530 Fly while descending to 80 meters above the artificial turf soccer field.
+110 2 58531 58547 Turn to enter the descending spiral around the artificial turf soccer field.
+110 3 58548 58926 Spiral down around the artificial turf soccer field for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+110 4 58927 58944 Turn to face the starting point.
+110 5 58945 59015 Fly while ascending back to the starting point.
+111 0 59016 59020 Turn to face the artificial turf soccer field.
+111 1 59021 59048 Fly while descending to 80 meters above the artificial turf soccer field.
+111 2 59049 59066 Turn to enter the descending spiral around the artificial turf soccer field.
+111 3 59067 59445 Spiral down around the artificial turf soccer field for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+111 4 59446 59463 Turn to face the starting point.
+111 5 59464 59519 Fly while ascending back to the starting point.
+112 0 59520 59524 Turn to face the artificial turf soccer field.
+112 1 59525 59562 Fly while descending to 80 meters above the artificial turf soccer field.
+112 2 59563 59579 Turn to enter the descending spiral around the artificial turf soccer field.
+112 3 59580 59958 Spiral down around the artificial turf soccer field for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+112 4 59959 59976 Turn to face the starting point.
+112 5 59977 60042 Fly while ascending back to the starting point.
+113 0 60043 60048 Turn to face the artificial turf soccer field.
+113 1 60049 60086 Fly while descending to 80 meters above the artificial turf soccer field.
+113 2 60087 60104 Turn to enter the descending spiral around the artificial turf soccer field.
+113 3 60105 60483 Spiral down around the artificial turf soccer field for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+113 4 60484 60501 Turn to face the starting point.
+113 5 60502 60566 Fly while ascending back to the starting point.
+114 0 60567 60592 Turn to face the artificial turf soccer field.
+114 1 60593 60629 Fly while descending to 80 meters above the artificial turf soccer field.
+114 2 60630 60647 Turn to enter the descending spiral around the artificial turf soccer field.
+114 3 60648 61026 Spiral down around the artificial turf soccer field for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+114 4 61027 61044 Turn to face the starting point.
+114 5 61045 61109 Fly while ascending back to the starting point.
+115 0 61110 61140 Turn to face the paved plaza with tile pattern.
+115 1 61141 61183 Fly while descending to 80 meters above the paved plaza with tile pattern.
+115 2 61184 61201 Turn to enter the descending spiral around the paved plaza with tile pattern.
+115 3 61202 61580 Spiral down around the paved plaza with tile pattern for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+115 4 61581 61598 Turn to face the starting point.
+115 5 61599 61669 Fly while ascending back to the starting point.
+116 0 61670 61701 Turn to face the paved plaza with tile pattern.
+116 1 61702 61740 Fly while descending to 80 meters above the paved plaza with tile pattern.
+116 2 61741 61758 Turn to enter the descending spiral around the paved plaza with tile pattern.
+116 3 61759 62137 Spiral down around the paved plaza with tile pattern for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+116 4 62138 62155 Turn to face the starting point.
+116 5 62156 62221 Fly while ascending back to the starting point.
+117 0 62222 62245 Turn to face the paved plaza with tile pattern.
+117 1 62246 62281 Fly while descending to 80 meters above the paved plaza with tile pattern.
+117 2 62282 62298 Turn to enter the descending spiral around the paved plaza with tile pattern.
+117 3 62299 62677 Spiral down around the paved plaza with tile pattern for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+117 4 62678 62695 Turn to face the starting point.
+117 5 62696 62759 Fly while ascending back to the starting point.
+118 0 62760 62777 Turn to face the paved plaza with tile pattern.
+118 1 62778 62824 Fly while descending to 80 meters above the paved plaza with tile pattern.
+118 2 62825 62842 Turn to enter the descending spiral around the paved plaza with tile pattern.
+118 3 62843 63221 Spiral down around the paved plaza with tile pattern for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+118 4 63222 63239 Turn to face the starting point.
+118 5 63240 63314 Fly while ascending back to the starting point.
+119 0 63315 63335 Turn to face the paved plaza with tile pattern.
+119 1 63336 63366 Fly while descending to 80 meters above the paved plaza with tile pattern.
+119 2 63367 63383 Turn to enter the descending spiral around the paved plaza with tile pattern.
+119 3 63384 63762 Spiral down around the paved plaza with tile pattern for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+119 4 63763 63780 Turn to face the starting point.
+119 5 63781 63839 Fly while ascending back to the starting point.
+120 0 63840 63843 Turn to face the landscaped courtyard garden.
+120 1 63844 63876 Fly while descending to 80 meters above the landscaped courtyard garden.
+120 2 63877 63894 Turn to enter the descending spiral around the landscaped courtyard garden.
+120 3 63895 64273 Spiral down around the landscaped courtyard garden for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+120 4 64274 64291 Turn to face the starting point.
+120 5 64292 64352 Fly while ascending back to the starting point.
+121 0 64353 64376 Turn to face the landscaped courtyard garden.
+121 1 64377 64414 Fly while descending to 80 meters above the landscaped courtyard garden.
+121 2 64415 64431 Turn to enter the descending spiral around the landscaped courtyard garden.
+121 3 64432 64810 Spiral down around the landscaped courtyard garden for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+121 4 64811 64828 Turn to face the starting point.
+121 5 64829 64894 Fly while ascending back to the starting point.
+122 0 64895 64908 Turn to face the landscaped courtyard garden.
+122 1 64909 64954 Fly while descending to 80 meters above the landscaped courtyard garden.
+122 2 64955 64972 Turn to enter the descending spiral around the landscaped courtyard garden.
+122 3 64973 65351 Spiral down around the landscaped courtyard garden for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+122 4 65352 65369 Turn to face the starting point.
+122 5 65370 65442 Fly while ascending back to the starting point.
+123 0 65443 65443 Turn to face the landscaped courtyard garden.
+123 1 65444 65467 Fly while descending to 80 meters above the landscaped courtyard garden.
+123 2 65468 65485 Turn to enter the descending spiral around the landscaped courtyard garden.
+123 3 65486 65864 Spiral down around the landscaped courtyard garden for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+123 4 65865 65882 Turn to face the starting point.
+123 5 65883 65934 Fly while ascending back to the starting point.
+124 0 65935 65935 Turn to face the landscaped courtyard garden.
+124 1 65936 65974 Fly while descending to 80 meters above the landscaped courtyard garden.
+124 2 65975 65992 Turn to enter the descending spiral around the landscaped courtyard garden.
+124 3 65993 66371 Spiral down around the landscaped courtyard garden for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+124 4 66372 66389 Turn to face the starting point.
+124 5 66390 66455 Fly while ascending back to the starting point.
+125 0 66456 66473 Turn to face the circular fountain pool.
+125 1 66474 66514 Fly while descending to 80 meters above the circular fountain pool.
+125 2 66515 66531 Turn to enter the descending spiral around the circular fountain pool.
+125 3 66532 66910 Spiral down around the circular fountain pool for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+125 4 66911 66928 Turn to face the starting point.
+125 5 66929 66998 Fly while ascending back to the starting point.
+126 0 66999 66999 Turn to face the circular fountain pool.
+126 1 67000 67028 Fly while descending to 80 meters above the circular fountain pool.
+126 2 67029 67045 Turn to enter the descending spiral around the circular fountain pool.
+126 3 67046 67424 Spiral down around the circular fountain pool for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+126 4 67425 67442 Turn to face the starting point.
+126 5 67443 67499 Fly while ascending back to the starting point.
+127 0 67500 67512 Turn to face the circular fountain pool.
+127 1 67513 67551 Fly while descending to 80 meters above the circular fountain pool.
+127 2 67552 67568 Turn to enter the descending spiral around the circular fountain pool.
+127 3 67569 67947 Spiral down around the circular fountain pool for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+127 4 67948 67965 Turn to face the starting point.
+127 5 67966 68032 Fly while ascending back to the starting point.
+128 0 68033 68044 Turn to face the circular fountain pool.
+128 1 68045 68078 Fly while descending to 80 meters above the circular fountain pool.
+128 2 68079 68096 Turn to enter the descending spiral around the circular fountain pool.
+128 3 68097 68475 Spiral down around the circular fountain pool for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+128 4 68476 68493 Turn to face the starting point.
+128 5 68494 68555 Fly while ascending back to the starting point.
+129 0 68556 68585 Turn to face the circular fountain pool.
+129 1 68586 68633 Fly while descending to 80 meters above the circular fountain pool.
+129 2 68634 68650 Turn to enter the descending spiral around the circular fountain pool.
+129 3 68651 69029 Spiral down around the circular fountain pool for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+129 4 69030 69047 Turn to face the starting point.
+129 5 69048 69124 Fly while ascending back to the starting point.
+130 0 69125 69130 Turn to face the rectangular reflecting pond.
+130 1 69131 69166 Fly while descending to 80 meters above the rectangular reflecting pond.
+130 2 69167 69184 Turn to enter the descending spiral around the rectangular reflecting pond.
+130 3 69185 69563 Spiral down around the rectangular reflecting pond for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+130 4 69564 69581 Turn to face the starting point.
+130 5 69582 69645 Fly while ascending back to the starting point.
+131 0 69646 69646 Turn to face the rectangular reflecting pond.
+131 1 69647 69683 Fly while descending to 80 meters above the rectangular reflecting pond.
+131 2 69684 69700 Turn to enter the descending spiral around the rectangular reflecting pond.
+131 3 69701 70079 Spiral down around the rectangular reflecting pond for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+131 4 70080 70097 Turn to face the starting point.
+131 5 70098 70160 Fly while ascending back to the starting point.
+132 0 70161 70193 Turn to face the rectangular reflecting pond.
+132 1 70194 70238 Fly while descending to 80 meters above the rectangular reflecting pond.
+132 2 70239 70256 Turn to enter the descending spiral around the rectangular reflecting pond.
+132 3 70257 70635 Spiral down around the rectangular reflecting pond for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+132 4 70636 70653 Turn to face the starting point.
+132 5 70654 70726 Fly while ascending back to the starting point.
+133 0 70727 70754 Turn to face the rectangular reflecting pond.
+133 1 70755 70783 Fly while descending to 80 meters above the rectangular reflecting pond.
+133 2 70784 70800 Turn to enter the descending spiral around the rectangular reflecting pond.
+133 3 70801 71179 Spiral down around the rectangular reflecting pond for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+133 4 71180 71197 Turn to face the starting point.
+133 5 71198 71254 Fly while ascending back to the starting point.
+134 0 71255 71265 Turn to face the rectangular reflecting pond.
+134 1 71266 71305 Fly while descending to 80 meters above the rectangular reflecting pond.
+134 2 71306 71323 Turn to enter the descending spiral around the rectangular reflecting pond.
+134 3 71324 71702 Spiral down around the rectangular reflecting pond for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+134 4 71703 71720 Turn to face the starting point.
+134 5 71721 71786 Fly while ascending back to the starting point.
+135 0 71787 71797 Turn to face the circular ring sculpture.
+135 1 71798 71836 Fly while descending to 80 meters above the circular ring sculpture.
+135 2 71837 71853 Turn to enter the descending spiral around the circular ring sculpture.
+135 3 71854 72232 Spiral down around the circular ring sculpture for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+135 4 72233 72250 Turn to face the starting point.
+135 5 72251 72315 Fly while ascending back to the starting point.
+136 0 72316 72340 Turn to face the circular ring sculpture.
+136 1 72341 72364 Fly while descending to 80 meters above the circular ring sculpture.
+136 2 72365 72381 Turn to enter the descending spiral around the circular ring sculpture.
+136 3 72382 72760 Spiral down around the circular ring sculpture for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+136 4 72761 72778 Turn to face the starting point.
+136 5 72779 72830 Fly while ascending back to the starting point.
+137 0 72831 72843 Turn to face the circular ring sculpture.
+137 1 72844 72888 Fly while descending to 80 meters above the circular ring sculpture.
+137 2 72889 72905 Turn to enter the descending spiral around the circular ring sculpture.
+137 3 72906 73284 Spiral down around the circular ring sculpture for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+137 4 73285 73302 Turn to face the starting point.
+137 5 73303 73375 Fly while ascending back to the starting point.
+138 0 73376 73376 Turn to face the circular ring sculpture.
+138 1 73377 73412 Fly while descending to 80 meters above the circular ring sculpture.
+138 2 73413 73429 Turn to enter the descending spiral around the circular ring sculpture.
+138 3 73430 73808 Spiral down around the circular ring sculpture for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+138 4 73809 73826 Turn to face the starting point.
+138 5 73827 73890 Fly while ascending back to the starting point.
+139 0 73891 73916 Turn to face the circular ring sculpture.
+139 1 73917 73961 Fly while descending to 80 meters above the circular ring sculpture.
+139 2 73962 73978 Turn to enter the descending spiral around the circular ring sculpture.
+139 3 73979 74357 Spiral down around the circular ring sculpture for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+139 4 74358 74375 Turn to face the starting point.
+139 5 74376 74448 Fly while ascending back to the starting point.
+140 0 74449 74481 Turn to face the curved park walking paths.
+140 1 74482 74521 Fly while descending to 80 meters above the curved park walking paths.
+140 2 74522 74539 Turn to enter the descending spiral around the curved park walking paths.
+140 3 74540 74918 Spiral down around the curved park walking paths for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+140 4 74919 74936 Turn to face the starting point.
+140 5 74937 75004 Fly while ascending back to the starting point.
+141 0 75005 75034 Turn to face the curved park walking paths.
+141 1 75035 75080 Fly while descending to 80 meters above the curved park walking paths.
+141 2 75081 75097 Turn to enter the descending spiral around the curved park walking paths.
+141 3 75098 75476 Spiral down around the curved park walking paths for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+141 4 75477 75494 Turn to face the starting point.
+141 5 75495 75568 Fly while ascending back to the starting point.
+142 0 75569 75593 Turn to face the curved park walking paths.
+142 1 75594 75619 Fly while descending to 80 meters above the curved park walking paths.
+142 2 75620 75637 Turn to enter the descending spiral around the curved park walking paths.
+142 3 75638 76016 Spiral down around the curved park walking paths for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+142 4 76017 76034 Turn to face the starting point.
+142 5 76035 76087 Fly while ascending back to the starting point.
+143 0 76088 76105 Turn to face the curved park walking paths.
+143 1 76106 76145 Fly while descending to 80 meters above the curved park walking paths.
+143 2 76146 76162 Turn to enter the descending spiral around the curved park walking paths.
+143 3 76163 76541 Spiral down around the curved park walking paths for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+143 4 76542 76559 Turn to face the starting point.
+143 5 76560 76625 Fly while ascending back to the starting point.
+144 0 76626 76645 Turn to face the curved park walking paths.
+144 1 76646 76680 Fly while descending to 80 meters above the curved park walking paths.
+144 2 76681 76698 Turn to enter the descending spiral around the curved park walking paths.
+144 3 76699 77077 Spiral down around the curved park walking paths for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+144 4 77078 77095 Turn to face the starting point.
+144 5 77096 77158 Fly while ascending back to the starting point.
+145 0 77159 77181 Turn to face the oval roof building.
+145 1 77182 77219 Fly while descending to 80 meters above the oval roof building.
+145 2 77220 77237 Turn to enter the descending spiral around the oval roof building.
+145 3 77238 77616 Spiral down around the oval roof building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+145 4 77617 77634 Turn to face the starting point.
+145 5 77635 77701 Fly while ascending back to the starting point.
+146 0 77702 77729 Turn to face the oval roof building.
+146 1 77730 77761 Fly while descending to 80 meters above the oval roof building.
+146 2 77762 77778 Turn to enter the descending spiral around the oval roof building.
+146 3 77779 78157 Spiral down around the oval roof building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+146 4 78158 78175 Turn to face the starting point.
+146 5 78176 78233 Fly while ascending back to the starting point.
+147 0 78234 78252 Turn to face the oval roof building.
+147 1 78253 78284 Fly while descending to 80 meters above the oval roof building.
+147 2 78285 78302 Turn to enter the descending spiral around the oval roof building.
+147 3 78303 78681 Spiral down around the oval roof building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+147 4 78682 78699 Turn to face the starting point.
+147 5 78700 78756 Fly while ascending back to the starting point.
+148 0 78757 78789 Turn to face the oval roof building.
+148 1 78790 78827 Fly while descending to 80 meters above the oval roof building.
+148 2 78828 78845 Turn to enter the descending spiral around the oval roof building.
+148 3 78846 79224 Spiral down around the oval roof building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+148 4 79225 79242 Turn to face the starting point.
+148 5 79243 79304 Fly while ascending back to the starting point.
+149 0 79305 79319 Turn to face the oval roof building.
+149 1 79320 79360 Fly while descending to 80 meters above the oval roof building.
+149 2 79361 79378 Turn to enter the descending spiral around the oval roof building.
+149 3 79379 79757 Spiral down around the oval roof building for 3 turns from 80 to 60 meters while shrinking radius from 30 to 10 meters.
+149 4 79758 79775 Turn to face the starting point.
+149 5 79776 79843 Fly while ascending back to the starting point.

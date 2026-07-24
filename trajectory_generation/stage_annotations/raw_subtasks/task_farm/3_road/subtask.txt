@@ -1,0 +1,2401 @@
+# traj_id  subtask_id  pose_id_start  pose_id_end  subtask
+0 0 0 58 Descend to above the target construction site.
+0 1 59 87 Adjust heading.
+0 2 88 1877 Perform a mapping mission over the target construction site.
+0 3 1878 1935 Ascend back to the original altitude.
+1 0 1936 1996 Descend to above the target construction site.
+1 1 1997 2011 Adjust heading.
+1 2 2012 3452 Perform a mapping mission over the target construction site.
+1 3 3453 3512 Ascend back to the original altitude.
+2 0 3513 3563 Descend to above the target construction site.
+2 1 3564 3568 Adjust heading.
+2 2 3569 5207 Perform a mapping mission over the target construction site.
+2 3 5208 5257 Ascend back to the original altitude.
+3 0 5258 5311 Descend to above the target construction site.
+3 1 5312 5313 Adjust heading.
+3 2 5314 6952 Perform a mapping mission over the target construction site.
+3 3 6953 7005 Ascend back to the original altitude.
+4 0 7006 7058 Descend to above the target construction site.
+4 1 7059 7092 Adjust heading.
+4 2 7093 8592 Perform a mapping mission over the target construction site.
+4 3 8593 8644 Ascend back to the original altitude.
+5 0 8645 8698 Descend to above the target construction site.
+5 1 8699 8731 Adjust heading.
+5 2 8732 10521 Perform a mapping mission over the target construction site.
+5 3 10522 10574 Ascend back to the original altitude.
+6 0 10575 10633 Descend to above the target construction site.
+6 1 10634 10649 Adjust heading.
+6 2 10650 12149 Perform a mapping mission over the target construction site.
+6 3 12150 12207 Ascend back to the original altitude.
+7 0 12208 12258 Descend to above the target construction site.
+7 1 12259 12259 Adjust heading.
+7 2 12260 13700 Perform a mapping mission over the target construction site.
+7 3 13701 13750 Ascend back to the original altitude.
+8 0 13751 13806 Descend to above the target construction site.
+8 1 13807 13818 Adjust heading.
+8 2 13819 15608 Perform a mapping mission over the target construction site.
+8 3 15609 15663 Ascend back to the original altitude.
+9 0 15664 15712 Descend to above the target construction site.
+9 1 15713 15717 Adjust heading.
+9 2 15718 17217 Perform a mapping mission over the target construction site.
+9 3 17218 17265 Ascend back to the original altitude.
+10 0 17266 17316 Descend to above the target construction site.
+10 1 17317 17338 Adjust heading.
+10 2 17339 18838 Perform a mapping mission over the target construction site.
+10 3 18839 18888 Ascend back to the original altitude.
+11 0 18889 18938 Descend to above the target construction site.
+11 1 18939 18971 Adjust heading.
+11 2 18972 20761 Perform a mapping mission over the target construction site.
+11 3 20762 20810 Ascend back to the original altitude.
+12 0 20811 20868 Descend to above the target construction site.
+12 1 20869 20885 Adjust heading.
+12 2 20886 22326 Perform a mapping mission over the target construction site.
+12 3 22327 22383 Ascend back to the original altitude.
+13 0 22384 22430 Descend to above the target construction site.
+13 1 22431 22455 Adjust heading.
+13 2 22456 23955 Perform a mapping mission over the target construction site.
+13 3 23956 24001 Ascend back to the original altitude.
+14 0 24002 24043 Descend to above the target construction site.
+14 1 24044 24044 Adjust heading.
+14 2 24045 25834 Perform a mapping mission over the target construction site.
+14 3 25835 25875 Ascend back to the original altitude.
+15 0 25876 25931 Descend to above the target construction site.
+15 1 25932 25966 Adjust heading.
+15 2 25967 27756 Perform a mapping mission over the target construction site.
+15 3 27757 27811 Ascend back to the original altitude.
+16 0 27812 27855 Descend to above the target construction site.
+16 1 27856 27878 Adjust heading.
+16 2 27879 29668 Perform a mapping mission over the target construction site.
+16 3 29669 29711 Ascend back to the original altitude.
+17 0 29712 29762 Descend to above the target construction site.
+17 1 29763 29778 Adjust heading.
+17 2 29779 31568 Perform a mapping mission over the target construction site.
+17 3 31569 31618 Ascend back to the original altitude.
+18 0 31619 31671 Descend to above the target construction site.
+18 1 31672 31690 Adjust heading.
+18 2 31691 33480 Perform a mapping mission over the target construction site.
+18 3 33481 33532 Ascend back to the original altitude.
+19 0 33533 33574 Descend to above the target construction site.
+19 1 33575 33602 Adjust heading.
+19 2 33603 35043 Perform a mapping mission over the target construction site.
+19 3 35044 35084 Ascend back to the original altitude.
+20 0 35085 35143 Descend to above the target construction site.
+20 1 35144 35165 Adjust heading.
+20 2 35166 36665 Perform a mapping mission over the target construction site.
+20 3 36666 36723 Ascend back to the original altitude.
+21 0 36724 36770 Descend to above the target construction site.
+21 1 36771 36788 Adjust heading.
+21 2 36789 38288 Perform a mapping mission over the target construction site.
+21 3 38289 38334 Ascend back to the original altitude.
+22 0 38335 38391 Descend to above the target construction site.
+22 1 38392 38418 Adjust heading.
+22 2 38419 39918 Perform a mapping mission over the target construction site.
+22 3 39919 39974 Ascend back to the original altitude.
+23 0 39975 40032 Descend to above the target construction site.
+23 1 40033 40059 Adjust heading.
+23 2 40060 41559 Perform a mapping mission over the target construction site.
+23 3 41560 41616 Ascend back to the original altitude.
+24 0 41617 41672 Descend to above the target construction site.
+24 1 41673 41677 Adjust heading.
+24 2 41678 43118 Perform a mapping mission over the target construction site.
+24 3 43119 43173 Ascend back to the original altitude.
+25 0 43174 43225 Descend to above the target construction site.
+25 1 43226 43232 Adjust heading.
+25 2 43233 44732 Perform a mapping mission over the target construction site.
+25 3 44733 44783 Ascend back to the original altitude.
+26 0 44784 44832 Descend to above the target construction site.
+26 1 44833 44850 Adjust heading.
+26 2 44851 46350 Perform a mapping mission over the target construction site.
+26 3 46351 46398 Ascend back to the original altitude.
+27 0 46399 46447 Descend to above the target construction site.
+27 1 46448 46461 Adjust heading.
+27 2 46462 48251 Perform a mapping mission over the target construction site.
+27 3 48252 48299 Ascend back to the original altitude.
+28 0 48300 48359 Descend to above the target construction site.
+28 1 48360 48370 Adjust heading.
+28 2 48371 49811 Perform a mapping mission over the target construction site.
+28 3 49812 49870 Ascend back to the original altitude.
+29 0 49871 49931 Descend to above the target construction site.
+29 1 49932 49948 Adjust heading.
+29 2 49949 51448 Perform a mapping mission over the target construction site.
+29 3 51449 51508 Ascend back to the original altitude.
+30 0 51509 51555 Descend to above the target construction site.
+30 1 51556 51587 Adjust heading.
+30 2 51588 52653 Perform a mapping mission over the target construction site.
+30 3 52654 52699 Ascend back to the original altitude.
+31 0 52700 52750 Descend to above the target construction site.
+31 1 52751 52761 Adjust heading.
+31 2 52762 53924 Perform a mapping mission over the target construction site.
+31 3 53925 53974 Ascend back to the original altitude.
+32 0 53975 54019 Descend to above the target construction site.
+32 1 54020 54032 Adjust heading.
+32 2 54033 55195 Perform a mapping mission over the target construction site.
+32 3 55196 55239 Ascend back to the original altitude.
+33 0 55240 55295 Descend to above the target construction site.
+33 1 55296 55322 Adjust heading.
+33 2 55323 56485 Perform a mapping mission over the target construction site.
+33 3 56486 56540 Ascend back to the original altitude.
+34 0 56541 56594 Descend to above the target construction site.
+34 1 56595 56609 Adjust heading.
+34 2 56610 57656 Perform a mapping mission over the target construction site.
+34 3 57657 57709 Ascend back to the original altitude.
+35 0 57710 57751 Descend to above the target construction site.
+35 1 57752 57765 Adjust heading.
+35 2 57766 58850 Perform a mapping mission over the target construction site.
+35 3 58851 58891 Ascend back to the original altitude.
+36 0 58892 58935 Descend to above the target construction site.
+36 1 58936 58968 Adjust heading.
+36 2 58969 60131 Perform a mapping mission over the target construction site.
+36 3 60132 60174 Ascend back to the original altitude.
+37 0 60175 60234 Descend to above the target construction site.
+37 1 60235 60254 Adjust heading.
+37 2 60255 61301 Perform a mapping mission over the target construction site.
+37 3 61302 61360 Ascend back to the original altitude.
+38 0 61361 61402 Descend to above the target construction site.
+38 1 61403 61408 Adjust heading.
+38 2 61409 62571 Perform a mapping mission over the target construction site.
+38 3 62572 62612 Ascend back to the original altitude.
+39 0 62613 62669 Descend to above the target construction site.
+39 1 62670 62689 Adjust heading.
+39 2 62690 63736 Perform a mapping mission over the target construction site.
+39 3 63737 63792 Ascend back to the original altitude.
+40 0 63793 63852 Descend to above the target construction site.
+40 1 63853 63886 Adjust heading.
+40 2 63887 65049 Perform a mapping mission over the target construction site.
+40 3 65050 65108 Ascend back to the original altitude.
+41 0 65109 65155 Descend to above the target construction site.
+41 1 65156 65157 Adjust heading.
+41 2 65158 66204 Perform a mapping mission over the target construction site.
+41 3 66205 66250 Ascend back to the original altitude.
+42 0 66251 66292 Descend to above the target construction site.
+42 1 66293 66312 Adjust heading.
+42 2 66313 67378 Perform a mapping mission over the target construction site.
+42 3 67379 67419 Ascend back to the original altitude.
+43 0 67420 67463 Descend to above the target construction site.
+43 1 67464 67498 Adjust heading.
+43 2 67499 68661 Perform a mapping mission over the target construction site.
+43 3 68662 68704 Ascend back to the original altitude.
+44 0 68705 68751 Descend to above the target construction site.
+44 1 68752 68778 Adjust heading.
+44 2 68779 69941 Perform a mapping mission over the target construction site.
+44 3 69942 69987 Ascend back to the original altitude.
+45 0 69988 70044 Descend to above the target construction site.
+45 1 70045 70075 Adjust heading.
+45 2 70076 71141 Perform a mapping mission over the target construction site.
+45 3 71142 71197 Ascend back to the original altitude.
+46 0 71198 71239 Descend to above the target construction site.
+46 1 71240 71240 Adjust heading.
+46 2 71241 72306 Perform a mapping mission over the target construction site.
+46 3 72307 72347 Ascend back to the original altitude.
+47 0 72348 72405 Descend to above the target construction site.
+47 1 72406 72440 Adjust heading.
+47 2 72441 73487 Perform a mapping mission over the target construction site.
+47 3 73488 73544 Ascend back to the original altitude.
+48 0 73545 73591 Descend to above the target construction site.
+48 1 73592 73611 Adjust heading.
+48 2 73612 74658 Perform a mapping mission over the target construction site.
+48 3 74659 74704 Ascend back to the original altitude.
+49 0 74705 74764 Descend to above the target construction site.
+49 1 74765 74773 Adjust heading.
+49 2 74774 75858 Perform a mapping mission over the target construction site.
+49 3 75859 75917 Ascend back to the original altitude.
+50 0 75918 75978 Descend to above the target construction site.
+50 1 75979 75984 Adjust heading.
+50 2 75985 77031 Perform a mapping mission over the target construction site.
+50 3 77032 77091 Ascend back to the original altitude.
+51 0 77092 77150 Descend to above the target construction site.
+51 1 77151 77161 Adjust heading.
+51 2 77162 78324 Perform a mapping mission over the target construction site.
+51 3 78325 78382 Ascend back to the original altitude.
+52 0 78383 78439 Descend to above the target construction site.
+52 1 78440 78465 Adjust heading.
+52 2 78466 79512 Perform a mapping mission over the target construction site.
+52 3 79513 79568 Ascend back to the original altitude.
+53 0 79569 79611 Descend to above the target construction site.
+53 1 79612 79614 Adjust heading.
+53 2 79615 80699 Perform a mapping mission over the target construction site.
+53 3 80700 80741 Ascend back to the original altitude.
+54 0 80742 80787 Descend to above the target construction site.
+54 1 80788 80810 Adjust heading.
+54 2 80811 81895 Perform a mapping mission over the target construction site.
+54 3 81896 81940 Ascend back to the original altitude.
+55 0 81941 81985 Descend to above the target construction site.
+55 1 81986 81994 Adjust heading.
+55 2 81995 83157 Perform a mapping mission over the target construction site.
+55 3 83158 83201 Ascend back to the original altitude.
+56 0 83202 83246 Descend to above the target construction site.
+56 1 83247 83263 Adjust heading.
+56 2 83264 84329 Perform a mapping mission over the target construction site.
+56 3 84330 84373 Ascend back to the original altitude.
+57 0 84374 84434 Descend to above the target construction site.
+57 1 84435 84437 Adjust heading.
+57 2 84438 85503 Perform a mapping mission over the target construction site.
+57 3 85504 85563 Ascend back to the original altitude.
+58 0 85564 85609 Descend to above the target construction site.
+58 1 85610 85615 Adjust heading.
+58 2 85616 86778 Perform a mapping mission over the target construction site.
+58 3 86779 86823 Ascend back to the original altitude.
+59 0 86824 86867 Descend to above the target construction site.
+59 1 86868 86900 Adjust heading.
+59 2 86901 88063 Perform a mapping mission over the target construction site.
+59 3 88064 88106 Ascend back to the original altitude.
+60 0 88107 88151 Descend to above the target construction site.
+60 1 88152 88180 Adjust heading.
+60 2 88181 92043 Perform a mapping mission over the target construction site.
+60 3 92044 92087 Ascend back to the original altitude.
+61 0 92088 92143 Descend to above the target construction site.
+61 1 92144 92172 Adjust heading.
+61 2 92173 96289 Perform a mapping mission over the target construction site.
+61 3 96290 96344 Ascend back to the original altitude.
+62 0 96345 96393 Descend to above the target construction site.
+62 1 96394 96422 Adjust heading.
+62 2 96423 100539 Perform a mapping mission over the target construction site.
+62 3 100540 100587 Ascend back to the original altitude.
+63 0 100588 100642 Descend to above the target construction site.
+63 1 100643 100677 Adjust heading.
+63 2 100678 104770 Perform a mapping mission over the target construction site.
+63 3 104771 104824 Ascend back to the original altitude.
+64 0 104825 104866 Descend to above the target construction site.
+64 1 104867 104877 Adjust heading.
+64 2 104878 108994 Perform a mapping mission over the target construction site.
+64 3 108995 109035 Ascend back to the original altitude.
+65 0 109036 109079 Descend to above the target construction site.
+65 1 109080 109109 Adjust heading.
+65 2 109110 113226 Perform a mapping mission over the target construction site.
+65 3 113227 113269 Ascend back to the original altitude.
+66 0 113270 113322 Descend to above the target construction site.
+66 1 113323 113355 Adjust heading.
+66 2 113356 117448 Perform a mapping mission over the target construction site.
+66 3 117449 117500 Ascend back to the original altitude.
+67 0 117501 117551 Descend to above the target construction site.
+67 1 117552 117582 Adjust heading.
+67 2 117583 121445 Perform a mapping mission over the target construction site.
+67 3 121446 121495 Ascend back to the original altitude.
+68 0 121496 121553 Descend to above the target construction site.
+68 1 121554 121558 Adjust heading.
+68 2 121559 125675 Perform a mapping mission over the target construction site.
+68 3 125676 125732 Ascend back to the original altitude.
+69 0 125733 125784 Descend to above the target construction site.
+69 1 125785 125794 Adjust heading.
+69 2 125795 129887 Perform a mapping mission over the target construction site.
+69 3 129888 129938 Ascend back to the original altitude.
+70 0 129939 129988 Descend to above the target construction site.
+70 1 129989 129999 Adjust heading.
+70 2 130000 133862 Perform a mapping mission over the target construction site.
+70 3 133863 133911 Ascend back to the original altitude.
+71 0 133912 133966 Descend to above the target construction site.
+71 1 133967 133973 Adjust heading.
+71 2 133974 137963 Perform a mapping mission over the target construction site.
+71 3 137964 138017 Ascend back to the original altitude.
+72 0 138018 138063 Descend to above the target construction site.
+72 1 138064 138065 Adjust heading.
+72 2 138066 142182 Perform a mapping mission over the target construction site.
+72 3 142183 142227 Ascend back to the original altitude.
+73 0 142228 142271 Descend to above the target construction site.
+73 1 142272 142281 Adjust heading.
+73 2 142282 146144 Perform a mapping mission over the target construction site.
+73 3 146145 146187 Ascend back to the original altitude.
+74 0 146188 146245 Descend to above the target construction site.
+74 1 146246 146269 Adjust heading.
+74 2 146270 150259 Perform a mapping mission over the target construction site.
+74 3 150260 150316 Ascend back to the original altitude.
+75 0 150317 150376 Descend to above the target construction site.
+75 1 150377 150390 Adjust heading.
+75 2 150391 154380 Perform a mapping mission over the target construction site.
+75 3 154381 154439 Ascend back to the original altitude.
+76 0 154440 154483 Descend to above the target construction site.
+76 1 154484 154504 Adjust heading.
+76 2 154505 158621 Perform a mapping mission over the target construction site.
+76 3 158622 158664 Ascend back to the original altitude.
+77 0 158665 158709 Descend to above the target construction site.
+77 1 158710 158715 Adjust heading.
+77 2 158716 162705 Perform a mapping mission over the target construction site.
+77 3 162706 162749 Ascend back to the original altitude.
+78 0 162750 162798 Descend to above the target construction site.
+78 1 162799 162805 Adjust heading.
+78 2 162806 166668 Perform a mapping mission over the target construction site.
+78 3 166669 166716 Ascend back to the original altitude.
+79 0 166717 166775 Descend to above the target construction site.
+79 1 166776 166801 Adjust heading.
+79 2 166802 170664 Perform a mapping mission over the target construction site.
+79 3 170665 170722 Ascend back to the original altitude.
+80 0 170723 170768 Descend to above the target construction site.
+80 1 170769 170783 Adjust heading.
+80 2 170784 174876 Perform a mapping mission over the target construction site.
+80 3 174877 174921 Ascend back to the original altitude.
+81 0 174922 174971 Descend to above the target construction site.
+81 1 174972 174983 Adjust heading.
+81 2 174984 178846 Perform a mapping mission over the target construction site.
+81 3 178847 178895 Ascend back to the original altitude.
+82 0 178896 178939 Descend to above the target construction site.
+82 1 178940 178947 Adjust heading.
+82 2 178948 183064 Perform a mapping mission over the target construction site.
+82 3 183065 183107 Ascend back to the original altitude.
+83 0 183108 183167 Descend to above the target construction site.
+83 1 183168 183193 Adjust heading.
+83 2 183194 187286 Perform a mapping mission over the target construction site.
+83 3 187287 187345 Ascend back to the original altitude.
+84 0 187346 187406 Descend to above the target construction site.
+84 1 187407 187435 Adjust heading.
+84 2 187436 191298 Perform a mapping mission over the target construction site.
+84 3 191299 191358 Ascend back to the original altitude.
+85 0 191359 191412 Descend to above the target construction site.
+85 1 191413 191443 Adjust heading.
+85 2 191444 195306 Perform a mapping mission over the target construction site.
+85 3 195307 195359 Ascend back to the original altitude.
+86 0 195360 195411 Descend to above the target construction site.
+86 1 195412 195421 Adjust heading.
+86 2 195422 199538 Perform a mapping mission over the target construction site.
+86 3 199539 199589 Ascend back to the original altitude.
+87 0 199590 199638 Descend to above the target construction site.
+87 1 199639 199661 Adjust heading.
+87 2 199662 203651 Perform a mapping mission over the target construction site.
+87 3 203652 203699 Ascend back to the original altitude.
+88 0 203700 203750 Descend to above the target construction site.
+88 1 203751 203753 Adjust heading.
+88 2 203754 207846 Perform a mapping mission over the target construction site.
+88 3 207847 207896 Ascend back to the original altitude.
+89 0 207897 207945 Descend to above the target construction site.
+89 1 207946 207973 Adjust heading.
+89 2 207974 211963 Perform a mapping mission over the target construction site.
+89 3 211964 212011 Ascend back to the original altitude.
+90 0 212012 212066 Descend to above the target area.
+90 1 212067 212086 Adjust heading.
+90 2 212087 214093 Perform a mapping mission over the target area.
+90 3 214094 214147 Ascend back to the original altitude.
+91 0 214148 214207 Descend to above the target area.
+91 1 214208 214227 Adjust heading.
+91 2 214228 216428 Perform a mapping mission over the target area.
+91 3 216429 216487 Ascend back to the original altitude.
+92 0 216488 216545 Descend to above the target area.
+92 1 216546 216571 Adjust heading.
+92 2 216572 218578 Perform a mapping mission over the target area.
+92 3 218579 218635 Ascend back to the original altitude.
+93 0 218636 218687 Descend to above the target area.
+93 1 218688 218713 Adjust heading.
+93 2 218714 220914 Perform a mapping mission over the target area.
+93 3 220915 220965 Ascend back to the original altitude.
+94 0 220966 221011 Descend to above the target area.
+94 1 221012 221034 Adjust heading.
+94 2 221035 223041 Perform a mapping mission over the target area.
+94 3 223042 223086 Ascend back to the original altitude.
+95 0 223087 223130 Descend to above the target area.
+95 1 223131 223141 Adjust heading.
+95 2 223142 225313 Perform a mapping mission over the target area.
+95 3 225314 225356 Ascend back to the original altitude.
+96 0 225357 225399 Descend to above the target area.
+96 1 225400 225422 Adjust heading.
+96 2 225423 227623 Perform a mapping mission over the target area.
+96 3 227624 227665 Ascend back to the original altitude.
+97 0 227666 227726 Descend to above the target area.
+97 1 227727 227746 Adjust heading.
+97 2 227747 229789 Perform a mapping mission over the target area.
+97 3 229790 229849 Ascend back to the original altitude.
+98 0 229850 229906 Descend to above the target area.
+98 1 229907 229936 Adjust heading.
+98 2 229937 231979 Perform a mapping mission over the target area.
+98 3 231980 232035 Ascend back to the original altitude.
+99 0 232036 232088 Descend to above the target area.
+99 1 232089 232093 Adjust heading.
+99 2 232094 234100 Perform a mapping mission over the target area.
+99 3 234101 234152 Ascend back to the original altitude.
+100 0 234153 234205 Descend to above the target area.
+100 1 234206 234208 Adjust heading.
+100 2 234209 236251 Perform a mapping mission over the target area.
+100 3 236252 236303 Ascend back to the original altitude.
+101 0 236304 236355 Descend to above the target area.
+101 1 236356 236373 Adjust heading.
+101 2 236374 238380 Perform a mapping mission over the target area.
+101 3 238381 238431 Ascend back to the original altitude.
+102 0 238432 238484 Descend to above the target area.
+102 1 238485 238495 Adjust heading.
+102 2 238496 240667 Perform a mapping mission over the target area.
+102 3 240668 240719 Ascend back to the original altitude.
+103 0 240720 240763 Descend to above the target area.
+103 1 240764 240794 Adjust heading.
+103 2 240795 242837 Perform a mapping mission over the target area.
+103 3 242838 242880 Ascend back to the original altitude.
+104 0 242881 242937 Descend to above the target area.
+104 1 242938 242944 Adjust heading.
+104 2 242945 245145 Perform a mapping mission over the target area.
+104 3 245146 245201 Ascend back to the original altitude.
+105 0 245202 245260 Descend to above the target area.
+105 1 245261 245277 Adjust heading.
+105 2 245278 247320 Perform a mapping mission over the target area.
+105 3 247321 247378 Ascend back to the original altitude.
+106 0 247379 247426 Descend to above the target area.
+106 1 247427 247433 Adjust heading.
+106 2 247434 249634 Perform a mapping mission over the target area.
+106 3 249635 249681 Ascend back to the original altitude.
+107 0 249682 249741 Descend to above the target area.
+107 1 249742 249746 Adjust heading.
+107 2 249747 251789 Perform a mapping mission over the target area.
+107 3 251790 251848 Ascend back to the original altitude.
+108 0 251849 251901 Descend to above the target area.
+108 1 251902 251906 Adjust heading.
+108 2 251907 253913 Perform a mapping mission over the target area.
+108 3 253914 253965 Ascend back to the original altitude.
+109 0 253966 254016 Descend to above the target area.
+109 1 254017 254023 Adjust heading.
+109 2 254024 256224 Perform a mapping mission over the target area.
+109 3 256225 256274 Ascend back to the original altitude.
+110 0 256275 256335 Descend to above the target area.
+110 1 256336 256363 Adjust heading.
+110 2 256364 258406 Perform a mapping mission over the target area.
+110 3 258407 258466 Ascend back to the original altitude.
+111 0 258467 258520 Descend to above the target area.
+111 1 258521 258530 Adjust heading.
+111 2 258531 260731 Perform a mapping mission over the target area.
+111 3 260732 260784 Ascend back to the original altitude.
+112 0 260785 260826 Descend to above the target area.
+112 1 260827 260830 Adjust heading.
+112 2 260831 262873 Perform a mapping mission over the target area.
+112 3 262874 262914 Ascend back to the original altitude.
+113 0 262915 262961 Descend to above the target area.
+113 1 262962 262983 Adjust heading.
+113 2 262984 265155 Perform a mapping mission over the target area.
+113 3 265156 265201 Ascend back to the original altitude.
+114 0 265202 265261 Descend to above the target area.
+114 1 265262 265278 Adjust heading.
+114 2 265279 267285 Perform a mapping mission over the target area.
+114 3 267286 267344 Ascend back to the original altitude.
+115 0 267345 267405 Descend to above the target area.
+115 1 267406 267430 Adjust heading.
+115 2 267431 269473 Perform a mapping mission over the target area.
+115 3 269474 269533 Ascend back to the original altitude.
+116 0 269534 269577 Descend to above the target area.
+116 1 269578 269596 Adjust heading.
+116 2 269597 271797 Perform a mapping mission over the target area.
+116 3 271798 271840 Ascend back to the original altitude.
+117 0 271841 271895 Descend to above the target area.
+117 1 271896 271907 Adjust heading.
+117 2 271908 274108 Perform a mapping mission over the target area.
+117 3 274109 274162 Ascend back to the original altitude.
+118 0 274163 274208 Descend to above the target area.
+118 1 274209 274234 Adjust heading.
+118 2 274235 276406 Perform a mapping mission over the target area.
+118 3 276407 276451 Ascend back to the original altitude.
+119 0 276452 276496 Descend to above the target area.
+119 1 276497 276506 Adjust heading.
+119 2 276507 278707 Perform a mapping mission over the target area.
+119 3 278708 278751 Ascend back to the original altitude.
+120 0 278752 278793 Descend to above the target field.
+120 1 278794 278808 Adjust heading.
+120 2 278809 280521 Perform a mapping mission over the target field.
+120 3 280522 280562 Ascend back to the original altitude.
+121 0 280563 280620 Descend to above the target field.
+121 1 280621 280622 Adjust heading.
+121 2 280623 282335 Perform a mapping mission over the target field.
+121 3 282336 282392 Ascend back to the original altitude.
+122 0 282393 282450 Descend to above the target field.
+122 1 282451 282456 Adjust heading.
+122 2 282457 283827 Perform a mapping mission over the target field.
+122 3 283828 283884 Ascend back to the original altitude.
+123 0 283885 283939 Descend to above the target field.
+123 1 283940 283943 Adjust heading.
+123 2 283944 285728 Perform a mapping mission over the target field.
+123 3 285729 285782 Ascend back to the original altitude.
+124 0 285783 285826 Descend to above the target field.
+124 1 285827 285827 Adjust heading.
+124 2 285828 287250 Perform a mapping mission over the target field.
+124 3 287251 287293 Ascend back to the original altitude.
+125 0 287294 287347 Descend to above the target field.
+125 1 287348 287377 Adjust heading.
+125 2 287378 289090 Perform a mapping mission over the target field.
+125 3 289091 289143 Ascend back to the original altitude.
+126 0 289144 289188 Descend to above the target field.
+126 1 289189 289223 Adjust heading.
+126 2 289224 291008 Perform a mapping mission over the target field.
+126 3 291009 291052 Ascend back to the original altitude.
+127 0 291053 291113 Descend to above the target field.
+127 1 291114 291124 Adjust heading.
+127 2 291125 292837 Perform a mapping mission over the target field.
+127 3 292838 292897 Ascend back to the original altitude.
+128 0 292898 292939 Descend to above the target field.
+128 1 292940 292965 Adjust heading.
+128 2 292966 294388 Perform a mapping mission over the target field.
+128 3 294389 294429 Ascend back to the original altitude.
+129 0 294430 294474 Descend to above the target field.
+129 1 294475 294497 Adjust heading.
+129 2 294498 296210 Perform a mapping mission over the target field.
+129 3 296211 296254 Ascend back to the original altitude.
+130 0 296255 296305 Descend to above the target field.
+130 1 296306 296323 Adjust heading.
+130 2 296324 297746 Perform a mapping mission over the target field.
+130 3 297747 297796 Ascend back to the original altitude.
+131 0 297797 297849 Descend to above the target field.
+131 1 297850 297875 Adjust heading.
+131 2 297876 299588 Perform a mapping mission over the target field.
+131 3 299589 299640 Ascend back to the original altitude.
+132 0 299641 299693 Descend to above the target field.
+132 1 299694 299723 Adjust heading.
+132 2 299724 301436 Perform a mapping mission over the target field.
+132 3 301437 301488 Ascend back to the original altitude.
+133 0 301489 301548 Descend to above the target field.
+133 1 301549 301575 Adjust heading.
+133 2 301576 303360 Perform a mapping mission over the target field.
+133 3 303361 303419 Ascend back to the original altitude.
+134 0 303420 303470 Descend to above the target field.
+134 1 303471 303480 Adjust heading.
+134 2 303481 305193 Perform a mapping mission over the target field.
+134 3 305194 305243 Ascend back to the original altitude.
+135 0 305244 305290 Descend to above the target field.
+135 1 305291 305310 Adjust heading.
+135 2 305311 306681 Perform a mapping mission over the target field.
+135 3 306682 306727 Ascend back to the original altitude.
+136 0 306728 306781 Descend to above the target field.
+136 1 306782 306806 Adjust heading.
+136 2 306807 308519 Perform a mapping mission over the target field.
+136 3 308520 308572 Ascend back to the original altitude.
+137 0 308573 308618 Descend to above the target field.
+137 1 308619 308622 Adjust heading.
+137 2 308623 310045 Perform a mapping mission over the target field.
+137 3 310046 310090 Ascend back to the original altitude.
+138 0 310091 310140 Descend to above the target field.
+138 1 310141 310161 Adjust heading.
+138 2 310162 311874 Perform a mapping mission over the target field.
+138 3 311875 311923 Ascend back to the original altitude.
+139 0 311924 311976 Descend to above the target field.
+139 1 311977 311979 Adjust heading.
+139 2 311980 313402 Perform a mapping mission over the target field.
+139 3 313403 313454 Ascend back to the original altitude.
+140 0 313455 313509 Descend to above the target field.
+140 1 313510 313512 Adjust heading.
+140 2 313513 315297 Perform a mapping mission over the target field.
+140 3 315298 315351 Ascend back to the original altitude.
+141 0 315352 315403 Descend to above the target field.
+141 1 315404 315427 Adjust heading.
+141 2 315428 317140 Perform a mapping mission over the target field.
+141 3 317141 317191 Ascend back to the original altitude.
+142 0 317192 317243 Descend to above the target field.
+142 1 317244 317276 Adjust heading.
+142 2 317277 319061 Perform a mapping mission over the target field.
+142 3 319062 319112 Ascend back to the original altitude.
+143 0 319113 319172 Descend to above the target field.
+143 1 319173 319188 Adjust heading.
+143 2 319189 320901 Perform a mapping mission over the target field.
+143 3 320902 320960 Ascend back to the original altitude.
+144 0 320961 321008 Descend to above the target field.
+144 1 321009 321021 Adjust heading.
+144 2 321022 322392 Perform a mapping mission over the target field.
+144 3 322393 322439 Ascend back to the original altitude.
+145 0 322440 322483 Descend to above the target field.
+145 1 322484 322515 Adjust heading.
+145 2 322516 323938 Perform a mapping mission over the target field.
+145 3 323939 323981 Ascend back to the original altitude.
+146 0 323982 324028 Descend to above the target field.
+146 1 324029 324032 Adjust heading.
+146 2 324033 325817 Perform a mapping mission over the target field.
+146 3 325818 325863 Ascend back to the original altitude.
+147 0 325864 325911 Descend to above the target field.
+147 1 325912 325926 Adjust heading.
+147 2 325927 327349 Perform a mapping mission over the target field.
+147 3 327350 327396 Ascend back to the original altitude.
+148 0 327397 327455 Descend to above the target field.
+148 1 327456 327465 Adjust heading.
+148 2 327466 328888 Perform a mapping mission over the target field.
+148 3 328889 328946 Ascend back to the original altitude.
+149 0 328947 329000 Descend to above the target field.
+149 1 329001 329007 Adjust heading.
+149 2 329008 330378 Perform a mapping mission over the target field.
+149 3 330379 330431 Ascend back to the original altitude.
+150 0 330432 330492 Descend to above the target field.
+150 1 330493 330493 Adjust heading.
+150 2 330494 331332 Perform a mapping mission over the target field.
+150 3 331333 331392 Ascend back to the original altitude.
+151 0 331393 331447 Descend to above the target field.
+151 1 331448 331460 Adjust heading.
+151 2 331461 332226 Perform a mapping mission over the target field.
+151 3 332227 332280 Ascend back to the original altitude.
+152 0 332281 332322 Descend to above the target field.
+152 1 332323 332354 Adjust heading.
+152 2 332355 333193 Perform a mapping mission over the target field.
+152 3 333194 333234 Ascend back to the original altitude.
+153 0 333235 333279 Descend to above the target field.
+153 1 333280 333286 Adjust heading.
+153 2 333287 334194 Perform a mapping mission over the target field.
+153 3 334195 334238 Ascend back to the original altitude.
+154 0 334239 334291 Descend to above the target field.
+154 1 334292 334321 Adjust heading.
+154 2 334322 335229 Perform a mapping mission over the target field.
+154 3 335230 335281 Ascend back to the original altitude.
+155 0 335282 335325 Descend to above the target field.
+155 1 335326 335338 Adjust heading.
+155 2 335339 336246 Perform a mapping mission over the target field.
+155 3 336247 336289 Ascend back to the original altitude.
+156 0 336290 336346 Descend to above the target field.
+156 1 336347 336351 Adjust heading.
+156 2 336352 337117 Perform a mapping mission over the target field.
+156 3 337118 337173 Ascend back to the original altitude.
+157 0 337174 337218 Descend to above the target field.
+157 1 337219 337242 Adjust heading.
+157 2 337243 338008 Perform a mapping mission over the target field.
+157 3 338009 338052 Ascend back to the original altitude.
+158 0 338053 338098 Descend to above the target field.
+158 1 338099 338099 Adjust heading.
+158 2 338100 339007 Perform a mapping mission over the target field.
+158 3 339008 339052 Ascend back to the original altitude.
+159 0 339053 339105 Descend to above the target field.
+159 1 339106 339106 Adjust heading.
+159 2 339107 339872 Perform a mapping mission over the target field.
+159 3 339873 339924 Ascend back to the original altitude.
+160 0 339925 339982 Descend to above the target field.
+160 1 339983 339990 Adjust heading.
+160 2 339991 340756 Perform a mapping mission over the target field.
+160 3 340757 340813 Ascend back to the original altitude.
+161 0 340814 340868 Descend to above the target field.
+161 1 340869 340903 Adjust heading.
+161 2 340904 341811 Perform a mapping mission over the target field.
+161 3 341812 341865 Ascend back to the original altitude.
+162 0 341866 341917 Descend to above the target field.
+162 1 341918 341947 Adjust heading.
+162 2 341948 342786 Perform a mapping mission over the target field.
+162 3 342787 342837 Ascend back to the original altitude.
+163 0 342838 342888 Descend to above the target field.
+163 1 342889 342923 Adjust heading.
+163 2 342924 343831 Perform a mapping mission over the target field.
+163 3 343832 343881 Ascend back to the original altitude.
+164 0 343882 343941 Descend to above the target field.
+164 1 343942 343971 Adjust heading.
+164 2 343972 344867 Perform a mapping mission over the target field.
+164 3 344868 344926 Ascend back to the original altitude.
+165 0 344927 344974 Descend to above the target field.
+165 1 344975 344993 Adjust heading.
+165 2 344994 345832 Perform a mapping mission over the target field.
+165 3 345833 345879 Ascend back to the original altitude.
+166 0 345880 345928 Descend to above the target field.
+166 1 345929 345952 Adjust heading.
+166 2 345953 346860 Perform a mapping mission over the target field.
+166 3 346861 346908 Ascend back to the original altitude.
+167 0 346909 346953 Descend to above the target field.
+167 1 346954 346958 Adjust heading.
+167 2 346959 347866 Perform a mapping mission over the target field.
+167 3 347867 347910 Ascend back to the original altitude.
+168 0 347911 347970 Descend to above the target field.
+168 1 347971 347974 Adjust heading.
+168 2 347975 348740 Perform a mapping mission over the target field.
+168 3 348741 348799 Ascend back to the original altitude.
+169 0 348800 348852 Descend to above the target field.
+169 1 348853 348887 Adjust heading.
+169 2 348888 349653 Perform a mapping mission over the target field.
+169 3 349654 349705 Ascend back to the original altitude.
+170 0 349706 349759 Descend to above the target field.
+170 1 349760 349792 Adjust heading.
+170 2 349793 350558 Perform a mapping mission over the target field.
+170 3 350559 350611 Ascend back to the original altitude.
+171 0 350612 350662 Descend to above the target field.
+171 1 350663 350697 Adjust heading.
+171 2 350698 351605 Perform a mapping mission over the target field.
+171 3 351606 351655 Ascend back to the original altitude.
+172 0 351656 351716 Descend to above the target field.
+172 1 351717 351750 Adjust heading.
+172 2 351751 352658 Perform a mapping mission over the target field.
+172 3 352659 352718 Ascend back to the original altitude.
+173 0 352719 352762 Descend to above the target field.
+173 1 352763 352764 Adjust heading.
+173 2 352765 353603 Perform a mapping mission over the target field.
+173 3 353604 353646 Ascend back to the original altitude.
+174 0 353647 353701 Descend to above the target field.
+174 1 353702 353715 Adjust heading.
+174 2 353716 354554 Perform a mapping mission over the target field.
+174 3 354555 354608 Ascend back to the original altitude.
+175 0 354609 354655 Descend to above the target field.
+175 1 354656 354657 Adjust heading.
+175 2 354658 355496 Perform a mapping mission over the target field.
+175 3 355497 355542 Ascend back to the original altitude.
+176 0 355543 355586 Descend to above the target field.
+176 1 355587 355602 Adjust heading.
+176 2 355603 356510 Perform a mapping mission over the target field.
+176 3 356511 356553 Ascend back to the original altitude.
+177 0 356554 356604 Descend to above the target field.
+177 1 356605 356624 Adjust heading.
+177 2 356625 357532 Perform a mapping mission over the target field.
+177 3 357533 357582 Ascend back to the original altitude.
+178 0 357583 357632 Descend to above the target field.
+178 1 357633 357652 Adjust heading.
+178 2 357653 358418 Perform a mapping mission over the target field.
+178 3 358419 358467 Ascend back to the original altitude.
+179 0 358468 358520 Descend to above the target field.
+179 1 358521 358535 Adjust heading.
+179 2 358536 359431 Perform a mapping mission over the target field.
+179 3 359432 359483 Ascend back to the original altitude.
+180 0 359484 359525 Descend to above the target field.
+180 1 359526 359534 Adjust heading.
+180 2 359535 360301 Perform a mapping mission over the target field.
+180 3 360302 360342 Ascend back to the original altitude.
+181 0 360343 360386 Descend to above the target field.
+181 1 360387 360397 Adjust heading.
+181 2 360398 361164 Perform a mapping mission over the target field.
+181 3 361165 361207 Ascend back to the original altitude.
+182 0 361208 361266 Descend to above the target field.
+182 1 361267 361267 Adjust heading.
+182 2 361268 362240 Perform a mapping mission over the target field.
+182 3 362241 362298 Ascend back to the original altitude.
+183 0 362299 362340 Descend to above the target field.
+183 1 362341 362341 Adjust heading.
+183 2 362342 363246 Perform a mapping mission over the target field.
+183 3 363247 363287 Ascend back to the original altitude.
+184 0 363288 363329 Descend to above the target field.
+184 1 363330 363330 Adjust heading.
+184 2 363331 364097 Perform a mapping mission over the target field.
+184 3 364098 364138 Ascend back to the original altitude.
+185 0 364139 364180 Descend to above the target field.
+185 1 364181 364190 Adjust heading.
+185 2 364191 365095 Perform a mapping mission over the target field.
+185 3 365096 365136 Ascend back to the original altitude.
+186 0 365137 365182 Descend to above the target field.
+186 1 365183 365188 Adjust heading.
+186 2 365189 366161 Perform a mapping mission over the target field.
+186 3 366162 366206 Ascend back to the original altitude.
+187 0 366207 366265 Descend to above the target field.
+187 1 366266 366280 Adjust heading.
+187 2 366281 367047 Perform a mapping mission over the target field.
+187 3 367048 367105 Ascend back to the original altitude.
+188 0 367106 367152 Descend to above the target field.
+188 1 367153 367179 Adjust heading.
+188 2 367180 367946 Perform a mapping mission over the target field.
+188 3 367947 367992 Ascend back to the original altitude.
+189 0 367993 368035 Descend to above the target field.
+189 1 368036 368047 Adjust heading.
+189 2 368048 368814 Perform a mapping mission over the target field.
+189 3 368815 368856 Ascend back to the original altitude.
+190 0 368857 368917 Descend to above the target field.
+190 1 368918 368932 Adjust heading.
+190 2 368933 369699 Perform a mapping mission over the target field.
+190 3 369700 369759 Ascend back to the original altitude.
+191 0 369760 369803 Descend to above the target field.
+191 1 369804 369807 Adjust heading.
+191 2 369808 370574 Perform a mapping mission over the target field.
+191 3 370575 370617 Ascend back to the original altitude.
+192 0 370618 370670 Descend to above the target field.
+192 1 370671 370696 Adjust heading.
+192 2 370697 371669 Perform a mapping mission over the target field.
+192 3 371670 371721 Ascend back to the original altitude.
+193 0 371722 371772 Descend to above the target field.
+193 1 371773 371781 Adjust heading.
+193 2 371782 372686 Perform a mapping mission over the target field.
+193 3 372687 372736 Ascend back to the original altitude.
+194 0 372737 372782 Descend to above the target field.
+194 1 372783 372783 Adjust heading.
+194 2 372784 373618 Perform a mapping mission over the target field.
+194 3 373619 373663 Ascend back to the original altitude.
+195 0 373664 373717 Descend to above the target field.
+195 1 373718 373741 Adjust heading.
+195 2 373742 374576 Perform a mapping mission over the target field.
+195 3 374577 374629 Ascend back to the original altitude.
+196 0 374630 374686 Descend to above the target field.
+196 1 374687 374706 Adjust heading.
+196 2 374707 375611 Perform a mapping mission over the target field.
+196 3 375612 375667 Ascend back to the original altitude.
+197 0 375668 375726 Descend to above the target field.
+197 1 375727 375745 Adjust heading.
+197 2 375746 376512 Perform a mapping mission over the target field.
+197 3 376513 376570 Ascend back to the original altitude.
+198 0 376571 376622 Descend to above the target field.
+198 1 376623 376656 Adjust heading.
+198 2 376657 377561 Perform a mapping mission over the target field.
+198 3 377562 377612 Ascend back to the original altitude.
+199 0 377613 377667 Descend to above the target field.
+199 1 377668 377669 Adjust heading.
+199 2 377670 378574 Perform a mapping mission over the target field.
+199 3 378575 378628 Ascend back to the original altitude.
+200 0 378629 378673 Descend to above the target field.
+200 1 378674 378682 Adjust heading.
+200 2 378683 379517 Perform a mapping mission over the target field.
+200 3 379518 379561 Ascend back to the original altitude.
+201 0 379562 379614 Descend to above the target field.
+201 1 379615 379629 Adjust heading.
+201 2 379630 380464 Perform a mapping mission over the target field.
+201 3 380465 380516 Ascend back to the original altitude.
+202 0 380517 380567 Descend to above the target field.
+202 1 380568 380583 Adjust heading.
+202 2 380584 381556 Perform a mapping mission over the target field.
+202 3 381557 381606 Ascend back to the original altitude.
+203 0 381607 381664 Descend to above the target field.
+203 1 381665 381674 Adjust heading.
+203 2 381675 382647 Perform a mapping mission over the target field.
+203 3 382648 382704 Ascend back to the original altitude.
+204 0 382705 382757 Descend to above the target field.
+204 1 382758 382786 Adjust heading.
+204 2 382787 383553 Perform a mapping mission over the target field.
+204 3 383554 383605 Ascend back to the original altitude.
+205 0 383606 383666 Descend to above the target field.
+205 1 383667 383684 Adjust heading.
+205 2 383685 384589 Perform a mapping mission over the target field.
+205 3 384590 384649 Ascend back to the original altitude.
+206 0 384650 384710 Descend to above the target field.
+206 1 384711 384716 Adjust heading.
+206 2 384717 385551 Perform a mapping mission over the target field.
+206 3 385552 385611 Ascend back to the original altitude.
+207 0 385612 385657 Descend to above the target field.
+207 1 385658 385661 Adjust heading.
+207 2 385662 386496 Perform a mapping mission over the target field.
+207 3 386497 386541 Ascend back to the original altitude.
+208 0 386542 386589 Descend to above the target field.
+208 1 386590 386591 Adjust heading.
+208 2 386592 387426 Perform a mapping mission over the target field.
+208 3 387427 387473 Ascend back to the original altitude.
+209 0 387474 387522 Descend to above the target field.
+209 1 387523 387554 Adjust heading.
+209 2 387555 388321 Perform a mapping mission over the target field.
+209 3 388322 388369 Ascend back to the original altitude.
+210 0 388370 388417 Descend to above the target field.
+210 1 388418 388444 Adjust heading.
+210 2 388445 389403 Perform a mapping mission over the target field.
+210 3 389404 389450 Ascend back to the original altitude.
+211 0 389451 389492 Descend to above the target field.
+211 1 389493 389521 Adjust heading.
+211 2 389522 390487 Perform a mapping mission over the target field.
+211 3 390488 390528 Ascend back to the original altitude.
+212 0 390529 390580 Descend to above the target field.
+212 1 390581 390614 Adjust heading.
+212 2 390615 391573 Perform a mapping mission over the target field.
+212 3 391574 391624 Ascend back to the original altitude.
+213 0 391625 391674 Descend to above the target field.
+213 1 391675 391693 Adjust heading.
+213 2 391694 392659 Perform a mapping mission over the target field.
+213 3 392660 392708 Ascend back to the original altitude.
+214 0 392709 392756 Descend to above the target field.
+214 1 392757 392757 Adjust heading.
+214 2 392758 393928 Perform a mapping mission over the target field.
+214 3 393929 393975 Ascend back to the original altitude.
+215 0 393976 394030 Descend to above the target field.
+215 1 394031 394045 Adjust heading.
+215 2 394046 395004 Perform a mapping mission over the target field.
+215 3 395005 395058 Ascend back to the original altitude.
+216 0 395059 395100 Descend to above the target field.
+216 1 395101 395103 Adjust heading.
+216 2 395104 396069 Perform a mapping mission over the target field.
+216 3 396070 396110 Ascend back to the original altitude.
+217 0 396111 396155 Descend to above the target field.
+217 1 396156 396170 Adjust heading.
+217 2 396171 397256 Perform a mapping mission over the target field.
+217 3 397257 397300 Ascend back to the original altitude.
+218 0 397301 397342 Descend to above the target field.
+218 1 397343 397365 Adjust heading.
+218 2 397366 398331 Perform a mapping mission over the target field.
+218 3 398332 398372 Ascend back to the original altitude.
+219 0 398373 398416 Descend to above the target field.
+219 1 398417 398444 Adjust heading.
+219 2 398445 399403 Perform a mapping mission over the target field.
+219 3 399404 399446 Ascend back to the original altitude.
+220 0 399447 399499 Descend to above the target field.
+220 1 399500 399523 Adjust heading.
+220 2 399524 400489 Perform a mapping mission over the target field.
+220 3 400490 400541 Ascend back to the original altitude.
+221 0 400542 400600 Descend to above the target field.
+221 1 400601 400607 Adjust heading.
+221 2 400608 401573 Perform a mapping mission over the target field.
+221 3 401574 401631 Ascend back to the original altitude.
+222 0 401632 401690 Descend to above the target field.
+222 1 401691 401725 Adjust heading.
+222 2 401726 402811 Perform a mapping mission over the target field.
+222 3 402812 402869 Ascend back to the original altitude.
+223 0 402870 402920 Descend to above the target field.
+223 1 402921 402931 Adjust heading.
+223 2 402932 404102 Perform a mapping mission over the target field.
+223 3 404103 404152 Ascend back to the original altitude.
+224 0 404153 404210 Descend to above the target field.
+224 1 404211 404231 Adjust heading.
+224 2 404232 405190 Perform a mapping mission over the target field.
+224 3 405191 405247 Ascend back to the original altitude.
+225 0 405248 405301 Descend to above the target field.
+225 1 405302 405304 Adjust heading.
+225 2 405305 406475 Perform a mapping mission over the target field.
+225 3 406476 406528 Ascend back to the original altitude.
+226 0 406529 406571 Descend to above the target field.
+226 1 406572 406590 Adjust heading.
+226 2 406591 407761 Perform a mapping mission over the target field.
+226 3 407762 407803 Ascend back to the original altitude.
+227 0 407804 407845 Descend to above the target field.
+227 1 407846 407855 Adjust heading.
+227 2 407856 408814 Perform a mapping mission over the target field.
+227 3 408815 408855 Ascend back to the original altitude.
+228 0 408856 408911 Descend to above the target field.
+228 1 408912 408914 Adjust heading.
+228 2 408915 410000 Perform a mapping mission over the target field.
+228 3 410001 410055 Ascend back to the original altitude.
+229 0 410056 410108 Descend to above the target field.
+229 1 410109 410133 Adjust heading.
+229 2 410134 411304 Perform a mapping mission over the target field.
+229 3 411305 411356 Ascend back to the original altitude.
+230 0 411357 411401 Descend to above the target field.
+230 1 411402 411419 Adjust heading.
+230 2 411420 412590 Perform a mapping mission over the target field.
+230 3 412591 412634 Ascend back to the original altitude.
+231 0 412635 412676 Descend to above the target field.
+231 1 412677 412694 Adjust heading.
+231 2 412695 413865 Perform a mapping mission over the target field.
+231 3 413866 413906 Ascend back to the original altitude.
+232 0 413907 413950 Descend to above the target field.
+232 1 413951 413976 Adjust heading.
+232 2 413977 415062 Perform a mapping mission over the target field.
+232 3 415063 415105 Ascend back to the original altitude.
+233 0 415106 415157 Descend to above the target field.
+233 1 415158 415167 Adjust heading.
+233 2 415168 416338 Perform a mapping mission over the target field.
+233 3 416339 416389 Ascend back to the original altitude.
+234 0 416390 416442 Descend to above the target field.
+234 1 416443 416475 Adjust heading.
+234 2 416476 417561 Perform a mapping mission over the target field.
+234 3 417562 417613 Ascend back to the original altitude.
+235 0 417614 417671 Descend to above the target field.
+235 1 417672 417689 Adjust heading.
+235 2 417690 418775 Perform a mapping mission over the target field.
+235 3 418776 418832 Ascend back to the original altitude.
+236 0 418833 418891 Descend to above the target field.
+236 1 418892 418908 Adjust heading.
+236 2 418909 419867 Perform a mapping mission over the target field.
+236 3 419868 419925 Ascend back to the original altitude.
+237 0 419926 419978 Descend to above the target field.
+237 1 419979 419987 Adjust heading.
+237 2 419988 421158 Perform a mapping mission over the target field.
+237 3 421159 421210 Ascend back to the original altitude.
+238 0 421211 421263 Descend to above the target field.
+238 1 421264 421298 Adjust heading.
+238 2 421299 422384 Perform a mapping mission over the target field.
+238 3 422385 422436 Ascend back to the original altitude.
+239 0 422437 422486 Descend to above the target field.
+239 1 422487 422503 Adjust heading.
+239 2 422504 423589 Perform a mapping mission over the target field.
+239 3 423590 423638 Ascend back to the original altitude.
+240 0 423639 423690 Descend to above the target field.
+240 1 423691 423717 Adjust heading.
+240 2 423718 424637 Perform a mapping mission over the target field.
+240 3 424638 424688 Ascend back to the original altitude.
+241 0 424689 424747 Descend to above the target field.
+241 1 424748 424756 Adjust heading.
+241 2 424757 425629 Perform a mapping mission over the target field.
+241 3 425630 425687 Ascend back to the original altitude.
+242 0 425688 425748 Descend to above the target field.
+242 1 425749 425772 Adjust heading.
+242 2 425773 426645 Perform a mapping mission over the target field.
+242 3 426646 426705 Ascend back to the original altitude.
+243 0 426706 426764 Descend to above the target field.
+243 1 426765 426792 Adjust heading.
+243 2 426793 427665 Perform a mapping mission over the target field.
+243 3 427666 427723 Ascend back to the original altitude.
+244 0 427724 427779 Descend to above the target field.
+244 1 427780 427789 Adjust heading.
+244 2 427790 428709 Perform a mapping mission over the target field.
+244 3 428710 428764 Ascend back to the original altitude.
+245 0 428765 428816 Descend to above the target field.
+245 1 428817 428831 Adjust heading.
+245 2 428832 429704 Perform a mapping mission over the target field.
+245 3 429705 429755 Ascend back to the original altitude.
+246 0 429756 429808 Descend to above the target field.
+246 1 429809 429831 Adjust heading.
+246 2 429832 430840 Perform a mapping mission over the target field.
+246 3 430841 430892 Ascend back to the original altitude.
+247 0 430893 430951 Descend to above the target field.
+247 1 430952 430952 Adjust heading.
+247 2 430953 431961 Perform a mapping mission over the target field.
+247 3 431962 432019 Ascend back to the original altitude.
+248 0 432020 432075 Descend to above the target field.
+248 1 432076 432076 Adjust heading.
+248 2 432077 432996 Perform a mapping mission over the target field.
+248 3 432997 433051 Ascend back to the original altitude.
+249 0 433052 433100 Descend to above the target field.
+249 1 433101 433132 Adjust heading.
+249 2 433133 434141 Perform a mapping mission over the target field.
+249 3 434142 434189 Ascend back to the original altitude.
+250 0 434190 434237 Descend to above the target field.
+250 1 434238 434248 Adjust heading.
+250 2 434249 435257 Perform a mapping mission over the target field.
+250 3 435258 435304 Ascend back to the original altitude.
+251 0 435305 435354 Descend to above the target field.
+251 1 435355 435366 Adjust heading.
+251 2 435367 436394 Perform a mapping mission over the target field.
+251 3 436395 436443 Ascend back to the original altitude.
+252 0 436444 436488 Descend to above the target field.
+252 1 436489 436516 Adjust heading.
+252 2 436517 437525 Perform a mapping mission over the target field.
+252 3 437526 437569 Ascend back to the original altitude.
+253 0 437570 437613 Descend to above the target field.
+253 1 437614 437623 Adjust heading.
+253 2 437624 438543 Perform a mapping mission over the target field.
+253 3 438544 438586 Ascend back to the original altitude.
+254 0 438587 438647 Descend to above the target field.
+254 1 438648 438667 Adjust heading.
+254 2 438668 439540 Perform a mapping mission over the target field.
+254 3 439541 439600 Ascend back to the original altitude.
+255 0 439601 439657 Descend to above the target field.
+255 1 439658 439667 Adjust heading.
+255 2 439668 440587 Perform a mapping mission over the target field.
+255 3 440588 440643 Ascend back to the original altitude.
+256 0 440644 440688 Descend to above the target field.
+256 1 440689 440723 Adjust heading.
+256 2 440724 441643 Perform a mapping mission over the target field.
+256 3 441644 441687 Ascend back to the original altitude.
+257 0 441688 441734 Descend to above the target field.
+257 1 441735 441735 Adjust heading.
+257 2 441736 442655 Perform a mapping mission over the target field.
+257 3 442656 442701 Ascend back to the original altitude.
+258 0 442702 442756 Descend to above the target field.
+258 1 442757 442790 Adjust heading.
+258 2 442791 443710 Perform a mapping mission over the target field.
+258 3 443711 443764 Ascend back to the original altitude.
+259 0 443765 443811 Descend to above the target field.
+259 1 443812 443827 Adjust heading.
+259 2 443828 444700 Perform a mapping mission over the target field.
+259 3 444701 444746 Ascend back to the original altitude.
+260 0 444747 444806 Descend to above the target field.
+260 1 444807 444839 Adjust heading.
+260 2 444840 445712 Perform a mapping mission over the target field.
+260 3 445713 445771 Ascend back to the original altitude.
+261 0 445772 445832 Descend to above the target field.
+261 1 445833 445853 Adjust heading.
+261 2 445854 446862 Perform a mapping mission over the target field.
+261 3 446863 446922 Ascend back to the original altitude.
+262 0 446923 446975 Descend to above the target field.
+262 1 446976 446987 Adjust heading.
+262 2 446988 447996 Perform a mapping mission over the target field.
+262 3 447997 448048 Ascend back to the original altitude.
+263 0 448049 448102 Descend to above the target field.
+263 1 448103 448118 Adjust heading.
+263 2 448119 449146 Perform a mapping mission over the target field.
+263 3 449147 449199 Ascend back to the original altitude.
+264 0 449200 449244 Descend to above the target field.
+264 1 449245 449256 Adjust heading.
+264 2 449257 450176 Perform a mapping mission over the target field.
+264 3 450177 450220 Ascend back to the original altitude.
+265 0 450221 450276 Descend to above the target field.
+265 1 450277 450277 Adjust heading.
+265 2 450278 451286 Perform a mapping mission over the target field.
+265 3 451287 451341 Ascend back to the original altitude.
+266 0 451342 451398 Descend to above the target field.
+266 1 451399 451433 Adjust heading.
+266 2 451434 452461 Perform a mapping mission over the target field.
+266 3 452462 452517 Ascend back to the original altitude.
+267 0 452518 452577 Descend to above the target field.
+267 1 452578 452584 Adjust heading.
+267 2 452585 453504 Perform a mapping mission over the target field.
+267 3 453505 453563 Ascend back to the original altitude.
+268 0 453564 453610 Descend to above the target field.
+268 1 453611 453615 Adjust heading.
+268 2 453616 454643 Perform a mapping mission over the target field.
+268 3 454644 454689 Ascend back to the original altitude.
+269 0 454690 454739 Descend to above the target field.
+269 1 454740 454744 Adjust heading.
+269 2 454745 455617 Perform a mapping mission over the target field.
+269 3 455618 455666 Ascend back to the original altitude.
+270 0 455667 455725 Descend to above the target field.
+270 1 455726 455732 Adjust heading.
+270 2 455733 456693 Perform a mapping mission over the target field.
+270 3 456694 456751 Ascend back to the original altitude.
+271 0 456752 456803 Descend to above the target field.
+271 1 456804 456819 Adjust heading.
+271 2 456820 457662 Perform a mapping mission over the target field.
+271 3 457663 457713 Ascend back to the original altitude.
+272 0 457714 457773 Descend to above the target field.
+272 1 457774 457799 Adjust heading.
+272 2 457800 458670 Perform a mapping mission over the target field.
+272 3 458671 458729 Ascend back to the original altitude.
+273 0 458730 458781 Descend to above the target field.
+273 1 458782 458800 Adjust heading.
+273 2 458801 459761 Perform a mapping mission over the target field.
+273 3 459762 459812 Ascend back to the original altitude.
+274 0 459813 459862 Descend to above the target field.
+274 1 459863 459870 Adjust heading.
+274 2 459871 460713 Perform a mapping mission over the target field.
+274 3 460714 460762 Ascend back to the original altitude.
+275 0 460763 460823 Descend to above the target field.
+275 1 460824 460825 Adjust heading.
+275 2 460826 461696 Perform a mapping mission over the target field.
+275 3 461697 461756 Ascend back to the original altitude.
+276 0 461757 461809 Descend to above the target field.
+276 1 461810 461822 Adjust heading.
+276 2 461823 462665 Perform a mapping mission over the target field.
+276 3 462666 462717 Ascend back to the original altitude.
+277 0 462718 462759 Descend to above the target field.
+277 1 462760 462787 Adjust heading.
+277 2 462788 463658 Perform a mapping mission over the target field.
+277 3 463659 463699 Ascend back to the original altitude.
+278 0 463700 463753 Descend to above the target field.
+278 1 463754 463785 Adjust heading.
+278 2 463786 464628 Perform a mapping mission over the target field.
+278 3 464629 464681 Ascend back to the original altitude.
+279 0 464682 464733 Descend to above the target field.
+279 1 464734 464745 Adjust heading.
+279 2 464746 465588 Perform a mapping mission over the target field.
+279 3 465589 465639 Ascend back to the original altitude.
+280 0 465640 465695 Descend to above the target field.
+280 1 465696 465727 Adjust heading.
+280 2 465728 466570 Perform a mapping mission over the target field.
+280 3 466571 466625 Ascend back to the original altitude.
+281 0 466626 466685 Descend to above the target field.
+281 1 466686 466708 Adjust heading.
+281 2 466709 467551 Perform a mapping mission over the target field.
+281 3 467552 467610 Ascend back to the original altitude.
+282 0 467611 467667 Descend to above the target field.
+282 1 467668 467677 Adjust heading.
+282 2 467678 468638 Perform a mapping mission over the target field.
+282 3 468639 468694 Ascend back to the original altitude.
+283 0 468695 468751 Descend to above the target field.
+283 1 468752 468783 Adjust heading.
+283 2 468784 469744 Perform a mapping mission over the target field.
+283 3 469745 469800 Ascend back to the original altitude.
+284 0 469801 469854 Descend to above the target field.
+284 1 469855 469872 Adjust heading.
+284 2 469873 470833 Perform a mapping mission over the target field.
+284 3 470834 470886 Ascend back to the original altitude.
+285 0 470887 470933 Descend to above the target field.
+285 1 470934 470947 Adjust heading.
+285 2 470948 471908 Perform a mapping mission over the target field.
+285 3 471909 471954 Ascend back to the original altitude.
+286 0 471955 471999 Descend to above the target field.
+286 1 472000 472008 Adjust heading.
+286 2 472009 472969 Perform a mapping mission over the target field.
+286 3 472970 473013 Ascend back to the original altitude.
+287 0 473014 473073 Descend to above the target field.
+287 1 473074 473087 Adjust heading.
+287 2 473088 473958 Perform a mapping mission over the target field.
+287 3 473959 474017 Ascend back to the original altitude.
+288 0 474018 474072 Descend to above the target field.
+288 1 474073 474096 Adjust heading.
+288 2 474097 475057 Perform a mapping mission over the target field.
+288 3 475058 475111 Ascend back to the original altitude.
+289 0 475112 475172 Descend to above the target field.
+289 1 475173 475184 Adjust heading.
+289 2 475185 476055 Perform a mapping mission over the target field.
+289 3 476056 476115 Ascend back to the original altitude.
+290 0 476116 476173 Descend to above the target field.
+290 1 476174 476207 Adjust heading.
+290 2 476208 477078 Perform a mapping mission over the target field.
+290 3 477079 477135 Ascend back to the original altitude.
+291 0 477136 477194 Descend to above the target field.
+291 1 477195 477213 Adjust heading.
+291 2 477214 478056 Perform a mapping mission over the target field.
+291 3 478057 478114 Ascend back to the original altitude.
+292 0 478115 478169 Descend to above the target field.
+292 1 478170 478189 Adjust heading.
+292 2 478190 479032 Perform a mapping mission over the target field.
+292 3 479033 479086 Ascend back to the original altitude.
+293 0 479087 479135 Descend to above the target field.
+293 1 479136 479136 Adjust heading.
+293 2 479137 480097 Perform a mapping mission over the target field.
+293 3 480098 480145 Ascend back to the original altitude.
+294 0 480146 480201 Descend to above the target field.
+294 1 480202 480219 Adjust heading.
+294 2 480220 481180 Perform a mapping mission over the target field.
+294 3 481181 481235 Ascend back to the original altitude.
+295 0 481236 481285 Descend to above the target field.
+295 1 481286 481312 Adjust heading.
+295 2 481313 482273 Perform a mapping mission over the target field.
+295 3 482274 482322 Ascend back to the original altitude.
+296 0 482323 482372 Descend to above the target field.
+296 1 482373 482397 Adjust heading.
+296 2 482398 483358 Perform a mapping mission over the target field.
+296 3 483359 483407 Ascend back to the original altitude.
+297 0 483408 483462 Descend to above the target field.
+297 1 483463 483487 Adjust heading.
+297 2 483488 484330 Perform a mapping mission over the target field.
+297 3 484331 484384 Ascend back to the original altitude.
+298 0 484385 484432 Descend to above the target field.
+298 1 484433 484445 Adjust heading.
+298 2 484446 485288 Perform a mapping mission over the target field.
+298 3 485289 485335 Ascend back to the original altitude.
+299 0 485336 485394 Descend to above the target field.
+299 1 485395 485428 Adjust heading.
+299 2 485429 486389 Perform a mapping mission over the target field.
+299 3 486390 486447 Ascend back to the original altitude.
+300 0 486448 486494 Descend to above the target field.
+300 1 486495 486524 Adjust heading.
+300 2 486525 487018 Perform a mapping mission over the target field.
+300 3 487019 487064 Ascend back to the original altitude.
+301 0 487065 487119 Descend to above the target field.
+301 1 487120 487130 Adjust heading.
+301 2 487131 487648 Perform a mapping mission over the target field.
+301 3 487649 487702 Ascend back to the original altitude.
+302 0 487703 487758 Descend to above the target field.
+302 1 487759 487783 Adjust heading.
+302 2 487784 488281 Perform a mapping mission over the target field.
+302 3 488282 488336 Ascend back to the original altitude.
+303 0 488337 488383 Descend to above the target field.
+303 1 488384 488396 Adjust heading.
+303 2 488397 488860 Perform a mapping mission over the target field.
+303 3 488861 488906 Ascend back to the original altitude.
+304 0 488907 488955 Descend to above the target field.
+304 1 488956 488981 Adjust heading.
+304 2 488982 489479 Perform a mapping mission over the target field.
+304 3 489480 489527 Ascend back to the original altitude.
+305 0 489528 489577 Descend to above the target field.
+305 1 489578 489599 Adjust heading.
+305 2 489600 490093 Perform a mapping mission over the target field.
+305 3 490094 490142 Ascend back to the original altitude.
+306 0 490143 490202 Descend to above the target field.
+306 1 490203 490222 Adjust heading.
+306 2 490223 490716 Perform a mapping mission over the target field.
+306 3 490717 490775 Ascend back to the original altitude.
+307 0 490776 490827 Descend to above the target field.
+307 1 490828 490857 Adjust heading.
+307 2 490858 491375 Perform a mapping mission over the target field.
+307 3 491376 491426 Ascend back to the original altitude.
+308 0 491427 491472 Descend to above the target field.
+308 1 491473 491479 Adjust heading.
+308 2 491480 491943 Perform a mapping mission over the target field.
+308 3 491944 491988 Ascend back to the original altitude.
+309 0 491989 492046 Descend to above the target field.
+309 1 492047 492057 Adjust heading.
+309 2 492058 492521 Perform a mapping mission over the target field.
+309 3 492522 492578 Ascend back to the original altitude.
+310 0 492579 492635 Descend to above the target field.
+310 1 492636 492658 Adjust heading.
+310 2 492659 493122 Perform a mapping mission over the target field.
+310 3 493123 493178 Ascend back to the original altitude.
+311 0 493179 493224 Descend to above the target field.
+311 1 493225 493229 Adjust heading.
+311 2 493230 493723 Perform a mapping mission over the target field.
+311 3 493724 493768 Ascend back to the original altitude.
+312 0 493769 493821 Descend to above the target field.
+312 1 493822 493845 Adjust heading.
+312 2 493846 494363 Perform a mapping mission over the target field.
+312 3 494364 494415 Ascend back to the original altitude.
+313 0 494416 494473 Descend to above the target field.
+313 1 494474 494487 Adjust heading.
+313 2 494488 495005 Perform a mapping mission over the target field.
+313 3 495006 495062 Ascend back to the original altitude.
+314 0 495063 495110 Descend to above the target field.
+314 1 495111 495129 Adjust heading.
+314 2 495130 495647 Perform a mapping mission over the target field.
+314 3 495648 495694 Ascend back to the original altitude.
+315 0 495695 495738 Descend to above the target field.
+315 1 495739 495771 Adjust heading.
+315 2 495772 496269 Perform a mapping mission over the target field.
+315 3 496270 496312 Ascend back to the original altitude.
+316 0 496313 496373 Descend to above the target field.
+316 1 496374 496382 Adjust heading.
+316 2 496383 496900 Perform a mapping mission over the target field.
+316 3 496901 496960 Ascend back to the original altitude.
+317 0 496961 497010 Descend to above the target field.
+317 1 497011 497014 Adjust heading.
+317 2 497015 497508 Perform a mapping mission over the target field.
+317 3 497509 497557 Ascend back to the original altitude.
+318 0 497558 497600 Descend to above the target field.
+318 1 497601 497630 Adjust heading.
+318 2 497631 498124 Perform a mapping mission over the target field.
+318 3 498125 498166 Ascend back to the original altitude.
+319 0 498167 498213 Descend to above the target field.
+319 1 498214 498218 Adjust heading.
+319 2 498219 498682 Perform a mapping mission over the target field.
+319 3 498683 498728 Ascend back to the original altitude.
+320 0 498729 498786 Descend to above the target field.
+320 1 498787 498813 Adjust heading.
+320 2 498814 499307 Perform a mapping mission over the target field.
+320 3 499308 499364 Ascend back to the original altitude.
+321 0 499365 499417 Descend to above the target field.
+321 1 499418 499448 Adjust heading.
+321 2 499449 499966 Perform a mapping mission over the target field.
+321 3 499967 500018 Ascend back to the original altitude.
+322 0 500019 500079 Descend to above the target field.
+322 1 500080 500092 Adjust heading.
+322 2 500093 500556 Perform a mapping mission over the target field.
+322 3 500557 500616 Ascend back to the original altitude.
+323 0 500617 500659 Descend to above the target field.
+323 1 500660 500688 Adjust heading.
+323 2 500689 501186 Perform a mapping mission over the target field.
+323 3 501187 501228 Ascend back to the original altitude.
+324 0 501229 501279 Descend to above the target field.
+324 1 501280 501288 Adjust heading.
+324 2 501289 501782 Perform a mapping mission over the target field.
+324 3 501783 501832 Ascend back to the original altitude.
+325 0 501833 501887 Descend to above the target field.
+325 1 501888 501907 Adjust heading.
+325 2 501908 502425 Perform a mapping mission over the target field.
+325 3 502426 502479 Ascend back to the original altitude.
+326 0 502480 502537 Descend to above the target field.
+326 1 502538 502565 Adjust heading.
+326 2 502566 503029 Perform a mapping mission over the target field.
+326 3 503030 503086 Ascend back to the original altitude.
+327 0 503087 503142 Descend to above the target field.
+327 1 503143 503160 Adjust heading.
+327 2 503161 503678 Perform a mapping mission over the target field.
+327 3 503679 503733 Ascend back to the original altitude.
+328 0 503734 503777 Descend to above the target field.
+328 1 503778 503790 Adjust heading.
+328 2 503791 504308 Perform a mapping mission over the target field.
+328 3 504309 504351 Ascend back to the original altitude.
+329 0 504352 504396 Descend to above the target field.
+329 1 504397 504398 Adjust heading.
+329 2 504399 504892 Perform a mapping mission over the target field.
+329 3 504893 504936 Ascend back to the original altitude.
+330 0 504937 504978 Descend to above the target field.
+330 1 504979 504987 Adjust heading.
+330 2 504988 505394 Perform a mapping mission over the target field.
+330 3 505395 505435 Ascend back to the original altitude.
+331 0 505436 505477 Descend to above the target field.
+331 1 505478 505487 Adjust heading.
+331 2 505488 505894 Perform a mapping mission over the target field.
+331 3 505895 505935 Ascend back to the original altitude.
+332 0 505936 505979 Descend to above the target field.
+332 1 505980 506001 Adjust heading.
+332 2 506002 506346 Perform a mapping mission over the target field.
+332 3 506347 506389 Ascend back to the original altitude.
+333 0 506390 506441 Descend to above the target field.
+333 1 506442 506475 Adjust heading.
+333 2 506476 506882 Perform a mapping mission over the target field.
+333 3 506883 506933 Ascend back to the original altitude.
+334 0 506934 506989 Descend to above the target field.
+334 1 506990 507003 Adjust heading.
+334 2 507004 507348 Perform a mapping mission over the target field.
+334 3 507349 507403 Ascend back to the original altitude.
+335 0 507404 507455 Descend to above the target field.
+335 1 507456 507487 Adjust heading.
+335 2 507488 507894 Perform a mapping mission over the target field.
+335 3 507895 507945 Ascend back to the original altitude.
+336 0 507946 507991 Descend to above the target field.
+336 1 507992 508002 Adjust heading.
+336 2 508003 508410 Perform a mapping mission over the target field.
+336 3 508411 508455 Ascend back to the original altitude.
+337 0 508456 508499 Descend to above the target field.
+337 1 508500 508519 Adjust heading.
+337 2 508520 508926 Perform a mapping mission over the target field.
+337 3 508927 508969 Ascend back to the original altitude.
+338 0 508970 509027 Descend to above the target field.
+338 1 509028 509052 Adjust heading.
+338 2 509053 509397 Perform a mapping mission over the target field.
+338 3 509398 509454 Ascend back to the original altitude.
+339 0 509455 509498 Descend to above the target field.
+339 1 509499 509508 Adjust heading.
+339 2 509509 509915 Perform a mapping mission over the target field.
+339 3 509916 509958 Ascend back to the original altitude.
+340 0 509959 510017 Descend to above the target field.
+340 1 510018 510040 Adjust heading.
+340 2 510041 510447 Perform a mapping mission over the target field.
+340 3 510448 510505 Ascend back to the original altitude.
+341 0 510506 510550 Descend to above the target field.
+341 1 510551 510580 Adjust heading.
+341 2 510581 510987 Perform a mapping mission over the target field.
+341 3 510988 511031 Ascend back to the original altitude.
+342 0 511032 511087 Descend to above the target field.
+342 1 511088 511103 Adjust heading.
+342 2 511104 511510 Perform a mapping mission over the target field.
+342 3 511511 511565 Ascend back to the original altitude.
+343 0 511566 511623 Descend to above the target field.
+343 1 511624 511629 Adjust heading.
+343 2 511630 512036 Perform a mapping mission over the target field.
+343 3 512037 512093 Ascend back to the original altitude.
+344 0 512094 512147 Descend to above the target field.
+344 1 512148 512160 Adjust heading.
+344 2 512161 512567 Perform a mapping mission over the target field.
+344 3 512568 512620 Ascend back to the original altitude.
+345 0 512621 512670 Descend to above the target field.
+345 1 512671 512684 Adjust heading.
+345 2 512685 513092 Perform a mapping mission over the target field.
+345 3 513093 513141 Ascend back to the original altitude.
+346 0 513142 513190 Descend to above the target field.
+346 1 513191 513210 Adjust heading.
+346 2 513211 513618 Perform a mapping mission over the target field.
+346 3 513619 513666 Ascend back to the original altitude.
+347 0 513667 513714 Descend to above the target field.
+347 1 513715 513732 Adjust heading.
+347 2 513733 514139 Perform a mapping mission over the target field.
+347 3 514140 514186 Ascend back to the original altitude.
+348 0 514187 514228 Descend to above the target field.
+348 1 514229 514257 Adjust heading.
+348 2 514258 514664 Perform a mapping mission over the target field.
+348 3 514665 514705 Ascend back to the original altitude.
+349 0 514706 514759 Descend to above the target field.
+349 1 514760 514785 Adjust heading.
+349 2 514786 515192 Perform a mapping mission over the target field.
+349 3 515193 515245 Ascend back to the original altitude.
+350 0 515246 515296 Descend to above the target field.
+350 1 515297 515323 Adjust heading.
+350 2 515324 515668 Perform a mapping mission over the target field.
+350 3 515669 515718 Ascend back to the original altitude.
+351 0 515719 515764 Descend to above the target field.
+351 1 515765 515797 Adjust heading.
+351 2 515798 516142 Perform a mapping mission over the target field.
+351 3 516143 516187 Ascend back to the original altitude.
+352 0 516188 516233 Descend to above the target field.
+352 1 516234 516236 Adjust heading.
+352 2 516237 516581 Perform a mapping mission over the target field.
+352 3 516582 516626 Ascend back to the original altitude.
+353 0 516627 516676 Descend to above the target field.
+353 1 516677 516685 Adjust heading.
+353 2 516686 517093 Perform a mapping mission over the target field.
+353 3 517094 517142 Ascend back to the original altitude.
+354 0 517143 517190 Descend to above the target field.
+354 1 517191 517194 Adjust heading.
+354 2 517195 517601 Perform a mapping mission over the target field.
+354 3 517602 517648 Ascend back to the original altitude.
+355 0 517649 517697 Descend to above the target field.
+355 1 517698 517712 Adjust heading.
+355 2 517713 518120 Perform a mapping mission over the target field.
+355 3 518121 518168 Ascend back to the original altitude.
+356 0 518169 518227 Descend to above the target field.
+356 1 518228 518254 Adjust heading.
+356 2 518255 518599 Perform a mapping mission over the target field.
+356 3 518600 518657 Ascend back to the original altitude.
+357 0 518658 518701 Descend to above the target field.
+357 1 518702 518732 Adjust heading.
+357 2 518733 519140 Perform a mapping mission over the target field.
+357 3 519141 519183 Ascend back to the original altitude.
+358 0 519184 519242 Descend to above the target field.
+358 1 519243 519256 Adjust heading.
+358 2 519257 519664 Perform a mapping mission over the target field.
+358 3 519665 519722 Ascend back to the original altitude.
+359 0 519723 519774 Descend to above the target field.
+359 1 519775 519795 Adjust heading.
+359 2 519796 520202 Perform a mapping mission over the target field.
+359 3 520203 520253 Ascend back to the original altitude.
+360 0 520254 520301 Descend to above the target field.
+360 1 520302 520332 Adjust heading.
+360 2 520333 521448 Perform a mapping mission over the target field.
+360 3 521449 521495 Ascend back to the original altitude.
+361 0 521496 521553 Descend to above the target field.
+361 1 521554 521581 Adjust heading.
+361 2 521582 522827 Perform a mapping mission over the target field.
+361 3 522828 522884 Ascend back to the original altitude.
+362 0 522885 522935 Descend to above the target field.
+362 1 522936 522938 Adjust heading.
+362 2 522939 523889 Perform a mapping mission over the target field.
+362 3 523890 523939 Ascend back to the original altitude.
+363 0 523940 523988 Descend to above the target field.
+363 1 523989 524019 Adjust heading.
+363 2 524020 524970 Perform a mapping mission over the target field.
+363 3 524971 525018 Ascend back to the original altitude.
+364 0 525019 525063 Descend to above the target field.
+364 1 525064 525087 Adjust heading.
+364 2 525088 526333 Perform a mapping mission over the target field.
+364 3 526334 526377 Ascend back to the original altitude.
+365 0 526378 526430 Descend to above the target field.
+365 1 526431 526436 Adjust heading.
+365 2 526437 527681 Perform a mapping mission over the target field.
+365 3 527682 527733 Ascend back to the original altitude.
+366 0 527734 527787 Descend to above the target field.
+366 1 527788 527816 Adjust heading.
+366 2 527817 528932 Perform a mapping mission over the target field.
+366 3 528933 528985 Ascend back to the original altitude.
+367 0 528986 529034 Descend to above the target field.
+367 1 529035 529038 Adjust heading.
+367 2 529039 530283 Perform a mapping mission over the target field.
+367 3 530284 530331 Ascend back to the original altitude.
+368 0 530332 530382 Descend to above the target field.
+368 1 530383 530389 Adjust heading.
+368 2 530390 531635 Perform a mapping mission over the target field.
+368 3 531636 531685 Ascend back to the original altitude.
+369 0 531686 531733 Descend to above the target field.
+369 1 531734 531763 Adjust heading.
+369 2 531764 533008 Perform a mapping mission over the target field.
+369 3 533009 533055 Ascend back to the original altitude.
+370 0 533056 533100 Descend to above the target field.
+370 1 533101 533103 Adjust heading.
+370 2 533104 534349 Perform a mapping mission over the target field.
+370 3 534350 534393 Ascend back to the original altitude.
+371 0 534394 534439 Descend to above the target field.
+371 1 534440 534471 Adjust heading.
+371 2 534472 535422 Perform a mapping mission over the target field.
+371 3 535423 535467 Ascend back to the original altitude.
+372 0 535468 535525 Descend to above the target field.
+372 1 535526 535549 Adjust heading.
+372 2 535550 536795 Perform a mapping mission over the target field.
+372 3 536796 536852 Ascend back to the original altitude.
+373 0 536853 536907 Descend to above the target field.
+373 1 536908 536927 Adjust heading.
+373 2 536928 538173 Perform a mapping mission over the target field.
+373 3 538174 538227 Ascend back to the original altitude.
+374 0 538228 538287 Descend to above the target field.
+374 1 538288 538309 Adjust heading.
+374 2 538310 539555 Perform a mapping mission over the target field.
+374 3 539556 539614 Ascend back to the original altitude.
+375 0 539615 539656 Descend to above the target field.
+375 1 539657 539680 Adjust heading.
+375 2 539681 540631 Perform a mapping mission over the target field.
+375 3 540632 540672 Ascend back to the original altitude.
+376 0 540673 540728 Descend to above the target field.
+376 1 540729 540739 Adjust heading.
+376 2 540740 541690 Perform a mapping mission over the target field.
+376 3 541691 541745 Ascend back to the original altitude.
+377 0 541746 541796 Descend to above the target field.
+377 1 541797 541831 Adjust heading.
+377 2 541832 542947 Perform a mapping mission over the target field.
+377 3 542948 542997 Ascend back to the original altitude.
+378 0 542998 543056 Descend to above the target field.
+378 1 543057 543063 Adjust heading.
+378 2 543064 544309 Perform a mapping mission over the target field.
+378 3 544310 544367 Ascend back to the original altitude.
+379 0 544368 544414 Descend to above the target field.
+379 1 544415 544421 Adjust heading.
+379 2 544422 545666 Perform a mapping mission over the target field.
+379 3 545667 545712 Ascend back to the original altitude.
+380 0 545713 545764 Descend to above the target field.
+380 1 545765 545767 Adjust heading.
+380 2 545768 546718 Perform a mapping mission over the target field.
+380 3 546719 546769 Ascend back to the original altitude.
+381 0 546770 546828 Descend to above the target field.
+381 1 546829 546858 Adjust heading.
+381 2 546859 548104 Perform a mapping mission over the target field.
+381 3 548105 548162 Ascend back to the original altitude.
+382 0 548163 548211 Descend to above the target field.
+382 1 548212 548223 Adjust heading.
+382 2 548224 549469 Perform a mapping mission over the target field.
+382 3 549470 549517 Ascend back to the original altitude.
+383 0 549518 549568 Descend to above the target field.
+383 1 549569 549582 Adjust heading.
+383 2 549583 550827 Perform a mapping mission over the target field.
+383 3 550828 550877 Ascend back to the original altitude.
+384 0 550878 550927 Descend to above the target field.
+384 1 550928 550934 Adjust heading.
+384 2 550935 552180 Perform a mapping mission over the target field.
+384 3 552181 552229 Ascend back to the original altitude.
+385 0 552230 552273 Descend to above the target field.
+385 1 552274 552292 Adjust heading.
+385 2 552293 553408 Perform a mapping mission over the target field.
+385 3 553409 553451 Ascend back to the original altitude.
+386 0 553452 553499 Descend to above the target field.
+386 1 553500 553509 Adjust heading.
+386 2 553510 554460 Perform a mapping mission over the target field.
+386 3 554461 554507 Ascend back to the original altitude.
+387 0 554508 554559 Descend to above the target field.
+387 1 554560 554562 Adjust heading.
+387 2 554563 555678 Perform a mapping mission over the target field.
+387 3 555679 555729 Ascend back to the original altitude.
+388 0 555730 555784 Descend to above the target field.
+388 1 555785 555791 Adjust heading.
+388 2 555792 557036 Perform a mapping mission over the target field.
+388 3 557037 557090 Ascend back to the original altitude.
+389 0 557091 557132 Descend to above the target field.
+389 1 557133 557145 Adjust heading.
+389 2 557146 558390 Perform a mapping mission over the target field.
+389 3 558391 558431 Ascend back to the original altitude.
+390 0 558432 558475 Descend to above the target field.
+390 1 558476 558505 Adjust heading.
+390 2 558506 559229 Perform a mapping mission over the target field.
+390 3 559230 559272 Ascend back to the original altitude.
+391 0 559273 559315 Descend to above the target field.
+391 1 559316 559320 Adjust heading.
+391 2 559321 560000 Perform a mapping mission over the target field.
+391 3 560001 560042 Ascend back to the original altitude.
+392 0 560043 560103 Descend to above the target field.
+392 1 560104 560107 Adjust heading.
+392 2 560108 560787 Perform a mapping mission over the target field.
+392 3 560788 560847 Ascend back to the original altitude.
+393 0 560848 560906 Descend to above the target field.
+393 1 560907 560915 Adjust heading.
+393 2 560916 561639 Perform a mapping mission over the target field.
+393 3 561640 561697 Ascend back to the original altitude.
+394 0 561698 561739 Descend to above the target field.
+394 1 561740 561773 Adjust heading.
+394 2 561774 562453 Perform a mapping mission over the target field.
+394 3 562454 562494 Ascend back to the original altitude.
+395 0 562495 562555 Descend to above the target field.
+395 1 562556 562571 Adjust heading.
+395 2 562572 563295 Perform a mapping mission over the target field.
+395 3 563296 563355 Ascend back to the original altitude.
+396 0 563356 563415 Descend to above the target field.
+396 1 563416 563434 Adjust heading.
+396 2 563435 564193 Perform a mapping mission over the target field.
+396 3 564194 564252 Ascend back to the original altitude.
+397 0 564253 564310 Descend to above the target field.
+397 1 564311 564320 Adjust heading.
+397 2 564321 565044 Perform a mapping mission over the target field.
+397 3 565045 565101 Ascend back to the original altitude.
+398 0 565102 565146 Descend to above the target field.
+398 1 565147 565180 Adjust heading.
+398 2 565181 565860 Perform a mapping mission over the target field.
+398 3 565861 565904 Ascend back to the original altitude.
+399 0 565905 565957 Descend to above the target field.
+399 1 565958 565966 Adjust heading.
+399 2 565967 566725 Perform a mapping mission over the target field.
+399 3 566726 566777 Ascend back to the original altitude.
+400 0 566778 566838 Descend to above the target field.
+400 1 566839 566840 Adjust heading.
+400 2 566841 567599 Perform a mapping mission over the target field.
+400 3 567600 567659 Ascend back to the original altitude.
+401 0 567660 567706 Descend to above the target field.
+401 1 567707 567738 Adjust heading.
+401 2 567739 568354 Perform a mapping mission over the target field.
+401 3 568355 568400 Ascend back to the original altitude.
+402 0 568401 568456 Descend to above the target field.
+402 1 568457 568487 Adjust heading.
+402 2 568488 569211 Perform a mapping mission over the target field.
+402 3 569212 569266 Ascend back to the original altitude.
+403 0 569267 569324 Descend to above the target field.
+403 1 569325 569347 Adjust heading.
+403 2 569348 570106 Perform a mapping mission over the target field.
+403 3 570107 570163 Ascend back to the original altitude.
+404 0 570164 570215 Descend to above the target field.
+404 1 570216 570234 Adjust heading.
+404 2 570235 570993 Perform a mapping mission over the target field.
+404 3 570994 571044 Ascend back to the original altitude.
+405 0 571045 571105 Descend to above the target field.
+405 1 571106 571109 Adjust heading.
+405 2 571110 571833 Perform a mapping mission over the target field.
+405 3 571834 571893 Ascend back to the original altitude.
+406 0 571894 571942 Descend to above the target field.
+406 1 571943 571966 Adjust heading.
+406 2 571967 572646 Perform a mapping mission over the target field.
+406 3 572647 572694 Ascend back to the original altitude.
+407 0 572695 572737 Descend to above the target field.
+407 1 572738 572741 Adjust heading.
+407 2 572742 573421 Perform a mapping mission over the target field.
+407 3 573422 573463 Ascend back to the original altitude.
+408 0 573464 573523 Descend to above the target field.
+408 1 573524 573534 Adjust heading.
+408 2 573535 574258 Perform a mapping mission over the target field.
+408 3 574259 574317 Ascend back to the original altitude.
+409 0 574318 574362 Descend to above the target field.
+409 1 574363 574375 Adjust heading.
+409 2 574376 575055 Perform a mapping mission over the target field.
+409 3 575056 575099 Ascend back to the original altitude.
+410 0 575100 575151 Descend to above the target field.
+410 1 575152 575163 Adjust heading.
+410 2 575164 575922 Perform a mapping mission over the target field.
+410 3 575923 575973 Ascend back to the original altitude.
+411 0 575974 576019 Descend to above the target field.
+411 1 576020 576039 Adjust heading.
+411 2 576040 576798 Perform a mapping mission over the target field.
+411 3 576799 576843 Ascend back to the original altitude.
+412 0 576844 576888 Descend to above the target field.
+412 1 576889 576909 Adjust heading.
+412 2 576910 577633 Perform a mapping mission over the target field.
+412 3 577634 577677 Ascend back to the original altitude.
+413 0 577678 577729 Descend to above the target field.
+413 1 577730 577754 Adjust heading.
+413 2 577755 578478 Perform a mapping mission over the target field.
+413 3 578479 578529 Ascend back to the original altitude.
+414 0 578530 578583 Descend to above the target field.
+414 1 578584 578612 Adjust heading.
+414 2 578613 579371 Perform a mapping mission over the target field.
+414 3 579372 579424 Ascend back to the original altitude.
+415 0 579425 579472 Descend to above the target field.
+415 1 579473 579495 Adjust heading.
+415 2 579496 580219 Perform a mapping mission over the target field.
+415 3 580220 580266 Ascend back to the original altitude.
+416 0 580267 580326 Descend to above the target field.
+416 1 580327 580351 Adjust heading.
+416 2 580352 581031 Perform a mapping mission over the target field.
+416 3 581032 581090 Ascend back to the original altitude.
+417 0 581091 581142 Descend to above the target field.
+417 1 581143 581148 Adjust heading.
+417 2 581149 581872 Perform a mapping mission over the target field.
+417 3 581873 581923 Ascend back to the original altitude.
+418 0 581924 581978 Descend to above the target field.
+418 1 581979 582007 Adjust heading.
+418 2 582008 582687 Perform a mapping mission over the target field.
+418 3 582688 582741 Ascend back to the original altitude.
+419 0 582742 582797 Descend to above the target field.
+419 1 582798 582822 Adjust heading.
+419 2 582823 583438 Perform a mapping mission over the target field.
+419 3 583439 583493 Ascend back to the original altitude.
+420 0 583494 583537 Descend to above the target field.
+420 1 583538 583553 Adjust heading.
+420 2 583554 584189 Perform a mapping mission over the target field.
+420 3 584190 584232 Ascend back to the original altitude.
+421 0 584233 584284 Descend to above the target field.
+421 1 584285 584296 Adjust heading.
+421 2 584297 584866 Perform a mapping mission over the target field.
+421 3 584867 584917 Ascend back to the original altitude.
+422 0 584918 584968 Descend to above the target field.
+422 1 584969 584997 Adjust heading.
+422 2 584998 585546 Perform a mapping mission over the target field.
+422 3 585547 585596 Ascend back to the original altitude.
+423 0 585597 585649 Descend to above the target field.
+423 1 585650 585664 Adjust heading.
+423 2 585665 586213 Perform a mapping mission over the target field.
+423 3 586214 586265 Ascend back to the original altitude.
+424 0 586266 586326 Descend to above the target field.
+424 1 586327 586340 Adjust heading.
+424 2 586341 586976 Perform a mapping mission over the target field.
+424 3 586977 587036 Ascend back to the original altitude.
+425 0 587037 587087 Descend to above the target field.
+425 1 587088 587108 Adjust heading.
+425 2 587109 587744 Perform a mapping mission over the target field.
+425 3 587745 587794 Ascend back to the original altitude.
+426 0 587795 587851 Descend to above the target field.
+426 1 587852 587862 Adjust heading.
+426 2 587863 588498 Perform a mapping mission over the target field.
+426 3 588499 588554 Ascend back to the original altitude.
+427 0 588555 588613 Descend to above the target field.
+427 1 588614 588622 Adjust heading.
+427 2 588623 589192 Perform a mapping mission over the target field.
+427 3 589193 589250 Ascend back to the original altitude.
+428 0 589251 589305 Descend to above the target field.
+428 1 589306 589337 Adjust heading.
+428 2 589338 589886 Perform a mapping mission over the target field.
+428 3 589887 589940 Ascend back to the original altitude.
+429 0 589941 589990 Descend to above the target field.
+429 1 589991 590004 Adjust heading.
+429 2 590005 590553 Perform a mapping mission over the target field.
+429 3 590554 590602 Ascend back to the original altitude.
+430 0 590603 590653 Descend to above the target field.
+430 1 590654 590667 Adjust heading.
+430 2 590668 591216 Perform a mapping mission over the target field.
+430 3 591217 591266 Ascend back to the original altitude.
+431 0 591267 591310 Descend to above the target field.
+431 1 591311 591314 Adjust heading.
+431 2 591315 591950 Perform a mapping mission over the target field.
+431 3 591951 591993 Ascend back to the original altitude.
+432 0 591994 592052 Descend to above the target field.
+432 1 592053 592070 Adjust heading.
+432 2 592071 592619 Perform a mapping mission over the target field.
+432 3 592620 592677 Ascend back to the original altitude.
+433 0 592678 592738 Descend to above the target field.
+433 1 592739 592748 Adjust heading.
+433 2 592749 593297 Perform a mapping mission over the target field.
+433 3 593298 593357 Ascend back to the original altitude.
+434 0 593358 593409 Descend to above the target field.
+434 1 593410 593435 Adjust heading.
+434 2 593436 593984 Perform a mapping mission over the target field.
+434 3 593985 594035 Ascend back to the original altitude.
+435 0 594036 594091 Descend to above the target field.
+435 1 594092 594097 Adjust heading.
+435 2 594098 594667 Perform a mapping mission over the target field.
+435 3 594668 594722 Ascend back to the original altitude.
+436 0 594723 594766 Descend to above the target field.
+436 1 594767 594801 Adjust heading.
+436 2 594802 595371 Perform a mapping mission over the target field.
+436 3 595372 595414 Ascend back to the original altitude.
+437 0 595415 595458 Descend to above the target field.
+437 1 595459 595460 Adjust heading.
+437 2 595461 596009 Perform a mapping mission over the target field.
+437 3 596010 596052 Ascend back to the original altitude.
+438 0 596053 596103 Descend to above the target field.
+438 1 596104 596119 Adjust heading.
+438 2 596120 596668 Perform a mapping mission over the target field.
+438 3 596669 596718 Ascend back to the original altitude.
+439 0 596719 596776 Descend to above the target field.
+439 1 596777 596789 Adjust heading.
+439 2 596790 597359 Perform a mapping mission over the target field.
+439 3 597360 597416 Ascend back to the original altitude.
+440 0 597417 597465 Descend to above the target field.
+440 1 597466 597476 Adjust heading.
+440 2 597477 598025 Perform a mapping mission over the target field.
+440 3 598026 598073 Ascend back to the original altitude.
+441 0 598074 598122 Descend to above the target field.
+441 1 598123 598141 Adjust heading.
+441 2 598142 598690 Perform a mapping mission over the target field.
+441 3 598691 598738 Ascend back to the original altitude.
+442 0 598739 598785 Descend to above the target field.
+442 1 598786 598793 Adjust heading.
+442 2 598794 599342 Perform a mapping mission over the target field.
+442 3 599343 599388 Ascend back to the original altitude.
+443 0 599389 599436 Descend to above the target field.
+443 1 599437 599446 Adjust heading.
+443 2 599447 599995 Perform a mapping mission over the target field.
+443 3 599996 600042 Ascend back to the original altitude.
+444 0 600043 600102 Descend to above the target field.
+444 1 600103 600121 Adjust heading.
+444 2 600122 600691 Perform a mapping mission over the target field.
+444 3 600692 600750 Ascend back to the original altitude.
+445 0 600751 600809 Descend to above the target field.
+445 1 600810 600827 Adjust heading.
+445 2 600828 601463 Perform a mapping mission over the target field.
+445 3 601464 601521 Ascend back to the original altitude.
+446 0 601522 601581 Descend to above the target field.
+446 1 601582 601596 Adjust heading.
+446 2 601597 602145 Perform a mapping mission over the target field.
+446 3 602146 602204 Ascend back to the original altitude.
+447 0 602205 602247 Descend to above the target field.
+447 1 602248 602282 Adjust heading.
+447 2 602283 602831 Perform a mapping mission over the target field.
+447 3 602832 602873 Ascend back to the original altitude.
+448 0 602874 602923 Descend to above the target field.
+448 1 602924 602927 Adjust heading.
+448 2 602928 603476 Perform a mapping mission over the target field.
+448 3 603477 603525 Ascend back to the original altitude.
+449 0 603526 603583 Descend to above the target field.
+449 1 603584 603594 Adjust heading.
+449 2 603595 604164 Perform a mapping mission over the target field.
+449 3 604165 604221 Ascend back to the original altitude.
+450 0 604222 604279 Descend to above the target field.
+450 1 604280 604313 Adjust heading.
+450 2 604314 604843 Perform a mapping mission over the target field.
+450 3 604844 604900 Ascend back to the original altitude.
+451 0 604901 604959 Descend to above the target field.
+451 1 604960 604962 Adjust heading.
+451 2 604963 605490 Perform a mapping mission over the target field.
+451 3 605491 605548 Ascend back to the original altitude.
+452 0 605549 605602 Descend to above the target field.
+452 1 605603 605614 Adjust heading.
+452 2 605615 606142 Perform a mapping mission over the target field.
+452 3 606143 606195 Ascend back to the original altitude.
+453 0 606196 606248 Descend to above the target field.
+453 1 606249 606263 Adjust heading.
+453 2 606264 606793 Perform a mapping mission over the target field.
+453 3 606794 606845 Ascend back to the original altitude.
+454 0 606846 606888 Descend to above the target field.
+454 1 606889 606919 Adjust heading.
+454 2 606920 607449 Perform a mapping mission over the target field.
+454 3 607450 607491 Ascend back to the original altitude.
+455 0 607492 607549 Descend to above the target field.
+455 1 607550 607572 Adjust heading.
+455 2 607573 608102 Perform a mapping mission over the target field.
+455 3 608103 608159 Ascend back to the original altitude.
+456 0 608160 608217 Descend to above the target field.
+456 1 608218 608252 Adjust heading.
+456 2 608253 608780 Perform a mapping mission over the target field.
+456 3 608781 608837 Ascend back to the original altitude.
+457 0 608838 608881 Descend to above the target field.
+457 1 608882 608910 Adjust heading.
+457 2 608911 609438 Perform a mapping mission over the target field.
+457 3 609439 609481 Ascend back to the original altitude.
+458 0 609482 609528 Descend to above the target field.
+458 1 609529 609531 Adjust heading.
+458 2 609532 610061 Perform a mapping mission over the target field.
+458 3 610062 610107 Ascend back to the original altitude.
+459 0 610108 610157 Descend to above the target field.
+459 1 610158 610187 Adjust heading.
+459 2 610188 610717 Perform a mapping mission over the target field.
+459 3 610718 610766 Ascend back to the original altitude.
+460 0 610767 610823 Descend to above the target field.
+460 1 610824 610850 Adjust heading.
+460 2 610851 611378 Perform a mapping mission over the target field.
+460 3 611379 611434 Ascend back to the original altitude.
+461 0 611435 611480 Descend to above the target field.
+461 1 611481 611498 Adjust heading.
+461 2 611499 612026 Perform a mapping mission over the target field.
+461 3 612027 612071 Ascend back to the original altitude.
+462 0 612072 612113 Descend to above the target field.
+462 1 612114 612127 Adjust heading.
+462 2 612128 612657 Perform a mapping mission over the target field.
+462 3 612658 612698 Ascend back to the original altitude.
+463 0 612699 612756 Descend to above the target field.
+463 1 612757 612768 Adjust heading.
+463 2 612769 613296 Perform a mapping mission over the target field.
+463 3 613297 613353 Ascend back to the original altitude.
+464 0 613354 613402 Descend to above the target field.
+464 1 613403 613425 Adjust heading.
+464 2 613426 613955 Perform a mapping mission over the target field.
+464 3 613956 614003 Ascend back to the original altitude.
+465 0 614004 614053 Descend to above the target field.
+465 1 614054 614055 Adjust heading.
+465 2 614056 614585 Perform a mapping mission over the target field.
+465 3 614586 614634 Ascend back to the original altitude.
+466 0 614635 614689 Descend to above the target field.
+466 1 614690 614709 Adjust heading.
+466 2 614710 615237 Perform a mapping mission over the target field.
+466 3 615238 615291 Ascend back to the original altitude.
+467 0 615292 615341 Descend to above the target field.
+467 1 615342 615370 Adjust heading.
+467 2 615371 615900 Perform a mapping mission over the target field.
+467 3 615901 615949 Ascend back to the original altitude.
+468 0 615950 616006 Descend to above the target field.
+468 1 616007 616030 Adjust heading.
+468 2 616031 616558 Perform a mapping mission over the target field.
+468 3 616559 616614 Ascend back to the original altitude.
+469 0 616615 616660 Descend to above the target field.
+469 1 616661 616683 Adjust heading.
+469 2 616684 617213 Perform a mapping mission over the target field.
+469 3 617214 617258 Ascend back to the original altitude.
+470 0 617259 617315 Descend to above the target field.
+470 1 617316 617343 Adjust heading.
+470 2 617344 617873 Perform a mapping mission over the target field.
+470 3 617874 617929 Ascend back to the original altitude.
+471 0 617930 617976 Descend to above the target field.
+471 1 617977 617977 Adjust heading.
+471 2 617978 618505 Perform a mapping mission over the target field.
+471 3 618506 618551 Ascend back to the original altitude.
+472 0 618552 618611 Descend to above the target field.
+472 1 618612 618618 Adjust heading.
+472 2 618619 619148 Perform a mapping mission over the target field.
+472 3 619149 619207 Ascend back to the original altitude.
+473 0 619208 619265 Descend to above the target field.
+473 1 619266 619292 Adjust heading.
+473 2 619293 619822 Perform a mapping mission over the target field.
+473 3 619823 619879 Ascend back to the original altitude.
+474 0 619880 619933 Descend to above the target field.
+474 1 619934 619952 Adjust heading.
+474 2 619953 620482 Perform a mapping mission over the target field.
+474 3 620483 620535 Ascend back to the original altitude.
+475 0 620536 620595 Descend to above the target field.
+475 1 620596 620619 Adjust heading.
+475 2 620620 621149 Perform a mapping mission over the target field.
+475 3 621150 621208 Ascend back to the original altitude.
+476 0 621209 621251 Descend to above the target field.
+476 1 621252 621261 Adjust heading.
+476 2 621262 621791 Perform a mapping mission over the target field.
+476 3 621792 621833 Ascend back to the original altitude.
+477 0 621834 621887 Descend to above the target field.
+477 1 621888 621905 Adjust heading.
+477 2 621906 622435 Perform a mapping mission over the target field.
+477 3 622436 622488 Ascend back to the original altitude.
+478 0 622489 622548 Descend to above the target field.
+478 1 622549 622563 Adjust heading.
+478 2 622564 623093 Perform a mapping mission over the target field.
+478 3 623094 623152 Ascend back to the original altitude.
+479 0 623153 623211 Descend to above the target field.
+479 1 623212 623245 Adjust heading.
+479 2 623246 623775 Perform a mapping mission over the target field.
+479 3 623776 623833 Ascend back to the original altitude.
+480 0 623834 623889 Descend to above the target field.
+480 1 623890 623908 Adjust heading.
+480 2 623909 624553 Perform a mapping mission over the target field.
+480 3 624554 624608 Ascend back to the original altitude.
+481 0 624609 624654 Descend to above the target field.
+481 1 624655 624655 Adjust heading.
+481 2 624656 625306 Perform a mapping mission over the target field.
+481 3 625307 625351 Ascend back to the original altitude.
+482 0 625352 625400 Descend to above the target field.
+482 1 625401 625434 Adjust heading.
+482 2 625435 626069 Perform a mapping mission over the target field.
+482 3 626070 626117 Ascend back to the original altitude.
+483 0 626118 626163 Descend to above the target field.
+483 1 626164 626196 Adjust heading.
+483 2 626197 626831 Perform a mapping mission over the target field.
+483 3 626832 626876 Ascend back to the original altitude.
+484 0 626877 626921 Descend to above the target field.
+484 1 626922 626936 Adjust heading.
+484 2 626937 627581 Perform a mapping mission over the target field.
+484 3 627582 627625 Ascend back to the original altitude.
+485 0 627626 627681 Descend to above the target field.
+485 1 627682 627692 Adjust heading.
+485 2 627693 628327 Perform a mapping mission over the target field.
+485 3 628328 628382 Ascend back to the original altitude.
+486 0 628383 628436 Descend to above the target field.
+486 1 628437 628469 Adjust heading.
+486 2 628470 629114 Perform a mapping mission over the target field.
+486 3 629115 629167 Ascend back to the original altitude.
+487 0 629168 629210 Descend to above the target field.
+487 1 629211 629235 Adjust heading.
+487 2 629236 629870 Perform a mapping mission over the target field.
+487 3 629871 629912 Ascend back to the original altitude.
+488 0 629913 629969 Descend to above the target field.
+488 1 629970 629995 Adjust heading.
+488 2 629996 630640 Perform a mapping mission over the target field.
+488 3 630641 630696 Ascend back to the original altitude.
+489 0 630697 630755 Descend to above the target field.
+489 1 630756 630757 Adjust heading.
+489 2 630758 631392 Perform a mapping mission over the target field.
+489 3 631393 631450 Ascend back to the original altitude.
+490 0 631451 631504 Descend to above the target field.
+490 1 631505 631529 Adjust heading.
+490 2 631530 632174 Perform a mapping mission over the target field.
+490 3 632175 632227 Ascend back to the original altitude.
+491 0 632228 632269 Descend to above the target field.
+491 1 632270 632272 Adjust heading.
+491 2 632273 632907 Perform a mapping mission over the target field.
+491 3 632908 632948 Ascend back to the original altitude.
+492 0 632949 632999 Descend to above the target field.
+492 1 633000 633001 Adjust heading.
+492 2 633002 633646 Perform a mapping mission over the target field.
+492 3 633647 633696 Ascend back to the original altitude.
+493 0 633697 633755 Descend to above the target field.
+493 1 633756 633789 Adjust heading.
+493 2 633790 634440 Perform a mapping mission over the target field.
+493 3 634441 634498 Ascend back to the original altitude.
+494 0 634499 634541 Descend to above the target field.
+494 1 634542 634557 Adjust heading.
+494 2 634558 635208 Perform a mapping mission over the target field.
+494 3 635209 635250 Ascend back to the original altitude.
+495 0 635251 635309 Descend to above the target field.
+495 1 635310 635328 Adjust heading.
+495 2 635329 635973 Perform a mapping mission over the target field.
+495 3 635974 636031 Ascend back to the original altitude.
+496 0 636032 636083 Descend to above the target field.
+496 1 636084 636099 Adjust heading.
+496 2 636100 636744 Perform a mapping mission over the target field.
+496 3 636745 636795 Ascend back to the original altitude.
+497 0 636796 636841 Descend to above the target field.
+497 1 636842 636842 Adjust heading.
+497 2 636843 637487 Perform a mapping mission over the target field.
+497 3 637488 637532 Ascend back to the original altitude.
+498 0 637533 637586 Descend to above the target field.
+498 1 637587 637605 Adjust heading.
+498 2 637606 638250 Perform a mapping mission over the target field.
+498 3 638251 638303 Ascend back to the original altitude.
+499 0 638304 638354 Descend to above the target field.
+499 1 638355 638367 Adjust heading.
+499 2 638368 639002 Perform a mapping mission over the target field.
+499 3 639003 639052 Ascend back to the original altitude.
+500 0 639053 639111 Descend to above the target field.
+500 1 639112 639125 Adjust heading.
+500 2 639126 639770 Perform a mapping mission over the target field.
+500 3 639771 639828 Ascend back to the original altitude.
+501 0 639829 639881 Descend to above the target field.
+501 1 639882 639907 Adjust heading.
+501 2 639908 640558 Perform a mapping mission over the target field.
+501 3 640559 640610 Ascend back to the original altitude.
+502 0 640611 640670 Descend to above the target field.
+502 1 640671 640692 Adjust heading.
+502 2 640693 641337 Perform a mapping mission over the target field.
+502 3 641338 641396 Ascend back to the original altitude.
+503 0 641397 641442 Descend to above the target field.
+503 1 641443 641447 Adjust heading.
+503 2 641448 642092 Perform a mapping mission over the target field.
+503 3 642093 642137 Ascend back to the original altitude.
+504 0 642138 642198 Descend to above the target field.
+504 1 642199 642229 Adjust heading.
+504 2 642230 642880 Perform a mapping mission over the target field.
+504 3 642881 642940 Ascend back to the original altitude.
+505 0 642941 642998 Descend to above the target field.
+505 1 642999 643002 Adjust heading.
+505 2 643003 643653 Perform a mapping mission over the target field.
+505 3 643654 643710 Ascend back to the original altitude.
+506 0 643711 643769 Descend to above the target field.
+506 1 643770 643796 Adjust heading.
+506 2 643797 644441 Perform a mapping mission over the target field.
+506 3 644442 644499 Ascend back to the original altitude.
+507 0 644500 644555 Descend to above the target field.
+507 1 644556 644577 Adjust heading.
+507 2 644578 645212 Perform a mapping mission over the target field.
+507 3 645213 645267 Ascend back to the original altitude.
+508 0 645268 645312 Descend to above the target field.
+508 1 645313 645332 Adjust heading.
+508 2 645333 645983 Perform a mapping mission over the target field.
+508 3 645984 646027 Ascend back to the original altitude.
+509 0 646028 646072 Descend to above the target field.
+509 1 646073 646088 Adjust heading.
+509 2 646089 646733 Perform a mapping mission over the target field.
+509 3 646734 646777 Ascend back to the original altitude.
+510 0 646778 646832 Descend to above the target field.
+510 1 646833 646861 Adjust heading.
+510 2 646862 647359 Perform a mapping mission over the target field.
+510 3 647360 647413 Ascend back to the original altitude.
+511 0 647414 647470 Descend to above the target field.
+511 1 647471 647490 Adjust heading.
+511 2 647491 647894 Perform a mapping mission over the target field.
+511 3 647895 647950 Ascend back to the original altitude.
+512 0 647951 648010 Descend to above the target field.
+512 1 648011 648026 Adjust heading.
+512 2 648027 648430 Perform a mapping mission over the target field.
+512 3 648431 648489 Ascend back to the original altitude.
+513 0 648490 648536 Descend to above the target field.
+513 1 648537 648556 Adjust heading.
+513 2 648557 649054 Perform a mapping mission over the target field.
+513 3 649055 649100 Ascend back to the original altitude.
+514 0 649101 649154 Descend to above the target field.
+514 1 649155 649162 Adjust heading.
+514 2 649163 649566 Perform a mapping mission over the target field.
+514 3 649567 649619 Ascend back to the original altitude.
+515 0 649620 649674 Descend to above the target field.
+515 1 649675 649680 Adjust heading.
+515 2 649681 650120 Perform a mapping mission over the target field.
+515 3 650121 650174 Ascend back to the original altitude.
+516 0 650175 650224 Descend to above the target field.
+516 1 650225 650247 Adjust heading.
+516 2 650248 650687 Perform a mapping mission over the target field.
+516 3 650688 650736 Ascend back to the original altitude.
+517 0 650737 650786 Descend to above the target field.
+517 1 650787 650805 Adjust heading.
+517 2 650806 651209 Perform a mapping mission over the target field.
+517 3 651210 651258 Ascend back to the original altitude.
+518 0 651259 651310 Descend to above the target field.
+518 1 651311 651311 Adjust heading.
+518 2 651312 651751 Perform a mapping mission over the target field.
+518 3 651752 651802 Ascend back to the original altitude.
+519 0 651803 651853 Descend to above the target field.
+519 1 651854 651881 Adjust heading.
+519 2 651882 652284 Perform a mapping mission over the target field.
+519 3 652285 652334 Ascend back to the original altitude.
+520 0 652335 652386 Descend to above the target field.
+520 1 652387 652410 Adjust heading.
+520 2 652411 652908 Perform a mapping mission over the target field.
+520 3 652909 652959 Ascend back to the original altitude.
+521 0 652960 653002 Descend to above the target field.
+521 1 653003 653019 Adjust heading.
+521 2 653020 653517 Perform a mapping mission over the target field.
+521 3 653518 653559 Ascend back to the original altitude.
+522 0 653560 653610 Descend to above the target field.
+522 1 653611 653631 Adjust heading.
+522 2 653632 654071 Perform a mapping mission over the target field.
+522 3 654072 654121 Ascend back to the original altitude.
+523 0 654122 654172 Descend to above the target field.
+523 1 654173 654178 Adjust heading.
+523 2 654179 654676 Perform a mapping mission over the target field.
+523 3 654677 654726 Ascend back to the original altitude.
+524 0 654727 654768 Descend to above the target field.
+524 1 654769 654774 Adjust heading.
+524 2 654775 655177 Perform a mapping mission over the target field.
+524 3 655178 655218 Ascend back to the original altitude.
+525 0 655219 655274 Descend to above the target field.
+525 1 655275 655293 Adjust heading.
+525 2 655294 655733 Perform a mapping mission over the target field.
+525 3 655734 655788 Ascend back to the original altitude.
+526 0 655789 655848 Descend to above the target field.
+526 1 655849 655855 Adjust heading.
+526 2 655856 656353 Perform a mapping mission over the target field.
+526 3 656354 656412 Ascend back to the original altitude.
+527 0 656413 656460 Descend to above the target field.
+527 1 656461 656469 Adjust heading.
+527 2 656470 656909 Perform a mapping mission over the target field.
+527 3 656910 656956 Ascend back to the original altitude.
+528 0 656957 657002 Descend to above the target field.
+528 1 657003 657029 Adjust heading.
+528 2 657030 657432 Perform a mapping mission over the target field.
+528 3 657433 657477 Ascend back to the original altitude.
+529 0 657478 657534 Descend to above the target field.
+529 1 657535 657563 Adjust heading.
+529 2 657564 658061 Perform a mapping mission over the target field.
+529 3 658062 658117 Ascend back to the original altitude.
+530 0 658118 658164 Descend to above the target field.
+530 1 658165 658165 Adjust heading.
+530 2 658166 658663 Perform a mapping mission over the target field.
+530 3 658664 658709 Ascend back to the original altitude.
+531 0 658710 658762 Descend to above the target field.
+531 1 658763 658763 Adjust heading.
+531 2 658764 659167 Perform a mapping mission over the target field.
+531 3 659168 659219 Ascend back to the original altitude.
+532 0 659220 659273 Descend to above the target field.
+532 1 659274 659284 Adjust heading.
+532 2 659285 659688 Perform a mapping mission over the target field.
+532 3 659689 659741 Ascend back to the original altitude.
+533 0 659742 659787 Descend to above the target field.
+533 1 659788 659804 Adjust heading.
+533 2 659805 660244 Perform a mapping mission over the target field.
+533 3 660245 660289 Ascend back to the original altitude.
+534 0 660290 660339 Descend to above the target field.
+534 1 660340 660341 Adjust heading.
+534 2 660342 660744 Perform a mapping mission over the target field.
+534 3 660745 660793 Ascend back to the original altitude.
+535 0 660794 660853 Descend to above the target field.
+535 1 660854 660855 Adjust heading.
+535 2 660856 661295 Perform a mapping mission over the target field.
+535 3 661296 661354 Ascend back to the original altitude.
+536 0 661355 661406 Descend to above the target field.
+536 1 661407 661409 Adjust heading.
+536 2 661410 661813 Perform a mapping mission over the target field.
+536 3 661814 661864 Ascend back to the original altitude.
+537 0 661865 661918 Descend to above the target field.
+537 1 661919 661943 Adjust heading.
+537 2 661944 662383 Perform a mapping mission over the target field.
+537 3 662384 662436 Ascend back to the original altitude.
+538 0 662437 662484 Descend to above the target field.
+538 1 662485 662493 Adjust heading.
+538 2 662494 662991 Perform a mapping mission over the target field.
+538 3 662992 663038 Ascend back to the original altitude.
+539 0 663039 663097 Descend to above the target field.
+539 1 663098 663102 Adjust heading.
+539 2 663103 663505 Perform a mapping mission over the target field.
+539 3 663506 663563 Ascend back to the original altitude.
+540 0 663564 663616 Descend to above the target field.
+540 1 663617 663617 Adjust heading.
+540 2 663618 664338 Perform a mapping mission over the target field.
+540 3 664339 664390 Ascend back to the original altitude.
+541 0 664391 664435 Descend to above the target field.
+541 1 664436 664445 Adjust heading.
+541 2 664446 665163 Perform a mapping mission over the target field.
+541 3 665164 665207 Ascend back to the original altitude.
+542 0 665208 665250 Descend to above the target field.
+542 1 665251 665272 Adjust heading.
+542 2 665273 665907 Perform a mapping mission over the target field.
+542 3 665908 665949 Ascend back to the original altitude.
+543 0 665950 666007 Descend to above the target field.
+543 1 666008 666032 Adjust heading.
+543 2 666033 666750 Perform a mapping mission over the target field.
+543 3 666751 666807 Ascend back to the original altitude.
+544 0 666808 666857 Descend to above the target field.
+544 1 666858 666888 Adjust heading.
+544 2 666889 667606 Perform a mapping mission over the target field.
+544 3 667607 667655 Ascend back to the original altitude.
+545 0 667656 667714 Descend to above the target field.
+545 1 667715 667732 Adjust heading.
+545 2 667733 668454 Perform a mapping mission over the target field.
+545 3 668455 668512 Ascend back to the original altitude.
+546 0 668513 668564 Descend to above the target field.
+546 1 668565 668572 Adjust heading.
+546 2 668573 669207 Perform a mapping mission over the target field.
+546 3 669208 669258 Ascend back to the original altitude.
+547 0 669259 669313 Descend to above the target field.
+547 1 669314 669328 Adjust heading.
+547 2 669329 670046 Perform a mapping mission over the target field.
+547 3 670047 670100 Ascend back to the original altitude.
+548 0 670101 670151 Descend to above the target field.
+548 1 670152 670184 Adjust heading.
+548 2 670185 670819 Perform a mapping mission over the target field.
+548 3 670820 670869 Ascend back to the original altitude.
+549 0 670870 670918 Descend to above the target field.
+549 1 670919 670938 Adjust heading.
+549 2 670939 671656 Perform a mapping mission over the target field.
+549 3 671657 671704 Ascend back to the original altitude.
+550 0 671705 671760 Descend to above the target field.
+550 1 671761 671761 Adjust heading.
+550 2 671762 672482 Perform a mapping mission over the target field.
+550 3 672483 672537 Ascend back to the original altitude.
+551 0 672538 672591 Descend to above the target field.
+551 1 672592 672620 Adjust heading.
+551 2 672621 673341 Perform a mapping mission over the target field.
+551 3 673342 673394 Ascend back to the original altitude.
+552 0 673395 673450 Descend to above the target field.
+552 1 673451 673474 Adjust heading.
+552 2 673475 674196 Perform a mapping mission over the target field.
+552 3 674197 674251 Ascend back to the original altitude.
+553 0 674252 674305 Descend to above the target field.
+553 1 674306 674324 Adjust heading.
+553 2 674325 675042 Perform a mapping mission over the target field.
+553 3 675043 675095 Ascend back to the original altitude.
+554 0 675096 675146 Descend to above the target field.
+554 1 675147 675156 Adjust heading.
+554 2 675157 675878 Perform a mapping mission over the target field.
+554 3 675879 675928 Ascend back to the original altitude.
+555 0 675929 675986 Descend to above the target field.
+555 1 675987 675992 Adjust heading.
+555 2 675993 676713 Perform a mapping mission over the target field.
+555 3 676714 676770 Ascend back to the original altitude.
+556 0 676771 676812 Descend to above the target field.
+556 1 676813 676836 Adjust heading.
+556 2 676837 677558 Perform a mapping mission over the target field.
+556 3 677559 677599 Ascend back to the original altitude.
+557 0 677600 677641 Descend to above the target field.
+557 1 677642 677642 Adjust heading.
+557 2 677643 678364 Perform a mapping mission over the target field.
+557 3 678365 678405 Ascend back to the original altitude.
+558 0 678406 678466 Descend to above the target field.
+558 1 678467 678468 Adjust heading.
+558 2 678469 679186 Perform a mapping mission over the target field.
+558 3 679187 679246 Ascend back to the original altitude.
+559 0 679247 679304 Descend to above the target field.
+559 1 679305 679311 Adjust heading.
+559 2 679312 680029 Perform a mapping mission over the target field.
+559 3 680030 680086 Ascend back to the original altitude.
+560 0 680087 680139 Descend to above the target field.
+560 1 680140 680164 Adjust heading.
+560 2 680165 680882 Perform a mapping mission over the target field.
+560 3 680883 680934 Ascend back to the original altitude.
+561 0 680935 680977 Descend to above the target field.
+561 1 680978 680979 Adjust heading.
+561 2 680980 681614 Perform a mapping mission over the target field.
+561 3 681615 681656 Ascend back to the original altitude.
+562 0 681657 681708 Descend to above the target field.
+562 1 681709 681740 Adjust heading.
+562 2 681741 682375 Perform a mapping mission over the target field.
+562 3 682376 682426 Ascend back to the original altitude.
+563 0 682427 682482 Descend to above the target field.
+563 1 682483 682510 Adjust heading.
+563 2 682511 683145 Perform a mapping mission over the target field.
+563 3 683146 683200 Ascend back to the original altitude.
+564 0 683201 683251 Descend to above the target field.
+564 1 683252 683256 Adjust heading.
+564 2 683257 683977 Perform a mapping mission over the target field.
+564 3 683978 684027 Ascend back to the original altitude.
+565 0 684028 684073 Descend to above the target field.
+565 1 684074 684079 Adjust heading.
+565 2 684080 684714 Perform a mapping mission over the target field.
+565 3 684715 684759 Ascend back to the original altitude.
+566 0 684760 684805 Descend to above the target field.
+566 1 684806 684833 Adjust heading.
+566 2 684834 685554 Perform a mapping mission over the target field.
+566 3 685555 685599 Ascend back to the original altitude.
+567 0 685600 685646 Descend to above the target field.
+567 1 685647 685676 Adjust heading.
+567 2 685677 686311 Perform a mapping mission over the target field.
+567 3 686312 686357 Ascend back to the original altitude.
+568 0 686358 686400 Descend to above the target field.
+568 1 686401 686406 Adjust heading.
+568 2 686407 687128 Perform a mapping mission over the target field.
+568 3 687129 687170 Ascend back to the original altitude.
+569 0 687171 687213 Descend to above the target field.
+569 1 687214 687215 Adjust heading.
+569 2 687216 687933 Perform a mapping mission over the target field.
+569 3 687934 687975 Ascend back to the original altitude.
+570 0 687976 688023 Descend to above the target field.
+570 1 688024 688046 Adjust heading.
+570 2 688047 688545 Perform a mapping mission over the target field.
+570 3 688546 688592 Ascend back to the original altitude.
+571 0 688593 688650 Descend to above the target field.
+571 1 688651 688672 Adjust heading.
+571 2 688673 689477 Perform a mapping mission over the target field.
+571 3 689478 689534 Ascend back to the original altitude.
+572 0 689535 689578 Descend to above the target field.
+572 1 689579 689604 Adjust heading.
+572 2 689605 690103 Perform a mapping mission over the target field.
+572 3 690104 690146 Ascend back to the original altitude.
+573 0 690147 690190 Descend to above the target field.
+573 1 690191 690215 Adjust heading.
+573 2 690216 690714 Perform a mapping mission over the target field.
+573 3 690715 690757 Ascend back to the original altitude.
+574 0 690758 690804 Descend to above the target field.
+574 1 690805 690830 Adjust heading.
+574 2 690831 691480 Perform a mapping mission over the target field.
+574 3 691481 691526 Ascend back to the original altitude.
+575 0 691527 691576 Descend to above the target field.
+575 1 691577 691611 Adjust heading.
+575 2 691612 692110 Perform a mapping mission over the target field.
+575 3 692111 692159 Ascend back to the original altitude.
+576 0 692160 692213 Descend to above the target field.
+576 1 692214 692238 Adjust heading.
+576 2 692239 692737 Perform a mapping mission over the target field.
+576 3 692738 692790 Ascend back to the original altitude.
+577 0 692791 692834 Descend to above the target field.
+577 1 692835 692851 Adjust heading.
+577 2 692852 693605 Perform a mapping mission over the target field.
+577 3 693606 693648 Ascend back to the original altitude.
+578 0 693649 693697 Descend to above the target field.
+578 1 693698 693711 Adjust heading.
+578 2 693712 694210 Perform a mapping mission over the target field.
+578 3 694211 694258 Ascend back to the original altitude.
+579 0 694259 694310 Descend to above the target field.
+579 1 694311 694340 Adjust heading.
+579 2 694341 694839 Perform a mapping mission over the target field.
+579 3 694840 694890 Ascend back to the original altitude.
+580 0 694891 694938 Descend to above the target field.
+580 1 694939 694949 Adjust heading.
+580 2 694950 695703 Perform a mapping mission over the target field.
+580 3 695704 695750 Ascend back to the original altitude.
+581 0 695751 695807 Descend to above the target field.
+581 1 695808 695837 Adjust heading.
+581 2 695838 696336 Perform a mapping mission over the target field.
+581 3 696337 696392 Ascend back to the original altitude.
+582 0 696393 696449 Descend to above the target field.
+582 1 696450 696450 Adjust heading.
+582 2 696451 697204 Perform a mapping mission over the target field.
+582 3 697205 697260 Ascend back to the original altitude.
+583 0 697261 697314 Descend to above the target field.
+583 1 697315 697325 Adjust heading.
+583 2 697326 698130 Perform a mapping mission over the target field.
+583 3 698131 698183 Ascend back to the original altitude.
+584 0 698184 698233 Descend to above the target field.
+584 1 698234 698248 Adjust heading.
+584 2 698249 699053 Perform a mapping mission over the target field.
+584 3 699054 699102 Ascend back to the original altitude.
+585 0 699103 699150 Descend to above the target field.
+585 1 699151 699184 Adjust heading.
+585 2 699185 699834 Perform a mapping mission over the target field.
+585 3 699835 699881 Ascend back to the original altitude.
+586 0 699882 699939 Descend to above the target field.
+586 1 699940 699961 Adjust heading.
+586 2 699962 700460 Perform a mapping mission over the target field.
+586 3 700461 700517 Ascend back to the original altitude.
+587 0 700518 700578 Descend to above the target field.
+587 1 700579 700611 Adjust heading.
+587 2 700612 701110 Perform a mapping mission over the target field.
+587 3 701111 701170 Ascend back to the original altitude.
+588 0 701171 701230 Descend to above the target field.
+588 1 701231 701248 Adjust heading.
+588 2 701249 701747 Perform a mapping mission over the target field.
+588 3 701748 701806 Ascend back to the original altitude.
+589 0 701807 701849 Descend to above the target field.
+589 1 701850 701873 Adjust heading.
+589 2 701874 702678 Perform a mapping mission over the target field.
+589 3 702679 702720 Ascend back to the original altitude.
+590 0 702721 702781 Descend to above the target field.
+590 1 702782 702816 Adjust heading.
+590 2 702817 703621 Perform a mapping mission over the target field.
+590 3 703622 703681 Ascend back to the original altitude.
+591 0 703682 703740 Descend to above the target field.
+591 1 703741 703762 Adjust heading.
+591 2 703763 704567 Perform a mapping mission over the target field.
+591 3 704568 704625 Ascend back to the original altitude.
+592 0 704626 704674 Descend to above the target field.
+592 1 704675 704708 Adjust heading.
+592 2 704709 705207 Perform a mapping mission over the target field.
+592 3 705208 705255 Ascend back to the original altitude.
+593 0 705256 705300 Descend to above the target field.
+593 1 705301 705333 Adjust heading.
+593 2 705334 706138 Perform a mapping mission over the target field.
+593 3 706139 706182 Ascend back to the original altitude.
+594 0 706183 706228 Descend to above the target field.
+594 1 706229 706252 Adjust heading.
+594 2 706253 706751 Perform a mapping mission over the target field.
+594 3 706752 706796 Ascend back to the original altitude.
+595 0 706797 706851 Descend to above the target field.
+595 1 706852 706868 Adjust heading.
+595 2 706869 707367 Perform a mapping mission over the target field.
+595 3 707368 707421 Ascend back to the original altitude.
+596 0 707422 707477 Descend to above the target field.
+596 1 707478 707509 Adjust heading.
+596 2 707510 708159 Perform a mapping mission over the target field.
+596 3 708160 708214 Ascend back to the original altitude.
+597 0 708215 708273 Descend to above the target field.
+597 1 708274 708277 Adjust heading.
+597 2 708278 708927 Perform a mapping mission over the target field.
+597 3 708928 708985 Ascend back to the original altitude.
+598 0 708986 709033 Descend to above the target field.
+598 1 709034 709034 Adjust heading.
+598 2 709035 709533 Perform a mapping mission over the target field.
+598 3 709534 709580 Ascend back to the original altitude.
+599 0 709581 709624 Descend to above the target field.
+599 1 709625 709643 Adjust heading.
+599 2 709644 710142 Perform a mapping mission over the target field.
+599 3 710143 710185 Ascend back to the original altitude.
