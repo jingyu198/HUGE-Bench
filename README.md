@@ -56,7 +56,7 @@ see the [reproduction guide](docs/reproduction.md).
 
 Please refer to the paper for the detailed task definitions.
 
-## Training with PI0
+## Training with PI
 
 Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0) and [HUGE_PI05](https://huggingface.co/yu781986168/HUGE_PI05). You can also train PI0 using your own data:
 
