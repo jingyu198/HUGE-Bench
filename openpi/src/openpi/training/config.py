@@ -659,6 +659,29 @@ _CONFIGS = [
 
 
     TrainConfig(
+        name="pi05_overall",
+        model=pi0_config.Pi0Config(
+            pi05=True,
+            action_horizon=20,
+            discrete_state_input=False,
+        ),
+        data=MyDroneDataConfig(
+            repo_id="task_overall/train",
+            base_config=DataConfig(prompt_from_task=True),
+            extra_delta_transform=False,
+        ),
+        # This is the OpenPI Pi0.5 base model, not the released fine-tuned model.
+        weight_loader=weight_loaders.CheckpointWeightLoader(
+            "/path/to/pi05_base/params"
+        ),
+        num_train_steps=25000,
+        batch_size=512,  # 64 per GPU on 8 GPUs.
+        save_interval=5000,
+        fsdp_devices=8,
+    ),
+
+
+    TrainConfig(
             name="pi0_0",
 
         model=pi0_config.Pi0Config(

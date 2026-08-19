@@ -165,7 +165,7 @@ The script reports average TCR, nDTW, NSP, CR, and CSPL. If `--mesh_root` is
 omitted, it still reports trajectory metrics but leaves collision-based metrics
 as `nan`.
 
-## 5. Training PI0
+## 5. Training PI0 and PI0.5
 
 Use the OpenPI checkout with the released config file copied into
 `src/openpi/training/config.py`.
@@ -177,17 +177,31 @@ Before training, check three local paths in the config:
 - `assets_base_dir` and `checkpoint_base_dir`, if you want them outside the
   OpenPI checkout.
 
-Then compute dataset normalization statistics:
+Then compute dataset normalization statistics. Use the exact config name you
+intend to train:
 
 ```bash
 cd /path/to/openpi
-uv run scripts/compute_norm_stats.py --config-name pi0_drone
+uv run scripts/compute_norm_stats.py --config-name pi05_overall
 ```
 
-This writes the normalization assets consumed by the PI0 data config. Replace
-`pi0_drone` with the exact config name you train if you use `pi0_overall` or a
-task-specific config. After that step, train with the same config name using the
-official OpenPI training command.
+This writes the normalization assets consumed by the selected data config.
+For the Pi0.5 overall reference setup, use `repo_id="task_overall/train"`,
+`pi05=True`, `action_horizon=20`, `discrete_state_input=False`, 25,000 steps,
+global batch size 512, and 8 FSDP devices. Use the official Pi0.5 base
+checkpoint's `params` directory with `CheckpointWeightLoader`; leave
+`pytorch_weight_path` unset. The complete example is in
+[`pi05_training.md`](pi05_training.md).
+
+After computing the statistics, train with the same config name using the
+official OpenPI training command:
+
+```bash
+uv run scripts/train.py pi05_overall \
+  --exp-name task_overall \
+  --overwrite \
+  --num-workers 8
+```
 
 ## 6. Generating New Trajectories
 

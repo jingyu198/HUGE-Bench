@@ -56,9 +56,11 @@ see the [reproduction guide](docs/reproduction.md).
 
 Please refer to the paper for the detailed task definitions.
 
-## Training with PI
+## Training with PI0 and PI0.5
 
-Our checkpoint is at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0) (and [HUGE_PI05](https://huggingface.co/yu781986168/HUGE_PI05)). You can also train PI0 using your own data:
+Our checkpoints are available at [HUGE_PI0](https://huggingface.co/yu781986168/HUGE_PI0)
+and [HUGE_PI05](https://huggingface.co/yu781986168/HUGE_PI05). You can also
+fine-tune PI0 or PI0.5 using your own data:
 
 Please set up the training environment by following the official [OpenPI repository](https://github.com/Physical-Intelligence/openpi). Then you can train on `HUGE_Trajectory`, and the dataset already follows the LeRobot format expected by the pipeline.
 
@@ -67,10 +69,17 @@ Please set up the training environment by following the official [OpenPI reposit
 2. Replace `openpi/src/openpi/training/config.py` with the `config.py` provided in this repository.
    It defines the fine-tuning hyperparameters, data config, and weight loader for UAV training.
 3. Update the config paths for your local setup.
-   Set the LeRobot `repo_id` to the dataset you are training on, such as `task_overall/train` or `task_obstacle/train`, and replace `/path/to/pi0_base/params` with the PI0 base checkpoint `params` directory.
+   Set the LeRobot `repo_id` to the dataset you are training on, such as `task_overall/train` or `task_obstacle/train`, and replace the corresponding base-checkpoint path with the PI0 or PI0.5 base checkpoint `params` directory.
 4. Do not forget to compute the dataset normalization statistics before training:
    `uv run scripts/compute_norm_stats.py --config-name pi0_drone`.
-   This calculates the normalization statistics for the selected LeRobot dataset and writes the assets consumed by the training config. Replace `pi0_drone` with the exact config name you train if you use `pi0_overall` or a task-specific config.
+   This calculates the normalization statistics for the selected LeRobot dataset and writes the assets consumed by the training config. Replace `pi0_drone` with the exact config name you train, such as `pi0_overall` or `pi05_overall`.
+
+For the exact reference Pi0.5 overall training setup, including the required
+data mapping, normalization path, checkpoint format, and training command, see
+the [Pi0.5 training guide](docs/pi05_training.md). In particular, use the
+HUGE-Bench `MyDroneDataConfig` and `drone_policy.py`, leave
+`pytorch_weight_path` unset when loading an OpenPI `params` checkpoint, and do
+not invent a custom normalization asset id.
 
 
 
