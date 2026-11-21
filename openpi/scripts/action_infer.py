@@ -52,6 +52,25 @@ def normalize_task_token(task_id: str) -> str:
     return token
 
 
+def load_episode_task_ids(dataset_root: Path) -> Dict[int, str]:
+    path = dataset_root / "meta" / "episodes.jsonl"
+    task_ids = {}
+    with path.open(encoding="utf-8") as stream:
+        for line in stream:
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            ep = int(row["episode_index"])
+            task_id = row.get("task_id")
+            token = normalize_task_token(str(task_id)) if task_id is not None else ""
+            if not token or token == "overall":
+                raise ValueError(f"{path}: missing source task_id for episode {ep}")
+            if ep in task_ids:
+                raise ValueError(f"{path}: duplicate episode_index {ep}")
+            task_ids[ep] = token
+    return task_ids
+
+
 def wrap_rad(a: float) -> float:
     return (a + np.pi) % (2 * np.pi) - np.pi
 
@@ -851,7 +870,10 @@ def main():
     print(f"config_name: {args.config_name}")
     print(f"checkpoint_dir: {args.checkpoint_dir}")
     print(f"splits_to_run: {','.join(splits_to_run)}")
-    print(f"angle_mode: {'phi(rad)' if is_obstacle_task(args.task_id) else 'kappa/yaw(rad)'}")
+    if task_token == "overall":
+        print("angle_mode: determined by each episode's source task_id")
+    else:
+        print(f"angle_mode: {'phi(rad)' if is_obstacle_task(args.task_id) else 'kappa/yaw(rad)'}")
     print(f"obstacle_angle_mode: {args.obstacle_angle_mode}")
     print("---- ENV ----")
     print(f"HF_ENDPOINT: {os.environ.get('HF_ENDPOINT', '')}")
@@ -894,6 +916,9 @@ def main():
             after_state = get_dataset_cache_state(repo_id)
             load_info = infer_dataset_load_status(before_state, after_state)
             ds_abs = resolve_eval_dataset_abs_path(repo_id, after_state)
+            episode_task_ids = None
+            if task_token == "overall":
+                episode_task_ids = load_episode_task_ids(Path(getattr(meta, "root", None) or ds_abs))
 
             print("---------- DATASET LOAD (AFTER) -----------")
             print(f"split: {split}")
@@ -926,6 +951,7 @@ def main():
 
             for ep in selected_eps:
                 info = ep_info[ep]
+                episode_task_id = args.task_id if episode_task_ids is None else episode_task_ids[ep]
                 env_id = info["env_id"]
                 prompt = info["prompt"]
                 prompt_src = info["prompt_src"]
@@ -969,10 +995,10 @@ def main():
                 t = 0
                 render_st = convert_state_for_render(
                     state_xyza=st_w,
-                    task_id=args.task_id,
+                    task_id=episode_task_id,
                     obstacle_angle_mode=args.obstacle_angle_mode,
                 )
-                rc.render(t=t, state_xyzk=render_st, out_path=tmp_png_pred, env_id=env_id, task_id=args.task_id)
+                rc.render(t=t, state_xyzk=render_st, out_path=tmp_png_pred, env_id=env_id, task_id=episode_task_id)
                 rgb_pred = np.array(Image.open(tmp_png_pred).convert("RGB"))
                 try:
                     os.remove(tmp_png_pred)
@@ -994,9 +1020,9 @@ def main():
                     f.write(f"prompt_src: {prompt_src}\n")
                     f.write(f"used_default: {used_default}\n")
                     f.write(f"first_image_src: {first_src}\n")
-                    f.write(f"task_id: {args.task_id}\n")
-                    f.write(f"task_token: {task_token}\n")
-                    f.write(f"angle_mode: {'phi(rad)' if is_obstacle_task(args.task_id) else 'kappa/yaw(rad)'}\n")
+                    f.write(f"task_id: {episode_task_id}\n")
+                    f.write(f"task_token: {normalize_task_token(episode_task_id)}\n")
+                    f.write(f"angle_mode: {'phi(rad)' if is_obstacle_task(episode_task_id) else 'kappa/yaw(rad)'}\n")
                     f.write(f"obstacle_angle_mode: {args.obstacle_angle_mode}\n")
                     f.write(f"split: {split}\n")
                     f.write(f"repo_id: {repo_id}\n")
@@ -1056,7 +1082,7 @@ def main():
 
                         render_st = convert_state_for_render(
                             state_xyza=st_w,
-                            task_id=args.task_id,
+                            task_id=episode_task_id,
                             obstacle_angle_mode=args.obstacle_angle_mode,
                         )
                         rc.render(
@@ -1064,7 +1090,7 @@ def main():
                             state_xyzk=render_st,
                             out_path=tmp_png_pred,
                             env_id=env_id,
-                            task_id=args.task_id,
+                            task_id=episode_task_id,
                         )
                         rgb_pred = np.array(Image.open(tmp_png_pred).convert("RGB"))
                         try:
@@ -1095,7 +1121,7 @@ def main():
                     rc=rc,
                     states_T4=gt_al,
                     env_id=env_id,
-                    task_id=args.task_id,
+                    task_id=episode_task_id,
                     tmp_png_path=tmp_png_gt,
                     obstacle_angle_mode=args.obstacle_angle_mode,
                 )

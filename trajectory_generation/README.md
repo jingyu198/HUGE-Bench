@@ -137,10 +137,9 @@ Each line uses:
 env_id traj_id pose_start pose_end instruction text...
 ```
 
-These files should be built from each environment's `instruction.txt` and
-`wash_res.txt`, using the train / seen / unseen protocol for the release.
-
-For a deterministic split helper:
+For evaluation on `HUGE_Dataset_v0`, use the [released episode lists](stage_annotations/episode_mapping/).
+For newly generated data, the helper below creates a deterministic split from each environment's
+`instruction.txt` and `wash_res.txt`, holding out the specified environments.
 
 ```bash
 python trajectory_generation/scripts/convert/build_instruction_splits.py \

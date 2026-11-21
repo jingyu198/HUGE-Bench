@@ -155,15 +155,42 @@ Evaluate saved rollouts from this repository:
 cd /path/to/HUGE-Bench
 
 python metric.py \
+  --tasks overall \
   --out_dir "$HUGE_DATA_ROOT/rollout_outputs" \
   --mesh_root "$HUGE_DATA_3D_ROOT" \
   --mesh_rel terra_ply/simplified_mesh.obj \
   --tcr_thresholds 1,2,5
 ```
 
-The script reports average TCR, nDTW, NSP, CR, and CSPL. If `--mesh_root` is
-omitted, it still reports trajectory metrics but leaves collision-based metrics
-as `nan`.
+`--tasks overall` selects the `task_overall/` output layout used above. For results saved in the eight individual task folders, omit this flag. Check that the scorer reports 576 seen and 417 unseen episodes. CR and CSPL require the scene meshes.
+
+### Released v0 splits and reference results
+
+| Split | Episodes in `HUGE_Dataset_v0` |
+| --- | ---: |
+| Train | 5,175 |
+| Test-seen | 576 |
+| Test-unseen | 417 |
+| Total test | 993 |
+
+Use the [released episode lists](../trajectory_generation/stage_annotations/episode_mapping/) for evaluation. The train and seen counts in [arXiv v4, §3.4](https://arxiv.org/html/2603.19822v4#S3.SS4) used a different Landing split (1,888 train and 210 seen, versus 1,733 and 193 in v0). For unseen, the statistics script overwrote the full count with the 294-episode instruction subset.
+
+The 417 unseen episodes have two disjoint sources: 123 target held-out locations and 294 use rewritten instructions. Of the 294, **203 share their full trajectory with a v0 test-seen episode and 80 share it with a v0 training episode**. All 80 training matches are Landing episodes. Each matched pair has different instructions. The remaining 11 have no exact trajectory match in train or test-seen.
+
+The [unseen episode labels](../evaluation/test_unseen_sources.jsonl) use the same `episode_index` as the public test-unseen list. `unseen_source` identifies the subset. `identical_state_sequence_in` gives the matching split and episode ID when every frame of the recorded state sequence matches, or `null` when there is no match.
+
+**Overall aggregation.** Pool the test episodes across all eight tasks and take the arithmetic mean of the finite episode scores for each metric. With 993 valid scores, the overall mean is `(576 × seen_mean + 417 × unseen_mean) / 993`. For Avg. TCR, first average TCR at 1, 2 and 5 meters within each episode. The archived evaluator computes NSP by projecting the predicted endpoint onto the reference path and dividing the distance along that path by its total length. This is the computation used for the progress column labeled NTP in the paper.
+
+**Baseline reference.** The table below gives the archived evaluation results on the 993 test episodes. Use these values for comparisons on v0. Bold entries differ from [arXiv v4, Table 2](https://arxiv.org/html/2603.19822v4#S3.T2) beyond its displayed precision.
+
+| Model | Avg. TCR ↑ | nDTW ↑ | NSP ↑ | CR ↓ | CSPL ↑ |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| OpenVLA | 0.1118 | **0.0004** | 0.1218 | 0.0030 | 0.0321 |
+| MemoryVLA | 0.2344 | 0.0773 | 0.5493 | 0.0715 | 0.2257 |
+| FastVLM | 0.2849 | 0.1363 | 0.6330 | 0.0604 | 0.3913 |
+| π0 | 0.5583 | 0.4432 | 0.6534 | 0.0111 | **0.8046** |
+| π0.5 (RGB) | 0.5814 | 0.4667 | 0.6183 | 0.0181 | 0.8049 |
+| Depth-aware π0.5 | **0.5172** | **0.3993** | 0.6169 | **0.0232** | **0.7522** |
 
 ## 5. Training PI0 and PI0.5
 

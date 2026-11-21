@@ -17,6 +17,8 @@ HUGE-Bench targets high-level UAV vision-language-action tasks, where agents gro
 
 We open-source HUGE-Bench to provide the community with a UAV simulation platform that is easy to configure, high-fidelity, and collision-aware. We hope researchers can build on this benchmark to train and evaluate UAV VLA tasks in a practical and reproducible setting.
 
+**Update (2026-11-22).** Use all **993 test episodes** in `HUGE_Dataset_v0` (576 seen, 417 unseen). The [evaluation guide](docs/reproduction.md#released-v0-splits-and-reference-results) gives the corrected split counts and Table 2 reference scores. [Per-episode unseen labels](evaluation/test_unseen_sources.jsonl) are now available.
+
 ## ToDo
 
 - ✅ Release `HUGE_Trajectory`, including all trajectory data (train and test) and one 3DGS environment (for debug the pipeline).
@@ -137,7 +139,7 @@ python metric.py \
   --tcr_thresholds 1,2,5
 ```
 
-The evaluation script reports the main HUGE-Bench metrics used in the paper: average TCR, nDTW, NSP, CR, and CSPL. If `--mesh_root` is omitted, the script still reports trajectory metrics but leaves collision-based metrics (`CR` and `CSPL`) as `nan`.
+For outputs saved under `task_overall/`, add `--tasks overall`. The scorer reports Avg. TCR, nDTW, endpoint progress (NSP), CR, and CSPL. CR and CSPL require `--mesh_root`. See the [reference results](docs/reproduction.md#released-v0-splits-and-reference-results) for comparison.
 
 
 ## Output Structure
