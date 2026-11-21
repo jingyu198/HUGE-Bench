@@ -28,7 +28,7 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 - ✅ Release multi-stage trajectory annotations and LeRobot episode mappings.
 
 ## Update 
-2026-11-22: ** Use all **993 test episodes** in `HUGE_Dataset_v0` (576 seen, 417 unseen). The [evaluation guide](docs/reproduction.md#released-v0-splits-and-reference-results) gives the corrected split counts and Table 2 reference scores. [Per-episode unseen labels](evaluation/test_unseen_sources.jsonl) are now available.
+2026-11-22: Use all **993 test episodes** in `HUGE_Dataset_v0` (576 seen, 417 unseen). The [evaluation guide](docs/reproduction.md#released-v0-splits-and-reference-results) gives the corrected split counts and Table 2 reference scores. [Per-episode unseen labels](evaluation/test_unseen_sources.jsonl) are now available.
 
 ## Dataset
 
