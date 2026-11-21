@@ -17,7 +17,6 @@ HUGE-Bench targets high-level UAV vision-language-action tasks, where agents gro
 
 We open-source HUGE-Bench to provide the community with a UAV simulation platform that is easy to configure, high-fidelity, and collision-aware. We hope researchers can build on this benchmark to train and evaluate UAV VLA tasks in a practical and reproducible setting.
 
-**Update (2026-11-22).** Use all **993 test episodes** in `HUGE_Dataset_v0` (576 seen, 417 unseen). The [evaluation guide](docs/reproduction.md#released-v0-splits-and-reference-results) gives the corrected split counts and Table 2 reference scores. [Per-episode unseen labels](evaluation/test_unseen_sources.jsonl) are now available.
 
 ## ToDo
 
@@ -27,6 +26,9 @@ We open-source HUGE-Bench to provide the community with a UAV simulation platfor
 - ✅ Release trajectory collection scripts, including RGB, depth, subtask, and instruction generation.
 - ✅ Release the 3DGS-Mesh construction pipeline
 - ✅ Release multi-stage trajectory annotations and LeRobot episode mappings.
+
+## Update 
+2026-11-22: ** Use all **993 test episodes** in `HUGE_Dataset_v0` (576 seen, 417 unseen). The [evaluation guide](docs/reproduction.md#released-v0-splits-and-reference-results) gives the corrected split counts and Table 2 reference scores. [Per-episode unseen labels](evaluation/test_unseen_sources.jsonl) are now available.
 
 ## Dataset
 
